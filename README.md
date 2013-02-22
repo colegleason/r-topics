@@ -26,3 +26,10 @@ determined by using clustering algorithms on all text components of a post,
 the title and comments. The importance of a topic will be determined by the
 quantity of upvotes and downvotes, comments, and posts corresponding to
 the specific topic.
+
+#How to use:#
+
+Start a server using:
+    python -m SimpleHTTPServer 8888
+
+then open your browser and head to [http://localhost:8888/index.html](http://localhost:8888/index.html)
