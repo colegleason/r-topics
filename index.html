@@ -2,23 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>D3 Test</title>
+        <title>Reddit Topics</title>
+		<link href="rtopics.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" src="d3/d3.js"></script>
         <script type="text/javascript" src="d3-cloud/d3.layout.cloud.js"></script>
-        <script type="text/javascript" src="rtopics.js"></script>
+		<script type="text/javascript" src="rtopics.js"></script>
     </head>
     <body>
-        <script type="text/javascript">
-		  d3.layout.cloud().size([300, 300])
-		  .words([
-		  "Hello", "world", "normally", "you", "want", "more", "words",
-		  "than", "this"].map(function(d) {
-		  return {text: d, size: 10 + Math.random() * 90};
-		  }))
-		  .font("Impact")
-		  .fontSize(function(d) { return d.size; })
-		  .on("end", draw)
-		  .start();
-          </script>
+      <script type="text/javascript">
+		  make_cloud(["this", "is", "only", "a", "test"])
+        </script>
     </body>
 </html> 

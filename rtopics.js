@@ -1,11 +1,26 @@
 var fill = d3.scale.category20();
 
+var width = 800;
+var height = 600;
+
+function make_cloud(words) {
+	d3.layout.cloud().size([width, height])
+		.words(words.map(function(d) {
+			return {text: d, size: 10 + Math.random() * 90};
+		}))
+		.font("Impact")
+		.fontSize(function(d) { return d.size; })
+		.on("end", draw)
+		.start();
+}
+
 function draw(words) {
     d3.select("body").append("svg")
-        .attr("width", 300)
-        .attr("height", 300)
+        .attr("width", width)
+        .attr("height", height)
+		.attr("class", "cloud")
 		.append("g")
-        .attr("transform", "translate(150,150)")
+        .attr("transform", "translate("+width/2+","+height/2+")")
 		.selectAll("text")
         .data(words)
 		.enter().append("text")
@@ -14,7 +29,7 @@ function draw(words) {
         .style("fill", function(d, i) { return fill(i); })
         .attr("text-anchor", "middle")
         .attr("transform", function(d) {
-				return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-			})
+			return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+		})
         .text(function(d) { return d.text; });
 }
