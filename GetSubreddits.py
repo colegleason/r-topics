@@ -1,5 +1,7 @@
 import sys, os
-sys.path.append(os.getcwd() + '/reddiwrap')
+
+sys.path.append(os.path.abspath('reddiwrap'))
+
 from ReddiWrap import ReddiWrap
 from yaml import dump
 import time
@@ -7,7 +9,7 @@ import time
 reddit = ReddiWrap()
 
 USERNAME = 'r_topics'
-PASSWORD = ''
+PASSWORD = 'socialviz'
 SUB = 'topics'
 
 reddit.load_cookies('cookies.txt')
