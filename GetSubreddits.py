@@ -44,6 +44,7 @@ for a in range(1, len(sys.argv)):
 
 	#Get data for each post
 	for i in range(len(posts)):
+		print('Getting post %d of %d' % (i, len(posts)))
 		#XML
 		dn = ET.SubElement(srn, 'document')
 		p = posts[i]
