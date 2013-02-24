@@ -14,10 +14,12 @@ function make_stream(jsonpath) {
 
 }
 
-function make_cloud(words) {
+function make_cloud(jsonpath) {
 	d3.layout.cloud().size([width, height])
-		.words(words.map(function(d) {
-			return {text: d, size: 10 + Math.random() * 90};
+		.words(d3.json(jsonpath, function(json) {
+			json.phrases.map(function(d) {
+				return {text: d, size: 10 + Math.random() * 90};
+			})
 		}))
 		.font("Impact")
 		.fontSize(function(d) { return d.size; })
