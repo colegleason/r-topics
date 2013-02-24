@@ -29,7 +29,13 @@ the specific topic.
 
 #How to use:#
 
+Check out the submodules:
+
+    git submodule init
+    git submodule update
+
 Start a server using:
+
     python -m SimpleHTTPServer 8888
 
-then open your browser and head to [http://localhost:8888/index.html](http://localhost:8888/index.html)
+Then open your browser and head to [http://localhost:8888/index.html](http://localhost:8888/index.html)
