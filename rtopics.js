@@ -76,38 +76,22 @@ function make_cloud(jsonpath) {
 	d3.json(jsonpath,function(json) {
 		json.clusters.forEach(function(cluster) {
 			cluster.phrases.forEach(function(phrase) {
-				//console.log(phrase)
 				index +=1;
-				//console.log(index);
 				initPhrases[index] = phrase;
-				//console.log(initPhrases[index]);
 			})
 		})
+		d3.layout.cloud().size([width, height])
+			.words(initPhrases.map(function(d) {
+				return {text: d, size: 10 + Math.random() * 90};
+			}))
+			.font("Impact")
+			.fontSize(function(d) { return d.size; })
+			.on("end", draw)
+			.start();
+		console.log(initPhrases);
 	})
 
-	d3.layout.cloud().size([width, height])
-		.words(initPhrases.map(function(d) {
-			return {text: d, size: 10 + Math.random() * 90};
-		}))
-		.font("Impact")
-		.fontSize(function(d) { return d.size; })
-		.on("end", draw)
-		.start();
-	//console.log(initPhrases);
 }
-	//return initPhrases
-
-/*	d3.layout.cloud().size([width, height])
-		.words(d3.json(jsonpath, function(json) {
-			initPhrases.map(function(d) {
-				return {text: d, size: 10 + Math.random() * 90};
-			})
-		}))
-		.font("Impact")
-		.fontSize(function(d) { return d.size; })
-		.on("end", draw)
-		.start();
-}*/
 
 function draw(words) {
     d3.select("body").append("svg")
