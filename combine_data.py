@@ -11,8 +11,8 @@ def get_popularity(day, documents, reddit_info):
     popularity_for_day = 0
     for doc in documents:
         post = reddit_info[str(doc)]
-        if day.fromtimestamp(post["timestamp"]) == day:
-            popularity_for_day += post["num_votes"] + post['num_comments']
+        if day.fromtimestamp(post["created"]) == day:
+            popularity_for_day += post["upvotes"] + post["downvotes"] + post['num_comments']
     return popularity_for_day
 
 if __name__ == "__main__":
@@ -30,11 +30,11 @@ if __name__ == "__main__":
     with open(reddit_file, "r") as f:
         reddit_info = json.loads(f.read())
 
-    earliest_post = min(reddit_info.iteritems(), key=lambda x: x[1]["timestamp"])
-    latest_post = max(reddit_info.iteritems(), key=lambda x: x[1]["timestamp"])
+    earliest_post = min(reddit_info.iteritems(), key=lambda x: x[1]["created"])
+    latest_post = max(reddit_info.iteritems(), key=lambda x: x[1]["created"])
     
-    start_date = date.fromtimestamp(earliest_post[1]["timestamp"])
-    end_date = date.fromtimestamp(latest_post[1]["timestamp"]) + timedelta(days=1)
+    start_date = date.fromtimestamp(earliest_post[1]["created"])
+    end_date = date.fromtimestamp(latest_post[1]["created"]) + timedelta(days=1)
     combined_data = []
 
     for cluster in cluster_info:
