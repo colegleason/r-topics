@@ -82,7 +82,7 @@ function make_cloud(jsonpath) {
 		})
 		d3.layout.cloud().size([width, height])
 			.words(initPhrases.map(function(d) {
-				return {text: d, size: 10 + Math.random() * 90};
+				return {text: d, size: 20};
 			}))
 			.font("Impact")
 			.fontSize(function(d) { return d.size; })
