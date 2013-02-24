@@ -38,9 +38,12 @@ if __name__ == "__main__":
     combined_data = []
 
     for cluster in cluster_info:
-        values = {}
+        values = []
         for day in daterange(start_date, end_date):
-            values[day.strftime("%s")] = get_popularity(day, cluster["documents"], reddit_info)
+            day_values = {}
+            day_values["x"] = int(day.strftime("%s"))
+            day_values["y"] = get_popularity(day, cluster["documents"], reddit_info)
+            values.append(day_values)
         cluster["values"] = values
         combined_data.append(cluster)
 
