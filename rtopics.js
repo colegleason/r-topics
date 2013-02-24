@@ -8,45 +8,48 @@ function make_stream(jsonpath) {
 		.offset("wiggle")
 		.values(function(d) {return d.values;});
 
+	d3.json(jsonpath, function(json) {
+		var layers = [];
+		console.log(layers);
+
+		d3.layout.stack(layers);
+
+		var x = d3.scale.linear()
+			.domain([d3.min(layers, function(layer) { return d3.min(layer, function(d) { return d.x;}) }), 
+					 d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.x;}) })
+					])
+			.range([0, width]);
 	
-	var layers = stack(d3.json(jsonpath, function(json) {
-		json.topics.map(function(d) {
-			return d;
-		})
+		var y = d3.scale.linear()
+			.domain([0, d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
+			.range([height, 0]);
+		
+		var color = d3.scale.linear()
+			.range(["#aad", "#556"]);
+		
+		var area = d3.svg.area()
+			.x(function(d) { return x(d.x); })
+			.y0(function(d) { return y(d.y0); })
+			.y1(function(d) { return y(d.y0 + d.y); });
+		
+		var svg = d3.select("body").append("svg")
+			.attr("width", width)
+			.attr("height", height);
+		
+		svg.selectAll("path")
+			.data(layers)
+			.enter().append("path")
+			.attr("d", area)
+			.style("fill", function() { return color(Math.random()); });
+		
 	})
-					  )
-
-	var x = d3.scale.linear()
-		.domain([0, days])
-		.range([0, width]);
 	
-	var y = d3.scale.linear()
-		.domain([0, d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
-		.range([height, 0]);
-	
-	var color = d3.scale.linear()
-		.range(["#aad", "#556"]);
-
-	var area = d3.svg.area()
-		.x(function(d) { return x(d.x); })
-		.y0(function(d) { return y(d.y0); })
-		.y1(function(d) { return y(d.y0 + d.y); });
-	
-	var svg = d3.select("body").append("svg")
-		.attr("width", width)
-		.attr("height", height);
-	
-	svg.selectAll("path")
-		.data(layers)
-		.enter().append("path")
-		.attr("d", area)
-		.style("fill", function() { return color(Math.random()); });
 	
 }
 
 function make_cloud(words) {
 	d3.layout.cloud().size([width, height])
-		.words(words.map(function(d) {
+		.words(words.forEach(function(d) {
 			return {text: d, size: 10 + Math.random() * 90};
 		}))
 		.font("Impact")
