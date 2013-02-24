@@ -4,14 +4,44 @@ var width = 800;
 var height = 600;
 
 function make_stream(jsonpath) {
-	d3.json(jsonpath, function(json) {
-		json.clusters.forEach(function(d) {
+	var stack = d3.layout.stack()
+		.offset("wiggle")
+		.values(function(d) {return d.values;});
 
-			console.log(d);
-
+	
+	var layers = stack(d3.json(jsonpath, function(json) {
+		json.topics.map(function(d) {
+			return d;
 		})
 	})
+					  )
 
+	var x = d3.scale.linear()
+		.domain([0, days])
+		.range([0, width]);
+	
+	var y = d3.scale.linear()
+		.domain([0, d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
+		.range([height, 0]);
+	
+	var color = d3.scale.linear()
+		.range(["#aad", "#556"]);
+
+	var area = d3.svg.area()
+		.x(function(d) { return x(d.x); })
+		.y0(function(d) { return y(d.y0); })
+		.y1(function(d) { return y(d.y0 + d.y); });
+	
+	var svg = d3.select("body").append("svg")
+		.attr("width", width)
+		.attr("height", height);
+	
+	svg.selectAll("path")
+		.data(layers)
+		.enter().append("path")
+		.attr("d", area)
+		.style("fill", function() { return color(Math.random()); });
+	
 }
 
 function make_cloud(jsonpath) {
