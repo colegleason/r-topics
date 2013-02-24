@@ -1,0 +1,521 @@
+<searchresult>
+   <query>seattle</query>
+   <group id="0" size="23" score="42.884137906028606">
+      <title>
+         <phrase>Seattle News</phrase>
+      </title>
+      <document refid="2"/>
+      <document refid="3"/>
+      <document refid="6"/>
+      <document refid="16"/>
+      <document refid="20"/>
+      <document refid="22"/>
+      <document refid="26"/>
+      <document refid="34"/>
+      <document refid="37"/>
+      <document refid="40"/>
+      <document refid="64"/>
+      <document refid="72"/>
+      <document refid="78"/>
+      <document refid="94"/>
+      <document refid="108"/>
+      <document refid="111"/>
+      <document refid="140"/>
+      <document refid="144"/>
+      <document refid="152"/>
+      <document refid="154"/>
+      <document refid="162"/>
+      <document refid="164"/>
+      <document refid="199"/>
+   </group>
+   <group id="1" size="18" score="68.4124970663091">
+      <title>
+         <phrase>Seattle Area</phrase>
+      </title>
+      <document refid="9"/>
+      <document refid="23"/>
+      <document refid="49"/>
+      <document refid="50"/>
+      <document refid="64"/>
+      <document refid="90"/>
+      <document refid="102"/>
+      <document refid="120"/>
+      <document refid="126"/>
+      <document refid="132"/>
+      <document refid="133"/>
+      <document refid="134"/>
+      <document refid="137"/>
+      <document refid="144"/>
+      <document refid="151"/>
+      <document refid="166"/>
+      <document refid="174"/>
+      <document refid="185"/>
+   </group>
+   <group id="2" size="17" score="67.5305949777759">
+      <title>
+         <phrase>Washington State</phrase>
+      </title>
+      <document refid="18"/>
+      <document refid="29"/>
+      <document refid="46"/>
+      <document refid="53"/>
+      <document refid="58"/>
+      <document refid="61"/>
+      <document refid="62"/>
+      <document refid="68"/>
+      <document refid="73"/>
+      <document refid="80"/>
+      <document refid="86"/>
+      <document refid="87"/>
+      <document refid="110"/>
+      <document refid="121"/>
+      <document refid="132"/>
+      <document refid="147"/>
+      <document refid="161"/>
+   </group>
+   <group id="3" size="15" score="89.76682417737906">
+      <title>
+         <phrase>City Guide</phrase>
+      </title>
+      <document refid="0"/>
+      <document refid="4"/>
+      <document refid="33"/>
+      <document refid="35"/>
+      <document refid="60"/>
+      <document refid="63"/>
+      <document refid="65"/>
+      <document refid="68"/>
+      <document refid="82"/>
+      <document refid="86"/>
+      <document refid="109"/>
+      <document refid="113"/>
+      <document refid="122"/>
+      <document refid="129"/>
+      <document refid="136"/>
+   </group>
+   <group id="4" size="11" score="35.665489695040606">
+      <title>
+         <phrase>Seattle Times</phrase>
+      </title>
+      <document refid="2"/>
+      <document refid="24"/>
+      <document refid="41"/>
+      <document refid="63"/>
+      <document refid="94"/>
+      <document refid="112"/>
+      <document refid="129"/>
+      <document refid="136"/>
+      <document refid="153"/>
+      <document refid="161"/>
+      <document refid="162"/>
+   </group>
+   <group id="5" size="11" score="30.83076971315537">
+      <title>
+         <phrase>Service</phrase>
+      </title>
+      <document refid="0"/>
+      <document refid="77"/>
+      <document refid="81"/>
+      <document refid="89"/>
+      <document refid="92"/>
+      <document refid="105"/>
+      <document refid="124"/>
+      <document refid="164"/>
+      <document refid="176"/>
+      <document refid="177"/>
+      <document refid="181"/>
+   </group>
+   <group id="6" size="9" score="36.938282179989095">
+      <title>
+         <phrase>Restaurants</phrase>
+      </title>
+      <document refid="4"/>
+      <document refid="16"/>
+      <document refid="23"/>
+      <document refid="59"/>
+      <document refid="86"/>
+      <document refid="113"/>
+      <document refid="129"/>
+      <document refid="187"/>
+      <document refid="192"/>
+   </group>
+   <group id="7" size="8" score="32.046188230010515">
+      <title>
+         <phrase>International</phrase>
+      </title>
+      <document refid="8"/>
+      <document refid="30"/>
+      <document refid="61"/>
+      <document refid="67"/>
+      <document refid="130"/>
+      <document refid="152"/>
+      <document refid="158"/>
+      <document refid="159"/>
+   </group>
+   <group id="8" size="7" score="43.64778440203467">
+      <title>
+         <phrase>Internet</phrase>
+      </title>
+      <document refid="19"/>
+      <document refid="63"/>
+      <document refid="71"/>
+      <document refid="136"/>
+      <document refid="141"/>
+      <document refid="172"/>
+      <document refid="181"/>
+   </group>
+   <group id="9" size="7" score="75.23301097859357">
+      <title>
+         <phrase>King County</phrase>
+      </title>
+      <document refid="23"/>
+      <document refid="45"/>
+      <document refid="85"/>
+      <document refid="105"/>
+      <document refid="120"/>
+      <document refid="126"/>
+      <document refid="161"/>
+   </group>
+   <group id="10" size="7" score="53.116201707831344">
+      <title>
+         <phrase>Local News</phrase>
+      </title>
+      <document refid="2"/>
+      <document refid="48"/>
+      <document refid="72"/>
+      <document refid="94"/>
+      <document refid="111"/>
+      <document refid="162"/>
+      <document refid="199"/>
+   </group>
+   <group id="11" size="7" score="68.56074335535824">
+      <title>
+         <phrase>Puget Sound</phrase>
+      </title>
+      <document refid="62"/>
+      <document refid="66"/>
+      <document refid="68"/>
+      <document refid="72"/>
+      <document refid="107"/>
+      <document refid="137"/>
+      <document refid="193"/>
+   </group>
+   <group id="12" size="7" score="62.26178928578991">
+      <title>
+         <phrase>Seattle Seahawks</phrase>
+      </title>
+      <document refid="20"/>
+      <document refid="22"/>
+      <document refid="34"/>
+      <document refid="70"/>
+      <document refid="76"/>
+      <document refid="78"/>
+      <document refid="119"/>
+   </group>
+   <group id="13" size="7" score="74.14645479376523">
+      <title>
+         <phrase>Weather Forecast</phrase>
+      </title>
+      <document refid="14"/>
+      <document refid="52"/>
+      <document refid="69"/>
+      <document refid="73"/>
+      <document refid="87"/>
+      <document refid="178"/>
+      <document refid="181"/>
+   </group>
+   <group id="14" size="7" score="65.72307486259444">
+      <title>
+         <phrase>Web Sites</phrase>
+      </title>
+      <document refid="28"/>
+      <document refid="53"/>
+      <document refid="63"/>
+      <document refid="67"/>
+      <document refid="136"/>
+      <document refid="153"/>
+      <document refid="165"/>
+   </group>
+   <group id="15" size="6" score="69.76330575453545">
+      <title>
+         <phrase>Real Estate</phrase>
+      </title>
+      <document refid="23"/>
+      <document refid="49"/>
+      <document refid="93"/>
+      <document refid="113"/>
+      <document refid="126"/>
+      <document refid="144"/>
+   </group>
+   <group id="16" size="6" score="43.46904118349274">
+      <title>
+         <phrase>Seattle University</phrase>
+      </title>
+      <document refid="17"/>
+      <document refid="81"/>
+      <document refid="90"/>
+      <document refid="98"/>
+      <document refid="101"/>
+      <document refid="172"/>
+   </group>
+   <group id="17" size="6" score="32.339036435154256">
+      <title>
+         <phrase>Team</phrase>
+      </title>
+      <document refid="20"/>
+      <document refid="78"/>
+      <document refid="91"/>
+      <document refid="122"/>
+      <document refid="140"/>
+      <document refid="154"/>
+   </group>
+   <group id="18" size="5" score="29.104739674314523">
+      <title>
+         <phrase>Encyclopedia</phrase>
+      </title>
+      <document refid="7"/>
+      <document refid="13"/>
+      <document refid="29"/>
+      <document refid="121"/>
+      <document refid="147"/>
+   </group>
+   <group id="19" size="5" score="47.53889106082322">
+      <title>
+         <phrase>North America</phrase>
+      </title>
+      <document refid="73"/>
+      <document refid="87"/>
+      <document refid="130"/>
+      <document refid="146"/>
+      <document refid="184"/>
+   </group>
+   <group id="20" size="5" score="21.45994893033478">
+      <title>
+         <phrase>Seattle Chapter</phrase>
+      </title>
+      <document refid="66"/>
+      <document refid="67"/>
+      <document refid="138"/>
+      <document refid="152"/>
+      <document refid="169"/>
+   </group>
+   <group id="21" size="5" score="30.16130810389543">
+      <title>
+         <phrase>Seattle Reads</phrase>
+      </title>
+      <document refid="41"/>
+      <document refid="133"/>
+      <document refid="139"/>
+      <document refid="166"/>
+      <document refid="170"/>
+   </group>
+   <group id="22" size="4" score="64.81780478420427">
+      <title>
+         <phrase>Apartments for Rent</phrase>
+      </title>
+      <document refid="42"/>
+      <document refid="98"/>
+      <document refid="100"/>
+      <document refid="102"/>
+   </group>
+   <group id="23" size="4" score="39.101346540020316">
+      <title>
+         <phrase>Seattle Walking Tours</phrase>
+      </title>
+      <document refid="55"/>
+      <document refid="84"/>
+      <document refid="99"/>
+      <document refid="131"/>
+   </group>
+   <group id="24" size="4" score="34.76405359968148">
+      <title>
+         <phrase>Visitor</phrase>
+      </title>
+      <document refid="0"/>
+      <document refid="1"/>
+      <document refid="32"/>
+      <document refid="174"/>
+   </group>
+   <group id="25" size="3" score="55.380212187536834">
+      <title>
+         <phrase>Calendar of Events</phrase>
+      </title>
+      <document refid="1"/>
+      <document refid="46"/>
+      <document refid="165"/>
+   </group>
+   <group id="26" size="3" score="29.258301921512267">
+      <title>
+         <phrase>Channel</phrase>
+      </title>
+      <document refid="54"/>
+      <document refid="74"/>
+      <document refid="103"/>
+   </group>
+   <group id="27" size="3" score="36.387349413765136">
+      <title>
+         <phrase>Coffee</phrase>
+      </title>
+      <document refid="56"/>
+      <document refid="157"/>
+      <document refid="188"/>
+   </group>
+   <group id="28" size="3" score="76.13642289918211">
+      <title>
+         <phrase>Hotel Reservations</phrase>
+      </title>
+      <document refid="1"/>
+      <document refid="19"/>
+      <document refid="97"/>
+   </group>
+   <group id="29" size="3" score="39.449611662498675">
+      <title>
+         <phrase>Outdoor</phrase>
+      </title>
+      <document refid="122"/>
+      <document refid="128"/>
+      <document refid="194"/>
+   </group>
+   <group id="30" size="3" score="44.87857487573015">
+      <title>
+         <phrase>Regional Archives</phrase>
+      </title>
+      <document refid="63"/>
+      <document refid="136"/>
+      <document refid="196"/>
+   </group>
+   <group id="31" size="3" score="35.593982121861586">
+      <title>
+         <phrase>Seattle Web Cams</phrase>
+      </title>
+      <document refid="132"/>
+      <document refid="149"/>
+      <document refid="150"/>
+   </group>
+   <group id="32" size="3" score="29.44479894065686">
+      <title>
+         <phrase>Singles</phrase>
+      </title>
+      <document refid="133"/>
+      <document refid="156"/>
+      <document refid="186"/>
+   </group>
+   <group id="33" size="2" score="36.634527173293066">
+      <title>
+         <phrase>CBS SportsLine.com</phrase>
+      </title>
+      <document refid="95"/>
+      <document refid="108"/>
+   </group>
+   <group id="34" size="2" score="21.091205991335798">
+      <title>
+         <phrase>Cruise</phrase>
+      </title>
+      <document refid="86"/>
+      <document refid="155"/>
+   </group>
+   <group id="35" size="2" score="40.96374622993385">
+      <title>
+         <phrase>Look here for all the Facts</phrase>
+      </title>
+      <document refid="63"/>
+      <document refid="136"/>
+   </group>
+   <group id="36" size="2" score="49.86090440596538">
+      <title>
+         <phrase>Middle School</phrase>
+      </title>
+      <document refid="54"/>
+      <document refid="142"/>
+   </group>
+   <group id="37" size="2" score="50.41245537578833">
+      <title>
+         <phrase>Pacific Science Center</phrase>
+      </title>
+      <document refid="75"/>
+      <document refid="183"/>
+   </group>
+   <group id="38" size="2" score="25.43852452627167">
+      <title>
+         <phrase>Seattle Intergroup of AA</phrase>
+      </title>
+      <document refid="50"/>
+      <document refid="134"/>
+   </group>
+   <group id="39" size="2" score="28.283966493292226">
+      <title>
+         <phrase>Ticket and Merchandise Ordering Info</phrase>
+      </title>
+      <document refid="15"/>
+      <document refid="21"/>
+   </group>
+   <group id="40" size="2" score="34.34039981098454">
+      <title>
+         <phrase>WA by MapQuest</phrase>
+      </title>
+      <document refid="44"/>
+      <document refid="118"/>
+   </group>
+   <group id="41" size="2" score="53.772525211283615">
+      <title>
+         <phrase>WTO Ministerial Conference</phrase>
+      </title>
+      <document refid="61"/>
+      <document refid="165"/>
+   </group>
+   <group id="42" size="47" score="0.0">
+      <title>
+         <phrase>Other Topics</phrase>
+      </title>
+      <attribute key="other-topics">
+         <value type="java.lang.Boolean" value="true"/>
+      </attribute>
+      <document refid="5"/>
+      <document refid="10"/>
+      <document refid="11"/>
+      <document refid="12"/>
+      <document refid="25"/>
+      <document refid="27"/>
+      <document refid="31"/>
+      <document refid="36"/>
+      <document refid="38"/>
+      <document refid="39"/>
+      <document refid="43"/>
+      <document refid="47"/>
+      <document refid="51"/>
+      <document refid="57"/>
+      <document refid="79"/>
+      <document refid="83"/>
+      <document refid="88"/>
+      <document refid="96"/>
+      <document refid="104"/>
+      <document refid="106"/>
+      <document refid="114"/>
+      <document refid="115"/>
+      <document refid="116"/>
+      <document refid="117"/>
+      <document refid="123"/>
+      <document refid="125"/>
+      <document refid="127"/>
+      <document refid="135"/>
+      <document refid="143"/>
+      <document refid="145"/>
+      <document refid="148"/>
+      <document refid="160"/>
+      <document refid="163"/>
+      <document refid="167"/>
+      <document refid="168"/>
+      <document refid="171"/>
+      <document refid="173"/>
+      <document refid="175"/>
+      <document refid="179"/>
+      <document refid="180"/>
+      <document refid="182"/>
+      <document refid="189"/>
+      <document refid="190"/>
+      <document refid="191"/>
+      <document refid="195"/>
+      <document refid="197"/>
+      <document refid="198"/>
+   </group>
+</searchresult>
