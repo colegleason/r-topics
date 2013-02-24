@@ -1,27 +1,29 @@
 var fill = d3.scale.category20();
 
-var width = 800;
-var height = 600;
+var width = 1000;
+var height = 700;
 
 function make_stream(jsonpath) {
-	var stack = d3.layout.stack()
-		.offset("wiggle")
-		.values(function(d) {return d.values;});
-
 	d3.json(jsonpath, function(json) {
-		var layers = [];
-		console.log(layers);
 
-		d3.layout.stack(layers);
+		var stack = d3.layout.stack()
+			.values(function (layer) {
+				return layer.values;
+			});
+
+		var layers = stack(json.clusters);
+
+		var min_x = d3.min(json.clusters, function(layer) { return d3.min(layer.values, function(d) { return d.x;}) })
+		var max_x =  d3.max(json.clusters, function(layer) { return d3.max(layer.values, function(d) { return d.x;}) });
+
+		var max_y =  d3.max(json.clusters, function(layer) { return d3.max(layer.values, function(d) { return d.y;}) });
 
 		var x = d3.scale.linear()
-			.domain([d3.min(layers, function(layer) { return d3.min(layer, function(d) { return d.x;}) }), 
-					 d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.x;}) })
-					])
+			.domain([min_x, max_x])
 			.range([0, width]);
 	
 		var y = d3.scale.linear()
-			.domain([0, d3.max(layers, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
+			.domain([0, max_y])
 			.range([height, 0]);
 		
 		var color = d3.scale.linear()
@@ -39,12 +41,11 @@ function make_stream(jsonpath) {
 		svg.selectAll("path")
 			.data(layers)
 			.enter().append("path")
-			.attr("d", area)
-			.style("fill", function() { return color(Math.random()); });
-		
-	})
-	
-	
+			.attr("d", function(d) { return area(d.values);})
+			.style("fill", function() { return color(Math.random()); })
+			.append("title")
+			.text(function(d) { return d.phrases; });;	
+	})	
 }
 
 function make_cloud(jsonpath) {

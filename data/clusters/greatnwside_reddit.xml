@@ -1,0 +1,505 @@
+<searchresult>
+   <group id="0" size="35" score="52.235039341434685">
+      <title>
+         <phrase>Time to Time</phrase>
+      </title>
+      <document refid="6"/>
+      <document refid="12"/>
+      <document refid="14"/>
+      <document refid="16"/>
+      <document refid="17"/>
+      <document refid="18"/>
+      <document refid="24"/>
+      <document refid="33"/>
+      <document refid="59"/>
+      <document refid="70"/>
+      <document refid="72"/>
+      <document refid="74"/>
+      <document refid="80"/>
+      <document refid="83"/>
+      <document refid="84"/>
+      <document refid="86"/>
+      <document refid="88"/>
+      <document refid="91"/>
+      <document refid="101"/>
+      <document refid="103"/>
+      <document refid="110"/>
+      <document refid="111"/>
+      <document refid="114"/>
+      <document refid="119"/>
+      <document refid="122"/>
+      <document refid="123"/>
+      <document refid="127"/>
+      <document refid="129"/>
+      <document refid="130"/>
+      <document refid="132"/>
+      <document refid="134"/>
+      <document refid="145"/>
+      <document refid="148"/>
+      <document refid="149"/>
+      <document refid="161"/>
+   </group>
+   <group id="1" size="18" score="52.70342441669521">
+      <title>
+         <phrase>Irving Park</phrase>
+      </title>
+      <document refid="2"/>
+      <document refid="17"/>
+      <document refid="26"/>
+      <document refid="31"/>
+      <document refid="33"/>
+      <document refid="59"/>
+      <document refid="61"/>
+      <document refid="62"/>
+      <document refid="83"/>
+      <document refid="88"/>
+      <document refid="99"/>
+      <document refid="110"/>
+      <document refid="116"/>
+      <document refid="120"/>
+      <document refid="123"/>
+      <document refid="130"/>
+      <document refid="134"/>
+      <document refid="142"/>
+   </group>
+   <group id="2" size="13" score="88.56747704544348">
+      <title>
+         <phrase>Morning Roundup</phrase>
+      </title>
+      <document refid="20"/>
+      <document refid="27"/>
+      <document refid="37"/>
+      <document refid="51"/>
+      <document refid="64"/>
+      <document refid="68"/>
+      <document refid="76"/>
+      <document refid="85"/>
+      <document refid="94"/>
+      <document refid="108"/>
+      <document refid="127"/>
+      <document refid="129"/>
+      <document refid="141"/>
+   </group>
+   <group id="3" size="13" score="55.16584825511772">
+      <title>
+         <phrase>Posts Just</phrase>
+      </title>
+      <document refid="12"/>
+      <document refid="17"/>
+      <document refid="25"/>
+      <document refid="66"/>
+      <document refid="69"/>
+      <document refid="80"/>
+      <document refid="91"/>
+      <document refid="101"/>
+      <document refid="110"/>
+      <document refid="111"/>
+      <document refid="132"/>
+      <document refid="144"/>
+      <document refid="162"/>
+   </group>
+   <group id="4" size="11" score="25.042016661669177">
+      <title>
+         <phrase>EveryBlock</phrase>
+      </title>
+      <document refid="49"/>
+      <document refid="80"/>
+      <document refid="101"/>
+      <document refid="103"/>
+      <document refid="111"/>
+      <document refid="132"/>
+      <document refid="137"/>
+      <document refid="139"/>
+      <document refid="143"/>
+      <document refid="144"/>
+      <document refid="150"/>
+   </group>
+   <group id="5" size="10" score="33.15493618889548">
+      <title>
+         <phrase>Edit</phrase>
+      </title>
+      <document refid="20"/>
+      <document refid="24"/>
+      <document refid="33"/>
+      <document refid="51"/>
+      <document refid="61"/>
+      <document refid="68"/>
+      <document refid="94"/>
+      <document refid="104"/>
+      <document refid="132"/>
+      <document refid="164"/>
+   </group>
+   <group id="6" size="10" score="21.904067146874304">
+      <title>
+         <phrase>Report</phrase>
+      </title>
+      <document refid="8"/>
+      <document refid="17"/>
+      <document refid="24"/>
+      <document refid="49"/>
+      <document refid="80"/>
+      <document refid="101"/>
+      <document refid="103"/>
+      <document refid="127"/>
+      <document refid="132"/>
+      <document refid="148"/>
+   </group>
+   <group id="7" size="9" score="32.401662430496394">
+      <title>
+         <phrase>Friends</phrase>
+      </title>
+      <document refid="24"/>
+      <document refid="33"/>
+      <document refid="74"/>
+      <document refid="77"/>
+      <document refid="96"/>
+      <document refid="125"/>
+      <document refid="134"/>
+      <document refid="150"/>
+      <document refid="164"/>
+   </group>
+   <group id="8" size="8" score="32.92653381322611">
+      <title>
+         <phrase>Couple</phrase>
+      </title>
+      <document refid="7"/>
+      <document refid="18"/>
+      <document refid="72"/>
+      <document refid="104"/>
+      <document refid="108"/>
+      <document refid="156"/>
+      <document refid="161"/>
+      <document refid="162"/>
+   </group>
+   <group id="9" size="8" score="32.346053714837495">
+      <title>
+         <phrase>March</phrase>
+      </title>
+      <document refid="5"/>
+      <document refid="9"/>
+      <document refid="22"/>
+      <document refid="24"/>
+      <document refid="26"/>
+      <document refid="63"/>
+      <document refid="78"/>
+      <document refid="96"/>
+   </group>
+   <group id="10" size="8" score="31.389147058610106">
+      <title>
+         <phrase>Northwest</phrase>
+      </title>
+      <document refid="0"/>
+      <document refid="54"/>
+      <document refid="84"/>
+      <document refid="131"/>
+      <document refid="133"/>
+      <document refid="142"/>
+      <document refid="147"/>
+      <document refid="150"/>
+   </group>
+   <group id="11" size="7" score="36.31634464370942">
+      <title>
+         <phrase>Blue</phrase>
+      </title>
+      <document refid="33"/>
+      <document refid="104"/>
+      <document refid="124"/>
+      <document refid="136"/>
+      <document refid="137"/>
+      <document refid="153"/>
+      <document refid="158"/>
+   </group>
+   <group id="12" size="6" score="64.80534216762516">
+      <title>
+         <phrase>Hard to Say</phrase>
+      </title>
+      <document refid="53"/>
+      <document refid="66"/>
+      <document refid="70"/>
+      <document refid="91"/>
+      <document refid="132"/>
+      <document refid="149"/>
+   </group>
+   <group id="13" size="6" score="26.013911371294416">
+      <title>
+         <phrase>Music</phrase>
+      </title>
+      <document refid="9"/>
+      <document refid="11"/>
+      <document refid="19"/>
+      <document refid="96"/>
+      <document refid="142"/>
+      <document refid="149"/>
+   </group>
+   <group id="14" size="6" score="62.287853181708975">
+      <title>
+         <phrase>Portage Park Helping Hands</phrase>
+      </title>
+      <document refid="23"/>
+      <document refid="91"/>
+      <document refid="132"/>
+      <document refid="134"/>
+      <document refid="137"/>
+      <document refid="143"/>
+   </group>
+   <group id="15" size="6" score="55.60367776369963">
+      <title>
+         <phrase>Years Ago</phrase>
+      </title>
+      <document refid="7"/>
+      <document refid="33"/>
+      <document refid="72"/>
+      <document refid="88"/>
+      <document refid="103"/>
+      <document refid="124"/>
+   </group>
+   <group id="16" size="5" score="20.208667591735722">
+      <title>
+         <phrase>Crime</phrase>
+      </title>
+      <document refid="33"/>
+      <document refid="68"/>
+      <document refid="119"/>
+      <document refid="132"/>
+      <document refid="148"/>
+   </group>
+   <group id="17" size="5" score="58.65942062356138">
+      <title>
+         <phrase>High School</phrase>
+      </title>
+      <document refid="46"/>
+      <document refid="61"/>
+      <document refid="84"/>
+      <document refid="98"/>
+      <document refid="161"/>
+   </group>
+   <group id="18" size="5" score="26.548811674494875">
+      <title>
+         <phrase>Logan Square</phrase>
+      </title>
+      <document refid="28"/>
+      <document refid="63"/>
+      <document refid="80"/>
+      <document refid="110"/>
+      <document refid="150"/>
+   </group>
+   <group id="19" size="5" score="31.227175035527523">
+      <title>
+         <phrase>Robbed</phrase>
+      </title>
+      <document refid="47"/>
+      <document refid="101"/>
+      <document refid="104"/>
+      <document refid="153"/>
+      <document refid="154"/>
+   </group>
+   <group id="20" size="4" score="31.233626318064264">
+      <title>
+         <phrase>Arts</phrase>
+      </title>
+      <document refid="61"/>
+      <document refid="131"/>
+      <document refid="142"/>
+      <document refid="150"/>
+   </group>
+   <group id="21" size="4" score="25.925206260784968">
+      <title>
+         <phrase>Computer</phrase>
+      </title>
+      <document refid="44"/>
+      <document refid="70"/>
+      <document refid="91"/>
+      <document refid="164"/>
+   </group>
+   <group id="22" size="4" score="23.85206318572012">
+      <title>
+         <phrase>Hot</phrase>
+      </title>
+      <document refid="14"/>
+      <document refid="118"/>
+      <document refid="132"/>
+      <document refid="151"/>
+   </group>
+   <group id="23" size="4" score="34.23414160553016">
+      <title>
+         <phrase>Parents</phrase>
+      </title>
+      <document refid="0"/>
+      <document refid="91"/>
+      <document refid="112"/>
+      <document refid="161"/>
+   </group>
+   <group id="24" size="4" score="37.41197814867778">
+      <title>
+         <phrase>Spaces</phrase>
+      </title>
+      <document refid="61"/>
+      <document refid="65"/>
+      <document refid="92"/>
+      <document refid="107"/>
+   </group>
+   <group id="25" size="4" score="30.259777784405763">
+      <title>
+         <phrase>Time a few Days after I Moved</phrase>
+      </title>
+      <document refid="12"/>
+      <document refid="72"/>
+      <document refid="80"/>
+      <document refid="83"/>
+   </group>
+   <group id="26" size="3" score="44.91387105604306">
+      <title>
+         <phrase>Central Kitchen and Tap</phrase>
+      </title>
+      <document refid="30"/>
+      <document refid="45"/>
+      <document refid="90"/>
+   </group>
+   <group id="27" size="3" score="40.70372205659915">
+      <title>
+         <phrase>City Council</phrase>
+      </title>
+      <document refid="86"/>
+      <document refid="132"/>
+      <document refid="161"/>
+   </group>
+   <group id="28" size="3" score="51.4227209662208">
+      <title>
+         <phrase>Congress Theater</phrase>
+      </title>
+      <document refid="17"/>
+      <document refid="24"/>
+      <document refid="149"/>
+   </group>
+   <group id="29" size="3" score="33.92165031129728">
+      <title>
+         <phrase>Lady of Victory</phrase>
+      </title>
+      <document refid="9"/>
+      <document refid="99"/>
+      <document refid="163"/>
+   </group>
+   <group id="30" size="3" score="46.839032651557574">
+      <title>
+         <phrase>Pages of News</phrase>
+      </title>
+      <document refid="17"/>
+      <document refid="91"/>
+      <document refid="130"/>
+   </group>
+   <group id="31" size="3" score="50.53739127978258">
+      <title>
+         <phrase>Reddit Experience then we&apos;ll Talk</phrase>
+      </title>
+      <document refid="12"/>
+      <document refid="91"/>
+      <document refid="132"/>
+   </group>
+   <group id="32" size="3" score="53.26097315445424">
+      <title>
+         <phrase>Sexual Assault</phrase>
+      </title>
+      <document refid="119"/>
+      <document refid="135"/>
+      <document refid="141"/>
+   </group>
+   <group id="33" size="2" score="27.917517317812674">
+      <title>
+         <phrase>Caps Community Meeting</phrase>
+      </title>
+      <document refid="33"/>
+      <document refid="119"/>
+   </group>
+   <group id="34" size="2" score="52.09873471197861">
+      <title>
+         <phrase>Chicago Department of Transportation</phrase>
+      </title>
+      <document refid="87"/>
+      <document refid="161"/>
+   </group>
+   <group id="35" size="2" score="32.00009663551434">
+      <title>
+         <phrase>Email Address</phrase>
+      </title>
+      <document refid="91"/>
+      <document refid="110"/>
+   </group>
+   <group id="36" size="2" score="38.11820287613866">
+      <title>
+         <phrase>Police Blotter</phrase>
+      </title>
+      <document refid="101"/>
+      <document refid="130"/>
+   </group>
+   <group id="37" size="2" score="8.98052591970101">
+      <title>
+         <phrase>Yesterday Morning</phrase>
+      </title>
+      <document refid="101"/>
+      <document refid="137"/>
+   </group>
+   <group id="38" size="56" score="0.0">
+      <title>
+         <phrase>Other Topics</phrase>
+      </title>
+      <attribute key="other-topics">
+         <value type="java.lang.Boolean" value="true"/>
+      </attribute>
+      <document refid="1"/>
+      <document refid="3"/>
+      <document refid="4"/>
+      <document refid="10"/>
+      <document refid="13"/>
+      <document refid="15"/>
+      <document refid="21"/>
+      <document refid="29"/>
+      <document refid="32"/>
+      <document refid="34"/>
+      <document refid="35"/>
+      <document refid="36"/>
+      <document refid="38"/>
+      <document refid="39"/>
+      <document refid="40"/>
+      <document refid="41"/>
+      <document refid="42"/>
+      <document refid="43"/>
+      <document refid="48"/>
+      <document refid="50"/>
+      <document refid="52"/>
+      <document refid="55"/>
+      <document refid="56"/>
+      <document refid="57"/>
+      <document refid="58"/>
+      <document refid="60"/>
+      <document refid="67"/>
+      <document refid="71"/>
+      <document refid="73"/>
+      <document refid="75"/>
+      <document refid="79"/>
+      <document refid="81"/>
+      <document refid="82"/>
+      <document refid="89"/>
+      <document refid="93"/>
+      <document refid="95"/>
+      <document refid="97"/>
+      <document refid="100"/>
+      <document refid="102"/>
+      <document refid="105"/>
+      <document refid="106"/>
+      <document refid="109"/>
+      <document refid="113"/>
+      <document refid="115"/>
+      <document refid="117"/>
+      <document refid="121"/>
+      <document refid="126"/>
+      <document refid="128"/>
+      <document refid="138"/>
+      <document refid="140"/>
+      <document refid="146"/>
+      <document refid="152"/>
+      <document refid="155"/>
+      <document refid="157"/>
+      <document refid="159"/>
+      <document refid="160"/>
+   </group>
+</searchresult>
