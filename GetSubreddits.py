@@ -44,6 +44,7 @@ for a in range(1, len(sys.argv)):
 
 	#Get data for each post
 	for i in range(len(posts)):
+		print('Getting post %d of %d' % (i, len(posts)))
 		#XML
 		dn = ET.SubElement(srn, 'document')
 		p = posts[i]
@@ -59,16 +60,13 @@ for a in range(1, len(sys.argv)):
 		snippet_str = ""
 		if (p.is_self):
 			snippet_str += p.selftext
-		for comment in p.comments:
-			snippet_str += " " + comment.body
+		for c in range(len(p.comments)):
+			snippet_str += " " + p.comments[c].body
+			p.comments[c] = p.comments[c].__dict__
 		snippet = ET.SubElement(dn, "snippet")
 		snippet.text = snippet_str
 		#JSON
-		post = {}
-		post['num_comments']= p.num_comments
-		post['num_votes'] = p.upvotes + p.downvotes
-		post['timestamp'] = p.created
-		subreddit[i] = post
+		subreddit[i] = p.__dict__
 
 	#Dump json
 	jsonfile = open('data/' + SUB + '.json', 'w')
