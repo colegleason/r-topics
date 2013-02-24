@@ -3,13 +3,15 @@ var fill = d3.scale.category20();
 var width = 800;
 var height = 600;
 
-function make_stream(filename) {
-	var graph = d3.csv(csvpath, function(data) {
-		data.forEach(function(d) {
-			d.date = format.parse(d.date);
-			d.value = d.value;
+function make_stream(jsonpath) {
+	d3.json(jsonpath, function(json) {
+		json.clusters.forEach(function(d) {
+
+			console.log(d);
+
 		})
 	})
+
 }
 
 function make_cloud(words) {

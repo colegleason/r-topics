@@ -1,5 +1,7 @@
 import sys, os
-sys.path.append(os.getcwd() + '/reddiwrap')
+
+sys.path.append(os.path.abspath('reddiwrap'))
+
 from ReddiWrap import ReddiWrap
 import json
 import time
