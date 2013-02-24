@@ -65,9 +65,9 @@ function make_cloud(jsonpath) {
 	})
 
 	d3.layout.cloud().size([width, height])
-		.initPhrases.map(function(d) {
+		.words(initPhrases.map(function(d) {
 			return {text: d, size: 10 + Math.random() * 90};
-		})
+		}))
 		.font("Impact")
 		.fontSize(function(d) { return d.size; })
 		.on("end", draw)
