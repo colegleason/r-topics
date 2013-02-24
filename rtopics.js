@@ -3,6 +3,16 @@ var fill = d3.scale.category20();
 var width = 800;
 var height = 600;
 
+function make_stream(filename) {
+	var graph = d3.csv(csvpath, function(data) {
+		data.forEach(function(d) {
+			d.date = format.parse(d.date);
+			d.value = d.value;
+		})
+	}
+					  }
+}
+
 function make_cloud(words) {
 	d3.layout.cloud().size([width, height])
 		.words(words.map(function(d) {
@@ -10,11 +20,11 @@ function make_cloud(words) {
 		}))
 		.font("Impact")
 		.fontSize(function(d) { return d.size; })
-		.on("end", draw)
+		.on("end", draw_cloud(words))
 		.start();
 }
 
-function draw(words) {
+function draw_cloud(words) {
     d3.select("body").append("svg")
         .attr("width", width)
         .attr("height", height)
@@ -33,3 +43,4 @@ function draw(words) {
 		})
         .text(function(d) { return d.text; });
 }
+
