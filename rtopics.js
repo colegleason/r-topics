@@ -1,7 +1,7 @@
 var fill = d3.scale.category20();
 
 var width = 1000;
-var height = 700;
+var height = 600;
 
 function make_stream(jsonpath) {
 	d3.json(jsonpath, function(json) {
@@ -18,6 +18,8 @@ function make_stream(jsonpath) {
 
 		var max_y =  d3.max(json.clusters, function(layer) { return d3.max(layer.values, function(d) { return d.y;}) });
 
+		console.log(layers);
+
 		var x = d3.scale.linear()
 			.domain([min_x, max_x])
 			.range([0, width]);
@@ -26,6 +28,12 @@ function make_stream(jsonpath) {
 			.domain([0, max_y])
 			.range([height, 0]);
 		
+		var xAxis = d3.svg.axis()
+			.scale(x).orient("bottom");
+
+		var yAxis = d3.svg.axis()
+			.scale(y).orient("left");
+
 		var color = d3.scale.linear()
 			.range(["#aad", "#556"]);
 		
@@ -36,15 +44,28 @@ function make_stream(jsonpath) {
 		
 		var svg = d3.select("body").append("svg")
 			.attr("width", width)
-			.attr("height", height);
-		
+			.attr("height", height)
+			.attr("class", "stream");
+
 		svg.selectAll("path")
 			.data(layers)
 			.enter().append("path")
 			.attr("d", function(d) { return area(d.values);})
 			.style("fill", function() { return color(Math.random()); })
 			.append("title")
-			.text(function(d) { return d.phrases; });;	
+			.text(function(d) { return d.phrases; });
+
+		var padding = 30;
+
+		svg.append("g")
+			.attr("class", "axis")
+			.attr("transform", "translate(0," + (height - padding) + ")")
+			.call(xAxis);
+
+		svg.append("g")
+			.attr("class", "axis")
+			.attr("transform", "translate(0," + (padding) + ")")
+			.call(yAxis);
 	})	
 }
 
