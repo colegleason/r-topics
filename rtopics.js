@@ -9,8 +9,7 @@ function make_stream(filename) {
 			d.date = format.parse(d.date);
 			d.value = d.value;
 		})
-	}
-					  }
+	})
 }
 
 function make_cloud(words) {
@@ -20,11 +19,11 @@ function make_cloud(words) {
 		}))
 		.font("Impact")
 		.fontSize(function(d) { return d.size; })
-		.on("end", draw_cloud(words))
+		.on("end", draw)
 		.start();
 }
 
-function draw_cloud(words) {
+function draw(words) {
     d3.select("body").append("svg")
         .attr("width", width)
         .attr("height", height)
