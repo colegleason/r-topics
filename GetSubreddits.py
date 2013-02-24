@@ -7,6 +7,12 @@ import json
 import time
 import xml.etree.ElementTree as ET
 
+def get_nested_comments(comment):
+	comment_str = ""
+	for ch_com in comment.children:
+		comment_str += " " + comment.body + get_nested_comments(ch_com)
+	return comment_str
+
 reddit = ReddiWrap()
 
 USERNAME = 'r_topics'
@@ -61,19 +67,21 @@ for a in range(1, len(sys.argv)):
 		if (p.is_self):
 			snippet_str += p.selftext
 		for c in range(len(p.comments)):
-			snippet_str += " " + p.comments[c].body
+			snippet_str += " " + get_nested_comments(p.comments[c])
 			p.comments[c] = p.comments[c].__dict__
+			p.comments[c]['children'] = []
 		snippet = ET.SubElement(dn, "snippet")
 		snippet.text = snippet_str
 		#JSON
 		subreddit[i] = p.__dict__
 
-	#Dump json
-	jsonfile = open('data/' + SUB + '.json', 'w')
-	json.dump(subreddit, jsonfile)
-	jsonfile.close()
+		#Dump json
+		jsonfile = open('data/' + SUB + '_reddit.json', 'w')
+		json.dump(subreddit, jsonfile)
+		jsonfile.close()
 
-	#Write XML
-	xmlfile = open('data/' + SUB + '.xml', 'w')
-	ET.ElementTree(srn).write(xmlfile)
-	xmlfile.close()
+		#Write XML
+		xmlfile = open('data/' + SUB + '_reddit.xml', 'w')
+		ET.ElementTree(srn).write(xmlfile)
+		xmlfile.close()
+
