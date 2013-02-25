@@ -1,6 +1,6 @@
 import sys, os, json, time
 
-sys.path.append(os.path.abspath('reddiwrap'))
+sys.path.append(os.path.abspath('../reddiwrap'))
 
 from ReddiWrap import ReddiWrap
 import xml.etree.ElementTree as ET
@@ -19,7 +19,7 @@ for a in range(1, len(sys.argv)):
 	SUB = sys.argv[a]
 
 	#Log in
-	reddit.load_cookies('cookies.txt')
+	reddit.load_cookies('../cookies.txt')
 
 	if not reddit.logged_in or reddit.user.lower() != USERNAME.lower():
 		print('logging into %s' % USERNAME)
@@ -79,12 +79,12 @@ for a in range(1, len(sys.argv)):
 			if (i+1) % 50 != 0:
 				v_num = str((i-50)/50)
 			#Dump json
-			jsonfile = open('data/' + SUB + v_num + '_reddit.json', 'w')
+			jsonfile = open('../data/' + SUB + v_num + '_reddit.json', 'w')
 			json.dump(subreddit, jsonfile)
 			jsonfile.close()
 			subreddit = {}
 			#Write XML
-			xmlfile = open('data/' + SUB + v_num + '_reddit.xml', 'w')
+			xmlfile = open('../data/' + SUB + v_num + '_reddit.xml', 'w')
 			ET.ElementTree(srn).write(xmlfile)
 			xmlfile.close()
 			srn.clear()
