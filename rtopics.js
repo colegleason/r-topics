@@ -115,6 +115,7 @@ function make_cloud(jsonpath) {
 			.words(initPhrases.map(function(d) {
 				return {text: d, size: 20};
 			}))
+			.rotate(function() { return ~~(Math.random() * 2) * 90; })
 			.font("Impact")
 			.fontSize(function(d) { return d.size; })
 			.on("end", draw)
@@ -125,6 +126,8 @@ function make_cloud(jsonpath) {
 }
 
 function draw(words) {
+	d3.select("svg").remove() // remove the current graph if it exits
+
     d3.select("body").append("svg")
         .attr("width", width)
         .attr("height", height)
