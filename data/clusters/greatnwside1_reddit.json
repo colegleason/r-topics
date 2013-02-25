@@ -1,0 +1,449 @@
+{
+  "processing-time-total" : 928,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 11,
+    "score" : 30.646555704607508,
+    "phrases" : [ "Chicago" ],
+    "documents" : [ 1, 4, 8, 22, 33, 35, 36, 37, 40, 46, 48 ],
+    "attributes" : {
+      "score" : 30.646555704607508
+    }
+  }, {
+    "id" : 1,
+    "size" : 10,
+    "score" : 33.0537551769396,
+    "phrases" : [ "Portage Park" ],
+    "documents" : [ 4, 8, 12, 17, 27, 29, 37, 40, 45, 48 ],
+    "attributes" : {
+      "score" : 33.0537551769396
+    }
+  }, {
+    "id" : 2,
+    "size" : 6,
+    "score" : 136.88719005905355,
+    "phrases" : [ "Morning Roundup" ],
+    "documents" : [ 0, 13, 17, 25, 34, 43 ],
+    "attributes" : {
+      "score" : 136.88719005905355
+    }
+  }, {
+    "id" : 3,
+    "size" : 6,
+    "score" : 45.329631890980984,
+    "phrases" : [ "Portage Park Area" ],
+    "documents" : [ 8, 12, 29, 37, 40, 48 ],
+    "attributes" : {
+      "score" : 45.329631890980984
+    }
+  }, {
+    "id" : 4,
+    "size" : 4,
+    "score" : 30.011409501063966,
+    "phrases" : [ "Central" ],
+    "documents" : [ 8, 9, 14, 39 ],
+    "attributes" : {
+      "score" : 30.011409501063966
+    }
+  }, {
+    "id" : 5,
+    "size" : 4,
+    "score" : 49.484819206782184,
+    "phrases" : [ "Edition" ],
+    "documents" : [ 0, 10, 17, 43 ],
+    "attributes" : {
+      "score" : 49.484819206782184
+    }
+  }, {
+    "id" : 6,
+    "size" : 3,
+    "score" : 34.25738057031329,
+    "phrases" : [ "Email" ],
+    "documents" : [ 16, 19, 40 ],
+    "attributes" : {
+      "score" : 34.25738057031329
+    }
+  }, {
+    "id" : 7,
+    "size" : 3,
+    "score" : 47.064523634372094,
+    "phrases" : [ "Friends" ],
+    "documents" : [ 23, 26, 45 ],
+    "attributes" : {
+      "score" : 47.064523634372094
+    }
+  }, {
+    "id" : 8,
+    "size" : 3,
+    "score" : 33.203445998682305,
+    "phrases" : [ "High School" ],
+    "documents" : [ 10, 33, 47 ],
+    "attributes" : {
+      "score" : 33.203445998682305
+    }
+  }, {
+    "id" : 9,
+    "size" : 3,
+    "score" : 49.85404648196157,
+    "phrases" : [ "Opening Night" ],
+    "documents" : [ 10, 19, 40 ],
+    "attributes" : {
+      "score" : 49.85404648196157
+    }
+  }, {
+    "id" : 10,
+    "size" : 3,
+    "score" : 38.83670113504267,
+    "phrases" : [ "Space" ],
+    "documents" : [ 10, 14, 41 ],
+    "attributes" : {
+      "score" : 38.83670113504267
+    }
+  }, {
+    "id" : 11,
+    "size" : 3,
+    "score" : 65.88984423405883,
+    "phrases" : [ "Time a few Days after I Moved" ],
+    "documents" : [ 21, 29, 32 ],
+    "attributes" : {
+      "score" : 65.88984423405883
+    }
+  }, {
+    "id" : 12,
+    "size" : 2,
+    "score" : 28.507725722651397,
+    "phrases" : [ "38th" ],
+    "documents" : [ 16, 37 ],
+    "attributes" : {
+      "score" : 28.507725722651397
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 33.738205540949984,
+    "phrases" : [ "Coffee" ],
+    "documents" : [ 9, 33 ],
+    "attributes" : {
+      "score" : 33.738205540949984
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 35.328951314638964,
+    "phrases" : [ "House" ],
+    "documents" : [ 2, 5 ],
+    "attributes" : {
+      "score" : 35.328951314638964
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 28.51082142417202,
+    "phrases" : [ "Internet" ],
+    "documents" : [ 19, 30 ],
+    "attributes" : {
+      "score" : 28.51082142417202
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 44.80834602733612,
+    "phrases" : [ "John Arena" ],
+    "documents" : [ 35, 36 ],
+    "attributes" : {
+      "score" : 44.80834602733612
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 31.265375461047142,
+    "phrases" : [ "Meeting" ],
+    "documents" : [ 15, 48 ],
+    "attributes" : {
+      "score" : 31.265375461047142
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 75.87446211174247,
+    "phrases" : [ "Puerto Rican" ],
+    "documents" : [ 1, 44 ],
+    "attributes" : {
+      "score" : 75.87446211174247
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 50.74121117344932,
+    "phrases" : [ "Reddit Post" ],
+    "documents" : [ 15, 40 ],
+    "attributes" : {
+      "score" : 50.74121117344932
+    }
+  }, {
+    "id" : 20,
+    "size" : 2,
+    "score" : 40.252541537585394,
+    "phrases" : [ "W. Irving Park Rd" ],
+    "documents" : [ 10, 37 ],
+    "attributes" : {
+      "score" : 40.252541537585394
+    }
+  }, {
+    "id" : 21,
+    "size" : 12,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 3, 6, 7, 11, 18, 20, 24, 28, 31, 38, 42, 49 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 872,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "Morning roundup - high-five edition",
+    "snippet" : " ",
+    "url" : "http://greatnwside.com/2013/02/18/morning-roundup-high-five-edition/"
+  }, {
+    "id" : 1,
+    "title" : "Puerto Ricans in Chicago: Study Gives Insight into Changing Community",
+    "snippet" : "  \"Some 72 percent of Humboldt Park Puerto Rican adults are overweight and some 67 percent of their children are overweight. Almost 90 percent said they would be embarrassed to be seen exercising.\"\n\nWow, peer pressure not to exercise?\n\n",
+    "url" : "http://www.dnainfo.com/chicago/20130218/logan-square-humboldt-park/puerto-ricans-chicago-study-gives-insight-into-changing-community"
+  }, {
+    "id" : 2,
+    "title" : "Presidents Day Poll",
+    "snippet" : "Favorite and Least Favorite?\n\nMine are FDR (F) and Reagan (LF).  \n\nNote:  It is not necessarily best and worst.  Which President is on the two dollar bill? Which President is on the two dollar bill?  Truman = spoke straight, got a lot of legislation passed, quit without a fuss.\n\nBuchannan = let the nation collapse into violent civil war without more than a momentary and softly protesting murmur much less any visible effort. one \"n\" and he was a lifelong bachelor one \"n\" and he was a lifelong bachelor was describing him as a \"bachelor\" another way of saying he kept a very tastefully decorated White House? Not that there's anything wrong with that!  Most Favoritest: Wilson...think he actually gets the shaft by not being on Mt. Rushmore, honestly.\n\nLeast: 42-way tie.\n\nJust kidding.\n\nLeast: Harding...spurned the League of Nations which might have prevented (maybe) World War II, had an administration full of corruption and cronyism (so he WOULD fit in today) and generally did nothing of consequence, really.",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18rcbl/presidents_day_poll/"
+  }, {
+    "id" : 3,
+    "title" : "Norwood Park Auto Sales Closes Store on Northwest Highway",
+    "snippet" : "  Remember the big multi-colored spike light they used to have? Those were at other car dealers too.  \n\nI don't think Cicero and Wrightwood is South Lawndale.",
+    "url" : "http://www.dnainfo.com/chicago/20130218/norwood-park/norwood-park-auto-sales-reaches-finish-line-on-northwest-highway"
+  }, {
+    "id" : 4,
+    "title" : "Chicago Park District - Portage Park - Sign Up Begins Feb 25 2013",
+    "snippet" : "https://www.circlesavvy.com/posts/286",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18r4cd/chicago_park_district_portage_park_sign_up_begins/"
+  }, {
+    "id" : 5,
+    "title" : "The Montrose Laramie House",
+    "snippet" : "  What about it? The man who lived there isn't anywhere nearby to be seen anymore, the garage was torn down, and someone is gutting it. That is the house that the realtor posted pictures with piles of empty beer cans.  Was it Natural Light? yeah. some months ago I thought a neighbor brought out a supercart so you couldn't tell what beer he was buying. He was shopping at the liquor store on Milwaukee across from La Palapita. they have the lowest prices on Milwaukee Ave. for all the economy brand liquor, wine and beer products.  According to the Wall Street Journal, Natural Light is fifth in sales.  Someone bought it eh? Good to see they're rehabbing it.    I drive past that house almost every day. I'm happy if someone's rehabbing it. It looked like a complete shit hole. I always saw the owner drinking on the front porch and tossing his cans in the gangway I drive past that house almost every day. I'm happy if someone's rehabbing it. It looked like a complete shit hole. I always saw the owner drinking on the front porch and tossing his cans in the gangway ",
+    "url" : "https://www.dropbox.com/sh/1cvx8enxs10cgfk/SwjNrm4e_b"
+  }, {
+    "id" : 6,
+    "title" : "In the Kimball yard",
+    "url" : "http://www.flickr.com/photos/goldelocks/1547906483/"
+  }, {
+    "id" : 7,
+    "title" : "Lawrence &amp; Sawyer ",
+    "snippet" : "   ",
+    "url" : "http://www.flickr.com/photos/goldelocks/3561837576/lightbox/"
+  }, {
+    "id" : 8,
+    "title" : "Brakes gone bad ",
+    "snippet" : "When I hit the bakes, they are working but have to go pretty far down before they respond properly.  Hubby asked me to bring it in to figure out what he did wrong (he thinks possible air in lines).  \n\nI am near Irving and Austin.  Any recommendation on someone nice and knowledgeable in the area so I can have everything checked and fixed if necessary?        B &amp; H Auto Repair\n5601 W Sunnyside Ave (Sunnyside and Central)\nChicago, IL 60630\nNeighborhood: Portage Park\n(773) 202-8100\n\nSam is the owner. Reliable, trustworthy and affordable. Tell him Kenji says hello.\n\n B &amp; H Auto Repair\n5601 W Sunnyside Ave (Sunnyside and Central)\nChicago, IL 60630\nNeighborhood: Portage Park\n(773) 202-8100\n\nSam is the owner. Reliable, trustworthy and affordable. Tell him Kenji says hello.\n\n what time does he close on Saturdays?  I was going to stop in there for an oil change (labor only - I bought the stuff)  but the closed sign was up around 2:45...",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18q6ct/brakes_gone_bad/"
+  }, {
+    "id" : 9,
+    "title" : "New Coffee Shop - Belmont Central area",
+    "snippet" : "Tutti Frutti Coffee Shop - Not only do they serve coffee, but they serve food too.  Haven't had a chance to go yet, but menu looks great; crepes, waffles, etc.  http://www.tuttifrutticoffeeshop.com/.  American style menu for the most part.  Here's hoping enough people try it and keep it going.  We need a nice, cozy neighborhood place in BC.  Something off the Central Ave bar strip.  Maybe they could name something Boolookas. Boolooka Joe's? Fred, you are challenging Inactive for cracking me up.  Only if it's in the Boolokas building",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18p6rr/new_coffee_shop_belmont_central_area/"
+  }, {
+    "id" : 10,
+    "title" : "Some Theater and Art Events for Next Weekend: Feb 22, 23, and 24th.",
+    "snippet" : "Rise of the Animals, Opening night, SiLO Art Space, 5510 W. Irving Park Rd.\n Friday, February 22, 6--1 PM\n\nA solo exhibition and art auction by Schurz High School student Mario Rodriguez. To help generate funds for Mario's college education and raise public awareness of Autism and Aspergers, with a portion of the proceeds being donated to the Autism Society of Illinois. There will be original framed works and limited edition prints available for purchase. A silent auction of select artworks will be held during the opening night reception.\n\n*****************\n\n\"Crossing Six Corners\", Filament Theatre original production, Feb. 22, 23 &amp; 24, 4041 N. Milwaukee Ave., Free!  Play created based on interviews with residents of our neighborhoods on the NW side.  Come see Six Corners get its closeup!\n\nMore info:  http://www.filamenttheatre.org/crossing-six-corners/\n\n*********************\n\nArts Evolution: Inaugural arts festival and original staged reading celebrating Darwin Day\nFriday, Saturday, and Sunday, Feb. 22, 23, 24\n St. John's Episcopal Church,  3857 N. Kostner Ave.\n\nOpening Gallery Reception , Friday, Feb. 22 , 7 to 9 p.m.\nView the works of a dozen local artists, enjoy a hors d'oeuvres and wine, purchase a piece for your private collection! Free and open to the public.  The gallery will also be open for viewing on Saturday, Feb. 23, from 4 to 7 p.m. and Sunday, Feb. 24 from 10 a.m. to 1 p.m.\n\nOn Trial: Intelligent Design and Evolution Saturday, Feb. 23,  7 p.m.\n\nThis staged reading will focus on selected portions of testimony and the judge's final decision interspersed with responses from everyday Americans to the 2005 Supreme Court case Tammy Kitzmiller, et al. v. Dover Area School District, et al (the first U.S. federal court test of a public school policy that required the teaching of intelligent design). The staged reading--which explores what science is and is not--is in celebration of Darwin Day, a yearly international festival of science and humanity in honor of Charles Darwin's birthday on February 12.\n ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18p23x/some_theater_and_art_events_for_next_weekend_feb/"
+  }, {
+    "id" : 11,
+    "title" : "Old B of A Property 4901 W Irving",
+    "snippet" : "Anyone hearing anything?  There was some discussion on EB a few months back about someone looking at the property.  Can't seem to find any property transfer info on the CCRD site.   Haven't heard anything..but I did park in their parking lot this afternoon so i could walk over and look at construction permits for vacant lot that is threatening to be a Chipotle.  Only a developer listed and only demo and water permits...nothing that says what it will be :(. Haven't heard anything..but I did park in their parking lot this afternoon so i could walk over and look at construction permits for vacant lot that is threatening to be a Chipotle.  Only a developer listed and only demo and water permits...nothing that says what it will be :(. You parked at the lot by Dakin and Lamon?   Only way for something to happen with that property is if the building is demolished. Why do you say that?   ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18p38y/old_b_of_a_property_4901_w_irving/"
+  }, {
+    "id" : 12,
+    "title" : "Portage Park area listservs?",
+    "snippet" : "Any listservs with the goings on of the neighborhood?\n\nI'm currently in Logan Square and on four different listservs that keep me informed about what's happening. We're moving to Portage Park at the end of March and I'd love to start getting clued in to what's happening. ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18ox6m/portage_park_area_listservs/"
+  }, {
+    "id" : 13,
+    "title" : "Lazy Sunday Morning roundup",
+    "url" : "http://greatnwside.com/2013/02/17/lazy-sunday-morning-roundup/"
+  }, {
+    "id" : 14,
+    "title" : "Donuts &amp; More is coming soon to the retail space in front of Happy Foods on Devon &amp; Central",
+    "snippet" : "Nice to see another option besides a DD.    Yes they need a lot of support. ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18p1ob/donuts_more_is_coming_soon_to_the_retail_space_in/"
+  }, {
+    "id" : 15,
+    "title" : "Hi everyone.  I was posting as DebR on EB, glad to find you.",
+    "snippet" : "  Welcome. I'm sad to say there's no place like EB thus far. Posts just don't get the same play here or elsewhere. We're also scattered about on Circlesavvy and Wikiblock.\n\nhttp://chicago.wikiblock.com/ Hi everyone! I'm a fellow eb-er and have been cruising around the various sites...reddit, wiki block, nextdoor, circlesaavy... Sadly, none really compare. Wiki block and circlesaavy don't seem like they have a lot of traffic. Nextdoor is not only invasive with your address, but the boundaries are all screwed up! Reddit is super hard for me to look at. I just finally joined to make this comment, though i have been scanning it since the eb meltdown. Everyone seems to be all spread out over these sites. Too bad everyone can't agree on one place. Hi everyone! I'm a fellow eb-er and have been cruising around the various sites...reddit, wiki block, nextdoor, circlesaavy... Sadly, none really compare. Wiki block and circlesaavy don't seem like they have a lot of traffic. Nextdoor is not only invasive with your address, but the boundaries are all screwed up! Reddit is super hard for me to look at. I just finally joined to make this comment, though i have been scanning it since the eb meltdown. Everyone seems to be all spread out over these sites. Too bad everyone can't agree on one place.  Welcome   @lulu_d, I find reddit cumbersome too, but I'm glad to have a virtual meeting place.  Thanks, Kenji.  Maybe we'll learn more about reddit, or Kenji can find a better medium, but either way, I'm glad for the chance to talk about the NW side.  Hi all, Jefferson Park Enthusiast here from EB. This site has ADHD. Tried to set up NextDoor, but what an unwelcome burden, to be the person who attempts to decide the boundaries for Jefferson Park? 10 different options right there. We've got to get it figured out though. We've lost a major crowd-sourcing community tool. Wondering if it wouldn't make more sense to just do Wards?",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18niev/hi_everyone_i_was_posting_as_debr_on_eb_glad_to/"
+  }, {
+    "id" : 16,
+    "title" : "How can I get emails notifications from the alderman?",
+    "snippet" : "I'm in the 38th...He was active on EB which was great. I checked his site and didn't see anything to sign up for. Am I missing something?   Tim doesn't have a mass email sent out yet. He told me last week he's on it and working on the process. ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18o6js/how_can_i_get_emails_notifications_from_the/"
+  }, {
+    "id" : 17,
+    "title" : "Morning roundup - crime edition",
+    "snippet" : "[Here's the morning roundup](http://greatnwside.com/2013/02/16/saturday-morning-roundup-crime-edition/). In addition to the news, I take a look at something odd in the Portage Park crime stats. ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18mzn4/morning_roundup_crime_edition/"
+  }, {
+    "id" : 18,
+    "title" : "Ace Animal Hospital Break In - Last weekend",
+    "snippet" : "Just found out today that Ace had their office window broken and thieves got inside, last Saturday. Although nothing was taken and the perpetrators got away.  Hmm wonder if they were looking for ketamine.  maybe it was a lost dog just trying to get a bone &lt; lost dog reply generator&gt;  you really need to post this lost dog on the lost dogs IL facebook page  maybe it was a lost dog just trying to get a bone Funny you mention that. Ace was owned by Dr. Bone (no shit), he sold the biz to Dr. Doherty. Dr. Bone's speciality was english bulldogs. We had one (named Spike) when we moved here. reminded me of spike \nhttp://stagevu.com/img/thumbnail/apkgpbpxffqkbig.jpg kinda, those characters look like boxers. Spike is a stern but occasionally dumb American bulldog who is particularly disapproving of cats, but a softie when it comes to mice, and later, his son Tyke. In the shorts Jerry would often try to get Tom in trouble with Spike making him a shoo-in for a beating from the bulldog.\nhttp://en.wikipedia.org/wiki/Spike_and_Tyke_(characters)\n",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18npt9/ace_animal_hospital_break_in_last_weekend/"
+  }, {
+    "id" : 19,
+    "title" : "r/greatNWside • Impromptu Get Together Tonight Friday 8:30PM • 4055 N. Milwaukee Ave.",
+    "snippet" : "PC Here, the internet/computer place. http://www.pcherechicago.com/  I'll be wearing a black cap with a shamrock on it. Stop by and say hello and we can shoot the shit.  Sorry I missed it. Was watching my daughters get inducted into the Japanese National Honor Society last night. Yes, I'm a proud papa. Congratulations!\n\nI'm assuming they are white girls who both teach the Japanese language.\n\nHow do both girls end up with a love for Japanese? No, they're students. They liked the classes, and it just worked out for them. Very cool.\n\nI just read this the other day about Japan. It's was hard to believe. It's about their love of the fax machine:\n\nhttp://www.nytimes.com/2013/02/14/world/asia/in-japan-the-fax-machine-is-anything-but-a-relic.html?_r=0  ill stop through for a bit.  For a second there I thought you were inviting us to a new bar at 4055. Sigh...\n\nMaybe next time.  I'm here now. Typing on a PC, which is kinda weird. speaking of weird/new OS's... I'm on week 2 of Win8 coming from XP. Hello learning curve...\n\nBack on topic - where are we getting beers tonight? i have a laptop with windows 8, i hate it and am thinking about unloading it and putting windows 7 on it.  let me know how it works out. i'm this close to doing the same \n yeah, i tried to get used to it, but i think it is a little too much, i think it would be different if it was a tablet. i always go to the desktop on windows 8 first, it makes it easier to navigate from there, i still have not found out a way to close a window, it just opens another one. there are also a lot of ways to make it act like windows 7 and am researching them on the web now for my best option. if you have windows 8 pro with downgrade rights and a copy of windows 7 you can downgrade copying 7 right over 8. i have to see if i still have a copy of windows 7 if not, it looks like i would have to get another one and it's not the cheapest. I have Vista and it works okay. dork! http://www.thefreedictionary.com/dork speaking of weird/new OS's... I'm on week 2 of Win8 coming from XP. Hello learning curve...\n\nBack on topic - where are we getting beers tonight? I just ran down to the Savoy and brought a six pack back to the PC Here. We're here. next time man. BYOB at the internets cafe. giddy up.  we'll do it again. soon. It's fun to go somewhere, compute and talk with others, drink some beers, and hang out. Impromptu. I just ran down to the Savoy and brought a six pack back to the PC Here. We're here. I'm here now. Typing on a PC, which is kinda weird. I don't have a laptop.  It's pc or smartphone.  Smartphone is why there are typos. dork. Lucky for you unneighborly comments are permitted here. Let's call Becca at home after we email her our reddit comments and get her personal opinion. She's using those donated Nokia cellphones now. I'll bet she's sitting pretty for a little while. It was NBC she worked for. whatta ya think? 50K severance?",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18m2jd/rgreatnwside_impromptu_get_together_tonight/"
+  }, {
+    "id" : 20,
+    "title" : "anyone know where pattymelt is?  ",
+    "snippet" : "anyone know where pattymelt is?  \n\nreddit, circle savvy, wikiblock, other?\n\ni hope her evil twin tunamelt did't get her    Yeah that's where it was.  We have a lot of people still getting comfy with the format and the tone of reddit.  But almost 100 readers. Umm. the \"subscribe\" button to the right doesn't mean total \"readers\". It's just folks who click the subscribe button. Actually we've had just about 10000 page reads in the last week from over 1000 different people, so you know. Just saying.  Tuna never wins. that is because she is kinda fishy  You are off the hook.",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18mbg5/anyone_know_where_pattymelt_is/"
+  }, {
+    "id" : 21,
+    "title" : "Big Ole Hawk Spotted",
+    "snippet" : "Dakin and Leclaire.   Wingspan had to be a few feet.  Brown with white chest.   Flew up and was perched on top of a pine tree sunning himself.  Looked to be about twice the size of a crow.  Sorry no pics.   Watch your small doggies! Coyotes will watch them Two-for-one on my block. One yappy little guy across the alley and one a couple doors down. I can only hope...   We have quite a few large hawks in our area.  [Red Tails](http://www.allaboutbirds.org/guide/Red-tailed_Hawk/id), [Cooper's Hawks](http://www.allaboutbirds.org/guide/Coopers_Hawk/id) being the most common for me.   Think this is my third sighting.  First time a few days after I moved in saw one chasing a pigeon over my backyard, second a couple blackbirds/crows chasing one way up and then today.  \n\nGrendel you seem to know a thing or two about wildlife around these parts.  Years ago I read about the renovation of the old Dunning/Read conservation area. Anything progressing there?  I'd love to help.  Think this is my third sighting.  First time a few days after I moved in saw one chasing a pigeon over my backyard, second a couple blackbirds/crows chasing one way up and then today.  \n\nGrendel you seem to know a thing or two about wildlife around these parts.  Years ago I read about the renovation of the old Dunning/Read conservation area. Anything progressing there?  I'd love to help.  Think this is my third sighting.  First time a few days after I moved in saw one chasing a pigeon over my backyard, second a couple blackbirds/crows chasing one way up and then today.  \n\nGrendel you seem to know a thing or two about wildlife around these parts.  Years ago I read about the renovation of the old Dunning/Read conservation area. Anything progressing there?  I'd love to help.  I have seen cooper hawks around Wilson Park area for a couple of years now.  Last year there were some baby bunnies nesting in the CVS parking lot at Milwaukee &amp; Lawrence and the hawks were just scooping them up one by one :(  while I like bunnies there is one that frequents my backyard. and poops. alot.  and what does my dog do?  eat all the poop. going on 4 months of bunny poop and dog eating it battle...   vets says it's ok to eat but all the dog wants to do is go out constantly in order to sniff out and eat said bunny poop.  \n\nMaybe he'll catch said bunny one of these days. \n\n while I like bunnies there is one that frequents my backyard. and poops. alot.  and what does my dog do?  eat all the poop. going on 4 months of bunny poop and dog eating it battle...   vets says it's ok to eat but all the dog wants to do is go out constantly in order to sniff out and eat said bunny poop.  \n\nMaybe he'll catch said bunny one of these days. \n\n",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18lvvq/big_ole_hawk_spotted/"
+  }, {
+    "id" : 22,
+    "title" : "Gale Street Inn Showing Love • Heck Yeah Chicago",
+    "url" : "http://www.reddit.com/r/chicago/comments/18lvx0/something_amazing_happen_for_my_horribly_dated/"
+  }, {
+    "id" : 23,
+    "title" : "BOOLOOKAS • ?",
+    "snippet" : "  http://articles.chicagotribune.com/1986-07-12/news/8602190506_1_army-officer-belmont-baptist-greek-orthodox-church  Isn't there a building near Milwaukee and Foster that has similar lettering that reads Bochenek?   a picture is worth one thousand words    Off topic, but I am reading a book on the Gaylords and apparently in 1984 they had a set at Montrose and Narragansett.   We moved here in 85. The graffiti here was Gaylords and Simon City Royals. Like the gangs here now I don't think the Gaylords had a sophisticated top down corporate style business model for making oodles cash here. It seemed to be more about territory and chest thumping. It appears that the main bunch was at Fullerton and Lawndale at that time.  They had little satellite sets in other parts of the North Side like Belden and Knox.\n\nThe Simon City Royals were the other white gang and were based at Paulina and Cornelia. Off topic, but I am reading a book on the Gaylords and apparently in 1984 they had a set at Montrose and Narragansett.   There were some wannabe Gaylords around that area back then but we never took them seriously. They would mostly hang out and try to cause trouble over at the Axle Roller Rink in Norridge. I was in HS then and we all thought they were a big joke. One guy pulled a little toothpick-like knife out on a friend of mine. The friend was a black belt and didn't take kindly to being threatened. Until then I honestly thought people getting disarmed by a guy in three seconds only happened in kung-fu movies. Quite a thing to see.",
+    "url" : "https://dl.dropbox.com/u/16556159/boolookas.jpg"
+  }, {
+    "id" : 24,
+    "title" : "Karate Class",
+    "url" : "http://ppshelpinghands.wordpress.com/2013/02/15/karate-class/"
+  }, {
+    "id" : 25,
+    "title" : "TGIF morning roundup",
+    "snippet" : " ",
+    "url" : "http://greatnwside.com/2013/02/15/tgif-morning-roundup/"
+  }, {
+    "id" : 26,
+    "title" : "Friends of Thorp",
+    "snippet" : " ",
+    "url" : "http://www.friendsofthorp.org/about/"
+  }, {
+    "id" : 27,
+    "title" : "Portage Park Shooter • Next Trial Date March 12th 2013",
+    "snippet" : "Room 107, again. ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18kdns/portage_park_shooter_next_trial_date_march_12th/"
+  }, {
+    "id" : 28,
+    "title" : "We're all in Gary now",
+    "url" : "http://fakeisthenewreal.org/reform/"
+  }, {
+    "id" : 29,
+    "title" : "One Huge Difference Between Logan Square and Jefferson and Portage Park",
+    "snippet" : "  Yea I agree on that big difference but when gang members move into a \"good\" neighborhood like here that just might happen eventually. Not if the neighbors on the block keep their eyes peeled and call 911 whenever shithead behavior is going on. Each and every time. Not if the neighbors on the block keep their eyes peeled and call 911 whenever shithead behavior is going on. Each and every time. surely people in Logan Austin &amp; Bronzeville did &amp; continue to do that very thing.  I'd say no to that. welp I can only speak for family who held on near Augusta &amp; Long till the late 80's. They &amp; the other folks round there call ALL the time and it's only gotten worse. Just sayin it can &amp; do happen regardless Not if the neighbors on the block keep their eyes peeled and call 911 whenever shithead behavior is going on. Each and every time. I dunno. I almost walked into some crossfire on Cuyler &amp; Milwaukee two Thursdays ago, called the police and found the next day (as an officer was writing a report for the windshield of a car that had a bullethole in it up a 'vandalism') that 'nobody called anything in'. Obviously (and thankfully) not the same as getting the windows in my apartment shot up, but it did skew my confidence in the neighborhood and the responsiveness of CPD. \"...called the police\"\n\"...nobody called anything in\"\nI'm cornfuzed  I dunno. I almost walked into some crossfire on Cuyler &amp; Milwaukee two Thursdays ago, called the police and found the next day (as an officer was writing a report for the windshield of a car that had a bullethole in it up a 'vandalism') that 'nobody called anything in'. Obviously (and thankfully) not the same as getting the windows in my apartment shot up, but it did skew my confidence in the neighborhood and the responsiveness of CPD. You heard and saw bullets flying here on Cuyler and Milwaukee and didn't call 911 while it was happening?\n\nYou made this same post/info on EB, right? I did call 911, I was told by a police officer the next day however that no one had. \n\nI didn't post this on EveryBlock, signed up for an account there the day before they shut down. How would the cop know every call that comes in to 911?  Just because he wasn't told about it doesn't mean it didn't occur and that other cops in 16 weren't told about it. I did call 911, I was told by a police officer the next day however that no one had. \n\nI didn't post this on EveryBlock, signed up for an account there the day before they shut down. be prepared for him to challenge you on everything unless you'r a member of \"the clique\". be prepared for him to challenge you on everything unless you'r a member of \"the clique\". @ Ksotzie - Clique?  Which EB troll were you?  \n\n@ harrylee773  - Details make a world of difference.  \" *Almost* walked into crossfire\" is lacking details.  Throw us a bone.  Did you hear shots, look out your window, see nothing and call it in as shots fired?  Were you walking down the street as it happened?  What exactly did you see?\n\nAs for the cop saying no one called it in - I doubt it.  Did you happen to notice the district and beat number on top of the cops car that was taking the hole in the windshield report?  If the number on top  of the car didn't start with 16 (1620, 23, 33 ect) it wasn't a beat cop and likely an evidence tech or ex desk jockey from area 3 north who has no clue as to whats going on in our district.   I don't know... there were three or four shots fired near Lavergne and Roscoe around 6:30 tonight. I heard them but wasn't quite sure if they were shots or fireworks so I didn't call. I went out a little later and the alley was full of cops. Turned the scanner on and all I heard is they are looking for two shooters wearing red caps. If you find any details post up. What ward is that over by there?",
+    "url" : "http://www.reddit.com/r/chicago/comments/18hyic/chicago_violence_enters_my_front_windows/"
+  }, {
+    "id" : 30,
+    "title" : "r/greatNWside internet traffic statistics - Feb 14 2013",
+    "url" : "https://dl.dropbox.com/u/16556159/traffic_feb142013.jpg"
+  }, {
+    "id" : 31,
+    "title" : "Ready Access to How Our Tax Money is Spent - Track Campaign Contributions Too",
+    "url" : "http://www.ilreference.com/about_us"
+  }, {
+    "id" : 32,
+    "title" : "Hunter Spotted on LeClaire at 7:23am Today",
+    "snippet" : "  send em towards Irving and have him ticket the taxis that constantly park on my block.  Can't a commercial vehicle park on Irving at night and during the day? I've heard a few different explanations of the law.   Arena's office said taxis are allowed on my block because it's considered commercial, CPD says it's considered residential due to the 2 flats and have ticketed in the past.  Normally I deal with it because it's one or two just overnight off and on.  \n\n6 months ago I took issue with a suburban cab company was using my block to park 3 taxi's for weeks at a time.  I called the cab co, tried to reason with him and he blew me off - \"go ahead, call the cops\".  So I did.  Everyday. For a week.   They were ticketed a few days in a row, one got a tow notice for parking 7 days without moving.  About 6 tickets later the cab co got the picture and I haven't seen one of their cabs parked on our block for 6 months.  \n\n Nice that your street is always plowed and salted too. I hate cabs, glad they don't park over by me!\n\nxrawv, don't be jealous cause my street is always salted and plowed too hahaha",
+    "url" : "http://dl.dropbox.com/u/16556159/hunter-leclaire.jpg"
+  }, {
+    "id" : 33,
+    "title" : "Volunteer Opportunities Available • Hands to Help Ministries",
+    "snippet" : "Hands to Help Ministries provides assistance to the homeless and those in crisis on the Northwest Side of Chicago.\n\nhttp://www.handstohelpministries.org/\n\n\nWe have the following volunteer opportunities available:\n\nOFFICE HELP\nVolunteers are needed to help in the office on Wednesdays from 10:45 a.m. to\n1 p.m. The job consists of general receptionist work: Greeting clients,\nserving coffee, filling out paperwork, occasionally lending an ear. HTH is\nideally looking for 4 people: One volunteer to be scheduled for 1 week per\nmonth. \n\nERRAND RUNNER\nIf you have a car, and bits of free time each week, this might be perfect\nfor you. Occasionally our Outreach Worker requests items for our clients\n(CTA card, toiletries, etc.), so the runner's job would be to go out and get\nthese when needed. Runners will be reimbursed by HTH. You may need to\ncoordinate pickup of donated items as well. A valid drivers' license is\nneeded.\n\nFor those interested in Office Help or Errand Runner job, please contact Lee\nStein at 312-608-1465 or leesstein@gmail.com\n\nTUESDAY NIGHT OUTREACH\nVolunteers are needed to provide lunches in lunch bags and take them to one\nof two designated areas. Groups of 4 Volunteers will pass out lunches to\nthose who are in need, and offer information about HTH. We are looking for a\ncore of 4 to 12 people for this program. Tuesday Night volunteers will\nattend a short 1.5-hour training for this exciting job!\n\nLUNCHES for TUES. NIGHT OUTREACH\nVolunteer groups are needed to make about 10 to 20 simple lunches for our\noutreach volunteers to pass along to clients on Tuesday nights.\nThis is a wonderful opportunity for churches, scouting troops, high school\nstudents, or any other group of people who want to do something to directly\nhelp their community!\n\nFor those interested in Lunch-making or Tuesday Night Outreach, please\ncontact Rev. Kara at 773-960-1889 or rector@stjohnschicago.com\n",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18iqs8/volunteer_opportunities_available_hands_to_help/"
+  }, {
+    "id" : 34,
+    "title" : "V-day morning roundup",
+    "url" : "http://greatnwside.com/2013/02/14/v-day-morning-roundup/"
+  }, {
+    "id" : 35,
+    "title" : "City Council RLC Investigation",
+    "snippet" : "  In light of recent Chicago Tribune investigations revealing malfeasance by RLC contractor RedFlex, Ald. John Arena (45th) is spearheading a resolution to conduct hearings into whether these devices produce actual documented safety benefits and not just revenue.\nIt's about time...... \n",
+    "url" : "http://www.chicagotribune.com/news/local/ct-met-city-council-0214-20130214,0,7554964.story"
+  }, {
+    "id" : 36,
+    "title" : "You go John (Red-Light Cams)",
+    "snippet" : "ribune stories that Redflex lavished sporting trips on a former city transportation official and lied about it to City Hall call into question the company's procedures for placing the cameras, said sponsoring Ald. John Arena.\n\n\"The original ordinance calls for better traffic safety, but we don't really know the standards they used,\" said Arena, 45th. \"We want officials from (the Chicago Department of Transportation) to come in and give us specifics on the analysis and on whether these intersections are safer now.\"",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18ig36/you_go_john_redlight_cams/"
+  }, {
+    "id" : 37,
+    "title" : "Community Alert from the 38th Ward Portage Park",
+    "snippet" : "On February 12, 2013, at approximately 3:00 PM, an individual claiming to be a city employee/Supervisor rang the bell of a resident in the 5500 Block of W. Pensacola indicating that the city was going to be trimming their trees the same afternoon. This individual also asked the resident if he/she had a water meter.\n \nThere were no city trucks or vehicles present and the individual did not offer up any identification.\n \nThe individual used the last name of Rizzo or Russo and is a White male, approximately 40 years old, tall &amp; stocky build, dressed in a canvas beige jacket and construction boots.\n \nA quick check with the City Water and Forestry departments indicates that this individual is NOT a city employee.\n \nIf anyone is approached by or sees an individual matching this description in the Portage Park Area, call 911 immediately and under any circumstances DO NOT OPEN YOUR DOOR.\n \nPlease pass this information along to all of your neighbors.\n \nThank you!\n \nAld.Tim Cullerton\n38th Ward\n5817 W. Irving Park Rd.\nChicago, IL 60634   How does one go about signing up for the 38th ward mailing list? (couldn't find it on their site) \n\nFrom my front porch I think I can throw a baseball west and make it into the 38th with a good bounce or 2 and some favorable roll.  How does one go about signing up for the 38th ward mailing list? (couldn't find it on their site) \n\nFrom my front porch I think I can throw a baseball west and make it into the 38th with a good bounce or 2 and some favorable roll.   Alderman Cullerton... happy but not surprised to see you here.  Yes, these are tough budget times, but you are aware of how effective EB was proving as a community development tool.  Please consider ways the City could support future similar community information exchange forums. Drat.  Was punked by that xrawv creature reposting from someplace.  Tim's not here yet it seems. Drat.  Was punked by that xrawv creature reposting from someplace.  Tim's not here yet it seems. yup that Kenji is a punk  that was a long time ago. we used to hang at O'Banions. Now I'm old, fat and gray. Kenji, old punkers never die, they just stand in the back now.",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18hfxz/community_alert_from_the_38th_ward_portage_park/"
+  }, {
+    "id" : 38,
+    "title" : "Gold Coast Madam: The Secret Life of Rose Laws",
+    "url" : "http://greatnwside.com/2013/02/13/gold-coast-madam-the-secret-life-of-rose-laws/"
+  }, {
+    "id" : 39,
+    "title" : "greatNWside Gathering - Tues PM Feb 19th - Central Kitchen and Tap",
+    "snippet" : "\"A Neighbors Get Together\"\nTuesday, February 19th \n7:30 - 9:30 PM\nCentral Kitchen &amp; Tap\n4800 North Central Avenue\n\nhttp://www.centralkitchenandtap.com/  Be there or be square. Be there or be square.   Central Kitchen pissed me off beyond belief today. Don't know if I'll be back for a while. Enjoy, folks. Hmm. Details please. Nothing dramatic. I was just hungry, and when I'm hungry, I'm easily annoyed.\n\nI called ahead as I always do. When I showed up, my food was already waiting for me on the counter. There was a line of about four groups of people ahead of me so I got in it.\n\nAll the people were taking an eternity to order. They were deciding what they wanted to eat at the register, asking for recommendations, that sort of thing.\n\nI went up to the gray-haired guy at the counter and asked if there's a separate line for carry-out. \"You Chris?\" he asked. \"Yeah,\" I said. Then he responds, \"No.\"\n\nSo I had to wait in line for over 10 minutes watching my food sit on the counter and get cold while people in front of me wondered if they should try the mac and cheese.\n\nWhat's the point of calling ahead if you don't get priority when it comes to checking out? It's silly. How did you know your bag(s) were ready after he said \"no\", or did you figure that out after he handed it to you 10 minutes after you walked in the door?  didn't know this subreddit existed.. I live next to the place :P Welcome. If you had to take a stab of a guess how many pounds of Brown's fried chicken have you ingested since you've lived there?",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18gcaa/greatnwside_gathering_tues_pm_feb_19th_central/"
+  }, {
+    "id" : 40,
+    "title" : "Reddit v. WikiBlock v. NextDoor v. CircleSavvy",
+    "snippet" : "Would like to read your comments about the pros/cons of these forums.   CIRCLESAVVY post here: CIRCLESAVVY post here: seems posts are deleted after a certain amount of time seems posts are deleted after a certain amount of time They clarified that posts do not in fact delete. They're still there under your \"my circle,\" even after they become inactive (ie, no posts for more than 30 days). Even so, if you respond to it, it'll bump back new. Chris, which one are you going with for now?  NEXTDOOR post here: After looking at NextDoor, I'm not going to be able to post there.  Can't give a private entity my name &amp; address, then create content for them.  I would do it if I paid a subscription, so I would have a leg to stand on, but not for now.  This is why I don't use Facebook.  exactly for that reason I don't think ND will have many people joining from a large swath of city neighborhoods. I mean I can see a whole block in the city or over the alley fence neighbors joining to keep in touch wih each other.  WIKIBLOCK post here: Waiting to see WikiBlocks terms of use &amp; privacy policy.  Looks very promising though. From what I know about WikiBlock (which is little) is the following:\n1) it's based on very very old code base of EB.  Like over 3 years old.  Most of the basic features we'd come to expect in EB won't be present in WB.\n2) the open source version is not wrapped up in a bow for an install.  It's patchy and kinda shoe stringed\n3) it appears to be written against AWS for an infrastructure, and appears to be kinda tethered to it.  AWS is the most robust and stable, but the most expensive.\n4) it appears to be only one person working on this at the moment, and the individual appears to be more of a business person than a hard core software engineer (from his linked in profile, if the whois that was registered is actually the person setting this up).  I would expect new features to be introduced at a snails pace.  I would expect terms of use and privacy policy to be far from this individual's mind.  I think just getting something up is his focus.  He's requested help from other devs, but as far as I know he hasn't gotten back to any (disclosure, I threw my hat in the ring to help as I have much experience with AWS infrastructure, and haven't heard anything back).\n\nJust what I know to keep expectations realistic.  Don't read this as criticizing this individual.  I thoroughly respect what this person is trying to do, and I am thoroughly impressed with what this individual has accomplished so far.\n Is AWS the Amazon thingy?  Not a geek.  I hope they contact you.  If you're the Chris with the DeNiro avatar, I've enjoyed your valuable content/contributions on EB. I'm sorry, I forget acronyms mean nothing to most people out of context.  Yes, AWS is Amazon Web Services.  It's a competitor on the cloud based computing front.  It's by far the best, and richest offering, but the most expensive service.  I have not delved deep into the WB code base, but the way they appeared to be storing avatars and images in the EB version used a AWS only feature, that says to me there are probably several constraints to AWS in the code base.  Personally, I favor AWS, but it puts a potential financial burden on an individual doing this if that is the case.  If set up right (redundancy, backups, load balancing, dev/stage/prod environments for rolling out new features, code repository, etc), with moderate traffic, I estimate anywhere from $500 to 2k a month for AWS charges once it's in full swing.\n\nI'm a Java/Spring guy, WB is a python/Django app.  I know very little about python, but do have interest.  Where I thought I might be able to help them is on the AWS side as I have experience with that while I come up to speed on Python.  Been looking for a community proj to be on, and this one just looks fun.\n\nYep, I was the Chris with the DeNiro avatar (and last two weeks of EB with D. Boon avatar).  I liked your posts too Glad, even though your nick was Glad2B, I always read it mentally as Gladys for some reason, which gave me the mental connection to someone I knew and like when I lived in Austin.  That was prob TMI.  Thanks for the comp. though! Wow, that's a lot of money for AWS.  I would pay $10/month for a good place.  Thanks for the explanation and deets.  If you end up going anywhere else, can you let me know?  Signed, Gladys Kravitz. Waiting to see WikiBlocks terms of use &amp; privacy policy.  Looks very promising though. Looks like Wikiblock is addressing some of those concerns.\n\nhttp://chicago.wikiblock.com/neighbor-messages/?by-categories=wikiblock WIKIBLOCK post here: WIKIBLOCK post here:  REDDIT post here: likely stay here.  multitudes of other stuff to pass the time.  Me too...don't see an alternative yet.  I like the news summary blog that Tim Broderick is putting together.   Missy, have you looked at the others?  If so, care to share why Reddit is your choice for now? I have...I am mostly in agreement with your assessment of sites.  I started the OIP NextDoor community but it hasn't gotten any traction.  Even so...it is a smaller community (and not NW side) and the OIP community already has two strong emailing groups and a two FB pages that are used a lot...so seems redundant.  Wikiblocks - not ready for prime time - like you said I admire the effort - but I'm not going to give them my email (I don't have patience to maintain multiple email addresses).  CircleSavvy didn't look that interesting to me last week, but just went there and looks like it is getting traction....maybe :).  I swear like a sailor in real life...so don't a problem with anything I have seen on Kenji's site or NWSide site.  That said, I have no tolerance for racist, sexist or anything else that demeans people of any shapes, sizes or color.  Back in EB days, I turned away from some of the homeless threads because I couldn't stand some of the comments and what seemed to be a complete disregard for humanity... likely stay here.  multitudes of other stuff to pass the time.  Multitudes.\n\nETA:  I'm just emphasizing the word multitudes, That Guy.  I won't post one word replies anymore to avoid clogging the thread.  That's prolly bad Reddiquette. Estimated time of arrival? likely stay here.  multitudes of other stuff to pass the time.  I will likely stay here as well.  I was at an open gov hack night last night and asked one of the original EB guys why there was not an outrage in the open community.  He seems to think there is and was kind enough to give me an addy for the eb guy that wrote the UIs for EB that we have grown to love. REDDIT post here: One good thing for me.....Taking advantage of another subreddit to bring news from the racing webzine. REDDIT post here: Reddit is hard to pick up, but still trying.  Not a fan of the crass, lewd and vulgar.  It's not that I can't take it (or dish it), just don't want to have to deal with peeps who want to interact this way on a reg basis.  Just stating my opinion.  There's Monty Python, then there's Workaholics.  I'm more Python.  every subreddit within reddit has it's own rules and reddiquette/netiquette. You are doing a disservice if you paint all of reddit as crass/lewd/vulgar, because it isn't. That is true.  To be honest, I will prolly most likely stay in Reddit.  I could do without the cussing (masking is fine), for example.  I don't want to tell people how to post, however, I think if you want a wider audience for GNWS, maybe something this fundamental could be implemented.  Or not.  at what age did you read A Catcher in the Rye? I read it every year and I started at 9.  My parents didn't know what I was reading.  Speaking of parents.  If I took them out to dinner and the next table over by us was having a convo complete with expletives, I would ask for another table.  My Dad could get salty, but the point is for me is that others behave with more consideration in public.  I would like GNWS to be a place I could ask my rents to go to follow up on stuff in the hood.  That's all. so if we wanted to make gnws g-rated how does it keep sanitized? eb had employees 365/24/7, people who got paid. there's no employees here. OK so you direct your parents to come to GNWS on reddit. what keeps them from finding the porn and other adult groups on reddit? two accidental clicks and they could have penis on the screen in front of them, easily. I'm up for talking about your idea though. Maybe you can start a new thread like, \"How would you make GNWS better?\"  I would post the cussing thing, or mask it (WTF or F*ck).  My rents may be able to handle that.  I would just tell them to go to GNWS and tell them not to stray too far from the cruise ship/resort and avoid venturing into town on a moped with half a tank of gas, they'll KWIM. You can bookmark just this subreddit for them.  That's what I do for convenience as I check it throughout the day. I read it every year and I started at 9.  My parents didn't know what I was reading.  Speaking of parents.  If I took them out to dinner and the next table over by us was having a convo complete with expletives, I would ask for another table.  My Dad could get salty, but the point is for me is that others behave with more consideration in public.  I would like GNWS to be a place I could ask my rents to go to follow up on stuff in the hood.  That's all. I read it every year and I started at 9.  My parents didn't know what I was reading.  Speaking of parents.  If I took them out to dinner and the next table over by us was having a convo complete with expletives, I would ask for another table.  My Dad could get salty, but the point is for me is that others behave with more consideration in public.  I would like GNWS to be a place I could ask my rents to go to follow up on stuff in the hood.  That's all. one more thought. I believe we can set the prefs so that if a post gets a certain amount of downvotes it disappears from the mainpage. You know about Reddit karma, right? at what age did you read A Catcher in the Rye?  Maybe I've missed it but I haven't seen much swearing in this subreddit yet. Maybe I've missed it but I haven't seen much swearing in this subreddit yet. Shit, Piss, Fuck, Cunt, Cocksucker, Motherfucker and Tits.\n\nBetter? I've never really understood why motherfucker was one of the 7.  It's still based on fuck, which is already in that list. I think the incest angle freaks people out.  It used to be that MF was the most offensive term of the bunch, but I think the c word has replaced it.  You can expect to be slapped if you use it. Shit, Piss, Fuck, Cunt, Cocksucker, Motherfucker and Tits.\n\nBetter? Shit, Piss, Fuck, Cunt, Cocksucker, Motherfucker and Tits.\n\nBetter? Shit, Piss, Fuck, Cunt, Cocksucker, Motherfucker and Tits.\n\nBetter?   It would be nice if the Aldermen would join in as they participated in EB and it was great to have that ready connection.  However, I don't think they would join or stay if they joined with profanity or other such talk to be read...I'm just sayin' Mods, I agree with this.  What do you think? Hard to say. I'm sure Tim's heard his share of salty language considering he used to be an electrician. Probably unlikely he'd be phased by it. Don't know about Arena.\n\nReddit in general is an oddball place for politicians. On the one hand, you've got polies, even Obama and Biden, posting AMA (ask me anythings) and answering questions. It's seen as a great place to connect with the unwashed masses. On the other hand, I don't know of many polies participating on a local level because it's a bit too personal. For instance, I've never seen an alderman post on r/Chicago.\n\nKnowing Kenji, he's probably extended the welcome mat to both of them already, but they may not feel comfortable with Reddit. May be best to have a happy medium in posting communications from them until the day they decide to join.\n Ha! \"phased\".....electrician pun! Mods, I agree with this.  What do you think? Mods, I agree with this.  What do you think? To recap, posters on this subReddit will be allowed to use any of the swear words found in the inaugural post of Mr. Carlin for reasons beyond illustrative purposes which may include said words to be used against another poster.   There is now a Southeast Portage Park NextDoor.com section if you are between Addison-Belmont, Cicero-Laramie.\nhttps://southeastportagepark.nextdoor.com\nYou do not need to use a credit card to verify your address. There is an option to have the site call your home phone to verify the address, or you can have verification mailed to you.\nYou can also just show your street name in your profile and you can fudge your name if you feel the need. How many Portage Park enclaves are there?  Do you still get updates for just plain Portage Park, what about surrounding like Jeff Park, etc.? You enter your address to see if you are in an established area, if not you can create one and be the King (you set the borders)  ;-)\nThere are still a few open sections within the actual portage park neighborhood.\n\nHere is some info from nextdoor...\n\nThanks for your feedback on Nextdoor 2.0! We realize there is some confusion on the new Nearby Neighborhoods feature and thought it might be helpful to quickly answer the most frequently asked questions: \n\nDo I have to post my message to nearby neighborhoods? \nNo. You always have the option to post just to your neighborhood or to include nearby neighborhoods. \n\nCan neighbors from nearby neighborhoods see messages I have posted only to my neighborhood? \nNo. Posts just to your neighborhood are never displayed outside your neighborhood. \n\nCan neighbors from nearby neighborhoods see my profile? \nNo. Information about you is never shared outside your neighborhood unless you explicitly choose to post/reply/thank a message shared with nearby neighborhoods. \n\nIf you choose to post/reply/thank a message shared with nearby neighborhoods, then those neighbors will see a limited profile containing only your name, neighborhood, photo and activity stats. They will not see your street name, street address, or any of the other profile details you have shared with your neighborhood. \n\nCan I see posts ONLY from my neighborhood? \nYes. Click your neighborhood name in the left column of the Home Page to only view posts from your neighborhood. We will be releasing an update to the website at the end of next week to make this selection persistent. \n\nSince posting to nearby neighborhoods reaches many more neighbors, it is important to be respectful and stay on-topic. Please avoid commercial or self-promotional messages. Here are some of the best examples of when to post to nearby neighborhoods: \n\n- Sharing information about suspicious activity occurring in several neighborhoods. \n- Finding a lost pet that may have wandered into an adjoining neighborhood. \n- Rallying neighbors from multiple neighborhoods to address civic issues. \n\n",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18gldw/reddit_v_wikiblock_v_nextdoor_v_circlesavvy/"
+  }, {
+    "id" : 41,
+    "title" : "Bread &amp; Wine, iNG to Swap Spaces Next Month",
+    "url" : "http://chicago.eater.com/archives/2013/02/13/bread-wine-ing-to-swap-spaces-next-month.php"
+  }, {
+    "id" : 42,
+    "title" : "Ladies Night!  And a chance to win sponsorship for your school!",
+    "snippet" : " [Description]\n\t\nCome on out for our monthly LADIES NIGHT! If you haven't noticed, Ladies Night has moved to the second Wednesday of the month! This month is our Valentines Day Special! We will have a live cooking demonstration from Chef Aaron of the Wagyu Wagon starting at 6:30pm! To go along with the food creations, we will have wine flights to pair with the meal that is created.\n\nAfter dinner, we will make our traditional trek over to The Gift Theatre to watch the Natural Gas improv show at 8pm for only $5. Once the show is completed, we will make our way back to Fichman's to finish out the night with more fun with the ladies! This will be one ladies night you WON'T want to miss!\n\nAlso, we would be honored to sponsor your school! Come in this Wednesday for Ladies Night and drop your schools name into our pot! The selected school will get sponsorship at a Ladies Night of your choice!\n\nOn the night you choose, your school will receive 15% of sales, 2 reserved tables in the front of the bar, promotional shout outs for upcoming events on our Facebook, Twitter and website! Have a flyer or handout? Feel free to drop those off as well and we will help circulate them! \n\n\nhttps://www.facebook.com/events/373426072752966/",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18gqe8/ladies_night_and_a_chance_to_win_sponsorship_for/"
+  }, {
+    "id" : 43,
+    "title" : "Morning roundup, pre-Valentine edition",
+    "snippet" : " ",
+    "url" : "http://greatnwside.com/2013/02/13/morning-0213/"
+  }, {
+    "id" : 44,
+    "title" : "are you puerto rican?",
+    "snippet" : "I just found out about the yumminess of guava paste. after you open the big Goya can but don't eat it all, how do you store the leftovers? Mason jar?  Is one required to be PR in order to know how to store said leftovers?  ever buy and store goya guava paste for long term storage and still feed other PR's with it, in your past? Why must the people I feed be PR?  This whole stinks of racism.  You might as well drop a few f-bombs for good measure. \n\nI'm Irish.  Wrap it in foil, ziplock it, freeze it, vacu-seal it -  whatever floats your boat. \n\n(I hope get that I'm yanking you chain man ;)    what is it - like Jelly?   yeah...like a marmalade. Not cloying sweet though. A puerto rican guy at one my liquor stores cut slices of apple up and we had it on the apple slices. I then went out and got my own. yum - sounds good...mason jar does sound like a good idea. yeah...like a marmalade. Not cloying sweet though. A puerto rican guy at one my liquor stores cut slices of apple up and we had it on the apple slices. I then went out and got my own.",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18gkt9/are_you_puerto_rican/"
+  }, {
+    "id" : 45,
+    "title" : "Friends of Portage Park Winter Market • Sunday Feb 17",
+    "snippet" : "Friends of Portage Park Winter Market\n\nSunday 10:00 AM - 2:00 PM\nThis Indoor Farmer's Market will be held periodically on Sundays from December to May. Additional market dates are March 3rd, March 17th, April 7th, April 21st and May 5th. Vendors will include farmers from around the region, bakeries and other local food providers. There will also be free musical entertainment at each market.\n\nThe Portage Theater\n4050 N. Milwaukee Ave.\n\nhttp://www.friendsofportagepark.org/ ",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18g3wk/friends_of_portage_park_winter_market_sunday_feb/"
+  }, {
+    "id" : 46,
+    "title" : "Where is your Chicago neighborhood, and how do you define the boundaries? r/chicago",
+    "url" : "http://www.reddit.com/r/chicago/comments/18g6nr/where_is_your_chicago_neighborhood_and_how_do_you/"
+  }, {
+    "id" : 47,
+    "title" : "Interesting intersection of census data and Google maps",
+    "snippet" : "  I forget where it was mentioned, but someone recently said that they thought a certain school shouldn't have had a high percentage of low income kids in it... I thought this site might give an interesting view of income levels to answer questions like that. Your comment assumes that children attend their neighborhood schools.   ",
+    "url" : "http://www.richblockspoorblocks.com/"
+  }, {
+    "id" : 48,
+    "title" : "Portage Park Garden Club Meeting • Saturday Feb 23rd 9:30 AM",
+    "snippet" : "Portage Park Garden Club Meeting\n\nThe Portage Park Garden Club is having it's first meeting of the year. This is a chance to meet and mix with fellow gardeners in addition to planning and voting on issues concerning our 2013 club and meetings, throughout the meeting we will have a continuous slide show of our 2012 PPGC year and we are asking members to come prepared to discuss \"What are your gardening plans for 2013?\". Also, please bring non-perishable items to this meeting to donate to the St. Vincent DePaul Society's Our Lady of Victory Food Pantry now located at St. John's Lutheran Church. All food pantries in the Chicago area are in need of donations.\nAustin-Irving Library\n6100 W Irving Park Road. \nPlease contact portageparkgc@comcast.net with any questions.  I had a family event yesterday &amp; couldn't go to this - any word on how it went? Does the GC have a newsletter/distribution list I can get on?\nThanks!!",
+    "url" : "http://www.reddit.com/r/greatNWside/comments/18fgyd/portage_park_garden_club_meeting_saturday_feb/"
+  }, {
+    "id" : 49,
+    "title" : "Mardis Gras Day",
+    "snippet" : " ",
+    "url" : "http://www.youtube.com/watch?v=PgOrIar_qGk"
+  } ],
+  "processing-time-source" : 56,
+  "processing-result.title" : "greatnwside1_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/greatnwside1_reddit.xml"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "processing-time-total" : 1066,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 9,
+    "score" : 25.581166072897414,
+    "phrases" : [ "Class" ],
+    "documents" : [ 0, 9, 13, 15, 19, 37, 38, 40, 47 ],
+    "attributes" : {
+      "score" : 25.581166072897414
+    }
+  }, {
+    "id" : 1,
+    "size" : 8,
+    "score" : 48.012669647028346,
+    "phrases" : [ "Deleted" ],
+    "documents" : [ 2, 3, 9, 22, 27, 34, 41, 48 ],
+    "attributes" : {
+      "score" : 48.012669647028346
+    }
+  }, {
+    "id" : 2,
+    "size" : 5,
+    "score" : 39.69942510939434,
+    "phrases" : [ "Hours" ],
+    "documents" : [ 0, 17, 25, 26, 35 ],
+    "attributes" : {
+      "score" : 39.69942510939434
+    }
+  }, {
+    "id" : 3,
+    "size" : 4,
+    "score" : 26.815718216573742,
+    "phrases" : [ "Helped me a Lot" ],
+    "documents" : [ 12, 22, 28, 33 ],
+    "attributes" : {
+      "score" : 26.815718216573742
+    }
+  }, {
+    "id" : 4,
+    "size" : 4,
+    "score" : 36.80910574107583,
+    "phrases" : [ "Thank you very much for the Help" ],
+    "documents" : [ 3, 8, 15, 22 ],
+    "attributes" : {
+      "score" : 36.80910574107583
+    }
+  }, {
+    "id" : 5,
+    "size" : 3,
+    "score" : 29.758682951567664,
+    "phrases" : [ "Recommend" ],
+    "documents" : [ 0, 22, 37 ],
+    "attributes" : {
+      "score" : 29.758682951567664
+    }
+  }, {
+    "id" : 6,
+    "size" : 3,
+    "score" : 26.40788071742951,
+    "phrases" : [ "Set" ],
+    "documents" : [ 7, 14, 22 ],
+    "attributes" : {
+      "score" : 26.40788071742951
+    }
+  }, {
+    "id" : 7,
+    "size" : 3,
+    "score" : 33.088844782743436,
+    "phrases" : [ "Teaching" ],
+    "documents" : [ 11, 15, 22 ],
+    "attributes" : {
+      "score" : 33.088844782743436
+    }
+  }, {
+    "id" : 8,
+    "size" : 2,
+    "score" : 23.252373612110425,
+    "phrases" : [ "Animals" ],
+    "documents" : [ 3, 27 ],
+    "attributes" : {
+      "score" : 23.252373612110425
+    }
+  }, {
+    "id" : 9,
+    "size" : 2,
+    "score" : 42.779826550828396,
+    "phrases" : [ "Cool Projects" ],
+    "documents" : [ 19, 28 ],
+    "attributes" : {
+      "score" : 42.779826550828396
+    }
+  }, {
+    "id" : 10,
+    "size" : 2,
+    "score" : 41.154264106491496,
+    "phrases" : [ "Engineering Hall" ],
+    "documents" : [ 6, 29 ],
+    "attributes" : {
+      "score" : 41.154264106491496
+    }
+  }, {
+    "id" : 11,
+    "size" : 2,
+    "score" : 43.42467390186502,
+    "phrases" : [ "Housing" ],
+    "documents" : [ 28, 49 ],
+    "attributes" : {
+      "score" : 43.42467390186502
+    }
+  }, {
+    "id" : 12,
+    "size" : 2,
+    "score" : 64.74990322520145,
+    "phrases" : [ "Jam Session will be Tuesday the 29th" ],
+    "documents" : [ 31, 43 ],
+    "attributes" : {
+      "score" : 64.74990322520145
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 21.437281311777774,
+    "phrases" : [ "Know what Year" ],
+    "documents" : [ 32, 44 ],
+    "attributes" : {
+      "score" : 21.437281311777774
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 27.82885326185669,
+    "phrases" : [ "Learn" ],
+    "documents" : [ 13, 15 ],
+    "attributes" : {
+      "score" : 27.82885326185669
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 44.450476385403405,
+    "phrases" : [ "Merry Ann's in Downtown Champaign" ],
+    "documents" : [ 4, 26 ],
+    "attributes" : {
+      "score" : 44.450476385403405
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 36.06353878330595,
+    "phrases" : [ "Moves" ],
+    "documents" : [ 5, 26 ],
+    "attributes" : {
+      "score" : 36.06353878330595
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 25.84790778355959,
+    "phrases" : [ "Police" ],
+    "documents" : [ 29, 44 ],
+    "attributes" : {
+      "score" : 25.84790778355959
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 47.74841546862346,
+    "phrases" : [ "RSO" ],
+    "documents" : [ 16, 36 ],
+    "attributes" : {
+      "score" : 47.74841546862346
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 68.37483281887192,
+    "phrases" : [ "Samsung Galaxy S3" ],
+    "documents" : [ 17, 45 ],
+    "attributes" : {
+      "score" : 68.37483281887192
+    }
+  }, {
+    "id" : 20,
+    "size" : 2,
+    "score" : 45.7769755462087,
+    "phrases" : [ "Teams" ],
+    "documents" : [ 12, 42 ],
+    "attributes" : {
+      "score" : 45.7769755462087
+    }
+  }, {
+    "id" : 21,
+    "size" : 10,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 1, 10, 18, 20, 21, 23, 24, 30, 39, 46 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 977,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "Grader for CS 473?",
+    "snippet" : "We are looking for several graders for CS 473 spring 2013. If you got a decent grade in the class, and you are interested, please email the instructors in the class. Generally speaking it involves 6-10 hours of work every three weeks out of four. The pay is not amazing, but if you do a good job, we will be happy to write you a recommendation letter, its a good line to have on your cv, and I am sure you would get some extra stuff when you reach heaven (or the other direction, as the case might be).",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16xob8/grader_for_cs_473/"
+  }, {
+    "id" : 1,
+    "title" : "Things to do/places to go today and tomorrow",
+    "snippet" : "I don't have much work to do the next couple days of the long weekend, and I want to go or see somewhere in C-U I haven't been before or do something interesting, anyone have any suggestions?     Will the busses be running tomorrow?  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16y0od/things_to_doplaces_to_go_today_and_tomorrow/"
+  }, {
+    "id" : 2,
+    "title" : "Not a student, but new to the area. Where can I get a cheap pre-employment physical?",
+    "snippet" : "I hope it's ok to post here. I figure you guys might know the area better than I do.   http://www.ccchc2003.org/\n\nI've never actually been there, so I'm not sure.   [deleted]",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16wuv4/not_a_student_but_new_to_the_area_where_can_i_get/"
+  }, {
+    "id" : 3,
+    "title" : "Found this on the local craigslist",
+    "snippet" : "  Is it normal to drown baby goats? I've really never lived anywhere near a farm, so I'm really clueless. Does sound barbaric :(      Oh no! It's been flagged for deletion. Anyone have a copy of the original?  &gt;My dad said we have to drown the ones we can't get rid of in the creek like last time.\n\n...I'm considering alerting the authorities.\n\n\nEDIT: I've reported this to Animal Control; I'm doubtful that they'll step in and investigate but if there's a chance that those goats can be euthanized humanely (or relocated), I'll take it. Go ahead and shower me in imaginary internet downvotes; I've done what I can to help. Im sorry about all your downvotes. I really don't get why people would do that. I guess people don't take animal cruelty seriously :( Thanks, and yes, the lack of compassion is indeed alarming. I assume the lack of compassion is because most people assume it's probably just a joke. And there's a reason why you shouldn't assume things...you never know. Besides, I'm sure if it were kittens or puppies instead, people would have had a much more adverse reaction. &gt;My dad said we have to drown the ones we can't get rid of in the creek like last time.\n\n...I'm considering alerting the authorities.\n\n\nEDIT: I've reported this to Animal Control; I'm doubtful that they'll step in and investigate but if there's a chance that those goats can be euthanized humanely (or relocated), I'll take it. Go ahead and shower me in imaginary internet downvotes; I've done what I can to help. omg someone is killing animals on a farm lets get 'em! omg someone is killing animals on a farm lets get 'em! 1) Just because it's on a farm doesn't justify the drowning of animals, \n\n2) there are much more humane ways to euthanize animals, \n\n3) or, you know, take them to an animal shelter that will help relocate them, \n\n4) have some damn compassion. 1) Just because it's on a farm doesn't justify the drowning of animals, \n\n2) there are much more humane ways to euthanize animals, \n\n3) or, you know, take them to an animal shelter that will help relocate them, \n\n4) have some damn compassion. 1) Just because it's on a farm doesn't justify the drowning of animals, \n\n2) there are much more humane ways to euthanize animals, \n\n3) or, you know, take them to an animal shelter that will help relocate them, \n\n4) have some damn compassion. &gt;My dad said we have to drown the ones we can't get rid of in the creek like last time.\n\n...I'm considering alerting the authorities.\n\n\nEDIT: I've reported this to Animal Control; I'm doubtful that they'll step in and investigate but if there's a chance that those goats can be euthanized humanely (or relocated), I'll take it. Go ahead and shower me in imaginary internet downvotes; I've done what I can to help. why should the farmer be a slave to his animals and be forced to feed them? well the human race is only completely parasitic and our only place/reconciliation for our crimes is in absolute slave service to every other living thing on the planet. mostly cilantro. ",
+    "url" : "http://chambana.craigslist.org/pet/3556857856.html"
+  }, {
+    "id" : 4,
+    "title" : "Meetup Reminder, tonight 8pm, Merry Ann's Downtown Champaign",
+    "snippet" : "[original post](http://www.reddit.com/r/UIUC/comments/16rk0o/reddit_meetup_saturday_1192013_8pm/)\n\nI'll be updating the original post when we switch locations. See you tonight!   oh boy, I miss their hangover stacks...  If you folks are looking for something else to do post-Merry Ann's, some friends of mine are playing at Mike &amp; Molly's tonight. $7, 19+, starts at 9. Really? 3 downvotes for a live music suggestion? Does /r/uiuc hate music THAT much? It seems like whenever someone posts anything about upcoming shows or anything like that, it just gets downvoted.  Meh, quite a jaunt for what I expect won't be all that much before it becomes essentially 21+ exclusive. Maybe next time. Meh, quite a jaunt for what I expect won't be all that much before it becomes essentially 21+ exclusive. Maybe next time. All ages ended up staying. Blind Pig only cards at the bar. Next time!",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16wcjj/meetup_reminder_tonight_8pm_merry_anns_downtown/"
+  }, {
+    "id" : 5,
+    "title" : "No such thing as too early, Show Me Your Moves 14 announced!",
+    "url" : "http://smashboards.com/showthread.php?t=332744"
+  }, {
+    "id" : 6,
+    "title" : "How to find something to do over the summer with a sub 3.0 GPA",
+    "snippet" : "I'm an engineering student and I know that getting my GPA (2.76) back up is the most important thing to do, but I understand that it will be, at max, a 3.2ish when I graduate. That being said, I know it's now important for me to have \"previous experience\" for my resume to supplant my GPA. However, most things require at least a 3.0 GPA. How do I find something to do (or who at engineering hall can I talk to about this)? It doesn't even have to be an engineering internship!    What engineering major are you?   ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16w4bg/how_to_find_something_to_do_over_the_summer_with/"
+  }, {
+    "id" : 7,
+    "title" : "Apply for Campus Committees. Set real University policy!",
+    "url" : "http://studentaffairs.illinois.edu/campuscommittees/"
+  }, {
+    "id" : 8,
+    "title" : "Spring Rush",
+    "snippet" : "Hey guys, I was hoping to rush a fraternity this semester but have been having a hard time finding rush events this weekend.  Any help would be nice. thanks!   ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16vxeg/spring_rush/"
+  }, {
+    "id" : 9,
+    "title" : "So Portuguese only requires 3 courses???",
+    "snippet" : "Hi! Long time lurker and I'm in a bit of a situation. Does Port. only require 400, 401, and an extra course? A counselor suggested to start on my language requirements this semester, but I don't know which to pick. She suggested Portuguese, and from what I've read it seems like I only need to take 3 classes. A definite plus! Any other languages that only require 3 classes? I couldn't find any others, but I might have missed some. If you could help that would be great since I won't be able to talk to a counselor on this 3 day weekend.  All the languages have at least 3 semesters. The certainly offer more then 3 semesters. But you don't have to take the 4th level(or 5th,6th,7th.....etc) if you don't want to.    [deleted] ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16wjj5/so_portuguese_only_requires_3_courses/"
+  }, {
+    "id" : 10,
+    "title" : "Does anybody know what happened at ISR last night/this morning?",
+    "snippet" : "I was walking by around 1 AM last night and saw an ambulance/fire truck/stretcher and a bunch of people standing around outside.  Probably just a transport for some resident that was passed out from alcohol poisoning.\n\nSource: I'm an RA in Champaign I walked in at 12 and there was a girl who was completely drunk.  Her friends were carrying her in.  It could be her.\n\nEDIT:  I can't spell her. I walked in at 12 and there was a girl who was completely drunk.  Her friends were carrying her in.  It could be her.\n\nEDIT:  I can't spell her. Did they get to here in time?  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16w65h/does_anybody_know_what_happened_at_isr_last/"
+  }, {
+    "id" : 11,
+    "title" : "Seeking nominations for Teaching Excellence Awards",
+    "snippet" : "Shared at the author's request:\n\n&gt;Senators &amp; friends,\n\n&gt;On behalf of the Illinois Student Senate's Academic Affairs Committee, I ask that you please consider nominating an excellent faculty member,\nlecturer, instructor, TA, etc. for a Teaching Excellence Award!  The five\nTeaching Excellence Awards given by the Illinois Student Senate on behalf of the Student Body every year present an excellent opportunity for students to recognize instructors who have really made a difference in their lives and for and others at UIUC.  This year, by submitting a\nnomination, students have the option of having their statement anonymously sent to their instructor.  Award recipients are recognized by the Illinois Student Senate at a banquet in their honor.\n\n&gt;Nominations will be accepted until 11:59pm on 1/27.  Please consider\nforwarding this information to other students who might be interested in submitting a nomination!\n\n&gt;Thank you,\n\n&gt;-Jim Maskeri\n\n&gt;Chairman, ISS Standing Committee on Academic Affairs\n\n&gt;Nominations for ISS Teaching Excellence Awards, 2012-2013*\n\n&gt;Nominate up until 11:59pm on Sunday, Jan. 27th.\n\n&gt;The Illinois Student Senate awards five Teaching Excellence Awards every year on behalf of the Student Body. The award recipients will be recognized by the Senate at a banquet in their honor. If you had a great instructor, nominate them to receive a Teaching Excellence Award! Teaching Assistants ARE eligible to receive this award, and you may nominate more than one instructor. Nominate your excellent instructors at the link below. Questions may be directed to Jim Maskeri at maskeri1@illinois.edu.\n\n&gt;https://illinois.edu/fb/sec/5096495\n\nTLDR; Nominations for ISS Teaching Excellence Awards (2012-2013) close at 11:59pm on Sunday, Jan. 27th. Acknowledge the outstanding teachers in your life!   ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16wadn/seeking_nominations_for_teaching_excellence_awards/"
+  }, {
+    "id" : 12,
+    "title" : "Announcing the Social Gaming Club League of Legends Championships! ~$500 in prizing, thousands in giveaways, and a live finals! Details inside",
+    "snippet" : "**Event information**\n---\n---\n**Pre-tournament event**\n\nSunday January 27 1-4PM **-** Illini Union Ballroom\n\nThis event is being hosted so that people without teams can mingle with other summoners and find teams. You may also come here to register.\n\nFacebook event: http://www.facebook.com/events/528822227141462\n\n**Social Gaming Club In-House**\n\nDrafting: February 1 (time/place TBD)\n\nPlaying: Saturday February 2 1PM-8PM **-** Gregory Hall\n\nIf you're not sure if you can stand up to other LoL players on campus, watch our club's in-house and see how you measure against a pre-selected group of players. If you are not able to attend the pre-tournament event, you may also register by coming to the in-house (though you will miss out on the free stuff)\n\n[Club stream](http://www.twitch.tv/socialgamingclub)\n\n**Main event**\n\nFriday-Sunday February 8-10 **-** Online only\n\nThis is the main event of the tournament. Teams will play 6 Swiss-system rounds, from which the top 4 teams advance into a single elimination bracket. The entry fee for this tournament is $25 per team for UIUC students; there is a registration link at the bottom of this page.\n\n**Grand Finals**\n\nSaturday February 23 7PM **-** Gregory Hall\n\nWe will be hosting a live, in-person finals between the top two teams. The semis and the third place match will be played sometime between 2/10 and 2/23 and will be streamed through twitch.tv.\n\n**Prizes**\n---\n---\n\nThis prize pool is based on 16 registered teams. It will be increased or decreased based on a smaller or larger pool of teams.\n\nFirst place: $100 in RP + $100 in cash + 5x Triumphant Ryze\n\nSecond place: $75 in RP + $50 in cash\n\nThird place: $50 in RP + $25 in cash\n\nFourth place: $25 in RP + $25 in cash\n\n**Riot Social Support**\n---\n---\nThe following items will be given out at various times during these events:\n\n270 League of Legends wristbands\n\n135 Gangplank Orange stress balls\n\n18 Teemo hats\n\n**Links**\n---\n---\n\n[**Detailed information**](http://uiucsocialgamers.wordpress.com/events/lol/sp13/)\n\n[**Pre-registration**](https://docs.google.com/a/illinois.edu/spreadsheet/viewform?formkey=dDZPOHF5cG1yMjBQQlhVa1pxM1FFb3c6MQ#gid=0)\n\n[**Social Gaming Club**](http://uiucsocialgamers.wordpress.com/)\n\n[**Social Gaming Club facebook page**](http://www.facebook.com/groups/SocialGamingClub/)\n\n[**UIUC League of Legends facebook page**](http://www.facebook.com/groups/loluiuc/)\n\n[**Tournament stream**](http://www.twitch.tv/socialgamingclub)\n\n[**Sign up for League of Legends**](http://signup.leagueoflegends.com/?ref=4e834e0683d43560786468)  Wow! How did you get the money for this? Excellent work!\n\nIf you need help looking through the replays and making them into a cool product, please get in touch with me. I've been looking for a good stack of replays to get started on. My first step in this direction was this: http://i.imgur.com/RC48g.jpg, but I have a lot of different ideas for what to do. That particular image is pretty ugly, but you get the idea.\n\nLet me know! Holy shit you did this? I saw this when I believe it was posted on the original league subreddit and it was awesome. I have some replays from the Azubu Tournament and scrims I could give you. Yup -- I have a lot of ideas but I'm missing good replays to use (since I only really have my own replays, and I dont want to make COOL INFOGRAPHIC SHOWING HOW AWESOME I SUPPORTED).\n\nAre the replays actual Lolreplay files, or like, rendered videos? If you have lrf's I would be so excited. Yup -- I have a lot of ideas but I'm missing good replays to use (since I only really have my own replays, and I dont want to make COOL INFOGRAPHIC SHOWING HOW AWESOME I SUPPORTED).\n\nAre the replays actual Lolreplay files, or like, rendered videos? If you have lrf's I would be so excited. Wow! How did you get the money for this? Excellent work!\n\nIf you need help looking through the replays and making them into a cool product, please get in touch with me. I've been looking for a good stack of replays to get started on. My first step in this direction was this: http://i.imgur.com/RC48g.jpg, but I have a lot of different ideas for what to do. That particular image is pretty ugly, but you get the idea.\n\nLet me know!  baylife  Is this only open to UIUC students. I live in the area and while I don't play LoL I have many friends that would likely be interested.  $10 per person for non-students (as opposed to $5 for students)\n\nEdit: You also have to be able to physically come down here for the finals.  I just want a god damned teemo hat to go with my recent neckbeard, too bad I've been a month away from league :/ ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16udid/announcing_the_social_gaming_club_league_of/"
+  }, {
+    "id" : 13,
+    "title" : "Classes to learn about investing?",
+    "snippet" : "I'm not a finance or econ major, but I'm very interested in learning about investing and the intricacies of the market. What are the best 4-5 classes to take to cover most ground on the subject?   There is already a topic on this so try searching that. You have to first understand that there wont be a 100-200 level class on just the stock market. ACE 240 spends a week or two on the market, but that is it. ACE 444 is a semester long market course that goes over equities, bonds, options and futures (Note: this has pre-reqs but they are not enforced.\n\nThen I know FIN 300 does the same thing but I have heard that class is intense.\n\nI am a firm believer you can learn almost anything you want about the markets through investopedia.com  I thought there was a FIN/ACCY class in the high 100s or low 200s that was just called, \"Personal Finance\"  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16vl3a/classes_to_learn_about_investing/"
+  }, {
+    "id" : 14,
+    "title" : "Is there anything set up for the 2013 Global Game Jam on the 25-27th? Something in Siebel?",
+    "snippet" : "Check out: http://globalgamejam.org/\n\nSeems like there would be some people interested. ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16uph4/is_there_anything_set_up_for_the_2013_global_game/"
+  }, {
+    "id" : 15,
+    "title" : "How good in Intro to Rock Climbing at the ARC",
+    "snippet" : "I'm thinking of taking their course, but I'm not sure how good it is, or who their target audience are. I've never done rock climbing before, but really want to learn it. Just wanted to get some feedback before putting in $60.\n\nedit: Here's the link to the course http://www.campusrec.illinois.edu/adventure/climb_clinics.html   Personally I wouldn't bother.  I would join the Climbing Club, they're a bunch of very friendly guys and girls who would be more than willing to teach you how to climb.  \n\nThey even have dedicated trips every semester to go outdoors to teach noobies how to climb.  Save your $60 and just make friends.\n\nIf you want I can put you in touch w/ the club president. Personally I wouldn't bother.  I would join the Climbing Club, they're a bunch of very friendly guys and girls who would be more than willing to teach you how to climb.  \n\nThey even have dedicated trips every semester to go outdoors to teach noobies how to climb.  Save your $60 and just make friends.\n\nIf you want I can put you in touch w/ the club president.  Can we get a link to the course? I can talk to some of the guys at the wall today when I go about it, I get the feeling that it will be taught by people in the club more than anything.  To belay (you want to if you expect to climb with any regularity), you need to spend $15 for the test, and the course covers that (and rentals while you're taking it), factoring that in, you're looking at more like $35-$40 for the content of the course (which I can't speak for other than that I have faith in the people teaching it).  I'll message someone and get back to you w.r.t. content. Belay certification is $10 by the way. It is $10 starting now and your certification lasts until the day before classes start in fall. If you certify in the fall it is $15 as it lasts for a full year.   I work there but don't teach the class - I would take the top rope belay clinic instead ($30), and start going and making friends. Everyone there is super friendly and will help you learn how to climb and it will save you some money. I would still take the clinic instead of the test because I don't want to have to fail you. We're supposed to be pretty strict and I don't feel comfortable passing someone who obviously learned five minutes ago. If you have any questions, feel free to PM me. Hey, thanks for this! I'm considering going for the belay clinic tonight...but you're sure they don't expect previous climbing knowledge? Also, is gear provided/available for rent?",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16tvhq/how_good_in_intro_to_rock_climbing_at_the_arc/"
+  }, {
+    "id" : 16,
+    "title" : "Best Pre-Med RSO's?\n",
+    "snippet" : "I was wondering if anyone could give me insight on the best Pre-med RSO's here on campus, and if they are taking new members. Any input is appreciated, thanks.  I went to undergrad here and I am now in Med School here.\n\nDon't worry about joining the pre-med society and all that other jazz if you're only trying to improve your application.  Just be genuine.\n\n* Join RSOs that you're interested in, not ones that you think med schools will appreciate.\n* Get as much clinical experience as possible to prove your commitment to the field.\n* Good grades and MCAT scores are important, but try to show interest in things outside of academics also.\n  What's the point?",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16u43d/best_premed_rsos/"
+  }, {
+    "id" : 17,
+    "title" : "Found: Samsung Galaxy S3 in Everitt Student Lounge",
+    "snippet" : "Seems like someone left a Samsung Galaxy S3 in the Everitt student lounge, yet nobody has come to claim it for over an hour. It's in the EWS lost-and-found in Everitt 252. \n\nEdit: Found  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16ub84/found_samsung_galaxy_s3_in_everitt_student_lounge/"
+  }, {
+    "id" : 18,
+    "title" : "Does anyone want a ride to St. Louis tonight and/or back on Monday evening?",
+    "snippet" : "  Thanks for posting. I live around there and have the hardest time finding transpo. to and from when I need it. I'll look in the future. \n\nAlso seconding the City Museum - if you go to STL and you don't head there, you did it wrong. Also, weekend nights it is 18 and up and open until midnight, plus has an adjacent bar, to which you can go between the two.\n  I mean I don't have anything to do in St. Louis but it could be fun?\n\n**EDIT**: Of course there are things to do there. I mean I don't have any particular need to, and I wouldn't be going with anybody, which would make everything really strange. Perhaps if I were 21 and able to partake in the bar scene, but I am not yet. That said, thank you for the suggestions, I will keep them in mind if I ever visit St. Louis! I mean I don't have anything to do in St. Louis but it could be fun?\n\n**EDIT**: Of course there are things to do there. I mean I don't have any particular need to, and I wouldn't be going with anybody, which would make everything really strange. Perhaps if I were 21 and able to partake in the bar scene, but I am not yet. That said, thank you for the suggestions, I will keep them in mind if I ever visit St. Louis! I mean I don't have anything to do in St. Louis but it could be fun?\n\n**EDIT**: Of course there are things to do there. I mean I don't have any particular need to, and I wouldn't be going with anybody, which would make everything really strange. Perhaps if I were 21 and able to partake in the bar scene, but I am not yet. That said, thank you for the suggestions, I will keep them in mind if I ever visit St. Louis! I mean I don't have anything to do in St. Louis but it could be fun?\n\n**EDIT**: Of course there are things to do there. I mean I don't have any particular need to, and I wouldn't be going with anybody, which would make everything really strange. Perhaps if I were 21 and able to partake in the bar scene, but I am not yet. That said, thank you for the suggestions, I will keep them in mind if I ever visit St. Louis!",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16tls4/does_anyone_want_a_ride_to_st_louis_tonight_andor/"
+  }, {
+    "id" : 19,
+    "title" : "Career Expo Advice From Recruiters - AMA",
+    "snippet" : "We are a group of engineering recruiters who have been on both sides of the table at the career fair. AMA. Make sure to check out our other post about preparing for career fair [way over here](http://www.reddit.com/r/EngineeringStudents/comments/16tx3f/3_things_to_do_before_the_career_fair_advice_from/)  What's more important? Hard classes or cool projects to talk about? Cool projects absolutely. Everyone who has the same degree as you has had the hard class. You don't gain much by pointing that out.\n\nCool projects, especially those you do on your own (i.e., not school related), are always a new experience and allow for a much better story. Just think about it, would you rather listen to someone talk about a hard class or a kick-ass mechanized robot they built.  Does anyone really care about your minor?",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16u57n/career_expo_advice_from_recruiters_ama/"
+  }, {
+    "id" : 20,
+    "title" : "Health Inspection Failures in Champaign County Restaurants",
+    "snippet" : "  Hurray!  Black Dog isn't on the list!  :D  I think Mandarin Wok wins(?) this contest:\n\n* 5/10/2010 - \"Live German roaches seen on wall behind prep sinks\"\n* 7/30/2012 - \"Live cockroaches were found in kitchen and prep room\"     The Iron Post's are classic.   Is Black Dog the only one not on the list?? I feel like that's every restaurant in C-U... Is Black Dog the only one not on the list?? I feel like that's every restaurant in C-U...   woori jib, 4/24/2012. Score: -6. NEGATIVE SIX. I don't know what that even means, but if you can fail with a 30, I'm guessing these aren't golf rules.\n\nEDIT: Date corrected, question answered. It looks like there's a modifier based on repeat offenses, and this was their sixth within whatever that time period may be. So that's a lot of offenses to repeat. Scores below zero require immediate closure and an approval process to reopen. Also, I've never been there, just found it clicking on map locations. You can click and read the report. Most of them sounded fairly minor to a non-professional chef like me. Btw, negative score means you have to close immediately and fix it  Now I don't want DP dough tonight :( Now I don't want DP dough tonight :( Now I don't want DP dough tonight :(      the thing is that if you have time to clean your restaurant, you probably don't have a lot of customers You should read through some of the reports, you'll quickly realize that a lot of the problems are much more than just a day's worth of mess. It's actually pretty interesting to see some of the problem's that places had, and also how ridiculous some of the deductions are (I think Seven Saint's got deducted for someone having a closed bottle of Advil in the back...).  the thing is that if you have time to clean your restaurant, you probably don't have a lot of customers",
+    "url" : "http://cu-citizenaccess.org/feature/restaurant-inspections"
+  }, {
+    "id" : 21,
+    "title" : "UI box.com accounts increased to 50GB",
+    "snippet" : "  Does anyone know the restrictions on file sizes?   We have U of I cloud storage? It recently replaced the CITES NetFiles service.  It's still pretty new. Is this an equivalent to Dropbox, or do they have some differing features? I've heard of Box but I know nothing about how it works. Wish they could work it out with dropbox instead. My (possibly inaccurate) understanding is that Dropbox wouldn't work with us to modify the language of the Terms of Use and/or guarantee that the data would be stored in the US and/or that the data would be stored on a FERPA compliant server, possibly hosted locally at UIUC. Is this an equivalent to Dropbox, or do they have some differing features? I've heard of Box but I know nothing about how it works. Is this an equivalent to Dropbox, or do they have some differing features? I've heard of Box but I know nothing about how it works. From my experience, uploads to Box take forever. Also, their \"batch uploading\" (for if you're trying to upload a directory) relies on a junky java applet. Is this an equivalent to Dropbox, or do they have some differing features? I've heard of Box but I know nothing about how it works. ",
+    "url" : "http://illinois.edu/lb/article/1303/70350"
+  }, {
+    "id" : 22,
+    "title" : "Transgender support in Champaign-Urbana",
+    "snippet" : "I've been looking around the internet to find some information on where I can go in the University or surrounding area for help with transgender issues.  I figured that reddit would be a good anonymous place to ask for help, since reddit is typically pretty understanding.  I haven't begun transition or anything, at the moment, I'm only looking for information.\n\nI would like to find a counselor or therapist to speak to about these issues.  I'm not sure what kind of services like this are available at McKinley and I certainly don't want to walk up to the front desk and ask about it.  Are there any therapists or clinics in Champaign-Urbana that work with transgender people?  Does anyone have any experience with this?  Any information or anywhere you can point me to get more information would very much appreciated.  You might try contacting the [LGBT Resource Center] (http://studentaffairs.illinois.edu/diversity/lgbt/index.html). Even if their staff can't help, they might be able to recommend outside therapists or clinics.  You can try the Counseling Center at the Turner Student Service building.\nLink is [here](http://www.counselingcenter.illinois.edu/). They helped me a lot when I was in need. If you have any more questions, feel free to PM me. You can try the Counseling Center at the Turner Student Service building.\nLink is [here](http://www.counselingcenter.illinois.edu/). They helped me a lot when I was in need. If you have any more questions, feel free to PM me. I went to the site and went through the list of counselors and found someone that I'd like to talk to.  Do I pretty much have to call the office and set up an appointment or could I e-mail one of the counselors and ask them about an appointment or advice in general directly?\n\noh and thank you very much for the help What I've been told (and experienced) is that for the first appointment, you need to call the morning of the day you want the appointment and schedule. Future appointments can be scheduled ahead of time. I don't know if you can ask for someone in particular, but I'm sure they'll tell you when you call. Give it a shot! It's a great resource. I went to the site and went through the list of counselors and found someone that I'd like to talk to.  Do I pretty much have to call the office and set up an appointment or could I e-mail one of the counselors and ask them about an appointment or advice in general directly?\n\noh and thank you very much for the help   I came here, as a CU native, to make sure to apologize on behalf of the hateful fool I was sure I'd find writing in your comments.  I'm very sorry that anyone would take the time to tear you down when you reach out to your community.  Anyone who would have such spiteful religious words for their neighbors didn't read their scriptures well.\n\nI'm sorry again, and I want to remind you there's still profound hope and deep love for you in the world.\n\n(I know that's super weird.  Sorry.)    [deleted] This is absolutely disgusting. You are a horrible person desperately in need of updating your worldview. You're in desperate need of the Holy Spirit.\n\"But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.\" Revelations 21:8 When you start making moral decisions based on a book that treats sorcery as a legitimate concern, it's time to take a serious look at your decision making process. You're in desperate need of the Holy Spirit.\n\"But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.\" Revelations 21:8 You're in desperate need of the Holy Spirit.\n\"But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.\" Revelations 21:8 You're in desperate need of the Holy Spirit.\n\"But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.\" Revelations 21:8 [deleted] That's cute.  I'm used to it though.  Didn't your parents teach you the whole \"can't say something nice, don't say anything\" routine?  I don't care what you think of me, but do me a favor and keep it to yourself. LOL. I have a right to say what I want when Americans' safety as a God-fearing nation is in question. LOL. I have a right to say what I want when Americans' safety as a God-fearing nation is in question. [deleted] [deleted]",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16sgq1/transgender_support_in_champaignurbana/"
+  }, {
+    "id" : 23,
+    "title" : "So...Illinois just got blown out by Northwestern at home.",
+    "snippet" : "Do we sound the alarms yet?  I hope not.  I desperately hope this doesn't become like last year.   I was there tonight. The officiating was awful, but that doesn't change the fact we played horrible. Other than the Ohio State game, the past couple weeks have really sucked.  I was there tonight. The officiating was awful, but that doesn't change the fact we played horrible. Other than the Ohio State game, the past couple weeks have really sucked.  WHY IS JIM BREWER ALLOWED TO REF!\n\nAlso, don't we always lose to NW at home?  Like it was said, our playing was sloppy, the game was choppy with no flow and any runs by the ILLINI were halted by fouls and bad calls. I think the guy that got kicked out of the orange krush section deserves a shout out, I'm assuming he said everything I was saying, the ref just happened to hear it.  I was watching him yell at the ref and was just thinking about the odds of him/somebody else from Orange Krush getting thrown out when the ref walked over there and threw him out. I gave that guy a huge cheer. I think the guy that got kicked out of the orange krush section deserves a shout out, I'm assuming he said everything I was saying, the ref just happened to hear it.  He was saying what everyone was shouting.  I could hear sections 7-8-9 and some of it cracked me up.  But Brewer is done, he is simply awful and if you objective followed his calls, there would be strong evidence of incompetence.\n\nThen again, college refs don't have incentives or regulations to follow.  There's no, if you're a good ref, this happens. He was saying what everyone was shouting.  I could hear sections 7-8-9 and some of it cracked me up.  But Brewer is done, he is simply awful and if you objective followed his calls, there would be strong evidence of incompetence.\n\nThen again, college refs don't have incentives or regulations to follow.  There's no, if you're a good ref, this happens. WHY IS JIM BREWER ALLOWED TO REF!\n\nAlso, don't we always lose to NW at home?  Like it was said, our playing was sloppy, the game was choppy with no flow and any runs by the ILLINI were halted by fouls and bad calls. &gt; Also, don't we always lose to NW at home?\n\nUhh... no. Northwestern is 6-39 at Assembly Hall. They just got their 6th win against us at home. In 50 years. I totally read the wrong thing then.\n\nedit: what's our record at NW?  I should just google this.     What IS it with the \"running out of steam\" phenomenon we've been subject to the past few years?! Clearly it wasn't Bruce Weber's fault. As much as things will suck this year, long term, look for Groce to improve things. The beginning of this season is a very good sign for the future; he'll recruit players who can stand his rapid pace for an entire season. What IS it with the \"running out of steam\" phenomenon we've been subject to the past few years?! Clearly it wasn't Bruce Weber's fault. As much as things will suck this year, long term, look for Groce to improve things. The beginning of this season is a very good sign for the future; he'll recruit players who can stand his rapid pace for an entire season.  We are rebuilding. As much as it frustrates me, it's going to take time.\n\n",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16spiv/soillinois_just_got_blown_out_by_northwestern_at/"
+  }, {
+    "id" : 24,
+    "title" : "Tyler Griffey is one of us!",
+    "snippet" : "  Somebody should suggest him \nr/regainyourconfidenceandstartmakingjumpshotsagain\n Somebody should suggest him \nr/regainyourconfidenceandstartmakingjumpshotsagain\n Somebody should suggest him \nr/regainyourconfidenceandstartmakingjumpshotsagain\n  Reddit is the [66th](http://www.alexa.com/siteinfo/reddit.com) most popular website in the USA, I don't see what is so surprising here. IT'S A SECRET CLUB THAT ONLY A FEW PEOPLE GO ON IT'S A SECRET CLUB THAT ONLY A FEW PEOPLE GO ON SECRET TREEFORT   One of us! One of us!  AMA request?     Went to high school with him, same year.\n\nEdit: Why the hate? I'm just giving a factoid.  More like his publicist is tech savvy Student athletes don't get publicists... He's just one of your peers who happens to shoot a mean three pointer. Student athletes don't get publicists... He's just one of your peers who happens to shoot a mean three pointer.",
+    "url" : "http://i.imgur.com/Y7WNZ.jpg"
+  }, {
+    "id" : 25,
+    "title" : "Is there anywhere on campus to get a drivers license?",
+    "snippet" : "I lost my license and would rather not take a bus to the DMV on the outskirts of town, is there anywhere on campus that does drivers licenses?  Once a month, the Secretary of State holds Driver Services hours in the Union.  The following was posted in the January 6th eweek:\n\nSecretary of State's mobile unit in 217 Illini Union \nThe Secretary of State will be on campus Jan. 23 (Wednesday) from 9:30 a.m. to 3 p.m. in 217 Illini Union. Employees can renew, replace or correct driver's licenses and state IDs, and buy vehicle registration renewal stickers for license plates and U. of I. passenger vehicle and B-truck license plates.\n\nIf you can wait 5 days, you can save yourself a bus ride.  It specifically mentions employees, but I'm sure that students can use their service, as well. Uh, maybe CU government agencies are somehow nicer and have more common sense than other places, but if it says employees they probably just mean employees. They would mention students if they can use the service as well.\n\nHonestly, the DMV does it once a month, do you really think they'd let a shit-ton of kids clog up the lines? Do you really think they'd make UIUC employees go to the DMV to get stickers for UIUC vehicles because college kids are too lazy to get on a bus?  No. The nearest place is the Champaign DMV next to Parkland I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV. I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV. I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV. I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV. I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV. I'm fairly certain a bus runs out there. Just be sure to plan for a long day. I've never spent less than 3 hours in that DMV.",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16tmwy/is_there_anywhere_on_campus_to_get_a_drivers/"
+  }, {
+    "id" : 26,
+    "title" : "REDDIT MEETUP! Saturday 1/19/2013, 8pm",
+    "snippet" : "So the end of syllabus week approaches. Let's celebrate by drinking more! Let's get a group together and meet up at a bar on campus or downtown Champaign (or Merry Ann's in downtown Champaign for milkshakes???) and we can decide what to do from there.\n\nMy roommates and I are willing to host if we'd like to end the night with a movie or board games or drinking games.\n\nComment your thoughts and let's do this Satuday at 8pm!!\n\nEDIT- Looks like some under 21ers might be joining us. Let's start with milkshakes at Merry Ann's at 8, then we'll head over to bars. I'm a blonde female, I'll have [my cock](http://i.imgur.com/0Bomx.jpg) on the table\n\nEDIT 2- Merry Ann's in downtown Champaign\n\nEDIT 3- blind pig, big pig, walnut st   If you haven't been to a meetup before, you should go. Lots of fun.\n\nThat said, I can't go. I have to be drunk at a stranger's apartment that night.  I can't meet up this Saturday because I am going to a rock concert in Chicago. Otherwise I would meet up.\n\nI just wanted you to know that. which concert?     Sure.  I'm in  which Merry Ann's are we starting at? I'm in  which Merry Ann's are we starting at?  Milkshakes because you love the baby freshmen? :) Better than just loving math.   Sounds good. Please update the post when you decide on a final place and time. I will for sure. Should we do like a Champaign crawl? Just have a drink at a bar and pick up and go? We can throw milkshake time in there somewhere for those that wouldn't be able to participate in boozin and cruisin if you're thinking about the milkshakes for those who can't get into bars, do that first. Otherwise, I don't have a preference about when or which bar(s) to go to.        Let's do this  Hmm, not to be a party-killer, but what exactly is a meetup? What do you guys do in a meetup?  in a nutshell- get together with a bunch of people that we don't know, meet new people in the area (why not?), run into people we know, figure out their username, then browse their reddit history for embarrassing stuff.  I'll be moving to Champaign in about a month from Decatur, and it'll be nice to meet some of the Redditor population and jump-start my social life. I'll be 30 in June. College students depress me. \n\nAnyway, I'll probably be an hour late. I work in Rantoul and I get off work at 8:00. See you around 8:30 :) if college students depress you then I just want to warn you- this group will be mostly students That's alright...I just don't want to feel like a senior citizen :)   Would you editing the post to current location for those who can not come at 8 please?  Couldn't find the table. You guys should've had a sign. Couldn't find the table. You guys should've had a sign. We were the biggest group there =( sorry you couldn't find us. we had the key on the table most of the time we were there but when people didn't see it they just asked    Nerds",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rk0o/reddit_meetup_saturday_1192013_8pm/"
+  }, {
+    "id" : 27,
+    "title" : "Good vets in the area?",
+    "snippet" : "Good, as in relatively cheap &amp; know what they're doing. I have a 5 month old kitty who needs to be seen after having his balls chopped off at the humane society.  I used to go to [Curtis Road Animal Hospital](https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Curtis+Road+Animal+Hospital,+West+Curtis+Road,+Savoy,+IL&amp;aq=1&amp;oq=curtis+road&amp;sll=40.114631,-88.27711&amp;sspn=0.224487,0.528374&amp;vpsrc=0&amp;t=h&amp;ie=UTF8&amp;hq=Curtis+Road+Animal+Hospital,+West+Curtis+Road,+Savoy,+IL&amp;z=15&amp;iwloc=A&amp;cid=461531752972974659) and was very pleased with them.\n\nMy cat was recently diagnosed with cancer and I had to have her put down; they were great through the whole process.  They game me plenty of time to ask questions to the vet, were reasonably priced, and did a great job making a shitty experience less shitty.\n\nThere are two vets there and I only saw one so I can't speak for the other, but Dr. Downs is great.      [deleted]",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16spl8/good_vets_in_the_area/"
+  }, {
+    "id" : 28,
+    "title" : "Anyone else opposed to this?",
+    "snippet" : "  We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n We need more affordable housing options not the crazy expensive JSM buildings. We need more apartments in the $500 and below range for working and poorer students.\n   As usual, the DI is a day late and a dollar short. The N-G has been on this for a while. Discussions already are at a stage of compensating JSM for operating a parking garage.\n\n...added...http://www.news-gazette.com/news/politics-and-government/2012-08-27/council-discuss-minor-league-baseball-campus-parking-lot-dev\n\nhttp://www.news-gazette.com/news/politics-and-government/2012-12-11/champaign-backs-proposal-jsm-project.html\n\nhttp://www.news-gazette.com/blogs/voice-vote/2012-08/building-campustown-parking-lot-will-actually-make-it-easier-park.html Well NG doesn't have a bunch of students. Look at the dates of those articles. They were doing the breaks or exam weeks.  We weren't on break the 11th of December.  As usual, the DI is a day late and a dollar short. The N-G has been on this for a while. Discussions already are at a stage of compensating JSM for operating a parking garage.\n\n...added...http://www.news-gazette.com/news/politics-and-government/2012-08-27/council-discuss-minor-league-baseball-campus-parking-lot-dev\n\nhttp://www.news-gazette.com/news/politics-and-government/2012-12-11/champaign-backs-proposal-jsm-project.html\n\nhttp://www.news-gazette.com/blogs/voice-vote/2012-08/building-campustown-parking-lot-will-actually-make-it-easier-park.html  I don't really have an opinion, but here's what I think about this\n\n&gt; Because a hotel is part of the project, it will introduce a new group of customers\n\n* I guess this *could* be true, but the customers wouldn't use the hotel just because it's built. I guess they would use it to stay if they're giving talks at the university or whatever, but there already seem to be a sufficient amount of hotels in the area.\n* The family units could be nice. But is there really a demand for housing right now? Looking at real estate, there seems to be plenty of houses on sale or for rent. On the other hand, I guess the most obvious use for it would be for students to rent it out so that they are closer to the campus town area.\n* Retail would always be nice of course. But hopefully the right kinds of stores will be put in there. Things like Sliders didn't seem to do well.\n\nAside from that, I can't really think of any externalities aside from a slight increase of noise and/or garbage, if anything... On hotels, all of Chambanavoy sells out rather often.  Ever try booking a room for Moms/Dads weekend or Homecoming?  You're looking at $200+ even a month or two ahead of time. Totally true. I interpreted the text in that article as the hotel will introduce a new group of customers *throughout the year*. Concerning that part, I have doubts, since there already seem to be plenty of hotels and whatnot to accommodate visiting professors or whoever else might come to Chambanana.\n\nBut for things like Moms/Dads weekend or homecoming, having that extra hotel (and hence, extra competition) could help lower the prices, even if only slightly. I don't really have an opinion, but here's what I think about this\n\n&gt; Because a hotel is part of the project, it will introduce a new group of customers\n\n* I guess this *could* be true, but the customers wouldn't use the hotel just because it's built. I guess they would use it to stay if they're giving talks at the university or whatever, but there already seem to be a sufficient amount of hotels in the area.\n* The family units could be nice. But is there really a demand for housing right now? Looking at real estate, there seems to be plenty of houses on sale or for rent. On the other hand, I guess the most obvious use for it would be for students to rent it out so that they are closer to the campus town area.\n* Retail would always be nice of course. But hopefully the right kinds of stores will be put in there. Things like Sliders didn't seem to do well.\n\nAside from that, I can't really think of any externalities aside from a slight increase of noise and/or garbage, if anything... I don't really have an opinion, but here's what I think about this\n\n&gt; Because a hotel is part of the project, it will introduce a new group of customers\n\n* I guess this *could* be true, but the customers wouldn't use the hotel just because it's built. I guess they would use it to stay if they're giving talks at the university or whatever, but there already seem to be a sufficient amount of hotels in the area.\n* The family units could be nice. But is there really a demand for housing right now? Looking at real estate, there seems to be plenty of houses on sale or for rent. On the other hand, I guess the most obvious use for it would be for students to rent it out so that they are closer to the campus town area.\n* Retail would always be nice of course. But hopefully the right kinds of stores will be put in there. Things like Sliders didn't seem to do well.\n\nAside from that, I can't really think of any externalities aside from a slight increase of noise and/or garbage, if anything... Sliders failed because its pricing was ridiculous.     A new building is cool I guess, but that's a really terrible location for it. For one, I use that parking lot plenty...also, there's enough apartment buildings on Green as it is. Put it somewhere else.  Fuck I'm living very close to that place next year.  Where the hell will people park if this gets built? Pretty sure it said a parking garage will be included.\n\nMy question is will Healy become 2 way?  This lot is at the intersection of 2 one way streets.",
+    "url" : "http://www.dailyillini.com/news/local/article_adf7bbe2-605e-11e2-aaaa-0019bb30f31a.html"
+  }, {
+    "id" : 29,
+    "title" : "Lost my keys Wednesday, January 16, 2013, help! :(",
+    "snippet" : "**EDIT: I've given up on finding these keys, and already have replacements.  If you find some matching the description feel free to let me know though - I work at a campus building and my work key was on my key ring so it would be great to get that key back for my bosses!**\n\nBackground: I have already checked with the offices that hold lost and found items in every building I was in during the day, as well as called MTD since I did ride the bus once or twice.\n\nI still need to check at the Illini Union and with Campus Police, but I wanted to get this on here in case anyone found/finds them.\n\nDescription: The keys were on a silver carabiner type clip.  There are 2 normal keys, and also a circlular / disk key for a Kensington lock like this, except the plastic on my key is black: http://ak1.ostkcdn.com/images/products/3/P10885567.jpg\n\nFinally, there is also a UIUC metal whistle on the key ring, you know those blue ones like this, but the blue paint on the whistle has been worn off in places: http://images.efollett.com/spirit/v4/193/TCG-3726-WCB1.jpg\n\nThey would have been lost somewhere mid-Quad or north from there, since the buildings I was in were Everitt Lab, Lincoln Hall, Altgeld Hall, and Engineering Hall.\n\nI would be really grateful if anyone finds them!  People often turn things in to campus libraries, I would try the lost and found at Grainger as you were on the north quad. It's a long shot, but it's a shot. I hope you find your keys!  Are you an Asian girl? I found a lanyard with some keys and an I-Card on the 12Silver last night.",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rzzj/lost_my_keys_wednesday_january_16_2013_help/"
+  }, {
+    "id" : 30,
+    "title" : "UIUC Mechanical Eng. Grad Student Creates Way To Stop Killing Plants With Broader Applications To Agriculture",
+    "snippet" : "  This is really cool. I really like the idea, but I would still say you can usually look at a plant, or stick your finger in the soil to get an idea of the need for water. At businesses it would be useful, hospitals etc... when you have a lot of plants all over a building. I'd like one to tell me when to fertilize. That would be great. This is a very cool idea.  I think the main idea is that with this first product, they can prove out the technology- their goal isn't REALLY to just save houseplants- they have broader aims for the agricultural industry.  \n\nWhen I interviewed him, Eduardo said the real aim is commercial property owners and emerging markets for agriculture like China.  I agree though, pretty cool  ",
+    "url" : "http://techli.com/Plant-link-kickstarter"
+  }, {
+    "id" : 31,
+    "title" : "Any Musically Inclined UIUC Students Interested in a Jam Session?",
+    "snippet" : "Hey everybody! I'm posting on behalf of Here Comes Treble. We're a new club on campus that's hosting jam sessions, open mics, musical outings/movie screenings and (hopefully soon) philanthropy concerts. Our first jam session will be Tuesday the 29th (because its the first Tuesday after activity day) and afterward, we'll be heading to Piano Man!\n\nFor all of those interested, here's the link to the group: http://www.facebook.com/groups/324000117660590/\n\nAnd here's the event page: \nhttp://www.facebook.com/events/126582440843771/\n\nHope you'll check us out!  Piano Man is on Tuesdays again?  I'm interested. Do you guys have amps and such and is there a location yet?  cool cool. Ill join next year since i left my guitar back home Sweet, we'd be happy to have you on board! If you don't have an instrument, we'll be doing plenty of other events on the more social side. For instance, we're screening school of rock at our first general meeting and having a piano man outing, etc whens the first meeting?",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rt3d/any_musically_inclined_uiuc_students_interested/"
+  }, {
+    "id" : 32,
+    "title" : "As an extra thank you to those of you who found my grandma's story as interesting as I did, here's another picture from her album that would look good on your walls",
+    "snippet" : "  I have to say, marching the Three-in-One as a member of MI has been the coolest experience I've had so far at UofI. Agreed! Agreed!  I'm always amazed by how much more popular college football was back then, especially considering how much smaller the university and C-U were. Yeah seriously. Maybe this was before the Bears became super popular.  Do you know what year this was from? I would like to know this as well Do you know what year this was from? ",
+    "url" : "http://i.imgur.com/BCAgG.jpg"
+  }, {
+    "id" : 33,
+    "title" : "I don't know what I got from Cravings but I want it!",
+    "snippet" : "I went to Cravings during finals week and I ordered something that was so unbelievably delicious that I scooped out every last drop of sauce.\n\nIt was served in a bowl-ish dish. It wasn't one of those deep bowls, but it was a shallow bowl, wide, plate-width maybe. \n\nI believe it was a pork dish, and I recall ordering it from the Chinese menu.\n\nIt was very saucy, soupy, but it wasn't a \"soup\" so to speak. It had vegetables in it I think?, it was a little spicy but certainly not very. Flavor-wise it was kind of sweet and sour. It had a funny smell but the taste was so delicious.\n\nThe sauce itself, I believe, was sort of orangeish? Yellowish? Definitely had to be a little sugary, but it wasn't \"sweet and sour\" sauce.\n\nCan anyone help me? I really want it and I've tried ordering a few other things hoping to find it and I didn't.\n\n- It isn't Pork with Chili Bean Oil or whatever\n\n- It isn't Pork with Eight Treasure Sauce (I thought that was what it was, but then I ordered it and I got a plate with a helluva lot of like... beans on it with pork and whatnot)\n\nPlease help????   Mapo tofu?\n\nmaybe, dunno. usually pretty classic dish us asians like to get. can have ground meat in it too sometimes.  It's a great business plan.\n\nThey have a few super delicious secret recipes they give you the first time and keep it off menu.\n\nIn desperation, the sucker eats the entire menu. That's what it's turning into :'( Was the pork fried, ie like popcorn chicken sorta?   I remember paying for this. Do you have the old receipt??? That'd answer it!",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rhjx/i_dont_know_what_i_got_from_cravings_but_i_want_it/"
+  }, {
+    "id" : 34,
+    "title" : "Does anyone have snodgrass's ALE's for atms 120?",
+    "snippet" : "   [deleted]  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16sfjl/does_anyone_have_snodgrasss_ales_for_atms_120/"
+  }, {
+    "id" : 35,
+    "title" : "CS Corporate Connection After Hours?",
+    "snippet" : "Anyone know how to register for this? The link on the posters is broken.  Just go to it w/o registering. You won't get turned away.  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16sdc0/cs_corporate_connection_after_hours/"
+  }, {
+    "id" : 36,
+    "title" : "Any interest in a Burlesque/Vaudeville RSO?",
+    "snippet" : "Is there anyone out there that is interested in helping start a Burlesque/Vaudeville RSO on campus? I think it would be amazing to get a group of like minded performers together (dancers, comedians, jugglers, musicians, magicians, etc.)  I would love to brainstorm some ideas on how we can get something like this started.   There are already RSOs for pole dance and magic. They might be willing to partner up with you. There is seriously a pole dancing RSO?  https://illinois.collegiatelink.net/organization/Illinipolefitness\nhttp://www.facebook.com/IlliniPoleFitness\n\nThey're still a very active club and would probably be interested in putting together some sort of Burlesque event with you. You can e-mail illinipolefitness@gmail.com if you want to get in touch.   thats gay as fuck brah\n thats gay as fuck brah\n",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rnor/any_interest_in_a_burlesquevaudeville_rso/"
+  }, {
+    "id" : 37,
+    "title" : "Recommend a Humanities Class",
+    "snippet" : "Can anyone recommended a Humanities Class for me? It doesn't have to be open or anything, just something I want to keep in mind when I apply for classes next semester.  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16radp/recommend_a_humanities_class/"
+  }, {
+    "id" : 38,
+    "title" : "Good non-western?",
+    "snippet" : "I am looking for a good nonwestern. I am in AIS 101, and Intro to Japanese culture. Which one of these is easier? are there any better?       GEOG 106 is easier than any class I took in high school. You get to drop a ton of grades and most of the class is quizzes/exams on Compass (for which all the answers are clearly in the text if you skim for them). ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16ryzo/good_nonwestern/"
+  }, {
+    "id" : 39,
+    "title" : "Looking for one more roommate in a 4 bedroom apartment (near engineering quad)",
+    "snippet" : "The apartment is a block away from ISR, just barely off campus. The green and silver have stops very close by. We are all engineering majors (2 CS and 1 MechE), 1 girl and 2 guys. \nWe're looking for another girl or guy to room with us! Rent is about 360 a month not including utilities. Home is furnished already. \nLeave a comment or message me privately for more information. :)\nThis is for fall 2013 and spring 2014 semester.   I might be interested, you care if I'm graduating this summer and just working next year? (Is that allowed for on campus buildings?)",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16rqx8/looking_for_one_more_roommate_in_a_4_bedroom/"
+  }, {
+    "id" : 40,
+    "title" : "I submitted an album to r/pics of my grandma's playwriting class taught by Samson Raphaelson in 1948.  Some people suggested posting it here as well.",
+    "snippet" : "  Are those college students? They used to dress like that in 1948? Or is it graduation day (or some other special occasion)?  ",
+    "url" : "http://imgur.com/a/CXvvN#0"
+  }, {
+    "id" : 41,
+    "title" : "Has anyone noticed that tons of packets are only available at TIS this semester? Why's that?",
+    "snippet" : "  One of my professors mentioned that it was because the Illini Union Book Store hasn't been paying it's bills... Although that's my only source This is what I was told as well from my professor.  Source:  I work at the Illini Union Bookstore.  \n\nBasically, a recent staff change in either the publisher that does most of our course packets/readers, Stipes, or in the University itself, has caused a conflict of interest.  Their* (oh my god am I stupid. There***) is a marriage inbetween a staff member of the University and Stipes.  As such, it would be illegal for us to conduct business with them, despite the fact that the contract would not change and it isn't exactly for profit.  \n\nWe found out that it would occur in late December, and were optimistic that it would be fine, to the point that we were expecting them to come in and allowed them to be ordered.  \n\nUnfortunately, that wasn't the case.\n\nAlso, please don't direct your frustrations towards me.  We aren't allowed to tell customers in person, and I'm a minimum wage slave.  I try to save you as much money as I can.  Before they closed them, I helped some of you exploit some of our store policies to keep you in the green.  This is information that I have gained from being close to management while they think my attentions are elsewhere.   Srsly gonna spell it Kwait? give captain quantum some respect next time.   I'm in Phys 214 too. Do we need to get the discussion books by tomorrow? I'm in Phys 214 too. Do we need to get the discussion books by tomorrow? [deleted] I do indeed. [deleted] Nah 3. Your username just made me do math, then get really sad. People born in 94 are freshman now. I really need to finish my masters and get outta here. I'm becoming relatively old at 24.  ",
+    "url" : "http://imgur.com/O3lpc"
+  }, {
+    "id" : 42,
+    "title" : "Would anyone be interested in making a UIUC CS: GO team?",
+    "snippet" : "I was thinking that we could scrim together and maybe even join tournaments when they come around.\n\nIf you are interested you can also reach me at jshin42@illinois.edu\n\nThanks!  nah we need a DoTA 2 team. It would be dominated by asians though nah we need a DoTA 2 team. It would be dominated by asians though IT EXISTS guys smoke+backdoor i swear it'll work this time FUCK YOU NO What about wisp/SK backdoor?     I'm in.  I used to play competitively in source, but I haven't so much recently.  My steam ID is 0:0:3199748 if you want to look me up.  I'd be up for it.    ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16qac3/would_anyone_be_interested_in_making_a_uiuc_cs_go/"
+  }, {
+    "id" : 43,
+    "title" : "UIUC Guitar clubs? Jam sessions? Jazz? Anywhere where people come together to play their instruments?",
+    "snippet" : "Hello there, I just transferred to UIUC for this spring semester and I'm wondering if any of you know if there are certain clubs/organizations that host get-together's where people come and play their instruments. Or if there is a general jam area around campus.\n\nAnyone? Thanks.   Hey! I actually just saw this and am about to post info about the page, but I'm the president of Here Comes Treble. We're a new club that's hosting jam sessions, open mics, musical outings/movie screenings and (hopefully soon) philanthropy concerts. Our first jam session will be Tuesday the 29th (because its the first Tuesday after activity day).\n\nHere's the link to the group: http://www.facebook.com/groups/324000117660590/\n\nAnd here's the event page: http://www.facebook.com/events/126582440843771/\n\nHope you'll check us out! AWESOME, sounds great. I'll be there on the 29th!! Thank you I appreciate this!   ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16qa28/uiuc_guitar_clubs_jam_sessions_jazz_anywhere/"
+  }, {
+    "id" : 44,
+    "title" : "New Amendment to the Illinois Liquor Control Public Act [PDF]",
+    "snippet" : "  &gt; Police and courts may favorably consider social hosts who make \na good-faith effort to break up unruly gatherings.\n\nEw. Laws that vaguely imply that it is a good idea to talk to the police seem like they are in bad faith. &gt; Police and courts may favorably consider social hosts who make \na good-faith effort to break up unruly gatherings.\n\nEw. Laws that vaguely imply that it is a good idea to talk to the police seem like they are in bad faith. The law does not imply that it is a good idea to talk to the police and that line in blockquotes is the opinion of the writers of the letter from the University. You can read HB1554 [here](http://www.ilga.gov/legislation/BillStatus.asp?DocNum=1554&amp;GAID=11&amp;DocTypeID=HB&amp;SessionID=84&amp;GA=97). Did you read the legislation? Try the full text [here](http://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=023500050K6-16)\n\n&gt; A person shall not be in violation of this subsection (c) if (A) he or she requests assistance from the police department or other law enforcement agency to either (i) remove any person who refuses to abide by the person's performance of the duties imposed by this subsection (c) or (ii) terminate the activity because the person has been unable to prevent a person under the age of 21 years from consuming alcohol despite having taken all reasonable steps to do so and (B) this assistance is requested before any other person makes a formal complaint to the police department or other law enforcement agency about the activity.\n\nHowever, like all the cool kids, I assure you that you should know your rights and generally avoid talking to the police. Did you read the legislation? Try the full text [here](http://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=023500050K6-16)\n\n&gt; A person shall not be in violation of this subsection (c) if (A) he or she requests assistance from the police department or other law enforcement agency to either (i) remove any person who refuses to abide by the person's performance of the duties imposed by this subsection (c) or (ii) terminate the activity because the person has been unable to prevent a person under the age of 21 years from consuming alcohol despite having taken all reasonable steps to do so and (B) this assistance is requested before any other person makes a formal complaint to the police department or other law enforcement agency about the activity.\n\nHowever, like all the cool kids, I assure you that you should know your rights and generally avoid talking to the police. ",
+    "url" : "http://odos.illinois.edu/ccss/newsletter/images/NewAmendmenttotheIllinoisLiquorControlPublicAct.PDF"
+  }, {
+    "id" : 45,
+    "title" : "LOST - A Samsung Galaxy s3. Please help return it to me!",
+    "snippet" : "I left my Samsung Galaxy s3 in the Ikenberry Dining Hall on the 16th during dinner. It's white and has a case with pink sides and a translucent back. My name and email address should be on the lock screen.\n\nThere's a reward for its return! Please please please help me!  The hard truth that you probably don't wanna hear is that your phone is gone (unless there's still some good in humanity and it is returned to you) Yeah, I've pretty much accepted that it's gone, but there's always that last grab at hope. Depending on your service provider, you might be able to fully lock the phone (and make it useless for anyone else ever)    Someone [found a Samsung Galaxy S3](http://www.reddit.com/r/UIUC/comments/16ub84/found_samsung_galaxy_s3_in_everitt_student_lounge/).  Just go online and click the \"Find my iPhone\" button. Oh wait... The S3 also has a feature just like this, try that out you can pinpoint where your phone is and go form there.  Just go online and click the \"Find my iPhone\" button. Oh wait...",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16q7s3/lost_a_samsung_galaxy_s3_please_help_return_it_to/"
+  }, {
+    "id" : 46,
+    "title" : "Illinois Poverty Rate 2012: One-Third Of State's Residents Considered Poor According To New Report",
+    "url" : "http://www.huffingtonpost.com/2013/01/16/illinois-poverty-rate-one_n_2490352.html"
+  }, {
+    "id" : 47,
+    "title" : "Project for two classes",
+    "snippet" : "In CS 411 and CS 465 this semester and both have semester projects.\n\nWhile one stresses building a database-driven website, and the other a user-interface heavy application, would combining parts of both be allowed?     This sounds like self-plagiarism to me.  ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16qn97/project_for_two_classes/"
+  }, {
+    "id" : 48,
+    "title" : "Good places to eat a packed lunch on campus? ",
+    "snippet" : "I am cheap and I like to brown bag lunch when I can. Anyone have any suggestions for interesting places to sit and eat during the winter? I'm getting mighty tired of the Espresso in the library tunnel.   Off the top of my head:\n\n- The Union- Cafe upstairs or Food Court downstairs  \n- Lincoln Hall- Lunch tables on either side the 1st Floor (very quiet)\n- Ice Arena- The lobby is always open and has a TV you can watch cable on.  The Espresso by the Krannert Art Museum. It's a 5 minute walk from the library, and you can go across the hall into the art museum when you're done. However, it is full of law students They do not intimidate me, I am married to one. :)  The Espresso by the Krannert Art Museum. It's a 5 minute walk from the library, and you can go across the hall into the art museum when you're done.   There's a microwave in the quad shop if you need to heat things up. I usually try and buy at least a drink or snack so I'm not too much of a hassle. There's a microwave in the quad shop if you need to heat things up. I usually try and buy at least a drink or snack so I'm not too much of a hassle.   [The BIF Atrium](http://news.illinois.edu/WebsandThumbs/BIF/UI-02-080804-080_b.jpg) is a nice place, though it is often pretty crowded.  There are even seats overlooking the Atrium on the second and third floors.\n\n  [deleted]   siebel, first floor has lots of tables by the cafe. siebel, first floor has lots of tables by the cafe. ",
+    "url" : "http://www.reddit.com/r/UIUC/comments/16oyfz/good_places_to_eat_a_packed_lunch_on_campus/"
+  }, {
+    "id" : 49,
+    "title" : "U of I Housing, Student Fees, Likely Going Up",
+    "snippet" : "   Using baseline admissions from this fall, that means a profit increase of $2,095,830, leaving total income from dorm rentals alone at $20,023,848.   Housing rates are locked in for returning residents though, right? ",
+    "url" : "http://will.illinois.edu/news/spotstory/u-of-i-housing-student-fees-likely-going-up/"
+  } ],
+  "processing-time-source" : 89,
+  "processing-result.title" : "uiuc7_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc7_reddit.xml"
+  }
+}
