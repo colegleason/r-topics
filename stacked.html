@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>Reddit Topics -- Stacked Area Graph</title>
-		<link href="rtopics.css" rel="stylesheet" type="text/css">
-        <script type="text/javascript" src="d3/d3.js"></script>
-		<script type="text/javascript" src="rtopics.js"></script>
+		<link href="views/rtopics.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="/js/d3/d3.js"></script>
+		<script type="text/javascript" src="/js/stream.js"></script>
     </head>
     <body>
 	  <div class="wrap">
@@ -21,7 +21,7 @@
 		function graph(id) {
 		var txtbox = document.getElementById(id);
 		var value = txtbox.value;
-		make_stream("data/"+value+"_combined.json");
+		make_stream("/data/"+value+"_combined.json");
 		return false;
 		}
         </script>
