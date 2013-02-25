@@ -1,10 +1,8 @@
-import sys, os
+import sys, os, json, time
 
 sys.path.append(os.path.abspath('reddiwrap'))
 
 from ReddiWrap import ReddiWrap
-import json
-import time
 import xml.etree.ElementTree as ET
 
 def get_nested_comments(comment):
@@ -75,13 +73,19 @@ for a in range(1, len(sys.argv)):
 		#JSON
 		subreddit[i] = p.__dict__
 
-		#Dump json
-		jsonfile = open('data/' + SUB + '_reddit.json', 'w')
-		json.dump(subreddit, jsonfile)
-		jsonfile.close()
-
-		#Write XML
-		xmlfile = open('data/' + SUB + '_reddit.xml', 'w')
-		ET.ElementTree(srn).write(xmlfile)
-		xmlfile.close()
-
+		if ((i+1) % 50 == 0 and (i + 50) < len(posts)) or i == len(posts) - 1:
+			print('writing %d of %d' % ((i+1)/50, len(posts)/50))
+			v_num = str(i/50)
+			if (i+1) % 50 != 0:
+				v_num = str((i-50)/50)
+			#Dump json
+			jsonfile = open('data/' + SUB + v_num + '_reddit.json', 'w')
+			json.dump(subreddit, jsonfile)
+			jsonfile.close()
+			subreddit = {}
+			#Write XML
+			xmlfile = open('data/' + SUB + v_num + '_reddit.xml', 'w')
+			ET.ElementTree(srn).write(xmlfile)
+			xmlfile.close()
+			srn.clear()
+			subredditnode = ET.SubElement(srn, SUB)
