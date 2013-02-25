@@ -8,8 +8,23 @@
 		<script type="text/javascript" src="rtopics.js"></script>
     </head>
     <body>
+	  <div class="wrap">
+		<div id="header">
+		  <h1>/r/topics:</h1>
+		  <h2>stacked graph</h2>
+		  <form onsubmit="return graph('reddit_box')">
+			<input type="text" name="subreddit" id="reddit_box" placeholder="subreddit name"/>
+			<input type="submit" value="Load Graph"/>
+		  </form>
+		</div>
       <script type="text/javascript">
-		  make_stream("json_example.json")
+		function graph(id) {
+		var txtbox = document.getElementById(id);
+		var value = txtbox.value;
+		make_stream("data/"+value+"_combined.json");
+		return false;
+		}
         </script>
+	  </div>
     </body>
 </html> 
