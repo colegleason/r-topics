@@ -5,7 +5,7 @@ function make_stream(jsonpath) {
 	d3.json(jsonpath, function(json) {
 
 		var stack = d3.layout.stack()
-			.offset("zero")
+			.offset("expand")
 			.values(function (layer) {
 				return layer.values;
 			});
