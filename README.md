@@ -39,3 +39,30 @@ Start a server using:
     python -m SimpleHTTPServer 8888
 
 Then open your browser and head to [http://localhost:8888/index.html](http://localhost:8888/index.html)
+
+#Adding Subreddits:#
+r/topics has the data from several subreddits pulled and ready to use. However, 
+if you would like to add additional subreddits, do the following:
+
+Get the data from the subreddit using the get_subreddits.py script
+	
+	./scripts/get_subreddits.py <subreddit name>
+
+Cluster the data using the carrot2 command line interface. carrot2 can be 
+downloaded from [http://carrot2.org](http://carrot2.org). Run the clustering 
+algorithm with the options "-d -t -f JSON -o <path to r-topics>/data/clustering"
+
+Combine the clusters using the combine_clusters.py script
+
+	./scripts/combine_clusters.py <subreddit name>
+
+Combine the reddit data with the clusters using the combine_data.py script
+
+	./scripts/combine_data.py <cluster info> <reddit info> <output location>
+
+This will typically look like the following:
+	./scripts/combine_data.py data/clusters/<subreddit>_reddit.json 
+		data/<subreddit>_reddit.json data/<subreddit>_combined.json
+
+As long as the combined file is of the form data/<subreddit>_combined.json
+the subreddit will be available in the graph viewer.
