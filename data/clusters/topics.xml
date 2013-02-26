@@ -1,0 +1,12 @@
+<searchresult>
+   <group id="0" size="2" score="0.0">
+      <title>
+         <phrase>Other Topics</phrase>
+      </title>
+      <attribute key="other-topics">
+         <value type="java.lang.Boolean" value="true"/>
+      </attribute>
+      <document refid="0"/>
+      <document refid="1"/>
+   </group>
+</searchresult>
