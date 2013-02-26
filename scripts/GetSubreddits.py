@@ -1,6 +1,6 @@
 #! /usr/bin/env python
-
-import sys, os, json, time
+from datetime import timedelta, date
+import sys, os, json, time, datetime
 
 sys.path.append(os.path.abspath('reddiwrap'))
 
@@ -49,45 +49,50 @@ for a in range(1, len(sys.argv)):
 	subreddit = {}
 
 	#Get data for each post
+	post_count = -1
+	month = timedelta(days=31)
+	curr_date = date.today()
 	for i in range(len(posts)):
 		print('Getting post %d of %d' % (i, len(posts)))
 		#XML
 		dn = ET.SubElement(srn, 'document')
 		p = posts[i]
-		reddit.fetch_comments(p)
-		time.sleep(2)
-		#title info
-		title = ET.SubElement(dn, 'title')
-		title.text = p.title
-		#link info
-		url = ET.SubElement(dn, 'url')
-		url.text = p.url
-		#snippet, self and comment text
-		snippet_str = ""
-		if (p.is_self):
-			snippet_str += p.selftext
-		for c in range(len(p.comments)):
-			snippet_str += " " + get_nested_comments(p.comments[c])
-			p.comments[c] = p.comments[c].__dict__
-			p.comments[c]['children'] = []
-		snippet = ET.SubElement(dn, "snippet")
-		snippet.text = snippet_str
-		#JSON
-		subreddit[i] = p.__dict__
+		time_since_post = curr_date - date.fromtimestamp(p.created)
+		if time_since_post <= month:
+			print('days before now: %s' % time_since_post.days)
+			post_count += 1
+			reddit.fetch_comments(p)
+			time.sleep(2)
+			#title info
+			title = ET.SubElement(dn, 'title')
+			title.text = p.title
+			#link info
+			url = ET.SubElement(dn, 'url')
+			url.text = p.url
+			#snippet, self and comment text
+			snippet_str = ""
+			if (p.is_self):
+				snippet_str += p.selftext
+			for c in range(len(p.comments)):
+				snippet_str += " " + get_nested_comments(p.comments[c])
+				p.comments[c] = p.comments[c].__dict__
+				p.comments[c]['children'] = []
+			snippet = ET.SubElement(dn, "snippet")
+			snippet.text = snippet_str
+			#JSON
+			subreddit[post_count] = p.__dict__
 
-		if ((i+1) % 50 == 0 and (i + 50) < len(posts)) or i == len(posts) - 1:
-			print('writing %d of %d' % ((i+1)/50, len(posts)/50))
-			v_num = str(i/50)
-			if (i+1) % 50 != 0:
-				v_num = str((i-50)/50)
-
-			#Write XML
-			xmlfile = open('data/' + SUB + v_num + '_reddit.xml', 'w')
-			ET.ElementTree(srn).write(xmlfile)
-			xmlfile.close()
-			srn.clear()
-			subredditnode = ET.SubElement(srn, SUB)
-
+			if ((post_count + 1) % 50 == 0 and (i + 50) < len(posts)) or i == len(posts) - 1:
+				print('writing %d' % ((post_count - 1)/50))
+				v_num = str((post_count-1)/50)
+	
+				#Write XML
+				xmlfile = open('data/' + SUB + v_num + '_reddit.xml', 'w')
+				ET.ElementTree(srn).write(xmlfile)
+				xmlfile.close()
+				srn.clear()
+				subredditnode = ET.SubElement(srn, SUB)
+	
 	#Dump json
 	jsonfile = open('data/' + SUB + '_reddit.json', 'w')
 	json.dump(subreddit, jsonfile)
