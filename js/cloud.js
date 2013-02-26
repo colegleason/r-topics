@@ -11,12 +11,12 @@ function make_cloud(jsonpath) {
 	d3.json(jsonpath,function(json) {
 		json.clusters.forEach(function(cluster) {
 			index +=1;
-			cluster.total_activity.forEach(function(activity) {
-				initWeights[index] = activity;
-			})
 			cluster.phrases.forEach(function(phrase) {
 				initPhrases[index] = phrase;
 				//console.log('initWeights[index]');
+			})
+				cluster.total_activity.forEach(function(activity) {
+					initWeights[index] = activity;
 			})
 		})
 		index = -1;
