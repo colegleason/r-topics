@@ -1,5 +1,5 @@
 [submodule "d3-cloud"]
-	path = d3-cloud
+	path = js/d3-cloud
 	url = git://github.com/jasondavies/d3-cloud.git
 [submodule "d3"]
 	path = js/d3
