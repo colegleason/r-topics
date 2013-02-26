@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 958,
+  "processing-time-total" : 997,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 898,
+  "processing-time-algorithm" : 938,
   "documents" : [ {
     "id" : 0,
     "title" : "Morning roundup - high-five edition",
@@ -441,9 +441,9 @@
     "snippet" : " ",
     "url" : "http://www.youtube.com/watch?v=PgOrIar_qGk"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 59,
   "processing-result.title" : "greatnwside1_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/greatnwside1_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/greatnwside1_reddit.xml"
   }
 }

@@ -1,424 +1,412 @@
 {
-  "processing-time-total" : 1849,
+  "processing-time-total" : 1784,
   "clusters" : [ {
     "id" : 0,
     "size" : 9,
-    "score" : 7.4753987762355925,
+    "score" : 7.638527620704269,
     "phrases" : [ "Computer" ],
-    "documents" : [ 2, 6, 9, 10, 11, 12, 14, 899, 900 ],
+    "documents" : [ 1, 5, 8, 9, 10, 11, 13, 898, 899 ],
     "attributes" : {
-      "score" : 7.4753987762355925
+      "score" : 7.638527620704269
     }
   }, {
     "id" : 1,
     "size" : 9,
-    "score" : 1.264603501519094,
+    "score" : 1.9914366205417084,
     "phrases" : [ "Know" ],
-    "documents" : [ 1, 2, 5, 6, 9, 11, 13, 14, 899 ],
+    "documents" : [ 0, 1, 4, 5, 8, 10, 12, 13, 898 ],
     "attributes" : {
-      "score" : 1.264603501519094
+      "score" : 1.9914366205417084
     }
   }, {
     "id" : 2,
     "size" : 9,
-    "score" : 4.2650537742854695,
+    "score" : 3.555596002329661,
     "phrases" : [ "People" ],
-    "documents" : [ 2, 3, 5, 6, 9, 11, 12, 13, 900 ],
+    "documents" : [ 1, 2, 4, 5, 8, 10, 11, 12, 899 ],
     "attributes" : {
-      "score" : 4.2650537742854695
+      "score" : 3.555596002329661
     }
   }, {
     "id" : 3,
     "size" : 9,
-    "score" : 15.65909539698704,
+    "score" : 17.00096699861322,
     "phrases" : [ "Write" ],
-    "documents" : [ 1, 2, 3, 5, 7, 9, 11, 14, 900 ],
+    "documents" : [ 0, 1, 2, 4, 6, 8, 10, 13, 899 ],
     "attributes" : {
-      "score" : 15.65909539698704
+      "score" : 17.00096699861322
     }
   }, {
     "id" : 4,
     "size" : 8,
-    "score" : 31.088901391718334,
-    "phrases" : [ "Really a Problem" ],
-    "documents" : [ 2, 4, 6, 8, 9, 11, 13, 900 ],
+    "score" : 18.89059449864932,
+    "phrases" : [ "CS Students" ],
+    "documents" : [ 1, 3, 5, 7, 8, 10, 12, 899 ],
     "attributes" : {
-      "score" : 31.088901391718334
+      "score" : 18.89059449864932
     }
   }, {
     "id" : 5,
     "size" : 8,
-    "score" : 15.876089262806566,
+    "score" : 14.646477092057271,
     "phrases" : [ "Stuff Like" ],
-    "documents" : [ 1, 3, 5, 9, 11, 13, 14, 900 ],
+    "documents" : [ 0, 2, 4, 8, 10, 12, 13, 899 ],
     "attributes" : {
-      "score" : 15.876089262806566
+      "score" : 14.646477092057271
     }
   }, {
     "id" : 6,
     "size" : 6,
-    "score" : 0.7223063942064829,
+    "score" : 0.6647027451908035,
     "phrases" : [ "Asking" ],
-    "documents" : [ 1, 5, 6, 11, 14, 900 ],
+    "documents" : [ 0, 4, 5, 10, 13, 899 ],
     "attributes" : {
-      "score" : 0.7223063942064829
+      "score" : 0.6647027451908035
     }
   }, {
     "id" : 7,
     "size" : 6,
-    "score" : 12.713079973252079,
-    "phrases" : [ "Code" ],
-    "documents" : [ 0, 1, 5, 9, 11, 14 ],
+    "score" : 1.709238021395737,
+    "phrases" : [ "Mean" ],
+    "documents" : [ 0, 1, 2, 4, 5, 13 ],
     "attributes" : {
-      "score" : 12.713079973252079
+      "score" : 1.709238021395737
     }
   }, {
     "id" : 8,
     "size" : 6,
-    "score" : 0.7922951998712285,
-    "phrases" : [ "Mean" ],
-    "documents" : [ 1, 2, 3, 5, 6, 14 ],
+    "score" : 10.427013435952706,
+    "phrases" : [ "Performance" ],
+    "documents" : [ 0, 2, 5, 7, 8, 10 ],
     "attributes" : {
-      "score" : 0.7922951998712285
+      "score" : 10.427013435952706
     }
   }, {
     "id" : 9,
-    "size" : 6,
-    "score" : 6.310348098209936,
-    "phrases" : [ "Performance" ],
-    "documents" : [ 1, 3, 6, 8, 9, 11 ],
+    "size" : 5,
+    "score" : 17.627395898484018,
+    "phrases" : [ "Computer Science" ],
+    "documents" : [ 1, 5, 10, 11, 898 ],
     "attributes" : {
-      "score" : 6.310348098209936
+      "score" : 17.627395898484018
     }
   }, {
     "id" : 10,
     "size" : 5,
-    "score" : 22.048959747155838,
-    "phrases" : [ "Computer Science" ],
-    "documents" : [ 2, 6, 11, 12, 899 ],
+    "score" : 0.3378977714295923,
+    "phrases" : [ "Position" ],
+    "documents" : [ 1, 4, 7, 10, 899 ],
     "attributes" : {
-      "score" : 22.048959747155838
+      "score" : 0.3378977714295923
     }
   }, {
     "id" : 11,
     "size" : 5,
-    "score" : 3.316546045777632,
-    "phrases" : [ "Position" ],
-    "documents" : [ 2, 5, 8, 11, 900 ],
+    "score" : 2.376929269134504,
+    "phrases" : [ "Programmer" ],
+    "documents" : [ 1, 8, 9, 10, 13 ],
     "attributes" : {
-      "score" : 3.316546045777632
+      "score" : 2.376929269134504
     }
   }, {
     "id" : 12,
     "size" : 4,
-    "score" : 12.95280338788692,
+    "score" : 9.979950076661089,
     "phrases" : [ "Correct" ],
-    "documents" : [ 2, 5, 8, 14 ],
+    "documents" : [ 1, 4, 7, 13 ],
     "attributes" : {
-      "score" : 12.95280338788692
+      "score" : 9.979950076661089
     }
   }, {
     "id" : 13,
-    "size" : 4,
-    "score" : 12.583558591192428,
-    "phrases" : [ "Love" ],
-    "documents" : [ 0, 10, 11, 900 ],
+    "size" : 3,
+    "score" : 0.68816875055123,
+    "phrases" : [ "Degree" ],
+    "documents" : [ 1, 10, 13 ],
     "attributes" : {
-      "score" : 12.583558591192428
+      "score" : 0.68816875055123
     }
   }, {
     "id" : 14,
     "size" : 3,
-    "score" : 1.6862398162169479,
-    "phrases" : [ "Degree" ],
-    "documents" : [ 2, 11, 14 ],
+    "score" : 17.8330834684264,
+    "phrases" : [ "Function" ],
+    "documents" : [ 0, 10, 13 ],
     "attributes" : {
-      "score" : 1.6862398162169479
+      "score" : 17.8330834684264
     }
   }, {
     "id" : 15,
     "size" : 3,
-    "score" : 16.566452186191434,
-    "phrases" : [ "Function" ],
-    "documents" : [ 1, 11, 14 ],
+    "score" : 8.5652418011972,
+    "phrases" : [ "Job" ],
+    "documents" : [ 0, 1, 10 ],
     "attributes" : {
-      "score" : 16.566452186191434
+      "score" : 8.5652418011972
     }
   }, {
     "id" : 16,
     "size" : 3,
-    "score" : 9.411250243496031,
-    "phrases" : [ "Job" ],
-    "documents" : [ 1, 2, 11 ],
+    "score" : 29.533123422328437,
+    "phrases" : [ "Mind when I'm Writing" ],
+    "documents" : [ 1, 4, 10 ],
     "attributes" : {
-      "score" : 9.411250243496031
+      "score" : 29.533123422328437
     }
   }, {
     "id" : 17,
     "size" : 3,
-    "score" : 24.739305646655406,
-    "phrases" : [ "Mind when I'm Writing" ],
-    "documents" : [ 2, 5, 11 ],
+    "score" : 2.040931182173846,
+    "phrases" : [ "Place to Ask" ],
+    "documents" : [ 4, 10, 899 ],
     "attributes" : {
-      "score" : 24.739305646655406
+      "score" : 2.040931182173846
     }
   }, {
     "id" : 18,
     "size" : 3,
-    "score" : 4.659051192393211,
-    "phrases" : [ "Place to Ask" ],
-    "documents" : [ 5, 11, 900 ],
+    "score" : 8.280354495353668,
+    "phrases" : [ "Prove" ],
+    "documents" : [ 4, 5, 8 ],
     "attributes" : {
-      "score" : 4.659051192393211
+      "score" : 8.280354495353668
     }
   }, {
     "id" : 19,
-    "size" : 3,
-    "score" : 8.80954239569391,
-    "phrases" : [ "Prove" ],
-    "documents" : [ 5, 6, 9 ],
+    "size" : 2,
+    "score" : 14.586302278159291,
+    "phrases" : [ "CS Degree" ],
+    "documents" : [ 1, 10 ],
     "attributes" : {
-      "score" : 8.80954239569391
+      "score" : 14.586302278159291
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 11.048833129472628,
-    "phrases" : [ "Culture of many CS Programs" ],
-    "documents" : [ 2, 900 ],
+    "score" : 11.468741213030174,
+    "phrases" : [ "Computer Engineering" ],
+    "documents" : [ 8, 10 ],
     "attributes" : {
-      "score" : 11.048833129472628
+      "score" : 11.468741213030174
     }
   }, {
     "id" : 21,
     "size" : 2,
-    "score" : 15.312552541298267,
-    "phrases" : [ "Depends what you Mean by Implementation" ],
-    "documents" : [ 5, 14 ],
+    "score" : 13.635706474601633,
+    "phrases" : [ "Culture of many CS Programs" ],
+    "documents" : [ 1, 899 ],
     "attributes" : {
-      "score" : 15.312552541298267
+      "score" : 13.635706474601633
     }
   }, {
     "id" : 22,
     "size" : 2,
-    "score" : 2.76108992056311,
-    "phrases" : [ "Dynamic Language" ],
-    "documents" : [ 1, 3 ],
+    "score" : 5.443585388819817,
+    "phrases" : [ "Depends what you Mean by Implementation" ],
+    "documents" : [ 4, 13 ],
     "attributes" : {
-      "score" : 2.76108992056311
+      "score" : 5.443585388819817
     }
   }, {
     "id" : 23,
     "size" : 2,
-    "score" : 24.815206128474326,
-    "phrases" : [ "Efficient" ],
-    "documents" : [ 6, 898 ],
+    "score" : 5.523642927859127,
+    "phrases" : [ "Dynamic Language" ],
+    "documents" : [ 0, 2 ],
     "attributes" : {
-      "score" : 24.815206128474326
+      "score" : 5.523642927859127
     }
   }, {
     "id" : 24,
     "size" : 2,
-    "score" : 16.52531982715096,
-    "phrases" : [ "Execution Times while another Part is Just" ],
-    "documents" : [ 9, 10 ],
+    "score" : 19.146538041754333,
+    "phrases" : [ "Efficient" ],
+    "documents" : [ 5, 897 ],
     "attributes" : {
-      "score" : 16.52531982715096
+      "score" : 19.146538041754333
     }
   }, {
     "id" : 25,
     "size" : 2,
-    "score" : 19.10012351553755,
-    "phrases" : [ "Having Trouble with Understand" ],
-    "documents" : [ 11, 899 ],
+    "score" : 14.188587299735243,
+    "phrases" : [ "Execution Times while another Part is Just" ],
+    "documents" : [ 8, 9 ],
     "attributes" : {
-      "score" : 19.10012351553755
+      "score" : 14.188587299735243
     }
   }, {
     "id" : 26,
     "size" : 2,
-    "score" : 16.933573604675875,
-    "phrases" : [ "Interpreter" ],
-    "documents" : [ 1, 11 ],
+    "score" : 17.009916833275092,
+    "phrases" : [ "Having Trouble with Understand" ],
+    "documents" : [ 10, 898 ],
     "attributes" : {
-      "score" : 16.933573604675875
+      "score" : 17.009916833275092
     }
   }, {
     "id" : 27,
     "size" : 2,
-    "score" : 10.51005295287689,
-    "phrases" : [ "Learned in Classes" ],
-    "documents" : [ 6, 11 ],
+    "score" : 16.61011850687072,
+    "phrases" : [ "Interpreter" ],
+    "documents" : [ 0, 10 ],
     "attributes" : {
-      "score" : 10.51005295287689
+      "score" : 16.61011850687072
     }
   }, {
     "id" : 28,
     "size" : 2,
-    "score" : 4.610543745217584,
+    "score" : 8.20971823748718,
     "phrases" : [ "Learned while in School" ],
-    "documents" : [ 11, 900 ],
+    "documents" : [ 10, 899 ],
     "attributes" : {
-      "score" : 4.610543745217584
+      "score" : 8.20971823748718
     }
   }, {
     "id" : 29,
     "size" : 2,
-    "score" : 10.878019253485036,
-    "phrases" : [ "Like Higher Math" ],
-    "documents" : [ 2, 11 ],
+    "score" : 16.628126144493216,
+    "phrases" : [ "Moves for both Sides" ],
+    "documents" : [ 4, 899 ],
     "attributes" : {
-      "score" : 10.878019253485036
+      "score" : 16.628126144493216
     }
   }, {
     "id" : 30,
     "size" : 2,
-    "score" : 22.46073540768496,
-    "phrases" : [ "Lots of Coding" ],
-    "documents" : [ 9, 11 ],
+    "score" : 9.392000177214886,
+    "phrases" : [ "Pretty much Implement" ],
+    "documents" : [ 2, 13 ],
     "attributes" : {
-      "score" : 22.46073540768496
+      "score" : 9.392000177214886
     }
   }, {
     "id" : 31,
     "size" : 2,
-    "score" : 17.076271050720024,
-    "phrases" : [ "Moves for both Sides" ],
-    "documents" : [ 5, 900 ],
+    "score" : 14.27727361328357,
+    "phrases" : [ "Python" ],
+    "documents" : [ 2, 12 ],
     "attributes" : {
-      "score" : 17.076271050720024
+      "score" : 14.27727361328357
     }
   }, {
     "id" : 32,
     "size" : 2,
-    "score" : 13.385841997987539,
-    "phrases" : [ "Pretty much Implement" ],
-    "documents" : [ 3, 14 ],
+    "score" : 11.982589657014048,
+    "phrases" : [ "Seen some People Use" ],
+    "documents" : [ 5, 12 ],
     "attributes" : {
-      "score" : 13.385841997987539
+      "score" : 11.982589657014048
     }
   }, {
     "id" : 33,
     "size" : 2,
-    "score" : 13.017827883024944,
-    "phrases" : [ "Python" ],
-    "documents" : [ 3, 13 ],
+    "score" : 1.3444198402060252,
+    "phrases" : [ "Sure if what I'm Asking" ],
+    "documents" : [ 5, 13 ],
     "attributes" : {
-      "score" : 13.017827883024944
+      "score" : 1.3444198402060252
     }
   }, {
     "id" : 34,
     "size" : 2,
-    "score" : 13.915183311801227,
-    "phrases" : [ "Seen some People Use" ],
-    "documents" : [ 6, 13 ],
+    "score" : 15.508239325307212,
+    "phrases" : [ "Things you Learned" ],
+    "documents" : [ 5, 10 ],
     "attributes" : {
-      "score" : 13.915183311801227
+      "score" : 15.508239325307212
     }
   }, {
     "id" : 35,
     "size" : 2,
-    "score" : 1.1917796897712218,
-    "phrases" : [ "Sure if what I'm Asking" ],
-    "documents" : [ 6, 14 ],
+    "score" : 3.413754085821392,
+    "phrases" : [ "Thought that if you Wanted" ],
+    "documents" : [ 4, 5 ],
     "attributes" : {
-      "score" : 1.1917796897712218
+      "score" : 3.413754085821392
     }
   }, {
     "id" : 36,
-    "size" : 2,
-    "score" : 3.19275946810479,
-    "phrases" : [ "Thought that if you Wanted" ],
-    "documents" : [ 5, 6 ],
-    "attributes" : {
-      "score" : 3.19275946810479
-    }
-  }, {
-    "id" : 37,
     "size" : 883,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897 ],
+    "documents" : [ 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1722,
+  "processing-time-algorithm" : 1660,
   "documents" : [ {
     "id" : 0,
-    "title" : "If you like Hamming Code you'll love Turbo Code",
-    "snippet" : "  ",
-    "url" : "http://en.wikipedia.org/wiki/Turbo_code"
-  }, {
-    "id" : 1,
     "title" : "Can bytecode interpreters make use of SIMD instructions?",
     "snippet" : "The job a bytecode interpreter (decode, dispatch, repeat) seems fundamentally at odds with the uniformity required to get speedups from vector operations. Nonetheless, does anyone here know of any clever language implementations which make use of packed register instructions? Or even more radically, has anyone managed to shoehorn a dynamic language runtime onto a GPU? I don't mean compiling specialized fragments of a program to a GPU, but actually running an interpreter on top of wide-vector hardware. \n\nedit: Sorry, I don't think my question was clear. I'm not asking about just-in-time translators/compilers which target SIMD instruction sets (like the JVM or DAISY). I'm also not asking whether there are any interpreted languages which use precompiled vectorized library functions (such as the array operators of APL/J/K/etc...). \n\nA dispatch loop for a dynamic language interpreter might look something like this:\n\n    for each instruction in the program:\n        switch(instruction.opcode) { \n            case ADD_INT:\n                x = stack.pop()\n                y = stack.pop()\n                stack.push(x+y)\n            case MULT_INT:\n                ...\n        }\n\nOf course, the bytecode format might be dynamically typed (and thus use a generic ADD w/ type tags on the value), or the intepreter might be [directly threaded](http://blog.mozilla.org/dmandelin/2008/06/03/squirrelfish/) instead of using a switch, or it might [use registers](http://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/) instead of a stack, or a million other design variants. But the basic pattern remains the same. It seems extremely unlikely that this sort of code is amenable to parallelization. However, few things are impossible--- so I'm asking if someone has found a clever way to use SIMD instructions to speed up a program that behaves like the one I sketched out above.\n\n     The standard JVM will generate SSE3 instructions (though not particularly well). The next release of LLVM (which is also a JIT) can generate SSE3 from instructions as well by default. \n I'm guessing you mean that the JVM's runtime compiler generates SSE instructions for compiled traces-- but I'm curious more about the use of SSE instructions in the implementation of the underlying interpreter.   The interpreter side of it isn't my area, so let me know if this is totally preposterous.  \n\nIf you looked at your interpreter as some higher-level version of a superscalar processor architecture, I think you could use SIMD instructions as a time-efficient implementation of the execution part of that architecture.  It would have the same issues with underused throughput if the instruction stream doesn't have exactly the structure of parallelism that the hardware design is expecting.  The Pentium 1 was like this: up to 2 instructions per clock, in order, so you only take advantage of that 2-wide execution if instructions happen to come in just the way the processor can use them.\n\nIf, let's say, you had multiple interpreter threads looking ahead in the instruction stream for non-overlapping instructions, your back end could look for batches of independent in-flight instructions that could fill up SIMD operations.  This would make your interpreter an emulated implementation of an out-of-order superscalar architecture.\n\nWhether that would be any faster than a more naive way of doing it is a wide open question.\n\nWould that do what you're asking? As an alternative to having multiple threads, I guess you could also fetch k instructions at once and then  have some very large (probably auto-generated) chunk of logic for when subsets of those are combinable. However, in either case, it's really unclear if it would be a performance win due to the packing/unpacking cost of going in and out of SIMD registers. Also, don't superscalar architectures allow unrelated operations to issue at once? If I have two ALUs then I can run an ADD and MULT simultaneously. With SIMD instructions, however, I would be looking to combine multiple instances of the same opcode. \n\nNonetheless, it's definitely the sort of thing I'm interested in. Thanks!        On Android, things such as video decoding is written in a language such as C or C++ or ARM assembly with SIMD instructions (NEON specifically) and compiled into native code.  Both first-party and third-party apps take advantage of this.",
     "url" : "http://www.reddit.com/r/compsci/comments/17q4je/can_bytecode_interpreters_make_use_of_simd/"
   }, {
-    "id" : 2,
+    "id" : 1,
     "title" : "Computer Science PhD trends: Taulbee Survey for 2011-12",
     "snippet" : "  I find it a bit annoying that you have to scroll down the bottom of the post to make sure that, yes, it is only about research in the US¹. Hello, this is not the only country doing CS research !\n\nThe last point on aliens is very good, though. I've heard bright indian interns talk about how they would rather try to find a company than a PhD programme, because they would get more help for their visas.\n\n¹: actually the CRA statistics range over Canada as well, but it has a rather small number of CS depts compared to the US. &gt; I find it a bit annoying that you have to scroll down the bottom of the post to make sure that, yes, it is only about research in the US¹. Hello, this is not the only country doing CS research !\n\nThen do your own damn research, write a blog article about it, and then post it here! It is *fine* to have good-quality, detailed statistics about the US PhD trends. I would like people to be clear about the fact that they are *US PhD trends* (or Noth-America PhD trends), and not just \"PhD trends\".\n\nAnd this apply equally to the title picked on reddit than on the blog post itself. This would allow, people interested in PhD trends but less so in North-America-only PhD trends to evaluate their interest in the link.  Sorry it doesn't meet your every expectation, but you're not the intended audience. You totally miss the point, and you insist. The phrasing of the title is wrong. I would not mind if it was a tabloid, but I do mind if it is an article written by a PhD and clearly adressed to other current or future PhDs. It's a blog post.  This isn't some peer reviewed article, it isn't something that has past under the purview of some editor, it's a personal statement.  And you are getting upset that he didn't think about YOU when he wrote it.  The actual report has a lot of interesting statistics. I'll try to do a more full summary with more stats later- for now, I'm on my phone.\n\n* only 11.7% of undergraduate CS degrees and 11.8% of undergrad CE degrees are awarded to women. But twice as high a proportion, 22.3%, of Ph.D. students and graduates are women. In CE, the drop out rate for women from Ph.D. programs is significantly lower than for men, for CS the proportion is identical, and in I, there is a slightly higher drop out rate for women. So don't listen to anyone who claims the gender gap is due to a difference in competence or women wanting to have families instead.\n\n* The 11.7/11.8% is really a problem. It seems that, once in the field, women do just as well or better than men, and they are arguably more likely to stick with it and finish grad school. So why are there so few undergrads? There has been a great deal written about how the culture of many CS programs, and the attitudes of many of the students, drive women away. At the very least it is worth investigating and making an effort to correct this. You can't just chalk it up to \"women just inherently don't like science/math/logic/gizmos/whatever\" - the gap in CS/CE is substantially worse than in other STEM fields.\n\n* the proportion of tenure track positions, both full and associate, held by women is is less than in non tenure track positions, but the numbers for new hires are more balanced. This could mean hiring practices are getting better, or it could mean that women are not getting promoted or selected for advancement once they get to tenure track positions. The actual report has a lot of interesting statistics. I'll try to do a more full summary with more stats later- for now, I'm on my phone.\n\n* only 11.7% of undergraduate CS degrees and 11.8% of undergrad CE degrees are awarded to women. But twice as high a proportion, 22.3%, of Ph.D. students and graduates are women. In CE, the drop out rate for women from Ph.D. programs is significantly lower than for men, for CS the proportion is identical, and in I, there is a slightly higher drop out rate for women. So don't listen to anyone who claims the gender gap is due to a difference in competence or women wanting to have families instead.\n\n* The 11.7/11.8% is really a problem. It seems that, once in the field, women do just as well or better than men, and they are arguably more likely to stick with it and finish grad school. So why are there so few undergrads? There has been a great deal written about how the culture of many CS programs, and the attitudes of many of the students, drive women away. At the very least it is worth investigating and making an effort to correct this. You can't just chalk it up to \"women just inherently don't like science/math/logic/gizmos/whatever\" - the gap in CS/CE is substantially worse than in other STEM fields.\n\n* the proportion of tenure track positions, both full and associate, held by women is is less than in non tenure track positions, but the numbers for new hires are more balanced. This could mean hiring practices are getting better, or it could mean that women are not getting promoted or selected for advancement once they get to tenure track positions. Thanks for digging up those statistics.\n\nI'm just a newbie to CS, so I don't have much to say. But from the little I've seen in my school, it seems the issue has become self-perpetuating: Women aren't staying in the major because there aren't any women in the major. My intro course had a dozen girls. The next semester there were five of us. Two years ahead of me there are only two. (But weirdly enough, the grad student population is half women, almost all of them Chinese.) The 'CS is for men' is an American thing; in many other cultures it is gender neutral, which is why when you have a big foreign population, like in grad school, it is more balanced. &gt; The 'CS is for men' is an American thing\n\nIt's the same thing in Germany. Out of 200 CS students in my year, less than 5 are female. The 'CS is for men' is an American thing; in many other cultures it is gender neutral, which is why when you have a big foreign population, like in grad school, it is more balanced.  I'm a first-year PhD student who's hoping to one day get a job as a teaching-track faculty.\n\nAccording to this document, my odds are 1 in 50.\n\nAwesome. Reread the data.\n\n7% started with tenure-track faculty positions.  Meaning their first job was such.\n\nHow many were seeking a tenure-track faculty position as their first gig?  I know that's my path.  But what about everyone else?   \n\n\nThis guy is putting a very pessimistic, debbie-downer spin on this.\n\n Exactly. According to his source, 16.8% of new PhDs got a postdoc position, and with other positions listed in academia (researcher and teaching faculty), the total new PhDs entering into academic careers comes to about 31%. I'd say that's not particularly discouraging.  I am very surprised by the breakdown of the PhD students. There are 119 CS students in theory and algorithms. Surpassing almost all other topics. ",
     "url" : "http://blog.vivekhaldar.com/post/42007984829/computer-science-phd-trends"
   }, {
-    "id" : 3,
+    "id" : 2,
     "title" : "Creating a Simple CFD Program.",
     "snippet" : "I was hoping to get some input here on my project that a friend and I are undertaking. \n\nWe've participated in some challenges over the years that deal heavily with aeronautics and optimizing the aerodynamics of aircraft and vehicles. In dealing with these, we often have to use large software packages to perform fluid dynamics on our designs. Our idea is to create a tool written in Python and/or Java in order to simply import an STL, mesh it, and export the lift/drag forces.\n\nHere are the steps that it would have to undertake:\n\n1. Opening GUI\n1. Enter volume of fluid\n1. Input density of fluid (i.e. air, water, etc.)\n1. Import STL\n1. Mesh model (given a mesh fine-ness/resolution)\n1. Determine velocity of the air and other variables (if necessary - temperature, fir example)\n1. SOLVE\n1. Export colored image/animation of test (like [this](http://www.padtinc.com/images/cfd-fluent-flow-through-valve.jpg))\n1. Export spreadsheet of values of drag, lift, etc.\n\nNow, this is obviously no simple task. We'd like to use a simple programming language mostly to test its boundaries and see if it is possible to do so. As far as libraries go for Python/Java in order to mesh the object, I have looked into MeshPy and others but it seems like it may be advantageous to write out own. Are there any other libraries that may be worth looking into?\n\nLet's also assume that we have a pretty firm grasp on the basics of CFD and what it means/tells us about the object.\n\n**tl;dr - Making a CFD program in Python/Java, need advice on where to start**   1. Repeat this question in /r/CFD, /r/numerical and /r/aerospace.\n2. Pick a method to implement. If you're using a loose enough definition for CFD, I'd consider a panel method. \n3. Offload the meshing to another tool and generate some simple meshes. 2-D you can do by hand, 3-d you might look at something like OpenVSP.\n4. Write the 2-d solver.\n5. Write the 3-d solver.\n6. Test the solvers on the meshes you generated separately.\n7. Now go back and write your mesh generator.\n8. Repeat 2-8 for any other solvers you want to write.\n9. Ignore people bitching about your language choices.\n10. Keep us posted on your progress. :)\n\nPython libraries that might be useful: the numerical stuff like SciPy. Some sort of GUI toolkit, I don't do so well with those, visualization tools like matplotlib, Chaco, Mayavi. I posted to /r/aerospace and /r/programming but /r/CFD unfortunately looks rather dead.. Thanks for the tips though!\n\nI was thinking of starting by making a 2D airfoil solve (like XFOIL) but in Python and to not make the same mistakes JavaFoil did. From there, I'd like to extrapolate that into 3D CFD. I'm pretty well versed in OpenVSP (had to use it in this last challenge), and I'm curious as to how I could maybe call on OpenVSP to mesh an object, like:\n\nCreate STL -&gt; Open in CFD program -&gt; OpenVSP Mesh -&gt; Back to CFD for testing \n\n",
     "url" : "http://www.reddit.com/r/compsci/comments/17oaxy/creating_a_simple_cfd_program/"
   }, {
-    "id" : 4,
+    "id" : 3,
     "title" : "Cache oblivious algorithms",
     "snippet" : " ",
     "url" : "http://iainkfraser.blogspot.co.uk/2013/01/cache-money-hoes-attached-code.html"
   }, {
-    "id" : 5,
+    "id" : 4,
     "title" : "Is it possible to prove that a chess implementation is \"correct\"?",
     "snippet" : "I'm not talking an implementation of an engine, just a simple game of chess where you can enter moves for both sides. By correct I mean the program will reject all invalid moves and will always evaluate the final position correctly (Draw or Win for some side). I understand there are languages like Coq for doing stuff like that but would need some guidance to understand how this works better.   [Here's a great starting point on chess verification](http://corp.galois.com/blog/2011/5/26/formally-verified-chess-endgames.html)\n\nYou will be able to prove a given 'game' (aka a full list of moves in some unambiguous chess notation) is legal; but it depends what you mean by implementation.\n\nGiven an initial board state and then a move, evaluating whether that move is legal is doable; as each piece has a finite set of possible moves it can make. (Castling, promotion, and en-Passat are a pain, but again there is a finite formula for possible moves for a given piece, so if your 'game' tells you a piece did X, you can check the rules against the previous game state).\n\n[Endgame conditions](http://en.wikipedia.org/wiki/Chess#End_of_the_game) are also a finite set, but I believe you need at least a 50 move memory to discount the 50 move draw condition.\n\nSo I suppose if you can prove that you correctly handle every piece's move possibilities and every given endgame condition then you should be able to prove your implementation correct in theory, as there's no 'ambiguity' in chess from a rules standpoint.\n\n\n\n &gt; You will be able to prove a given 'game' (aka a full list of moves in some unambiguous chess notation) is legal; but it depends what you mean by implementation.\n\nBy implementation I mean the following: Given a starting position the player can input moves (for both sides) and the program will return the new position after the move on the board has been played or  reject the invalid move. The program can also take a position and evaluate it as a checkmate or a stalemate (We can ignore drawn endgames and the rest as unknown for example). \n\n&gt; Given an initial board state and then a move, evaluating whether that move is legal is doable; as each piece has a finite set of possible moves it can make. (Castling, promotion, and en-Passat are a pain, but again there is a finite formula for possible moves for a given piece, so if your 'game' tells you a piece did X, you can check the rules against the previous game state).\n\nBut my point is how do I find out if my implementation of the possible moves is valid? I would like to prove that it is in fact correct. I was building an engine of my own, but stopped halfway through. I don't know if you want a formal proof, but I planned to run my engine through one of those muli-thousand recorded games database and then planned some more manual comparative testing with other chess engines to get those trickier parts correct. Note that just for checking correctness of moves (king in check complictes things) or producing PGN/FIDE compliant notation (the way ambiguity is resolved) you'll need full move generator, meaning there is no 'lightweight' approach to it.  Unfortunately that's not what I'm looking for. Your method can only disprove an implementation. Seems like what I'm looking for isn't easy at all unfortunately :/ What did you have in mind? I thought that if you wanted to have it verified in something like Coq you wouldn't be asking questions here.  &gt; I thought that if you wanted to have it verified in something like Coq you wouldn't be asking questions here. \n\nCould you kindly point me to a better place to ask this question? I'll retract, mabye compsci was ok place to ask, I would've added 'formally prove' somewhere in the title just to attract people that know a bit about that subject and not other people that think of other ways of verification. Other places where you could ask might be /r/coq if you're familiar with that or stackoverflow.com. \n\nEDIT: If I may ask, why do you want to make a formal proof? It seems to me that a formal verification, extremely cumbersome and laborius that it often is, is only well justified with systems that need to be absolutely free of any bugs in situations where lives are in danger or where larger sums of money are involved, chess software usually isn't associated with either group. Unless you weren't introduced to the subject then you'll have to process a graduate class of material. The way I would do it is I would ask on /r/coq if it was appropriate for the case, then proceed with reading the manual (which I'm led to believe is excelent), maybe take an online class as an intro before that - but as I said I would make better investment of my time if I added other features to my program i.e. I'd only attempt formal verification if I was well versed in the subject beforehand.  Yes, it's possible, although it will be much more difficult than just writing the code. Basically, you have three tasks:\n\n1) Write the actual code, in a programming language/system that also supports steps 2 and 3 below\n\n2) Write down the specification: what it means for your program to be correct, in your case when a board/move is valid\n\n3) Prove that the program written in (1) behaves as described in (2).\n\nBasically, it means that you write down the rules of chess *twice*, once in step (1), once in step (2), and prove that they are equal in step (3). Usually, the specification is much simpler to read/write than the code, and can be checked manually for correctness (e.g. be compared with the chess rules).\n\nIntegrated systems (programming language + proof system) are [Coq](http://coq.inria.fr/), [Isabelle](http://www.cl.cam.ac.uk/research/hvg/Isabelle/), [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php) .... Tools for existing programming languages are [Frama-C](http://frama-c.com/) for C, [SPARK](http://www.adacore.com/sparkpro/) for Ada, and others.   ",
     "url" : "http://www.reddit.com/r/compsci/comments/17nfws/is_it_possible_to_prove_that_a_chess/"
   }, {
-    "id" : 6,
+    "id" : 5,
     "title" : "Computer scientists find new shortcuts for Traveling Salesman problem.",
     "snippet" : "  \"...showed that the traveling salesman problem is “NP-hard,” which means that it has no efficient algorithm...unless a famous conjecture called P=NP is true.\"\n\nI really dislike this pop-sci presentation of P=NP. It conflates efficient in a technically defined way (\"in P\") with the more pragmatic efficient (\"fast enough\").\n\nIf false, there could still be some efficient (in the practical sense) algorithm for TSP, like n^(log log log n).\n\nSee also: http://rjlipton.wordpress.com/2009/07/03/is-pnp-an-ill-posed-problem/ How would you explain it in two sentences so that the layman would have a general idea of what you're talking about and why it matters? He's essentially saying that even though we can't figure out if Travelling Salesman is a part of a set of easier to solve problems, we can still find faster solutions to it than we know of today. It's important because its a problem that is applicable to a lot of problem domains, such as routing internet traffic. I understood what he was saying.  He was complaining about their treatment of P=NP.  I was asking if he could provide a better concise explanation of P=NP that would be appropriate for Wired's target audience. I don't claim to be a writer so what I come up with won't be good. The words \"worst case\"  should probably appear in there somewhere, though. I understood what he was saying.  He was complaining about their treatment of P=NP.  I was asking if he could provide a better concise explanation of P=NP that would be appropriate for Wired's target audience. How would you explain it in two sentences so that the layman would have a general idea of what you're talking about and why it matters? \"...showed that the traveling salesman problem is “NP-hard,” which means that it has no efficient algorithm...unless a famous conjecture called P=NP is true.\"\n\nI really dislike this pop-sci presentation of P=NP. It conflates efficient in a technically defined way (\"in P\") with the more pragmatic efficient (\"fast enough\").\n\nIf false, there could still be some efficient (in the practical sense) algorithm for TSP, like n^(log log log n).\n\nSee also: http://rjlipton.wordpress.com/2009/07/03/is-pnp-an-ill-posed-problem/ \"...showed that the traveling salesman problem is “NP-hard,” which means that it has no efficient algorithm...unless a famous conjecture called P=NP is true.\"\n\nI really dislike this pop-sci presentation of P=NP. It conflates efficient in a technically defined way (\"in P\") with the more pragmatic efficient (\"fast enough\").\n\nIf false, there could still be some efficient (in the practical sense) algorithm for TSP, like n^(log log log n).\n\nSee also: http://rjlipton.wordpress.com/2009/07/03/is-pnp-an-ill-posed-problem/ &gt;It conflates efficient in a technically defined way (\"in P\") with the more pragmatic efficient (\"fast enough\").\n\nI've seen this conflation in a number of papers, though. I see it pretty much everywhere in AI: in P is tractable, NP-hard is intractable. Really?  All the AI work I've done was with heuristic approaches to things in NP (or harder classes), since those are the really interesting problems.  &gt; Nevertheless, Saberi said, solving the traveling salesman approximation problem in its full generality will probably require an infusion of new ideas.\n\nUnless I'm misreading what he's saying here, it's certainly not possible (unless P=NP). It's been proven (and it's a fairly simple proof) that it's n-inapproximable. Right?\n\nPerhaps the article misunderstood what Saberi said and scribed it unfaithfully. &gt; Nevertheless, Saberi said, solving the traveling salesman approximation problem in its full generality will probably require an infusion of new ideas.\n\nUnless I'm misreading what he's saying here, it's certainly not possible (unless P=NP). It's been proven (and it's a fairly simple proof) that it's n-inapproximable. Right?\n\nPerhaps the article misunderstood what Saberi said and scribed it unfaithfully. Solving the TSP in full efficiently would require P=NP; solving the TSP approximation would not. For instance, the existence of a poly-time algorithm which comes within 0.00001% of the true answer, or one which computes the true answer in 99.99999% of cases do not require P=NP.\n\nObviously these would be huge breakthroughs. I believe I remember seeing proof that the general TSP is n-inapproximable; i.e. there is no polynomial time algorithm that can calculate it within a constant factor.\n\nThe proof is because if you can approximate TSP to within *any* constant factor, you can solve the Hamiltonian cycle problem. Are you sure the proof applies to probabilistic algorithms?  Learnt about the traveling salesman problem in my discrete mathematics class last semester.  Not too sure what implication this has, but an interesting application of it nonetheless! The way I see it, it doesn't have any implications apart from being able to approximate a metric TSP with a smaller error. It's provable that no such approximation algorithm for the general TSP can exist unless P=NP, in which case no such algorithm is needed.\n\nHowever, the difference between a 50% error and a 40% error is quite substantial for sufficiently large graphs. It's a good result.\n\nAs it stands, the TSP is one of the hardest problems in computer science and finding an efficient algorithm (for the corresponding decision problem) would mean that P=NP, which would be a *major* breakthrough. However, proving that no such algorithm can exist would be a major breakthrough as well. At the moment we haven't really got a clue which is the case, although most people in the field suspect the latter. I think saying \"we haven't really got a clue\" is a bit unfair to the state of research. As far as I know, all (yes, ALL) the experts in complexity are certain P != NP; see, for example, [Scott Aaronson's reasons to to believe as such](http://www.scottaaronson.com/blog/?p=122) (admittedly some are more technical than others).\n &gt; As far as I know, all (yes, ALL) the experts in complexity are certain P != NP;\n\nA [poll](http://www.cs.umd.edu/~gasarch/papers/poll.pdf) found that 61% thought that P!=NP and 9% thougt P=NP. I think saying \"we haven't really got a clue\" is a bit unfair to the state of research. As far as I know, all (yes, ALL) the experts in complexity are certain P != NP; see, for example, [Scott Aaronson's reasons to to believe as such](http://www.scottaaronson.com/blog/?p=122) (admittedly some are more technical than others).\n Learnt about the traveling salesman problem in my discrete mathematics class last semester.  Not too sure what implication this has, but an interesting application of it nonetheless! Learnt about the traveling salesman problem in my discrete mathematics class last semester.  Not too sure what implication this has, but an interesting application of it nonetheless! Examples of TSP mentioned in the comments and in the article:\n\n 1. Routing network traffic\n 1. Routing UPS trucks\n 1. Guiding computer-controlled manufacturing devices (possibly CNC mills, laser cutters, 3d printers, etc)\n\n\n&gt; [The TSP has several applications even in its purest formulation, such as planning, logistics, and the manufacture of microchips. Slightly modified, it appears as a sub-problem in many areas, such as DNA sequencing.](http://en.wikipedia.org/wiki/Travelling_salesman_problem)  I wonder how the UPS and FedEx routing algorithms fair against this... At least UPS' route efficiency system is a known highly guarded trade secret. UPS and FedEx can use spanning trees. They don't have to hit every city with a single truck. Yes, but each leaf represents the territory of a single truck which must solve a travelling salesman problem for its deliveries for that day. They've just added the additional problem of efficiently dividing up which deliveries should be handled by each truck on top of this other problem. Computationally not any less trivial, but by throwing resources at redundancy they can make inefficient solutions simply less noticeable. It's going to get more nuanced than that once you factor in how well the drivers know their own routes vs. how they would perform on an arbitrarily assigned new route.  Plus UPS can still perfectly solve for the routes they want.  It's expensive, sure, but it's not like it's cryptography cracking expensive. UPS and FedEx can use spanning trees. They don't have to hit every city with a single truck.   What Andrew Wiles quote is paraphrased?\n\nHe's the Fermat's Last Theorem guy, but I couldn't find anything similar by him on \"quotes\" pages, e.g. [his wikiquote page](http://en.wikiquote.org/wiki/Andrew_Wiles)\n\nThere is a kinda related [quote maybe by Darwin](http://en.wikiquote.org/wiki/Charles_Darwin):\n\n&gt; A mathematician is a blind man in a dark room looking for a black cat which isn't there. I found it [here](http://www.pbs.org/wgbh/nova/physics/andrew-wiles-fermat.html). I think I have seen him say it on video too, maybe in the documentary?\n\n&gt;Perhaps I can best describe my experience of doing mathematics in terms of a journey through a dark unexplored mansion. You enter the first room of the mansion and it's completely dark. You stumble around bumping into the furniture, but gradually you learn where each piece of furniture is. Finally, after six months or so, you find the light switch, you turn it on, and suddenly it's all illuminated. You can see exactly where you were. Then you move into the next room and spend another six months in the dark. So each of these breakthroughs, while sometimes they're momentary, sometimes over a period of a day or two, they are the culmination of—and couldn't exist without—the many months of stumbling around in the dark that proceed them. What Andrew Wiles quote is paraphrased?\n\nHe's the Fermat's Last Theorem guy, but I couldn't find anything similar by him on \"quotes\" pages, e.g. [his wikiquote page](http://en.wikiquote.org/wiki/Andrew_Wiles)\n\nThere is a kinda related [quote maybe by Darwin](http://en.wikiquote.org/wiki/Charles_Darwin):\n\n&gt; A mathematician is a blind man in a dark room looking for a black cat which isn't there. It was in the Horizon documentary, right at the beginning around 1 minute in. It's an interesting doc, well worth watching. http://www.youtube.com/watch?v=7FnXgprKgSE  ",
     "url" : "http://www.wired.com/wiredscience/2013/01/traveling-salesman-problem/all/"
   }, {
-    "id" : 7,
+    "id" : 6,
     "title" : "Writing Loop Invariants in Whiley [VIDEO]",
     "url" : "http://whiley.org/2013/01/29/understanding-loop-invariants-in-whiley/"
   }, {
-    "id" : 8,
+    "id" : 7,
     "title" : "Can MEMS-based navigation systems handle activities like walking- jogging- running-in-place?",
     "snippet" : "I noticed that these activities can sometimes produce the same accelerometer signals as, say, walking normally. Are there already ways to work around these problems?  Inertial navigation, especially with MEMS sensors, does not work without some other sort of correction. The sensors are not accurate enough, they are prone to measurement biases, and the numerical integration used in those types of schemes are generally not all that accurate. \n\nIn aircraft navigators, for example, inertial sensors are only used to keep track of the vehicle state in between the GPS and magnetometer readings used to correct the inertial position/velocity and attitude estimates. The idea being that GPS and magnetometers are very slow, but very accurate over time, and inertial sensors are very fast but inaccurate over time, so you fuse them together to get the best of both.\n\nSo MEMS based navigation systems can't even handle regular walking well without some other sensors, so if you throw running in place at them they will perform even more poorly.\n\nIn an idealized system, however, it would have no problem. In order to remain pretty much in place, any accelerations in one direction would have to be offset in the opposite direction in order for you to remain in place. In an actual system, increased variance in the measurements will certainly degrade performance. The way you handle that is by either getting better sensors (decent ones will be around a few hundred bucks, fairly accurate ones a few grand, the kind accurate enough for military aircraft will be hundreds of thousands) or redundant measurements.  ",
     "url" : "http://www.reddit.com/r/compsci/comments/17jyx6/can_memsbased_navigation_systems_handle/"
   }, {
-    "id" : 9,
+    "id" : 8,
     "title" : "Creating a visual representation of software performance",
     "snippet" : "I am trying to figure out the best way to represent software system performance. This visualization will be a tool to debug performance problems. How should such a tool look like?\n\n\n\nMy current idea is based on [chrome's debug tool](http://3.bp.blogspot.com/-xkkPZXpqatA/UKZlMLDQr9I/AAAAAAAAAvA/52-CWOHoQCw/s1600/Google+Chrome+Developer+Tools+-+Timeline+Panel.png). Each task/thread has it's own line and he length of the bar represents its duration. The bar would have visible segments representing execution time and wait time. Seeing all tasks on one page let's you see whats being executed concurrently. I would also add an overlay of system memory usage over time.\n\n\n\nDoes anyone have experience with performance modeling?    Look up some of the user manuals and help pages for the old Apple developer tool called Shark.\n\nThey did it right. I miss Shark...    as a programmer i think you should just show the Big O notation and expect people to figure it out :D edit: sorry for pissing everyone off, was just trying to be funny and or trolly as per ReinH\n\nalso, Conky is a great customizable script for linux that can be used as a resource monitor! Check it out, its really sexy. Can you write me a program to analyze a block of code and report the Big-O for it.  Thanks. Can you write me a program to analyze a block of code and report the Big-O for it.  Thanks. Any reasonably competent programmer should be able to figure that out. Presumably, your block of code was written by a programmer. . .If they weren't reasonably competent, fire 'em and give it to one that is so they can figure it out. Now, figure it out. :-&gt; \n\nBut seriously, there's enough profile apps out there that cover the needs here. Use those as the basis for the \"visual\" data. Once you have that data, you can start looking at all sorts of different ways to represent it visually and I think that different situations will be best represented by different methods. Maybe a part of it should be a line graph that compares inputs to execution times while another part is just a stacked bar graph that shows system time versus cpu time for different threads. Any reasonably competent programmer should be able to figure that out. Presumably, your block of code was written by a programmer. . .If they weren't reasonably competent, fire 'em and give it to one that is so they can figure it out. Now, figure it out. :-&gt; \n\nBut seriously, there's enough profile apps out there that cover the needs here. Use those as the basis for the \"visual\" data. Once you have that data, you can start looking at all sorts of different ways to represent it visually and I think that different situations will be best represented by different methods. Maybe a part of it should be a line graph that compares inputs to execution times while another part is just a stacked bar graph that shows system time versus cpu time for different threads. I don't think it's that easy. Proving the complexity of a bit of code can be quite complex. Sure, for the most part it's simply counting but some recursive algorithms can be quite tricky. Automating the task is non-trivial I'd say. We can't even *prove* that a program will halt at all, let alone when it will halt. It is literally impossible to do this, no matter how competent the programmer.\n\nWhat we *can* do is use tools to record the number of operations of an algorithm and compare that to the number of its argument and then use that data to try to find some correlation via curve fitting and other statistical techniques. You know what we call that? *Profiling.*\n\nEdit: and apparently, [this exists](http://www.reddit.com/r/compsci/comments/17jtiz/creating_a_visual_representation_of_software/c86bxup). Cool. Profiling != Complexity analysis\n\nAt least we can prove that we can't prove. as a programmer i think you should just show the Big O notation and expect people to figure it out :D edit: sorry for pissing everyone off, was just trying to be funny and or trolly as per ReinH\n\nalso, Conky is a great customizable script for linux that can be used as a resource monitor! Check it out, its really sexy. That's a very naive assumption. Lots of parts of a computer's architecture contribute to performance problems, as do OS issues. Pretty sure this is a troll. Nope, just a computer engineer with 7 years industry experience who knows about computer architecture, that's all.\n\nThere is a lot more to performance than just Big-O, once you leave the theoretical space (classroom) and move into the practical space (actually run code on a computer).\n\nA lot.\n\nEDIT: oh, you meant the other guy? \n\nWhoops!! I agree with everything you just said. And yes, I meant the other guy. :)",
     "url" : "http://www.reddit.com/r/compsci/comments/17jtiz/creating_a_visual_representation_of_software/"
   }, {
-    "id" : 10,
+    "id" : 9,
     "title" : "100,000 punch cards later, Flossie lives again",
     "snippet" : "  &gt;Despite its 25 square foot size, Flossie’s 16,000 transistors and 4,000 logic boards only result in a puny 2kb memory and 1mhz processing speed – all of which can now fit on a couple of modern-day 10mm silicon chips.\n\nA single 5mm chip can do that today.\n\nA little ATMega chip that you'd find on an Arduino hobby board is 16 times faster, and has similar memory. http://en.wikipedia.org/wiki/Arduino\n\nEven smaller - the Texas Instruments eZ430-F2013 - a programmer card, and detachable \"computer on a chip\" bits...\nhttp://www.conrad.de/medias/global/ce/1000_1999/1700/1700/1702/170285_ZB_00_FB.EPS_1000.jpg\n\nIt's 16MHz, runs at 1.8 volts! , and has 2KB + 256B Flash Memory, 256 bytes RAM, and has 5 I/O lines.\n\nYep, that's all on the end of a USB plug!     \nI love using them! (PDF of tec specs: http://www.ti.com/lit/ds/slas491i/slas491i.pdf ) What do you use them for? &gt;Despite its 25 square foot size, Flossie’s 16,000 transistors and 4,000 logic boards only result in a puny 2kb memory and 1mhz processing speed – all of which can now fit on a couple of modern-day 10mm silicon chips.\n\nA single 5mm chip can do that today.\n\nA little ATMega chip that you'd find on an Arduino hobby board is 16 times faster, and has similar memory. http://en.wikipedia.org/wiki/Arduino\n\nEven smaller - the Texas Instruments eZ430-F2013 - a programmer card, and detachable \"computer on a chip\" bits...\nhttp://www.conrad.de/medias/global/ce/1000_1999/1700/1700/1702/170285_ZB_00_FB.EPS_1000.jpg\n\nIt's 16MHz, runs at 1.8 volts! , and has 2KB + 256B Flash Memory, 256 bytes RAM, and has 5 I/O lines.\n\nYep, that's all on the end of a USB plug!     \nI love using them! (PDF of tec specs: http://www.ti.com/lit/ds/slas491i/slas491i.pdf ) Is it just me, or is the USB connector really bulky by comparison?   How many bytes do you fit on a punch card? Filling 2kB of memory should not take that much. Was the punch cards loaded depending on which routine was being executed? (ie. master programme executed by mainframe operators loading routine A, then routine B, etc)   It would seem the major impediment to keeping a machine like this in working order is that the moving parts and consumable goods are just not available.  I would guess you do a lot of restoring the manufacturing base existing at the time just to demonstrate the thing can run.\n\nWhether that is truly an issue or not, this sure brought a smile to my face.  ",
     "url" : "http://www.mirror.co.uk/news/technology-science/technology/flossie-oldest-working-british-computer-1388601"
   }, {
-    "id" : 11,
+    "id" : 10,
     "title" : "A couple questions for people who work in the Computer Science field.",
     "snippet" : "Hey guys, I hope this is the right place for this.\n\nI'm currently a Sophomore in college and I have been assigned an interview essay that pertains to a particular major. I picked Computer Science and I have to interview someone who works in the field I picked. If someone who has a job in the Comp Sci field could take the time to answer a few of these questions, that would be awesome.\n\n1. How many of the things you learned while getting your degree do you use in the job you have now?\n2. Was finding a job after graduation difficult? Or is there always a demand for Computer Science students?\n3. In the job you have, what do you do on a daily basis?\n4. As someone who is majoring in Computer Science, any advice on things you can do while still in school to help out future job prospects?\n\n\nThanks to anyone who takes the time to answer these.  Comp Sci is a broad field. You might want to focus on a discipline... That being said, I'm a web developer (Software Engineer) with a CS degree.\n\n1. From my classes, I learned Java (I'm a Java developer). Everything else I use, day-to-day, I learned while in school (but on my own time). The most useful thing I learned at school was how to learn (as opposed to literal material). Knowing how to learn CS topics is something I employ everyday.\n\n2. Finding a job isn't hard if you're willing to start at the bottom. I actually took a job unrelated to my degree. In that job, I offered to \"automate\" some of the grunt work (using Java). I used that experience as a backbone for applying to my current position.\n\n3. Bug fixes and implement new source.\n\n4. Find a focused field that interests you and research it on your own time. Most universities will give you a taste of a subject. But the real learning comes from your passion and desire to know more about a topic. I love(d) web development. So I bought books and read websites. I made websites and built a portfolio/experience (which is something that employers will ask about). A discipline.. interesting, I'll keep that in mind when I'm writing this. This is exactly the information I was looking for.. thanks! Even expanding on the discipline sides of things, people who use the same language and have the same titles will often do profoundly different things. For example, I am also a software engineer, but I work on real-time systems (C++); to a finer grain, I work on a lower-level component that feeds into customer facing applications that are often written in Java. If customer apps require less meaty processing, then they may be written in an interpreted language like perl or javascript. \n\nAlso, I should probably mention that I don't do Windows development. I have heard that it requires a different bread of engineer, but really couldn't say either way.\n A discipline.. interesting, I'll keep that in mind when I'm writing this. This is exactly the information I was looking for.. thanks! Comp Sci is a broad field. You might want to focus on a discipline... That being said, I'm a web developer (Software Engineer) with a CS degree.\n\n1. From my classes, I learned Java (I'm a Java developer). Everything else I use, day-to-day, I learned while in school (but on my own time). The most useful thing I learned at school was how to learn (as opposed to literal material). Knowing how to learn CS topics is something I employ everyday.\n\n2. Finding a job isn't hard if you're willing to start at the bottom. I actually took a job unrelated to my degree. In that job, I offered to \"automate\" some of the grunt work (using Java). I used that experience as a backbone for applying to my current position.\n\n3. Bug fixes and implement new source.\n\n4. Find a focused field that interests you and research it on your own time. Most universities will give you a taste of a subject. But the real learning comes from your passion and desire to know more about a topic. I love(d) web development. So I bought books and read websites. I made websites and built a portfolio/experience (which is something that employers will ask about). Whats wrong with web development? You don't enjoy it anymore? Comp Sci is a broad field. You might want to focus on a discipline... That being said, I'm a web developer (Software Engineer) with a CS degree.\n\n1. From my classes, I learned Java (I'm a Java developer). Everything else I use, day-to-day, I learned while in school (but on my own time). The most useful thing I learned at school was how to learn (as opposed to literal material). Knowing how to learn CS topics is something I employ everyday.\n\n2. Finding a job isn't hard if you're willing to start at the bottom. I actually took a job unrelated to my degree. In that job, I offered to \"automate\" some of the grunt work (using Java). I used that experience as a backbone for applying to my current position.\n\n3. Bug fixes and implement new source.\n\n4. Find a focused field that interests you and research it on your own time. Most universities will give you a taste of a subject. But the real learning comes from your passion and desire to know more about a topic. I love(d) web development. So I bought books and read websites. I made websites and built a portfolio/experience (which is something that employers will ask about). &gt; I actually took a job unrelated to my degree. In that job, I offered to \"automate\"  some of the grunt work (using Java). I used that experience as a backbone for applying to my current position.\n\nI was just curious was kind of job unrelated to CS involves programming in java? Can you elaborate a little more?  1. Everything (Not counting stuff like Macro Economics, and other similar \"soft\" skills). Programming? VB.net? Check. PHP? check. SQL? check. AS400? Check.\n\n2. Nope. I settled for a lower paying job, with good experience potential... and don't regret a moment.\n\n3. Data Analyst (Many databases, reports, etc), Programmer (not much, but a couple small programs. Helping add functionality to others programs more than my own), network admin script writing.\n\n4. Experience, Experience, Experience. Make stuff, do things, practice, learn. You want to stand out? Have a game written, a website up or something in the \"Successful Project\" category - especially that relates to your desired field.  I got a Computer Science 'Traditional' degree, that was heavy in programming, math and algorithm work.  I work as an application developer for a large company and use ABAP and SAP.\n\n1. I use the programming skills I used every day.  It's a different programming language and a different environment, but the logic is the same.  Even things like database design and performance come into play.  It's hard to assign a percentage to 'things you learned in classes that you use every day', but it would be high if I could.\n\n2. I accepted a job offer during the fall semester of my senior year.  I never had problems finding internships or jobs during school.  CS students are in demand, but you probably won't turn any heads walking into an interview and only referring to coursework when answering questions.  Technology is a great field to get into, so I would say there is a decent demand for CS grads.\n\n3. I change/create programs to meet requests in specifications.  It could be something simple like adding something to an output screen, or adding huge functionality to a project.  My job revolves around data, so most of the time I make programs that handle/manipulate large amounts of data.\n\n4.  Try different things to find out what you like.  I'm guessing that since you're majoring in CS, you enjoy playing around programming and technology in general.  Keep doing that.  Make a website from scratch that will display a different cat depending on where a user places their cursor.  Make a script that will tell the date on which the least recent file in a directory was edited.  Have fun with it and document it.  \n\n\"So madscientest, tell me about a time that you used programming to make a certain task easier.\"  \n\n\"Well, I started making some scripts as a sophomore to learn more about scripting, and realized that I could automate how I organized my schoolwork.  I saved all my files starting with 2-letter keywords Math:'MA', Programming:'Pg' etc when I was working on computers at school.  When I copied my whole profile folder to my personal computer, I could just run my script and it would put the files into the right folder based on the first 2 letters.\"\n\nDumb example, you get the idea.  I just graduated with my CS/EE degrees and had a job lined up 6 months before I even graduated.\n\n1. The basics of programming are what I use the most, my company doesn't even use Java (my main language) but I get by just fine because I can pick it up easily.\n2. At our job fairs there is literally more jobs than students. I also help recruit, for a main employer, and we literally are desperate for more programmers. I feel safe saying computer science (not even engineering in general) has the most job opportunities post school.\n3. I'm a PM, so I architect code and user experiences. I do code but it's not the main focus of my job.\n4. INTERNSHIPS! Holy crap I cannot stress that enough. I had 4 job offers to choose from during my senior year. 3 of which were from the companies I had interned at.\n\nGood luck :) Where do you find internships? See if your school's department of computer science knows anything. If not, it doesn't hurt to ask companies directly if they offer such. The worst they can do is say no which is what they are already saying by not asking. Where do you find internships?  Speaking as someone who has hired lots of programmers (and I am a programmer myself):\n\nWhen hiring someone, I don't care much about their degree, nor do I care about what computer languages they learned in classes. Some of the best programmers I've ever hired were physics majors!\n\nThe most important thing to learn in college is how to learn. Programming languages change every few years.  If you understand programming at a deep level, it is easy to pick up the next popular programming language quickly.\n\nLearn about design.  Not just program design, but also graphic design and interaction design. College is a good place to learn that, and it is difficult to learn on the job.\n\nLearn how to communicate, both written and spoken. You will have to do a lot of that. Publish articles, even online. Give talks at conferences. Learn how to network.\n\nDo lots of programming, on projects you find interesting. Do some internships. Extra points if you contribute to open source software. Good programmers love to program. Programming big projects is different and much harder than small assignments (like the ones they assign in classes).\n\nIf you are going to do anything related to graphics, learn math (especially trigonometry). User interfaces often involve graphics. Learning hard sciences (like math and physics) also helps you learn how to learn.\n\nDon't worry too much about preparing for a job.  If you love programming, you will always have a job.  1.  Nothing in articular, but everything.  The degree helped me develop a lot of \"common sense\" for programming.  I make mistakes, I mess things up, but I'm immeasurably better than I would otherwise be.  I was introduced to things I would never have willingly studied, like higher math, computer engineering/organization, low-level OS stuff, assembly, that ended up being tremendously useful.  Having fleshy squishy teachers was awesome, even if they weren't all very good teachers.\n\n2.  Easy, but I had a good relationship with a small specialized company and they answered when I went knocking.  I was very fortunate.  (This is basically an unhelpful answer.)\n\n3.  Code.  A little bit of support ticket handling.\n\n4.  Have good projects.  Good-sized projects.  \n\nI figure a lot of people in this subreddit will disagree (and I'm probably wrong), but I would recommend writing a large general-purpose library/framework.  CrapThatYouNeed.dylib or whatever.  And make it big and bloated and general, you know, shove networking code in there and filesystem code and hardcore logging utilities and any other crap you can think of.  \n\nWhy?  Because I think it mirrors what most applications end up being -- a lot of differently purposed code all smushed together -- but you don't have to worry about the actual app idea and how that will change and evolve over time.  A \"general purpose library\" is sufficiently well-defined that I think it can grow to an arbitrary size without suffering from the ailments that normally trouble applications -- second system effect, etc.  \n\nMaybe.  I dunno.  That's what I'd advise, but keep in mind that I'm an idiot. &gt; I was introduced to things I would never have willingly studied, like higher math, computer engineering/organization, low-level OS stuff, **assembly**, that ended up being tremendously useful.\n\nCan you give examples for assembly? Just had my test in *computer architecture* today and it feels like \"yeah good to know about it but will it ever be directly applied?\" &gt; I was introduced to things I would never have willingly studied, like higher math, computer engineering/organization, low-level OS stuff, **assembly**, that ended up being tremendously useful.\n\nCan you give examples for assembly? Just had my test in *computer architecture* today and it feels like \"yeah good to know about it but will it ever be directly applied?\"   Note: I have a computer engineering degree\n\n1. C/C++, UML, algorithms, data structures, calculus\n\n2. I did not have any trouble finding work\n\n3. Designing, design reviews, requirements document reviews, status meetings, management meetings, and on occasion I get to program\n\n4. Do lots of coding. Find time to do your own projects. Take an active roll in learning.  Join user groups.  Show your future employers that you have the right attitude and you are passionate about what you do. I HATE UML...maybe it was the professor that I had.  Is it really that necessary?  I found it to be so tedious and dull.  Maybe the project 'summarized' in UML wasn't of big enough scope to benefit from UML. I HATE UML...maybe it was the professor that I had.  Is it really that necessary?  I found it to be so tedious and dull.  Maybe the project 'summarized' in UML wasn't of big enough scope to benefit from UML. If you have a job in a field requiring complex data design, UML is all important. I had a job in financial software and our UML diagrams were INSANE (not because stupid design, but necessary features/requirements). That's what I was thinking.  I imagine the benefits are most noticeable in complex designs that include tons of people.   I HATE UML...maybe it was the professor that I had.  Is it really that necessary?  I found it to be so tedious and dull.  Maybe the project 'summarized' in UML wasn't of big enough scope to benefit from UML. Note: I have a computer engineering degree\n\n1. C/C++, UML, algorithms, data structures, calculus\n\n2. I did not have any trouble finding work\n\n3. Designing, design reviews, requirements document reviews, status meetings, management meetings, and on occasion I get to program\n\n4. Do lots of coding. Find time to do your own projects. Take an active roll in learning.  Join user groups.  Show your future employers that you have the right attitude and you are passionate about what you do.   1. Learned programming, databases, data structures. That's about it. Everything else will help me grad school, however.\n2. It took me 9 months, but the job I got is fantastic with great pay. However, I had no internships and a lowish GPA.\n3. Software development: Coding, design, unit testing, provide support to other teams that call our programs. Also troubleshoot and provide code fixes for problems that are wrong in the live environment.\n4. Intern and achieve fluency in multiple languages. I've heard contributing to open source projects you can show to employers are wonderful to have. Do u mind me asking what your GPA was (mine isn't great but i didnt think jobs cared so much). But I guess after college thats all they have to go on?                        ",
     "url" : "http://www.reddit.com/r/compsci/comments/17g1d4/a_couple_questions_for_people_who_work_in_the/"
   }, {
-    "id" : 12,
+    "id" : 11,
     "title" : "Good CS TED talks?",
     "snippet" : "My university is doing a computer science week (whohooo!) and one of the things we are trying to do is pick a day to show a ton of videos to help teach people about different aspects of computer sciences. Does anyone have a link to, or remember a good TED talk about CS?  ",
     "url" : "http://www.reddit.com/r/compsci/comments/17bfg7/good_cs_ted_talks/"
   }, {
-    "id" : 13,
+    "id" : 12,
     "title" : "The landscape of just-in-time compilers for numerical Python",
     "snippet" : "  \"Python is an extremely popular language for number crunching and data analysis.\"\n\nNow that seems to be stretching it a little... numpy, scipy, matplotlib &amp; co are nice, and I've seen some people use it, but I don't think it comes *anywhere* close in popularity to others like Matlab, C/C++ and fortran... \"Python is an extremely popular language for number crunching and data analysis.\"\n\nNow that seems to be stretching it a little... numpy, scipy, matplotlib &amp; co are nice, and I've seen some people use it, but I don't think it comes *anywhere* close in popularity to others like Matlab, C/C++ and fortran... I think it strongly depends on what community you're coming from. Many of the machine learning folks I know are jumping ship from Matlab to Python (though some of the deep learning folks seem to like Lua more). Every physics lab I know (admittedly that's only three of them) uses Python to pull together simulation/experimental results and do analysis on them. And, of course, the use of C, C++, and Fortran doesn't really exclude Python. Out of curiosity, what's your background?   ",
     "url" : "http://www.phi-node.com/2013/01/a-journey-through-parakeet.html"
   }, {
-    "id" : 14,
+    "id" : 13,
     "title" : "Coeffects: typing context-dependent computations using comonads",
     "snippet" : "  I'm currently working on an extension for the GHC compiler as part of my degree to allow the use of comonads in a similar syntax to how monads are currently used in Haskell (unsurprisingly called codo notation, corresponding with do notation), under the supervision of Dominic Orchard (one of the authors of this paper).\n\nAs such, I was interested to see this come up. I'm impressed at the name. I don't think I'd've been able to resist calling it \"undo notation\", \"don't notation\", or something similarly silly. I'm impressed at the name. I don't think I'd've been able to resist calling it \"undo notation\", \"don't notation\", or something similarly silly.  Can someone explain like I'm a C++ programmer what this means? Context-dependent things all have a similar structure which we can leverage to write and reason about programs that are generic to the kind of context we're dealing with in a more structured way. We call the stuff with the same structure that contexts have \"comonads\". I still have no idea what you're talking about. So by context dependent do you mean you pass all the stuff about the context that the structure uses as some sort of parameter to your functions?\n\nIf you have a function that changes a global variable, doesn't that still change the context of other functions?\n\nWhat does \"generic to the kind of context we're dealing with\" mean, and how can something be that as well as context dependant?\n\nI'm not sure if what I'm asking is possible, but I'd think it would be possible to explain this in terms of C/C++; I mean using a map function is a functional programming idea, but you can pretty much implement one in C/C++ using function pointers.  The idea is that computations (functions) execute in some *context*. The context may be global variables that they use, resources like databases or other information (functions that are only available on certain kinds of CPUs or platforms).\n\nIn a normal code, you just use the context - you access a variable, call a database, invoke a system call. However, if you run the program on a platform where something is not available, you get a runtime error.\n\nThe idea of *coeffects* is that we want to make this dependence explicit - so when calling a function, you will know what it requires (what it accesses) - it will be part of the type (just like the type of arguments is present in the signature).\n\nComonads are just a mathematical structure that models how context propagates through a program (how variables and resources can be passed around) - when you make two function calls, the context is passed to both of them, when you define a nested function, it can access the outer context (etc.) Using comonads, we can figure out what are the rules for the propagation of the contextual information, which tells us how the correct types (or context annotations that are automatically inferred for your code) should look. I still have no idea what you're talking about. So by context dependent do you mean you pass all the stuff about the context that the structure uses as some sort of parameter to your functions?\n\nIf you have a function that changes a global variable, doesn't that still change the context of other functions?\n\nWhat does \"generic to the kind of context we're dealing with\" mean, and how can something be that as well as context dependant?\n\nI'm not sure if what I'm asking is possible, but I'd think it would be possible to explain this in terms of C/C++; I mean using a map function is a functional programming idea, but you can pretty much implement one in C/C++ using function pointers.  Can someone explain like I'm a C++ programmer what this means?",
     "url" : "http://www.cl.cam.ac.uk/~tp322/drafts/coeffects.html"
+  }, {
+    "id" : 14
   }, {
     "id" : 15
   }, {
@@ -2184,25 +2172,23 @@
   }, {
     "id" : 896
   }, {
-    "id" : 897
-  }, {
-    "id" : 898,
+    "id" : 897,
     "title" : "An efficient time-decaying approximate membership filter",
     "url" : "http://eng.42go.com/a-simple-time-decaying-approximate-membership-filter/"
   }, {
-    "id" : 899,
+    "id" : 898,
     "title" : "How do Finite &amp; Pushdown Automatons work?",
     "snippet" : "Hello readers of /r/compsci ,\n\nI'm doing my first year at university now and I have hit a snag while studying my Principles of Computing module (I wish they could just call it Computer Science theory..)\n\nUnfortunately I have found no resources through the university or my own searches on line on Finite and Pushdown Automatons\n\nI am having trouble with understand how these work, in particular the Pushdown Automatons are something I do not understand fully, I know they are to do with pushing things onto the stack, but I am having trouble with understand the command 'pop'\n\nOf course if someone else has found some sort of guide or resource via the internet then I would gladly appreciate it if you could show it to me!\n\n   Have you tried wikipedia?\n\nI guess `pop` on PDAs is somewhat non-intuitive in that it takes an argument - where `push X` puts `X` on the top of the stack, `pop X` takes an `X` off the top of the stack *iff it is present*, and otherwise fails.  If the stack is empty or has a non-X at the top, `pop X` fails.  ",
     "url" : "http://www.reddit.com/r/compsci/comments/18vahw/how_do_finite_pushdown_automatons_work/"
   }, {
-    "id" : 900,
+    "id" : 899,
     "title" : "So I want to do research...",
     "snippet" : "Several years ago I completed my BS in CS from a US university and have been working in the software industry ever since. I've learned a lot in the past few years, but I'm not really passionate about the work I'm doing and I don't feel that my current role will allow me to develop the qualifications necessary to move into a research position. Programming has always been fun, but the topics I loved most in my undergrad studies were always from the more abstract side of CS--algorithms analysis, computation theory, etc. I've been thinking about getting into a master's program for the past couple years, actually, and I think it's time to actually do it.\n\nAll of the resources I've found for prospective master's students seems to be intended for people still in their undergrad. I don't have research experience from my undergrad (there was very little research done at all in the CS department at my school). I have not kept in touch with any of my old professors, and many of them have since retired from the faculty so I'm at a loss for who to ask for reference letters. \n\nSo I guess my biggest question is: as someone with just a BS and some professional experience, is grad school still an option since I didn't focus on it during my undergrad? How can I fill in some of the gaps in my experience (such as lack of research work) to help my applications? Are there any resources available for people in my position?\n\nMy biggest interests are digital art, robotics and distributed computing. Can anyone recommend some good universities with related programs? I'm willing to relocate anywhere in the world (and love exploring new places and cultures) as long as the program is taught in English (or if it would be realistic to take language courses concurrently with the CS courses if some parts of the program are taught in another language).\n\nAny information or advice is greatly appreciated!",
     "url" : "http://www.reddit.com/r/compsci/comments/1965gy/so_i_want_to_do_research/"
   } ],
-  "processing-time-source" : 127,
+  "processing-time-source" : 124,
   "processing-result.title" : "compsci1_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci1_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/compsci1_reddit.xml"
   }
 }
