@@ -1,0 +1,455 @@
+{
+  "processing-time-total" : 968,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 10,
+    "score" : 42.65478984264359,
+    "phrases" : [ "Barney and Robin" ],
+    "documents" : [ 1, 7, 12, 14, 17, 19, 22, 26, 30, 37 ],
+    "attributes" : {
+      "score" : 42.65478984264359
+    }
+  }, {
+    "id" : 1,
+    "size" : 6,
+    "score" : 70.38166769660076,
+    "phrases" : [ "Final Season" ],
+    "documents" : [ 5, 8, 9, 10, 17, 26 ],
+    "attributes" : {
+      "score" : 70.38166769660076
+    }
+  }, {
+    "id" : 2,
+    "size" : 5,
+    "score" : 25.942767279968123,
+    "phrases" : [ "Future Ted" ],
+    "documents" : [ 1, 7, 12, 22, 37 ],
+    "attributes" : {
+      "score" : 25.942767279968123
+    }
+  }, {
+    "id" : 3,
+    "size" : 5,
+    "score" : 35.77645863665204,
+    "phrases" : [ "HIMYM" ],
+    "documents" : [ 5, 7, 13, 27, 45 ],
+    "attributes" : {
+      "score" : 35.77645863665204
+    }
+  }, {
+    "id" : 4,
+    "size" : 5,
+    "score" : 34.1199898002035,
+    "phrases" : [ "Hope" ],
+    "documents" : [ 9, 22, 26, 47, 48 ],
+    "attributes" : {
+      "score" : 34.1199898002035
+    }
+  }, {
+    "id" : 5,
+    "size" : 5,
+    "score" : 38.19890603891069,
+    "phrases" : [ "Seen" ],
+    "documents" : [ 7, 12, 28, 35, 37 ],
+    "attributes" : {
+      "score" : 38.19890603891069
+    }
+  }, {
+    "id" : 6,
+    "size" : 4,
+    "score" : 43.158199986757175,
+    "phrases" : [ "Chose if he wants to Think" ],
+    "documents" : [ 17, 19, 26, 37 ],
+    "attributes" : {
+      "score" : 43.158199986757175
+    }
+  }, {
+    "id" : 7,
+    "size" : 4,
+    "score" : 27.535539650603475,
+    "phrases" : [ "Deleted Deleted" ],
+    "documents" : [ 4, 18, 26, 30 ],
+    "attributes" : {
+      "score" : 27.535539650603475
+    }
+  }, {
+    "id" : 8,
+    "size" : 4,
+    "score" : 23.055392485246237,
+    "phrases" : [ "Marshall" ],
+    "documents" : [ 4, 14, 19, 45 ],
+    "attributes" : {
+      "score" : 23.055392485246237
+    }
+  }, {
+    "id" : 9,
+    "size" : 4,
+    "score" : 58.139924439153596,
+    "phrases" : [ "New Episodes" ],
+    "documents" : [ 7, 14, 18, 44 ],
+    "attributes" : {
+      "score" : 58.139924439153596
+    }
+  }, {
+    "id" : 10,
+    "size" : 4,
+    "score" : 18.730990099584357,
+    "phrases" : [ "Realized" ],
+    "documents" : [ 1, 26, 33, 42 ],
+    "attributes" : {
+      "score" : 18.730990099584357
+    }
+  }, {
+    "id" : 11,
+    "size" : 3,
+    "score" : 35.3084787705697,
+    "phrases" : [ "Dating" ],
+    "documents" : [ 11, 12, 26 ],
+    "attributes" : {
+      "score" : 35.3084787705697
+    }
+  }, {
+    "id" : 12,
+    "size" : 3,
+    "score" : 37.06472070088542,
+    "phrases" : [ "Jason" ],
+    "documents" : [ 0, 38, 42 ],
+    "attributes" : {
+      "score" : 37.06472070088542
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 28.683759573902574,
+    "phrases" : [ "Account" ],
+    "documents" : [ 29, 35 ],
+    "attributes" : {
+      "score" : 28.683759573902574
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 33.717244931764554,
+    "phrases" : [ "Barney is Dead" ],
+    "documents" : [ 22, 26 ],
+    "attributes" : {
+      "score" : 33.717244931764554
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 47.791768040023705,
+    "phrases" : [ "Bro Code" ],
+    "documents" : [ 37, 47 ],
+    "attributes" : {
+      "score" : 47.791768040023705
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 26.13366338972293,
+    "phrases" : [ "Entire Show" ],
+    "documents" : [ 1, 39 ],
+    "attributes" : {
+      "score" : 26.13366338972293
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 18.986427181115502,
+    "phrases" : [ "Fixed" ],
+    "documents" : [ 2, 14 ],
+    "attributes" : {
+      "score" : 18.986427181115502
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 27.745611102891793,
+    "phrases" : [ "Graph" ],
+    "documents" : [ 25, 42 ],
+    "attributes" : {
+      "score" : 27.745611102891793
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 40.76126886053338,
+    "phrases" : [ "Indian Ted" ],
+    "documents" : [ 30, 41 ],
+    "attributes" : {
+      "score" : 40.76126886053338
+    }
+  }, {
+    "id" : 20,
+    "size" : 2,
+    "score" : 37.12690014430076,
+    "phrases" : [ "Job" ],
+    "documents" : [ 31, 39 ],
+    "attributes" : {
+      "score" : 37.12690014430076
+    }
+  }, {
+    "id" : 21,
+    "size" : 15,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 3, 6, 15, 16, 20, 21, 23, 24, 32, 34, 36, 40, 43, 46, 49 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 896,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "My favorite Jason Segel song: You just got slapped",
+    "snippet" : "  ",
+    "url" : "https://www.youtube.com/watch?v=S8hsmM9m6rE"
+  }, {
+    "id" : 1,
+    "title" : "Foreshadowing Future Ted line in Season 1 which summarizes the show:",
+    "snippet" : "In season 1, episode 3 (The Sweet Taste of Liberty), at the end of the episode, Future Ted says \"And that's when I realized why I hang out with your Uncle Barney. I never got where I thought I wanted to go. But I always got a great story out of it.\" \n\nThis sums up the show pretty well. The entire show in some ways has been about Ted THINKING he wants to be with Robin. Barney falling in love/marrying her plays a part in showing him how he was wrong about that because he meets The Mother the day of their wedding. Since the show has been mostly Ted getting over Robin, it could be said that Barney got him a great story out of it. The story he is telling his kids and all of us.      It's amazing all the subtleties you find when rewatching shows like this    The Klaus bit resonated with me along similar lines. Robin and Ted connect on many positive fundamental levels, but that doesn't mean you can forge a lifelong romantic relationship off it it unless it's genuinely meant to be.\n\nI have a woman friend who I would never pick on paper to be my wife, and in practice there is a genuine love there - I can relate to almost any romantic feelings out there, minus the romance - but because The Feeling isn't there, the spark, the draw where you both know...because I can question it...if it were here, I'd be uncomfortable with the notion. She's the almost. SO almost that it's kind of nuts because of the work it took and how unlikely it seems anyone will even get as close as her, though she's not in the running.\n\nShe's just not the Lifelong Treasure of Destiny. ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17jzq0/foreshadowing_future_ted_line_in_season_1_which/"
+  }, {
+    "id" : 2,
+    "title" : "I thought of him right away...[Fixed]",
+    "snippet" : "  I don't get it ",
+    "url" : "http://imgur.com/cL3gSSH"
+  }, {
+    "id" : 3,
+    "title" : "Found out what Barney moonlights as.",
+    "snippet" : "  That would really explain a lot...  ",
+    "url" : "http://i.imgur.com/3T4KbIF.jpg"
+  }, {
+    "id" : 4,
+    "title" : "My favorite Marshall moment",
+    "snippet" : "  gaaaa-el Girl? Guyyy-el    Someone watching e4 yesterday I take it? :p  [deleted] He doesn't like being on the show anymore....?",
+    "url" : "http://i.imgur.com/gMtPGph.gif"
+  }, {
+    "id" : 5,
+    "title" : "HIMYM Renewed for One Final Season !",
+    "snippet" : " ",
+    "url" : "http://www.comingsoon.net/news/tvnews.php?id=99551"
+  }, {
+    "id" : 6,
+    "title" : "How I'm going to start signing all my messages/emails",
+    "snippet" : "  ",
+    "url" : "http://i.imgur.com/GjC1vXA.png"
+  }, {
+    "id" : 7,
+    "title" : "Since we're all talking about who we want to be the mother..this is my guess.",
+    "snippet" : "  Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not. Kids... You're adopted Kids... You're adopted Kids... You're adopted Kids... You're adopted Kids... You're adopted Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not. Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not. Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not. Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not. Just imagine...Ted taps the \"girl\" with the yellow umbrella on the shoulder and ranjit turns around \"HELLO!\" Ted then realises that Ranjhit was the one who was always there when he least expected...also all we've seen is the mothers ankles..have we seen Ranjhits ankles? Coincidence? I think not.  Calling it right now, Ranjhit's daughter is the mom.  I'm calling that it's Ranjit's half-sister Carla. Ranjit is half Dominican?  Calling it right now, Ranjhit's daughter is the mom.    &gt; \"Hey Dad... who's our mother?\"\n\n&gt; \"Huh? Oh, its... [that guy](http://i.imgur.com/JuoSLC0.jpg)\" We met at a bar!\n\n... I think it was an Irish bar.  This is as legit a theory as any of the other crap I've read here.\n\nNo no seriously, they've been guarding the identity of the mother like it was the Colonel's secret recipe, but I'm sure you, random reddit fan, can figure it out after naught but a marathon of HIMYM episodes and 5 minutes reading credits on IMDB. You clever fan! I'm fairly sure even they don't know who the mother is, though I suspect Robin was planned to be if it never got picked up for Season 2 They always held a possibility open for someone to be the mother (e.g. Robin, Victoria) at the end of a season if the series wasn't renewed for a new season. Didn't the very first episode pretty firmly rule out Robin? \"That's how I met your Aunt Robin.\"\n\nOn second thought, they could have later become good friends with a different woman named Robin...Ted tells his kids the short version of how he met their mother, but being too in love with telling stories (and the sound of his own voice), he changes it mid-sentence to (\"your Aunt Robin\"), and proceeds to tell his whole life story up until he meets their actual Aunt Robin, and they're even more enraged at all the time he's wasted. (That would also be a good way to enrage a lot of fans) I'm pretty sure Victoria was the back-up in case it didn't get renewed for a second season. Didn't the very first episode pretty firmly rule out Robin? \"That's how I met your Aunt Robin.\"\n\nOn second thought, they could have later become good friends with a different woman named Robin...Ted tells his kids the short version of how he met their mother, but being too in love with telling stories (and the sound of his own voice), he changes it mid-sentence to (\"your Aunt Robin\"), and proceeds to tell his whole life story up until he meets their actual Aunt Robin, and they're even more enraged at all the time he's wasted. (That would also be a good way to enrage a lot of fans) Didn't the very first episode pretty firmly rule out Robin? \"That's how I met your Aunt Robin.\"\n\nOn second thought, they could have later become good friends with a different woman named Robin...Ted tells his kids the short version of how he met their mother, but being too in love with telling stories (and the sound of his own voice), he changes it mid-sentence to (\"your Aunt Robin\"), and proceeds to tell his whole life story up until he meets their actual Aunt Robin, and they're even more enraged at all the time he's wasted. (That would also be a good way to enrage a lot of fans) Didn't the very first episode pretty firmly rule out Robin? \"That's how I met your Aunt Robin.\"\n\nOn second thought, they could have later become good friends with a different woman named Robin...Ted tells his kids the short version of how he met their mother, but being too in love with telling stories (and the sound of his own voice), he changes it mid-sentence to (\"your Aunt Robin\"), and proceeds to tell his whole life story up until he meets their actual Aunt Robin, and they're even more enraged at all the time he's wasted. (That would also be a good way to enrage a lot of fans) They always held a possibility open for someone to be the mother (e.g. Robin, Victoria) at the end of a season if the series wasn't renewed for a new season. Is that true, or did you just make it up? Because it makes a lot of sense. I'm fairly sure even they don't know who the mother is, though I suspect Robin was planned to be if it never got picked up for Season 2 This is as legit a theory as any of the other crap I've read here.\n\nNo no seriously, they've been guarding the identity of the mother like it was the Colonel's secret recipe, but I'm sure you, random reddit fan, can figure it out after naught but a marathon of HIMYM episodes and 5 minutes reading credits on IMDB. You clever fan! I don't think that's a fair thing to say. Fans have been able to predict things, sometimes even right down the line in a variety of shows. Don't doubt the fans.\n\n Predict things? Sure. Predict a show's deepest-held secret? Rarely. To be honest, I don't think the secret really works that way. They've never really had a concrete plan as for what was going to happen, hence why there were backup mothers throughout the series. \n\nAnd, despite the fact that we don't know who the mother actually is - which let's be honest, is something we can't know as its a matter of casting - people did predict who the mother was/how Ted would meet her. All the more reason to not take fan theories seriously. Nearly all that I have read depend on multi-season pseudo-plotpoints, and given that the writers have had no concrete plan, any \"signs\" of evidence is completely unreliable.\n\nIs it possible a fan theory may end up right? Sure, it's possible. My experience with fan theories so far will keep me from taking any of them seriously, however. Fan theories are at best, guesses, and I'd rather just have some patience and wait to see who the mother is when it happens naturally rather than wondering which random guess might possibly be accurate, if any. I'm pretty sure it is Ranjeet though.   I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.  Screencapped this, and I will see you when the mother is revealed. We shall see then if you are happy to see me or not. This is not an original theory I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.  When I first saw this episode, I was pretty sure that St. Pattys Day bar girl was the mother.  HOWEVER, the girl in the bar would have needed to be at least 21 at the time of the episode, and we know that the mother is in Ted's (mistaken) first lecture 2 years later.  Someone who is 21 in March should be graduating college within the following year, or at least wouldn't be taking an introduction to economics class 2 years later.\n\nI still like the idea of Ted bumping into the mother in that bar, but I think the writers may have included her as a red herring. When I first saw this episode, I was pretty sure that St. Pattys Day bar girl was the mother.  HOWEVER, the girl in the bar would have needed to be at least 21 at the time of the episode, and we know that the mother is in Ted's (mistaken) first lecture 2 years later.  Someone who is 21 in March should be graduating college within the following year, or at least wouldn't be taking an introduction to economics class 2 years later.\n\nI still like the idea of Ted bumping into the mother in that bar, but I think the writers may have included her as a red herring. I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.  I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.  I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.  I'm 100% certain that I know who the mother is and they have already shown her. It was the Saint Patricks Day episode a few years ago. Season 3 episode called \"No Tomorrow\". Ted is out with Barney in a bar and Ted is being a collosal jackass, putting drinks on another guys tab, hitting on a married chick and other stupid things. If you remember at the end of that episode is when he finds the yellow umbrella. The mother was at that bar that night. At one point, it is very brief, Ted bumps into a woman while walking in the bar. After he hits her he turns around and apologizes in passing and she does the same. While they do this, she lingers and smiles before he turns around. She is a brunette and could be described as similar in appearance to Robin. I am sure that is the mother. This show is brilliant at putting in small clues about future events. Ted doesn't remember her because he was really drunk. \n\nTake a look at the episode and it will all make perfect sense.      I don't trust that guy, he was the bad guy in [kazaam] (http://i.imgur.com/fyjKAH6.jpg)     TO MACLARENS!!!!!!!!       Ehehe... that would be amazing     Ranjit is already married though, arranged marriage when he was 18. And plus, you know, he's a man. They have same sex marriage + adoption in New York but ted's not gay Well, that might be the problem he's been having with all the ladies but ted's not gay that's the surprise twist. He's actually, silently, had a thing for Ranjit.\n\nTed: \"Kids, I've been telling you this story. You have asked me for years 'Where's mom?', 'Dad, who's our mother?'. Well kids, I don't know who your mother is. You are adopted. You know your Uncle Ranjit? Him and I are lovers. Yes kids, I'm gay and Ranjit and I are getting married.\"\n\nRanjit then walks into the room: \"Helloooo\" that's the surprise twist. He's actually, silently, had a thing for Ranjit.\n\nTed: \"Kids, I've been telling you this story. You have asked me for years 'Where's mom?', 'Dad, who's our mother?'. Well kids, I don't know who your mother is. You are adopted. You know your Uncle Ranjit? Him and I are lovers. Yes kids, I'm gay and Ranjit and I are getting married.\"\n\nRanjit then walks into the room: \"Helloooo\" that's the surprise twist. He's actually, silently, had a thing for Ranjit.\n\nTed: \"Kids, I've been telling you this story. You have asked me for years 'Where's mom?', 'Dad, who's our mother?'. Well kids, I don't know who your mother is. You are adopted. You know your Uncle Ranjit? Him and I are lovers. Yes kids, I'm gay and Ranjit and I are getting married.\"\n\nRanjit then walks into the room: \"Helloooo\" but ted's not gay",
+    "url" : "http://i.imgur.com/jQncTE2.jpg"
+  }, {
+    "id" : 8,
+    "title" : "It's Official: CBS' 'How I Met Your Mother' To Return For Ninth &amp; Final Season - Deadline.com",
+    "url" : "http://www.deadline.com/2013/01/how-i-met-your-mother-return-final-season-cbs-deal/"
+  }, {
+    "id" : 9,
+    "title" : "New spoilers on Season 8",
+    "snippet" : "  &gt;***Ted isn’t entirely over Robin.***\n\n\nThis is the reason I seriously hope we meet the mother this season and season 9 is all about Ted-Mother relationship.I seriously can't take Ted's mopy depressed over Robin Craaap anymore.\n  &gt;1) This **MIGHT** not be the end of Robin Sparkles\n\n\nugggh. They should definitely leave it be at this point. Interested to see how this part is needed, but I really doubt we need any more insights in to her canadian fame.\n\n\n\n&gt;3) There **WILL** be a Barney-Robin wedding this season.\n\n\n!!!!! Cannot express how grateful I am for this!\n\n\n\n\n&gt;4) Ted *isn’t* entirely over Robin.\n\n\nhttp://i3.kym-cdn.com/profiles/icons/big/000/110/902/Flipping%20Tables.jpg  &gt;4) Ted isn’t entirely over Robin.\n\nNo shit?!... Well, people are going to complain about it, but I think it's okay... As long as he doesn't just say I love you again. I think it will have to do with Ted telling Robin he broke up with Victoria because of his feelings for her.\n\n&gt;5) WILL THERE BE A FINAL SLAP?\n&gt;“we’re hoping to pay off every loose end before the end of the series.”\n\nPINEAPPLE PLEASE!!! they said they never found out where the pineapple came from  ",
+    "url" : "http://insidetv.ew.com/2013/01/29/how-i-met-your-mother-five-scoops-on-the-rest-of-the-season/"
+  }, {
+    "id" : 10,
+    "title" : "Official: next season will be the final season of How I Met Your Mother",
+    "snippet" : "    ",
+    "url" : "http://www.cbspressexpress.com/cbs-entertainment/releases/view?id=34435"
+  }, {
+    "id" : 11,
+    "title" : "The online dating profile Barney created for Ted",
+    "snippet" : "   you couldn't have taken a screenshot without the \"press esc..\"? you couldn't have taken a screenshot without the \"press esc..\"? ",
+    "url" : "http://imgur.com/B4UKciR&amp;xBfBuMj"
+  }, {
+    "id" : 12,
+    "title" : "How I imagine the mother overhearing Teds story lately in the other room...",
+    "snippet" : "  Why would she be angry? He's spent 8 years telling his kids how he met her. I'm pretty sure he hasn't eaten or slept either. 175 episodes, lets say 25 minutes each (some are probably longer but im lazy to look.)  You're looking at 72 hours....3 day story, totally plausible not to eat or sleep.....\n\nEdit: LAWYERED! 175 episodes, lets say 25 minutes each (some are probably longer but im lazy to look.)  You're looking at 72 hours....3 day story, totally plausible not to eat or sleep.....\n\nEdit: LAWYERED! You can only go two days without water though You can only go two days without water though Why would she be angry? He's spent 8 years telling his kids how he met her. I'm pretty sure he hasn't eaten or slept either. Well, he does tell about every girl he has ever slept with and the fact he was stuck on Robin for eight years now, including the year they met so I guess she could be mad at him for that.   How do we know she's still alive when Future Ted is telling the story?\n\nEdit: I had not seen [this](http://www.reddit.com/r/HIMYM/comments/17iq3m/what_if_the_mother_is_dead_in_the_future/) when I made this post. What if both the mother and Barney have died and Ted is telling the kids the story to ease them into the idea of him and Robin once again dating? What if both the mother and Barney have died and Ted is telling the kids the story to ease them into the idea of him and Robin once again dating? I don't like this. The first part is depressing, but I'd be okay with it. The second part would really, really bother me.  ",
+    "url" : "http://24.media.tumblr.com/tumblr_m583r9xpsH1r79nqyo1_500.gif"
+  }, {
+    "id" : 13,
+    "title" : "HIMYM shirt design contest on 6dollarshirts.com!",
+    "snippet" : "In a day or two my shirt design is going to be up for voting on 6dollarshirts.com. Vote for it and you can own it for $6!   http://imgur.com/gallery/RFmFng5/new",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17ligm/himym_shirt_design_contest_on_6dollarshirtscom/"
+  }, {
+    "id" : 14,
+    "title" : "Is anyone else bothered why they haven't mention this place again?",
+    "snippet" : "  Well we see it at the beginning of almost every episode.. Yeah I just meant, when Robin and Ted where fighthing for a place to live (Quinn's) why Ted wasn't this mentioned. The last episode it comes out is when Barney takes out the basketball hoop from his father's house and tells Ted 'every kid needs a hoop.' The house was already better looking and yeah.. ): \nI just want them to mention it again at least, we know that's where he lives with his family. I believe it wasn't an option for him when he was searching for a new place. The whole house was in a pretty bad shape when he bought it. In Disaster Averted, Ted was planning to bring the gang in the house, thinking it would be a safe place during the hurricane. He says at the end of the episode that a tree fell in the living room, and, they could have been smashed if they were there. So I guess he is still in the process of fixing all this which is a lot of work, especially if he is planing this by himself, as suggested when he bought it. I'd assume he's doing that when he's free, and we know he was busy with the GNB project. But this is just a speculation, it would be nice if they clear that up.  If I remember correctly when hurricane Irene passed over NY a tree fell on the building. So I assume it is getting fixed. Or has renters. In my opinion, I don't think it was mentioned on the show, that he bought the house for the kids and the mother to live in. So many he is waiting until he meets the mother?  i remember a episode when a guy goes through the house and checks it for damage, and at the end of the episode he tells the kids that the house is the one they live in today\n i remember a episode when a guy goes through the house and checks it for damage, and at the end of the episode he tells the kids that the house is the one they live in today\n   I mean, he bought the place and there was a time Ted didn't have a place to live. I don't know, it just seems a while since they mentioned it and we know this will be the house Ted lives.   Marshall mentioned it as \"finished\" in an episode this season. Can't remember which, but I assume he doesn't use it because he doesn't want to live too far outside the city just yet. Marshall mentioned it as \"finished\" in an episode this season. Can't remember which, but I assume he doesn't use it because he doesn't want to live too far outside the city just yet. You have a source? I can't recall that  ",
+    "url" : "http://static.tvfanatic.com/images/gallery/lets-break-some-ht_499x345.jpg"
+  }, {
+    "id" : 15,
+    "title" : "The only thing I can think of when people say the word 'boat'",
+    "snippet" : "  Really? 'Cause most of the time, I think of a boat instead. ",
+    "url" : "http://i.imgur.com/aS7mlRq.jpg?1"
+  }, {
+    "id" : 16,
+    "title" : "You're high (x-post from funny)",
+    "snippet" : "   Watched this yesterday, in my opinion it's one of the funnier episodes ever. Which episode Is it? http://en.wikipedia.org/wiki/Tick_Tick_Tick_%28How_I_Met_Your_Mother%29\n\nTick Tick Tick. Great episode, hilarous till the end, at which point it dramastically turns heartbreaking.  You're drunk!    ",
+    "url" : "http://i.imgur.com/yxmszEG.jpg"
+  }, {
+    "id" : 17,
+    "title" : "I'm so Happy for Barney!",
+    "snippet" : "I don't know if anyone else feels this same way but I couldn't be happier for Barney. In the first few seasons he was always this upbeat guy who never really let anything bother him. Lately, however, he's been one of the more depressing characters. Not so much in the way he acts but what happens to him. With his whole dad situation a few seasons ago, to the time episode where Robin chose Kevin over him not to mention his break-up with Nora for her and finally his falling out with Quinn. It just seems like he's been through a lot these last few seasons and I'm glad to see things turning up for him these last few episodes.    I think you need to rewatch the first few seasons.  His breakdown was a long time coming and was all because of his destructive lifestyle. ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17iu14/im_so_happy_for_barney/"
+  }, {
+    "id" : 18,
+    "title" : "How I felt last night as a European fan (x-post)",
+    "snippet" : "  I live in the UK and just got ready to watch the new episode. I checked the site I usually watch it on and it wasn't there. I thought it was odd so I checked when the next episode is supposed to air. \n\nAlas I was disappointed to see its on a weeks break, anyone know why? superbowl?     [deleted] [deleted] [deleted] [deleted] [deleted]  [deleted] I think the fact they were up til 2AM to watch speaks volumes otherwise.\n\nI know I wouldn't stay up until 2AM to watch a television show. [deleted]",
+    "url" : "http://imgur.com/XhliuwT"
+  }, {
+    "id" : 19,
+    "title" : "I thought Lily and Marshall shared a toothbrush. Plothole? Image from \"Zip, Zip, Zip\"",
+    "snippet" : "  Could be various things depending on what you prefer: plothole, Ted being unreliable narrator, Ted imagining it happen like this.\n\nAnd there's also other stuff like that people seem to enjoy pointing out (Barney and driving, Marshall and fights, Robin and team sports). Everyone can chose if he wants to think of it as a plothole or not. I would think this is Ted's Children imagining this which since the one toothbrush detail hasn't been released is how they would imagine \"At this point Lily and Marshall were in the bathroom brushing their teeth...\" I would think this is Ted's Children imagining this which since the one toothbrush detail hasn't been released is how they would imagine \"At this point Lily and Marshall were in the bathroom brushing their teeth...\" Could be various things depending on what you prefer: plothole, Ted being unreliable narrator, Ted imagining it happen like this.\n\nAnd there's also other stuff like that people seem to enjoy pointing out (Barney and driving, Marshall and fights, Robin and team sports). Everyone can chose if he wants to think of it as a plothole or not. Could be various things depending on what you prefer: plothole, Ted being unreliable narrator, Ted imagining it happen like this.\n\nAnd there's also other stuff like that people seem to enjoy pointing out (Barney and driving, Marshall and fights, Robin and team sports). Everyone can chose if he wants to think of it as a plothole or not. Great explanation. Interesting none-the-less. I love finding things like this in the shows I watch. Some shows are much better about sticking to their story, per se, than others.      Here's the real plothole:\n\nIn \"The Slutty Pumpkin\" Marshall and Lily get all dressed up in their pirate and parrot costume. When Lily goes to the bathroom Marshall follows because it's \"an elaborate costume\" meaning he has to go in with her.\n\nThen in \"Zip Zip Zip\" when Marshall and Lily get stuck in the bathroom together because they don't want to ruin the moment for Ted, they then make a big deal about Lily peeing in front of Marshall even though 8 episodes earlier Lily apparently already had a tinkle in front of him.\n\nMind=blown        Anthor one, man this show just f*cks up time after time after time. JUST SHOW US THE FUDGING MOTHER Woah man, watch it with those swear words! My mom checks my internet history before she gives me my allowance. Anthor one, man this show just f*cks up time after time after time. JUST SHOW US THE FUDGING MOTHER",
+    "url" : "http://imgur.com/ijErW5N"
+  }, {
+    "id" : 20,
+    "title" : "funny stuff ted says ",
+    "snippet" : "      Just one of the amazing girls Ted has lost...([Amber Stevens](https://www.google.com/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;docid=8v6U-w8FpcLNwM&amp;tbnid=oTbAKaxY0WgdLM:&amp;ved=0CAIQjBw&amp;url=http%3A%2F%2Ffansshare.com%2Fphotos%2Famberstevens%2Famber-stevens-873313590.jpg&amp;ei=2fEHUZW8MNHcsgb-_IDABA&amp;bvm=bv.41524429,d.d2k&amp;psig=AFQjCNEmWmFU2nlA_Vn7nako9JcXhaMwNw&amp;ust=1359561552679388))",
+    "url" : "http://sphotos-b.xx.fbcdn.net/hphotos-snc7/483044_120589828116501_19777138_n.jpg"
+  }, {
+    "id" : 21,
+    "title" : "I love these \"Flash forwards\" to start and end series",
+    "snippet" : "I love how it gives us something to look forward to: like in season 6 where we were wondering \"WHO THE HELL IS THE GROOM?\". Then in season 7 when we were wondering \"WHO THE HELL IS THE BRIDE\". And now, in season 8, well, you know.\n\nReally good work from the producers to do these. Really keep me on the edge of my seat.   ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17jp8t/i_love_these_flash_forwards_to_start_and_end/"
+  }, {
+    "id" : 22,
+    "title" : "What if The Mother is dead in the future?",
+    "snippet" : "I know this is macabre, but what if the reason why Ted is telling kids this life story is that their mother died?   it could also be that Robin has recently passed away and the story is Teds way of explaining what Robin meant to Ted. To me future Ted makes it seem like Robin is gone. Also there was a episode where Robin was worried that her mother had found a lump in her breasts. Death by breast cancer? S07E10 - Ted says 'to this day, Barney and Robin swear this is the song they danced to'. Sure, it's just one line, but that's my takeaway with the present tense. it could also be that Robin has recently passed away and the story is Teds way of explaining what Robin meant to Ted. To me future Ted makes it seem like Robin is gone. Also there was a episode where Robin was worried that her mother had found a lump in her breasts. Death by breast cancer? it could also be that Robin has recently passed away and the story is Teds way of explaining what Robin meant to Ted. To me future Ted makes it seem like Robin is gone. Also there was a episode where Robin was worried that her mother had found a lump in her breasts. Death by breast cancer? it could also be that Robin has recently passed away and the story is Teds way of explaining what Robin meant to Ted. To me future Ted makes it seem like Robin is gone. Also there was a episode where Robin was worried that her mother had found a lump in her breasts. Death by breast cancer? Oh God I hate this. It's horrible, and will cause all of the feels. \n\nWhich means it's the most likely to be true, of course. :(  Yes, it's been mentioned before, but here are my thoughts on that little potentiality: Future Ted goes so far as to tell his kids the part of the story concerning Victoria telling him twice about Robin, the first that his previous relationships never lasted because of her, and the second that she hoped that he does, eventually, end up with her. \n\nThis concerns two variables - that the mother is somehow no longer in the equation, and that Barney and Robin get divorced. I can see the former happening, dead or split, but the second at this point would just seem like a kick in the nards with how much effort they've recently put into showing the sort of bond Barney and Robin had/have. \n\nBleh. I'unno, man. Woah woah woah, isn't there speculation that Barney is dead??? What if that is also the case, then the bond between Robin and Barney wouldn't seem so superficial.    No. None of this is happening. It's a comedy show and the writers are not dark like that. If the Carly theory did not happen then none of these wacko theories will either No. None of this is happening. It's a comedy show and the writers are not dark like that. If the Carly theory did not happen then none of these wacko theories will either I dunno, remember the [ending](http://www.youtube.com/watch?v=vBW_oN9a404) to Roseanne? I dunno, remember the [ending](http://www.youtube.com/watch?v=vBW_oN9a404) to Roseanne?  I doubt they'd get the kids to act all bored and uninterested if that were the case.\n\nAlso, he says one of her painting is hanging in their den as they speak so unless she just died, she still paints stuff regularly.         I have thought this from time to time,with closing out a show at a high peak in its popularity like they seem to be planning on. They have to make it memorable,if ted just meets some random and the show ends no one will be satisfied with that ending however if it comes full circle and ted and robin end up living the life ted  has constantly fantasied of with two kids,that also didnt stop robin doing the things she wanted like travel and so forth and plus she can't have kids so i think it could tie together to a sligtly satisfing end to the show I would be satisfied if he meets some random and it ends. In fact, that is probably the best ending for the show. The show is not at all about the mother. It's about the five people we see every week. The mother is just a device used to move the show along. ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17iq3m/what_if_the_mother_is_dead_in_the_future/"
+  }, {
+    "id" : 23,
+    "title" : "Pictures from the next episode!",
+    "snippet" : "   The Québécois in me is happy to see Luc Robitaille! The Québécois in me is happy to see Luc Robitaille!  Anyone else wondering why Alex Trebek is there??  He's Canadian and was friends with Robin when he hosted the coin flipping show right? The math show, IIRC, where Cobie was with Nicole Sherzinger. \n\nThe one who hosted the coin flipping show was Regis Philbin on that hamburger episode.  ",
+    "url" : "http://www.cbs.com/shows/how_i_met_your_mother/photos/1000123/season-8-episode-15/34354"
+  }, {
+    "id" : 24,
+    "title" : "My boyfriend let me borrow his umbrella today - I think he's a keeper",
+    "snippet" : "   ",
+    "url" : "http://imgur.com/VCnAW6O"
+  }, {
+    "id" : 25,
+    "title" : "Barney Stinson Does not understand how graphs work.",
+    "url" : "http://vimeo.com/22200476"
+  }, {
+    "id" : 26,
+    "title" : "I just watched this recently and realized something.",
+    "snippet" : "  Victoria was awesome at first. It's a shame they turned her into an overly attached psycho. Victoria was awesome at first. It's a shame they turned her into an overly attached psycho.   OP triggered a different realization for me. \n\nWhat if Ted is telling his children how he met their mother because they were recently divorced and Ted is now putting it to their aunt Robin and telling his children this long story is the best way to make them understand his motives.  It's weird that he keeps her little bus and the painting in the den then.  That would line up better with the theory that the mother is dead by the time he is telling the story and that the whole point of the story is for the kids to better understand why he is now pursuing their Aunt Robin (Barney is dead also, that is why he is remembered so larger than life and full of energy.) (not my favorite theory btw) That would line up better with the theory that the mother is dead by the time he is telling the story and that the whole point of the story is for the kids to better understand why he is now pursuing their Aunt Robin (Barney is dead also, that is why he is remembered so larger than life and full of energy.) (not my favorite theory btw) I'm pretty sure the barney is dead theory was disproven, I can't remember why though. I hope so, I have been watching the show and I don't remember any trace of an \"old\" Barney, the only flash forwards of Barney I remember at the moment are when they are seeing the Star Wars trilogy after Ted's daughter is born and when he was faking his death (that could just have been a Barney's fantasy.)\n\nI just wouldn't like the show to involve death to such degree or for its final message be something like \"its ok to suffer years for someone, maybe their SO will die before you.\"   She's wearing purple. Is there some sort of importance to that??  Yes, actually. Someone around here mentioned before that the mother is always symbolized with the color yellow, as with the yellow umbrella and yellow toy bus. Robin is associated with purple. In this episode, Victoria's in purple too. In the color wheel, purple is the opposite of yellow.    [deleted] [deleted] Season 1 Victoria was perfect (she was the potential mother if they never got a season 2, so its easy to see why they made her like that). Season 7 and 8 Victoria is like a completely different character that just happens to be played by the same actress. Season 7\\8 victoria completely disappointed me, especially the reason she ended up leaving him.  Someone who was that determined to leave for another guy suddenly has misgivings about marrying him because Robin is still around but didn't mind before the proposal and never bothered to tell Ted beforehand - before, y'know, leaving Klaus at the altar? With all of those relationships early this season it all seemed like excuses to get rid of them. Suddenly Quinn and Barney realize they can't trust each other after all that but they're good together otherwise? Suddenly Robin realizes that guy is a moron? Suddenly Victoria is a paranoid, messy bitch? It was all pretty defunct, to me at least. She was right about Robin being the reason most of his other relationships failing though. Not really. Here's my work:\n\n• Karen - Lily, and himself after he breaks it off because of the way she thinks of them.\n\n• Stella - This one I'll grant you, but only to a point. Robin's mere presence there was why Ted went to get Tony and her daughter, *as a result of Barney lying that Robin was on here way*. He was going to call and tell her not to come. He told her that he wanted to be with Stella after Robin tried to stop him. Stella chose otherwise.\n\n• Zoey - Yes, but again, technicality. Robin and Lily both convinced him to save his career instead of the relationship because either way they were both convinced it would end bitterly.\n\nOne could argue the latter scenarios are more relevant to her intervention, but in both scenarios Ted expresses no interest at those points in her. Otherwise, everyone he dated had little to no interaction with Robin, didn't last more than an episode (except for Carly Whittaker if she's still around in the next few episodes). [deleted] [deleted]",
+    "url" : "http://imgur.com/8MsDqJe"
+  }, {
+    "id" : 27,
+    "title" : "I just heard this exact alarm and it totally reminded me of this scene in HIMYM",
+    "url" : "http://www.youtube.com/watch?v=AkNV4wM9-b0"
+  }, {
+    "id" : 28,
+    "title" : "Still the best thing I have ever seen. ",
+    "url" : "http://www.youtube.com/watch?v=n6rcNjfbU9w&amp;feature=share"
+  }, {
+    "id" : 29,
+    "title" : "California Tortilla lets a real man choose his own name for his Burrito Elito card account",
+    "snippet" : "  What?",
+    "url" : "http://imgur.com/tIaxypr"
+  }, {
+    "id" : 30,
+    "title" : "Watching BBC News when I saw Ted's Indian doppelgänger! (Excuse the phone camera)",
+    "snippet" : "  That's Legend......wait for it.....Delhi. If I could give you gold, I certainly would. Well played! *tips hat* I got you Good guy SonOfGnome! I owe you one. Actually, it was me who got you the gold. o really??\n\nhttp://i.imgur.com/QfeOjlh.png o really??\n\nhttp://i.imgur.com/QfeOjlh.png o really??\n\nhttp://i.imgur.com/QfeOjlh.png If I could give you gold, I certainly would. Well played! *tips hat* So...why can't you? http://i.imgur.com/iJIW2.gif So...why can't you? So...why can't you? So...why can't you? If I could give you gold, I certainly would. Well played! *tips hat* If I could give you gold, I certainly would. Well played! *tips hat* That's Legend......wait for it.....Delhi. Did you mean Delhi? That's Legend......wait for it.....Delhi. That's Legend......wait for it.....Delhi. That's Legend......wait for it.....Delhi.   in the Indian version, robin is from Pakistan  in the Indian version, robin is from Pakistan      Indian Wrestler Ted Indian Tech-support Ted  Ted Patel   so we have german barney, now indian ted. just three more dopplergangers left to find, people!        What is the Indian equivalent to sandwiches?    How I Raped Your Mother   [deleted] Indiana dude looks way more like Ted.\n\nEdit: Indian* Indiana? Indiana dude looks way more like Ted.\n\nEdit: Indian* I think they both look similar, Indian Ted maybe more so than Xavi, but i think the Ted-Xavi resemblance is uncanny.  lol @ all the people down voting all the comments that said this is not even close to Ted. This person looks nothing like Ted.  ",
+    "url" : "http://imgur.com/LIxpKEX"
+  }, {
+    "id" : 31,
+    "title" : "Just a job...",
+    "url" : "http://youtu.be/NmXB1-IKw7k"
+  }, {
+    "id" : 32,
+    "title" : "Josh Radnor (aka Schmosby) came to DePaul to give a motivational talk!",
+    "snippet" : "    classic schmosby Is there a rule that every single thread containing anything about Ted requires this comment somewhere? Classic lorcantc Is there a rule that every single thread containing anything about Ted requires this comment somewhere?    Upvote for DePaul!  (Class 2006) I'm sorry, I believe you mean upduck.  yep.  Didn't even notice that!   I'm sorry, I believe you mean upduck.    Anyone care to touch on what he talked about? any good questions asked?    Josh Radnor is a dick Josh Radnor is a dick Josh Radnor is a dick",
+    "url" : "http://imgur.com/d3wj4lw"
+  }, {
+    "id" : 33,
+    "title" : "I lol whenever I see this poster. I felt you guys would appreciate.",
+    "snippet" : "   shit... just realized this is repost... still learning how to post here...    I'm missing something...\n   After looking all over for some sort of hidden reference, [it hits me](http://i855.photobucket.com/albums/ab117/GKart64/happy-i-see-what-you-did-there-l-2.png).",
+    "url" : "http://imgur.com/PVaFkFF"
+  }, {
+    "id" : 34,
+    "title" : "UH OH",
+    "snippet" : " ",
+    "url" : "http://sphotos-b.xx.fbcdn.net/hphotos-ash4/603127_120602578115226_198402411_n.jpg"
+  }, {
+    "id" : 35,
+    "title" : "How do they do?",
+    "snippet" : "For example the bar. Is that an actual bar they are shooting in, or is it just three walls and no ceiling so it looks like a bar, same with the apartments, and basically all rooms they are in. \n\nI assume all sitcoms do the same, but I don't know how that is, anyone know?     Probably a shadowbox set with three walls, but I'm not sure. Ted's apartment definitely is, and it would explain the shot patterns. They basically never shoot from the front of the bar, for one thing. but we have sometimes seen the apartment from another angle, like you have seen the TV for example, and the way into the kitchen. How would that work? Movable fourth wall. 90% of shots are from the \"front\" of the apartment, facing the back. They can also shoot at something like a 70 degree angle without exposing the lack of fourth wall, which may account for that.   It's actualy kinda disappointing that it isn't real rooms, it doesn't feel as real. To be perfectly honest, I'm not sure why this is so upsetting? It's a TV show.  when did I say something about upsetting? What I meant is that it would feel more authentic if it was real. Not that it really do matter",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17hvpi/how_do_they_do/"
+  }, {
+    "id" : 36,
+    "title" : "On my college's Facebook secrets page..",
+    "snippet" : "    ",
+    "url" : "http://i.imgur.com/HavJ7gG.png?1"
+  }, {
+    "id" : 37,
+    "title" : "Does Barney know that Robin can't have children?",
+    "snippet" : "If not, do you guys think that it'll be an issue in a future episode? If yes, which episode was it when Robin told everyone?\n\nSorry if this question has already been asked!    I think it would be fair to assume he does know. I'm guessing it is a plot device in a future episode. Like, when Robin holds Marvin.  I agree. I think he doesn't know and it would be used in one of the next episodes. They've made a big deal out of this before, and it would be strange not to have it addressed now.\n\nAn interesting theory I've seen is that she doesn't tell him until [spoiler] (/s \"the day of the wedding\"), which would be a reason for her telling Ted [spoiler] (/s \"she can't go through with the wedding\") in the flashforward. But I think it would be brought up sooner, as otherwise it could really damage her character. I'm guessing it's [spoiler] (/s \"During 'Bad Crazy':Robin holds baby Marvin for the first time and becomes attached to him\")  I believe she told ted. I also think lily.   I thought he was in the hospital with her when she found out? Or was that a different time?  Either way, I expect an episode where Barney goes out of his own to interview potential adopted children, interviewing them with the same shallow reasons he chose women, and creating a \"Daddy Code\" book similar to the Bro Code\n\nThe episode will be Legen.. wait for it... Either way, I expect an episode where Barney goes out of his own to interview potential adopted children, interviewing them with the same shallow reasons he chose women, and creating a \"Daddy Code\" book similar to the Bro Code\n\nThe episode will be Legen.. wait for it... Even though this sounds like it would be awesome, it could go badly for Robin. She's pretty explicitly said she never wants to have children, adopted or otherwise... ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17hn0l/does_barney_know_that_robin_cant_have_children/"
+  }, {
+    "id" : 38,
+    "title" : "Jason in one of his first roles, Freaks and Geeks!",
+    "snippet" : "           ",
+    "url" : "http://i.imgur.com/vRjndby.png"
+  }, {
+    "id" : 39,
+    "title" : "8 Seasons in 4 Minutes",
+    "snippet" : "  Wow....\n\n\"I'm not ready for this!\"\n\nTears in my eyes.  [@3:22](http://youtu.be/8ogrE6c73A8?t=3m22s) \"Because, if you were gonna be some lame suburban Dad, why couldn't you have been that for me!!\"\n\nEvery time I hear that line from that scene, I cry. Then I feel this sudden need to call my own Dad. Thank goodness, I now know him and can contact him. [@3:22](http://youtu.be/8ogrE6c73A8?t=3m22s) \"Because, if you were gonna be some lame suburban Dad, why couldn't you have been that for me!!\"\n\nEvery time I hear that line from that scene, I cry. Then I feel this sudden need to call my own Dad. Thank goodness, I now know him and can contact him.         Oh my god, the tears! You did an amazing job! It makes me want to rewatch all of the seasons, this is truly a great show.        Excellent! Very well put together, and that song just seems like something they'd have on the show.\n\nBut in all fairness, Barney did manage to sum up the entire show in about 52 seconds, so there's that........ ~~Do you have a link to that clip?~~\n\n[found it](http://www.youtube.com/watch?v=ZCSjcII64FE)              image transition was way to fast, nice idea but poor execution",
+    "url" : "http://www.youtube.com/watch?v=8ogrE6c73A8"
+  }, {
+    "id" : 40,
+    "title" : "Wait...so, right now?",
+    "snippet" : "  ",
+    "url" : "http://i.imgur.com/v94tS68.jpg"
+  }, {
+    "id" : 41,
+    "title" : "I see your Indian ted toppelganger and I raise you a friend of mine - meet mexican ted.",
+    "snippet" : "  Is he a westler?     ",
+    "url" : "https://sphotos-b.xx.fbcdn.net/hphotos-ash3/579207_515064175173083_1351226140_n.jpg"
+  }, {
+    "id" : 42,
+    "title" : "Jason reciting Pi",
+    "snippet" : "  Reminds me of his bar graph of favorite pies. And his pie graph of his favorite bars. Pie chart.  What's the difference between a \"chart\" and a \"graph\"? (non-English native speaker here)  [Video](http://www.youtube.com/watch?v=3GPZeOsxuEE)    Craig Ferguson seems to have a great relationship with NPH and Segel. I'd recommend watching all of the interviews involving them.  Craig Ferguson is probably the funniest guy on late night, certainly better than Leno or Letterman. He's on so late that he can be goofy and do all kinds of random shit. It's so relaxed and casual in a sense compared to Leno/Letterman.  3.141592654... is how far I memorized it before I realized it wasn't cool. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. 3.14159265358979323 is how far I can do it. There's even a dedicated practice to remembering the different digits called [piphilology](http://en.wikipedia.org/wiki/Piphilology)...\n\nReciting it to the [Feynman point](http://en.wikipedia.org/wiki/Feynman_point) would be cool, though. I can only remember 3.141592... 3.141592654... is how far I memorized it before I realized it wasn't cool. 3.141592654... is how far I memorized it before I realized it wasn't cool. I can do 100 :) but no one ever wants to hear it...\n\n3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679\n\nIt looks so pathetic in text, but it sounds cool when I say it... I think. When no one wants to hear it, it means it isn't cool. I know :( Sorry bro.  Memorize some poetry, or your credit card number or something, and you can use your talent in a way some people will be impressed.     Lol, what kind of question is that? I THINK it made sense in context, too bad I can't remember the context though.\n\nMaybe Jason played that tiger in 'life of Pi'?   Post this in /r/JasonSegel ! It needs more posts and people!\n\nEDIT: I just saw this video is already there but still.. needs more people! Post this in /r/JasonSegel ! It needs more posts and people!\n\nEDIT: I just saw this video is already there but still.. needs more people!  Is it PE-can, pe-CAHN, or pe-kin?     Is this kind of joke quality  that the show has? I knew there was a reason I don't watch it.",
+    "url" : "http://i.imgur.com/Jk8Ft.jpg"
+  }, {
+    "id" : 43,
+    "title" : "Speaking of people that resemble Ted, Co-author of Freakonomics Stephen Dubner has always reminded me of college-aged Schmosby.",
+    "snippet" : " ",
+    "url" : "http://imgur.com/RY0PRXk"
+  }, {
+    "id" : 44,
+    "title" : "was there no new episode tonight?",
+    "snippet" : "what am i missing? I honestly couldnt find an answer.  New episode is next week, looks like they put in a weeks break. What's the deal with Americans not being able to just have an episode a week until the end of the season? It seems this is somehow related to their rating/add calculations. Apparently, a few months of the year are observed more closely for this kind of things, so they tend to put a lot of new episodes in that same period. February seems to be one of those, probably meaning that we'd have a few new episodes next month. I think it's also due in part to the hectic filming schedule, and taking a week off here or there allows them to keep the quality up. I think it's also due in part to the hectic filming schedule, and taking a week off here or there allows them to keep the quality up. It seems this is somehow related to their rating/add calculations. Apparently, a few months of the year are observed more closely for this kind of things, so they tend to put a lot of new episodes in that same period. February seems to be one of those, probably meaning that we'd have a few new episodes next month. It seems this is somehow related to their rating/add calculations. Apparently, a few months of the year are observed more closely for this kind of things, so they tend to put a lot of new episodes in that same period. February seems to be one of those, probably meaning that we'd have a few new episodes next month. http://en.wikipedia.org/wiki/Sweeps#Sweeps   You honestly couldn't find an answer? All you have to do is go to imdb or the episode list page on wikipedia...",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17hel3/was_there_no_new_episode_tonight/"
+  }, {
+    "id" : 45,
+    "title" : "Marshall would disagree with one of the questions on the path to HIMYM. (x-post from /r/television).",
+    "snippet" : "  Baskiceball *is* a sport! Ooh, I hadn't thought of that!  I was talking about the 'Is anything haunted' question.   i guess i must be that only person to watch grimm   ",
+    "url" : "http://www.collegehumor.com/article/6866360/flowchart-what-tv-show-are-you-watching"
+  }, {
+    "id" : 46,
+    "title" : "MacLaren's pub in Ottawa, Canada",
+    "snippet" : "  If I am in Canada, I want to go to the Hoser Hut   ",
+    "url" : "http://imgur.com/RAvNSAD"
+  }, {
+    "id" : 47,
+    "title" : "Does someone know where i can find a copy of the Playbook and the Bro Code used in the show. ",
+    "snippet" : "I have been searching the internet for sometime looking for a high quality copy of the playbook and the bro code. Currently all I have found is a shitty paperback copies on amazon.\n\nLinks \nhttp://www.amazon.com/The-Playbook-Score-chicks-awesome/dp/1439196834/ref=sr_1_1?ie=UTF8&amp;qid=1359437340&amp;sr=8-1&amp;keywords=the+playbook\n\nhttp://www.amazon.com/The-Bro-Code-Barney-Stinson/dp/143911000X/ref=sr_1_2?ie=UTF8&amp;qid=1359437340&amp;sr=8-2&amp;keywords=the+playbook\n\nI am looking for something that is more official hopefully a hardcover and does not have the picture of Barney (NPH) on it      ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17hbwo/does_someone_know_where_i_can_find_a_copy_of_the/"
+  }, {
+    "id" : 48,
+    "title" : "I can only hope to be as charming as Ted. ",
+    "snippet" : "  ",
+    "url" : "http://vimeo.com/54468466"
+  }, {
+    "id" : 49,
+    "title" : "With all the feels going around, my favorite part that always makes me happy.",
+    "snippet" : "   ",
+    "url" : "http://www.youtube.com/watch?v=CiweaZQ8g5U&amp;ytsession=u36RDbqO68UQELhBKBqHyyFfVVoZdkJrYya_PpnYQkOMYegfPAoNk61fbM9dDqDF9WgNOGu0PvRHtNWdqzL_ozF3N--9tpHdvKfVD4AcyMdm4jt5OmMkFW3pRMmWZ6dnzaI4IuxwMzOpmq6EjT-kXb4dtwCxjaeCz1DGqu6Wh8mWsjY0RU8x9usjuaW1VN-WsKjhO-mzZFuyv4aoe92Jq6yJ1xPDa98oORDTwT7xI7I"
+  } ],
+  "processing-time-source" : 72,
+  "processing-result.title" : "himym9_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym9_reddit.xml"
+  }
+}

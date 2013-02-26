@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1838,
+  "processing-time-total" : 1830,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1766,
+  "processing-time-algorithm" : 1745,
   "documents" : [ {
     "id" : 0,
     "title" : "Where does self-ownership come from? What are the valid arguments for it?",
@@ -451,7 +451,7 @@
     "snippet" : " ",
     "url" : "http://dish.andrewsullivan.com/2013/02/19/how-capitalism-creates-the-welfare-state/"
   } ],
-  "processing-time-source" : 72,
+  "processing-time-source" : 85,
   "processing-result.title" : "anarcho_capitalism2_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism2_reddit.xml"

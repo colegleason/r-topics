@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1982,
+  "processing-time-total" : 10075,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1919,
+  "processing-time-algorithm" : 9909,
   "documents" : [ {
     "id" : 0,
     "title" : "Defense Distributed's new 3D printed AR Lower - 600+ rounds!",
@@ -435,7 +435,7 @@
     "title" : "Frances Kendall: Freedom and the Child",
     "url" : "http://www.youtube.com/watch?v=-YDJDVo5jJY&amp;list=FL8H6DNlrAgAkfGYr7saaxYw"
   } ],
-  "processing-time-source" : 63,
+  "processing-time-source" : 166,
   "processing-result.title" : "anarcho_capitalism0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism0_reddit.xml"

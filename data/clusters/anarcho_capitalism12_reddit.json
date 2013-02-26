@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2626,
+  "processing-time-total" : 2600,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2555,
+  "processing-time-algorithm" : 2508,
   "documents" : [ {
     "id" : 0,
     "title" : "11 Body Parts Defense Researchers Will Use to Track You | Danger Room | Wired.com",
@@ -442,7 +442,7 @@
     "snippet" : "   I can't say I find myself very endeared to the people in dark hoods vandalizing property with large black \"anarchy\" signs. I doubt many people will. This is the opposite of what I want from the anti-authoritarian movement.",
     "url" : "http://kotaku.com/5979570/this-game-awards-you-points-for-smashing-real-life-cameras?utm_campaign=Socialflow_Kotaku_Facebook&amp;utm_source=Kotaku_Facebook&amp;utm_medium=Socialflow"
   } ],
-  "processing-time-source" : 71,
+  "processing-time-source" : 92,
   "processing-result.title" : "anarcho_capitalism12_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism12_reddit.xml"

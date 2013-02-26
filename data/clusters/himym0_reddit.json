@@ -1,0 +1,452 @@
+{
+  "processing-time-total" : 1064,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 10,
+    "score" : 22.68259141387941,
+    "phrases" : [ "HIMYM" ],
+    "documents" : [ 1, 6, 16, 17, 19, 22, 27, 30, 31, 41 ],
+    "attributes" : {
+      "score" : 22.68259141387941
+    }
+  }, {
+    "id" : 1,
+    "size" : 9,
+    "score" : 31.72009086290915,
+    "phrases" : [ "Know" ],
+    "documents" : [ 0, 3, 11, 19, 21, 22, 23, 32, 47 ],
+    "attributes" : {
+      "score" : 31.72009086290915
+    }
+  }, {
+    "id" : 2,
+    "size" : 7,
+    "score" : 21.035944387953503,
+    "phrases" : [ "Guys" ],
+    "documents" : [ 3, 22, 25, 28, 30, 32, 47 ],
+    "attributes" : {
+      "score" : 21.035944387953503
+    }
+  }, {
+    "id" : 3,
+    "size" : 6,
+    "score" : 28.47723521234731,
+    "phrases" : [ "Feel Like" ],
+    "documents" : [ 0, 3, 16, 19, 31, 48 ],
+    "attributes" : {
+      "score" : 28.47723521234731
+    }
+  }, {
+    "id" : 4,
+    "size" : 6,
+    "score" : 41.839245071258304,
+    "phrases" : [ "Robin and Ted" ],
+    "documents" : [ 3, 19, 34, 41, 45, 47 ],
+    "attributes" : {
+      "score" : 41.839245071258304
+    }
+  }, {
+    "id" : 5,
+    "size" : 5,
+    "score" : 69.6719517956011,
+    "phrases" : [ "Red Cowboy Boots" ],
+    "documents" : [ 0, 3, 18, 19, 27 ],
+    "attributes" : {
+      "score" : 69.6719517956011
+    }
+  }, {
+    "id" : 6,
+    "size" : 5,
+    "score" : 32.13824521585254,
+    "phrases" : [ "Spoiler" ],
+    "documents" : [ 0, 3, 13, 26, 27 ],
+    "attributes" : {
+      "score" : 32.13824521585254
+    }
+  }, {
+    "id" : 7,
+    "size" : 4,
+    "score" : 33.39653920340051,
+    "phrases" : [ "Just Saying" ],
+    "documents" : [ 3, 34, 47, 48 ],
+    "attributes" : {
+      "score" : 33.39653920340051
+    }
+  }, {
+    "id" : 8,
+    "size" : 4,
+    "score" : 36.98623301205997,
+    "phrases" : [ "Started Watching" ],
+    "documents" : [ 17, 31, 34, 46 ],
+    "attributes" : {
+      "score" : 36.98623301205997
+    }
+  }, {
+    "id" : 9,
+    "size" : 3,
+    "score" : 43.19149542840542,
+    "phrases" : [ "Band" ],
+    "documents" : [ 20, 42, 47 ],
+    "attributes" : {
+      "score" : 43.19149542840542
+    }
+  }, {
+    "id" : 10,
+    "size" : 3,
+    "score" : 24.14405783707012,
+    "phrases" : [ "Finds" ],
+    "documents" : [ 3, 39, 47 ],
+    "attributes" : {
+      "score" : 24.14405783707012
+    }
+  }, {
+    "id" : 11,
+    "size" : 3,
+    "score" : 43.63409211387776,
+    "phrases" : [ "X-post" ],
+    "documents" : [ 2, 25, 43 ],
+    "attributes" : {
+      "score" : 43.63409211387776
+    }
+  }, {
+    "id" : 12,
+    "size" : 2,
+    "score" : 39.59757831076648,
+    "phrases" : [ "Fact" ],
+    "documents" : [ 46, 49 ],
+    "attributes" : {
+      "score" : 39.59757831076648
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 34.14004785384858,
+    "phrases" : [ "Interrupt" ],
+    "documents" : [ 24, 46 ],
+    "attributes" : {
+      "score" : 34.14004785384858
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 36.28192865657461,
+    "phrases" : [ "Liberal Arts" ],
+    "documents" : [ 10, 28 ],
+    "attributes" : {
+      "score" : 36.28192865657461
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 18.384456629765435,
+    "phrases" : [ "Lies" ],
+    "documents" : [ 3, 38 ],
+    "attributes" : {
+      "score" : 18.384456629765435
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 28.341705664890366,
+    "phrases" : [ "Lock" ],
+    "documents" : [ 3, 35 ],
+    "attributes" : {
+      "score" : 28.341705664890366
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 36.48409083567725,
+    "phrases" : [ "Lot in Common" ],
+    "documents" : [ 44, 47 ],
+    "attributes" : {
+      "score" : 36.48409083567725
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 29.595567279636743,
+    "phrases" : [ "Naked" ],
+    "documents" : [ 33, 45 ],
+    "attributes" : {
+      "score" : 29.595567279636743
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 41.65775190197041,
+    "phrases" : [ "Tonight" ],
+    "documents" : [ 14, 32 ],
+    "attributes" : {
+      "score" : 41.65775190197041
+    }
+  }, {
+    "id" : 20,
+    "size" : 2,
+    "score" : 42.34097897353104,
+    "phrases" : [ "Understand" ],
+    "documents" : [ 3, 29 ],
+    "attributes" : {
+      "score" : 42.34097897353104
+    }
+  }, {
+    "id" : 21,
+    "size" : 10,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 4, 5, 7, 8, 9, 12, 15, 36, 37, 40 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 993,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "RIP 2/25/2013",
+    "snippet" : "  Spoilers.\n\nThis popped up on my frontpage feed. Yes. It's extremely obvious that it's red boots in the thumbnail, and spoiled the episode for me too.  Here too :( Doesn't it bring up more questions though? Like how? And im pretty sure the end of the red boots dont give away everything in the episode Doesn't matter it's still a major part of the whole story and I'd rather not have that be spoiled. Yes. It's extremely obvious that it's red boots in the thumbnail, and spoiled the episode for me too.  I opened this up exactly as the burning boots came crashing to the ground on my tv. I'm the master of timing. Spoilers.\n\nThis popped up on my frontpage feed. Fuck. Well at least I don't know how they died yet. Spoilers.\n\nThis popped up on my frontpage feed. Agreed. Very annoyed. Miss new episodes of a tv show and you go on that subreddit shortly after, you're always gonna have a bad time. Agreed. Very annoyed. Spoilers.\n\nThis popped up on my frontpage feed. Spoilers.\n\nThis popped up on my frontpage feed. Spoilers.\n\nThis popped up on my frontpage feed. sorry. is there a way I can edit it to add a spoiler tag sorry. is there a way I can edit it to add a spoiler tag Yeah, by not being an idiot the night an episode aired. Shouldn't go on this subreddit the night a new episode aired. It was on a lot of people's front pages It was on a lot of people's front pages sorry. is there a way I can edit it to add a spoiler tag  Got a funny feeling this is not the last of those red cowboy boots! Keep the ashes in an urn. Becomes a Mosby family heirloom. Got a funny feeling this is not the last of those red cowboy boots! they will rise from the flames like a phoenix.   im glad each one of you felt it necessary to complain, individually This, exactly. SPOILER: you probably all saw a variation of this scene weeks ago   I watched the episode, and didn't even notice the red boots. I guess I'm the only one happy OP pointed that out. [When Ted's girlfriend is throwing things out of his window, right before it goes to commercial a big hunk of something on fire comes down, you can't really tell what it is but Ted says \"NOT MY BOOTS\", if you were not paying attention in the slightest you'd miss it.](/spoiler)  [When Ted's girlfriend is throwing things out of his window, right before it goes to commercial a big hunk of something on fire comes down, you can't really tell what it is but Ted says \"NOT MY BOOTS\", if you were not paying attention in the slightest you'd miss it.](/spoiler)   Someone please tag this as a spoiler!!!  What did this spoil? What did this spoil?   Why is this tagged NSFW?     This has ruined the series for me, I can't believe they killed off the boots.          Thanks for getting a spoiler post up voted before I saw the episode. I you are the worst kind of person      ",
+    "url" : "http://www.scoutnetworkblog.com/wp-content/uploads/2010/07/stewartromerobeauties.jpg"
+  }, {
+    "id" : 1,
+    "title" : "\"Gay bros can raise babies\" [ILLUSTRATED]",
+    "snippet" : "  That second picture is of Mufasa as King and is before Simba was raised by Timon and Pumba. I may be almost 24 and I may not have watch The Lion King for at least 15 years but that's just sacrilege.  That second picture is of Mufasa as King and is before Simba was raised by Timon and Pumba. I may be almost 24 and I may not have watch The Lion King for at least 15 years but that's just sacrilege.  That second picture is of Mufasa as King and is before Simba was raised by Timon and Pumba. I may be almost 24 and I may not have watch The Lion King for at least 15 years but that's just sacrilege.  That second picture is of Mufasa as King and is before Simba was raised by Timon and Pumba. I may be almost 24 and I may not have watch The Lion King for at least 15 years but that's just sacrilege.   Why do two male friends have to be assumed to be gay? Not to mention that they are a different species altogether.\n Also, they were bros, not his parents. It really bugs me when people do that. They acted in a parental capacity for the formative years of Simba's life. Assuming that the personification of these animals attributes them to a human life cycle, during the years when Simba grew into a man and learned who he was, Timone and Pumba acted in the parental capacity. They acted in a parental capacity for the formative years of Simba's life. Assuming that the personification of these animals attributes them to a human life cycle, during the years when Simba grew into a man and learned who he was, Timone and Pumba acted in the parental capacity. &gt;formative\n\nFTFY. Not \"formidable\". Also, they were bros, not his parents. It really bugs me when people do that. Why do two male friends have to be assumed to be gay? Not to mention that they are a different species altogether.\n Why do two male friends have to be assumed to be gay? Not to mention that they are a different species altogether.\n Why do two male friends have to be assumed to be gay? Not to mention that they are a different species altogether.\n Because Nathan Lane.  Let's put this entire discussion aside and forget about all the ridiculous assumptions that come from it.\n\nWTF does this have to do with HIMYM? There is an episode where Ted and Barney consider raising a baby together as bros.  There is an episode where Ted and Barney consider raising a baby together as bros.  What season and episode? Halfway through season 2. Season 7 episode 15 or something. It's a long way to go for you.  I'm pretty sure Timon had a female love interest in Lion King 1/2, didn't he? No, the female meerkat in that movie was his mother. ...so? Timon may be many things but I don't think he's into incest. I'm pretty sure Timon had a female love interest in Lion King 1/2, didn't he?     Actually, it was his father in the skies who said to him ''Get your shit together you are a king''. With Pumba and Timon, he was a lazy ass who got beat by a lioness Yeah, it continually pisses me off that people use Timon and Puumba as examples of successful \"two dads\". It's the worst example. Simba fulfills his destiny as king IN SPITE of them.  Timon and pumba are not gay.        [They eat da poo poo!](http://youtu.be/hB6VDF0NJwQ)  [deleted]",
+    "url" : "http://imgur.com/tzrKF5c"
+  }, {
+    "id" : 2,
+    "title" : "As an outdoor laborer, this is my reaction when someone comments on my post telling me to \"go outside more\". (x-post from /r/reactiongifs)",
+    "url" : "http://i.minus.com/i2gSoazZOhCL1.gif"
+  }, {
+    "id" : 3,
+    "title" : "Episode Discussion S08E18 - \"Weekend at Barney's\" (Here be spoilers!)",
+    "snippet" : "**Live Chat:**\n\n----------------------------------\n\nWe now have our own registered IRC channel. Pop in any time to see if people are there discussing the show!\n\n\nFollow [this link](http://webchat.freenode.net/?channels=#himym), log in with your reddit nick and we will discuss live! **Chat is open now, but picks up ~15 minutes prior to airing.**\n\n-----------------------------------\n\n**Reddit:**\n\nThere will still be discussion here on this post, but we will be live in IRC as well.\n\n--------------------------------------\n\n\n**DISCUSS!**  The may be my favorite episode ever. \n\n\"I understand that. I understand that. I understand that. I understand that. Ok, copy that. How about I give you a different organ... My penis.\" You're saying it wrong. \"My penis. My penis. My. Penis. MY PENIS! PENIS, PENIS PENIS.\" The may be my favorite episode ever. \n\n\"I understand that. I understand that. I understand that. I understand that. Ok, copy that. How about I give you a different organ... My penis.\" I would like to know where the penis line was gonna work into the kilt outfit The play was called \"My pet lockness monster\". You can kind of guess from there.  Nessie is actually a very delicate and gentle creature. I would like to know where the penis line was gonna work into the kilt outfit I would like to know where the penis line was gonna work into the kilt outfit The may be my favorite episode ever. \n\n\"I understand that. I understand that. I understand that. I understand that. Ok, copy that. How about I give you a different organ... My penis.\"  Anyone else notice the bra in all his handkerchiefs? Anyone else notice the bra in all his handkerchiefs? Anyone else notice the bra in all his handkerchiefs?  NOOOO NOT THE BOOTS   \"Nothing could beat 'Weekend at Barney's!'\"\n\n.... \"Weekend at Barney's Two!\"  Bravo Oscar Oscar Bravo Sierra   \"Because he ran out of Monet.\"\n\nClassic Marshall You'll get that on the walk home.  \"I'm gonna win her back\" - I've been waiting for this call-back since Three Days of Snow (4x13).  One of the 'five words every man will say once in his life'.\n\nI think this is the final piece of that bit? \"I'm gonna win her back\" - I've been waiting for this call-back since Three Days of Snow (4x13).  One of the 'five words every man will say once in his life'.\n\nI think this is the final piece of that bit?  What girl hears \"lying is my thing! I got you to marry me because of lies!\" and is like \"okay let's kiss\"??? What girl hears \"lying is my thing! I got you to marry me because of lies!\" and is like \"okay let's kiss\"???  *sniff sniff*.. Did you just unhook my bra..?  Oh Lily's so many nip slips   R.I.P red cowboy boots   Don't worry, it's just some lady throwing explosives out of an apartment building in New York City.  If anyone could get away with it, it would be a cop. IS SHE A *CAWP*??? I DIDN'T KNOWNSHE WAS A CAWP!!!  \"And that was the last bag of Skittles your Uncle Marshall ever bought...\" can't wait to hear the story behind that!  How are there so many different hot girls at Mclaren's?!?!? How are there so many different hot girls at Mclaren's?!?!? How are there so many different hot girls at Mclaren's?!?!? How are there so many different hot girls at Mclaren's?!?!? How are there so many different hot girls at Mclaren's?!?!? How are there so many different hot girls at Mclaren's?!?!?  \"No Robin, that is a couch...... oh you mean the play book on the couch?\" \"No Robin, that is a couch...... oh you mean the play book on the couch?\"   HA. Neruda. You would, Ted.  Bodacious! Was that shot-for-shot from part of that movie? I feel like it may have been. Also, Barney is totally Bernie's doppelganger.   Ending with CCR playing in the background, smart choice! I'll miss the playbook though and Ted's red boots. How will we ever know if he can pull them off now!  He pulled them off. The gay art collecting couple said so, so it must be true. I believe what you mean to say is \"GCWOC.\"  I've never regretted never seeing Weekend at Bernie's more than I do now\n\nEDIT: I just always have Barney on my mind   Why doesn't Ted just call the fucking cops. This is ridiculous. That is thousands and thousands of dollars of damage. SHE'S A CAWP She's A CAWP!\nTED YOU NEVER SAID SHE WAS A CAWP! Why doesn't Ted just call the fucking cops. This is ridiculous. That is thousands and thousands of dollars of damage. Why doesn't Ted just call the fucking cops. This is ridiculous. That is thousands and thousands of dollars of damage. Why doesn't Ted just call the fucking cops. This is ridiculous. That is thousands and thousands of dollars of damage.     Whatever happened to Ranjit? He needs to make a comeback big time. Helllllooooooooo! Whatever happened to Ranjit? He needs to make a comeback big time.   Here's your grandmother's ring! Ahaha Classic Jeanette.          Has anyone else's show just basically muted itself? Midway through the Barney/Robin fight our volume turned off.\n\nFrustration.    DAMN IT BARNEY! He's becoming the new Patrice   And then, maybe later, I could give you a different package.... my penis   This episode feels like the beginning of the end.    I hope Barney gives the playbook to Ted. I don't want it ever destroyed haha.    What's the name of the actor who played the one artist Lily was trying to talk to? He seems so familiar but I can't put a name to him. Christopher Nicholas Smith. He was in Paranormal Activity 3, a Honda commercial (I think), and is part of a Youtube sketch comedy group called Harvard Sailing Team. He's hilarious    [Flair challenge in progress](http://www.reddit.com/r/HIMYM/comments/ynteq/challenge_accepted/).\n\nS08E01 Flair: Li'l tiny chicken legs\n\nS08E02 Flair: The \"Pre-schtupp\", patent pending\n\nS08E03 Flair: Yah bettah than this, Bahney\n\nS08E04 Flair: Mental self-five\n\nS08E05 Flair: No one chases tail like him!\n\nS08E06 Flair: The ghost of Leonardo DiCaprio\n\nS08E07 Flair: All the strip clubs are after me\n\nS08E08 Flair: Late hand-bloomer\n\nS08E09 Flair: Bib up!\n\nS08E10 Flair: That could be anybody's baby handprint, Ted\n\nS08E11-12 Flair: Turn it over.\n\nS08E13 Flair: I left the meatball at home\n\nS08E14 Flair: It wasn't night and we weren't standing\n\nS08E15 Flair: This is re-dick-a-luss\n\nS08E16 Flair: But then, when she starts bringing knives into bed...\n\nS08E17 Flair: The Royal Archduke of Grand Fenwick\n\nS08E18 Flair: That was the ceremonial Playbook.\n    Marshall was a high school junior in '96. Which just shows the writers don't give a damn about their own mythology because his freshmen year of college has been repeatedly stated as 1996. Which just shows the writers don't give a damn about their own mythology because his freshmen year of college has been repeatedly stated as 1996.    Anyone else getting slightly concerned by the dysfunction in Barney and Robin's relationship? I love them both but the \"you agreed to married me because I lied\" and Barney having panic attacks about monogamy are seeming pretty unhealthy.\n\nBuild up to the wedding day drama?  Besides the Skittles part, I really didn't like this episode at all.  The Playbook returning was a pretty lame twist.  I really did think Barney got rid of it for Robin.  I'm so glad the Jeanette storyline is over because it felt fucking creepy as all hell, and went on way too long.  Beach, booze, and bodacious babes. Beer, bud, and bitches is the skankier version. 'Sandwiches' doesn't start with 'B' BLT's do.          Okay guys, which one is worse, Jeanette or Stella? I'm leaning towards Jeanette as Stella and Ted saw some closure I would hope so. The bitch burned his boots. THE BOOTS. Okay guys, which one is worse, Jeanette or Stella? I'm leaning towards Jeanette as Stella and Ted saw some closure Okay guys, which one is worse, Jeanette or Stella? I'm leaning towards Jeanette as Stella and Ted saw some closure              [deleted]    This episode wasnt that great...  Anyone know the song at the end? Creedence Clearwater Revival - \"Long as I can see the light\" Anyone know the song at the end?  I feel like this whole season has been spec written by people who only have a vague understanding of the characters. Some of the individual jokes are still funny, but they will sell out these characters for a quick laugh any chance they get.      This episode was horrible. They completely botched the Robin-Barney storyline here. We were supposed to believe that Barney's a changed man, but he still lies? And Robin is somehow okay with it because of one lame speech from Barney that their relationship was built on lies? really? Do you really expect me to believe that any woman would stay with Barney this way? With Barney and Robin's engagement there was a chance at showing an aspect of life after your  golden twenties deeply and meaningfully, like the decision to marry, have a child, \"settle down.\" What we got instead is the lack of genuineness of their romance. They could've shown how serious Barney was, and could've shown the challenges in him changing his ways with less outlandishness and with more seriousness. Instead, the writers just put the big red nose on the character, and refused commit to the character's new self and opted for cheap laughs over genuine moments. This episode showed what is wrong with the show this season. The characters have become so outlandish and predictable.  What bothers me is that the show use to be so much better at showing Barney's depth. As early as season 1's \"Game Night\" and as recently as last season's \"Tick Tick Tick\" Barney gets to show emotional depth without being sold out for a cheap laugh. You nailed this season's problems when you say they have been to focused on his zany hijinks and pretending this doesn't undo a lot of the development the character has had over 7 seasons and they pretend to show he's having this year.        Did I miss something, or did the playbook teleport to Ted's place? Robin found the playbook on Barney's couch, got mad and left, then it goes to Marshall and Lilly at the art show, then all of a sudden Jeanette finds the playbook on Ted's couch... what? Robin walked into Ted's place and saw it on the couch. They weren't at Barney's.     ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/1986vm/episode_discussion_s08e18_weekend_at_barneys_here/"
+  }, {
+    "id" : 4,
+    "title" : "They Broke Up! Woooo!",
+    "snippet" : "   ",
+    "url" : "http://i.imgur.com/n32ldm1.gif"
+  }, {
+    "id" : 5,
+    "title" : "Close Enough?-Three Days of Snow 4.13",
+    "snippet" : "  ",
+    "url" : "http://imgur.com/aKB6Ilb"
+  }, {
+    "id" : 6,
+    "title" : "My former roommate and I used to watch HIMYM together. He still refuses to admit that Robin isn't the mother.",
+    "snippet" : " ",
+    "url" : "http://i.imgur.com/djODlh1.png"
+  }, {
+    "id" : 7,
+    "title" : "Found this and I thought it was legen.... whatever you get the point.",
+    "snippet" : "    ",
+    "url" : "http://www.buzzfeed.com/mattbellassai/23-times-neil-patrick-harris-did-something-legenda/"
+  }, {
+    "id" : 8,
+    "title" : "Was watching The episode Woooo Girl, when Ted makes this face.",
+    "snippet" : "   ",
+    "url" : "http://imgur.com/a/97vHJ"
+  }, {
+    "id" : 9,
+    "title" : "My friend is in LA for vacation and was at Duff's Cakemix. Guess who she saw there hosting her child's birthday party...",
+    "url" : "http://i.imgur.com/jKae8kS.png"
+  }, {
+    "id" : 10,
+    "title" : "Liberal Arts starring, written and directed by Josh Radnor avalible on Youtube.",
+    "url" : "http://www.youtube.com/watch?v=czyXBmc8cYU&amp;feature=youtu.be"
+  }, {
+    "id" : 11,
+    "title" : "I try really hard not to repost things, but I need to know...anyone know about this?",
+    "snippet" : "  I'm pretty sure it's from the bloopers.    ",
+    "url" : "http://oi42.tinypic.com/1zcig0l.jpg"
+  }, {
+    "id" : 12,
+    "title" : "I present to you all....The Captain photobomb ",
+    "snippet" : "  ",
+    "url" : "https://twitter.com/ABC7Elex/status/305961347835895808/photo/1"
+  }, {
+    "id" : 13,
+    "title" : "So this is a real thing, I wonder how many of us tried this... (7th season show spoilers I guess?)",
+    "snippet" : " ",
+    "url" : "http://lilysinlabor.com/"
+  }, {
+    "id" : 14,
+    "title" : "\"Everything in there is a prop we're going to need for tonight.\"",
+    "url" : "http://imgur.com/BJfd8kJ"
+  }, {
+    "id" : 15,
+    "title" : "Can't hear HIMYM-- anyone else having this issue?",
+    "snippet" : "The audio just cut out, and it's not my television.  Signal just came back for me. Was out for about 8 minutes. Do you have Comcast? Yup, and there's the problem Signal just came back for me. Was out for about 8 minutes. Do you have Comcast?    ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/1989ox/cant_hear_himym_anyone_else_having_this_issue/"
+  }, {
+    "id" : 16,
+    "title" : "Theory about Season 9",
+    "snippet" : "HIMYM co-creator Craig Thomas won't divulge whether the extra year altered plans on how HIMYM would  introduce the mother: \"That's one of the few remaining tricks up our sleeves.\" But he  promises next year will look and feel much different from past seasons: \"It's going to be a new way to tell the story,\" he says. \"You're never going to mistake a Season 9 episode from one of the previous eight.\"\n\nI was thinking that maybe this could mean that not only would they cast the mother, but also cast a voice only actress who would narrate the show with Bob Saget. They could have different viewpoints on stories etc.,  or remember them differently, like in the Ashtray episode. I think it would be a cool new way to tell some of the stories. Thoughts?     ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/197rg8/theory_about_season_9/"
+  }, {
+    "id" : 17,
+    "title" : "2013 SACE Research Project- Collecting Online Data - HIMYM",
+    "snippet" : "Hi, I'm Ashlee from Adelaide, South Australia, an average 16 year old girl currently trying to obtain her SACE (South Australian Certificate of Education.) As part of our course, we are required to undertake the 'Research Project', a year long subject on a topic of our choosing. Being a long time fan of the show, I decided to focus my project on How I Met Your Mother. \n\nI have been a big fan of the show since I first started watching, and have found a welcoming community here, almost a second home in the HIMYM subreddit. For my research project, one of the largest components instructs us to get out into the community, albeit physically, or online, and conduct research of our own. I have spent the last few weeks working on a short survey designed to gather as much information possible on how some of the wider community views the show. \n\nI would be deeply privileged if anyone could take the time to fill in the survey I linked below, as it would give me some much needed hard evidence for my investigation. \n\nhttp://obsurvey.com/S2.aspx?id=40bbafa6-4c10-4f4e-842c-5b53c0b263cf\n\nIf you have any questions about the project, and or want to get in touch, just send me a pm.\n\nThank you so much for your time, I truly appreciate your help. \nSincerely, Ashlee      ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/197pht/2013_sace_research_project_collecting_online_data/"
+  }, {
+    "id" : 18,
+    "title" : "As those flaming red cowboy boots landed unceremoniously in front of Ted...",
+    "url" : "http://i806.photobucket.com/albums/yy346/underthelamppost/gifs/myemotions_troy.gif"
+  }, {
+    "id" : 19,
+    "title" : "2 questions re this HIMYM image - what episode is this potted plant on the table from?",
+    "snippet" : "  Also is Ted wearing the red cowboy boots? I do see red near his feet but I can't really see that blob of color as actual boots. But mainly I am interested in the plant - it must be significant but I cannot figure it out at all. I feel like such a failure of a HIMYM fan :( I don't know, this is just a guess, but maybe it's the \"rare Bolivian plant\" he got rid of when Robin made him get rid of everything ex-girlfriends gave him. Also is Ted wearing the red cowboy boots? I do see red near his feet but I can't really see that blob of color as actual boots. But mainly I am interested in the plant - it must be significant but I cannot figure it out at all. I feel like such a failure of a HIMYM fan :( He's not wearing the cowboy boots. You can see the heel of his left shoe. The red comes from the pillow.\n\nBut I can't tell you what the plant means... Sorry  Also if anyone can help me identify some of the smaller pictures in the background I would be most appreciative. I'm unsure on:\n\nwhite star on green background beneath the goat\n\noakne? below the T and I in INTERVENTION\n\nthe pic right above Marshall and the pineapple\n\nthe pic furthest to the left - is that the front porch view?\n\ntiny pic to the right of the yellow umbrella\n\ntiny pic to the right of Robin's head - above the phone booth pic\n\nI think I have IDed all the rest... (I'm making a big image with screenshots of all the references to post on my blog)\n\nThanks in advance superfans! ",
+    "url" : "http://www.cbs.com/shows/how_i_met_your_mother/photos/1000100/sneak-peek-photos/35333/"
+  }, {
+    "id" : 20,
+    "title" : "Those harmonies were pretty good maybe they can start a band.",
+    "snippet" : "  *Of course*, they should totally start a band! Their band would be *awesome*. And dude, dude, the name of their band... PUZZLES. Why is it called Puzzles? Thats the Puzzle! Why is it called Puzzles?  WHY WAS THAT GIRL ONLY IN ONE EPISODE!! Agreed, she's beautiful...MAYBE SHE'S THE MOTHER! Gasp! ",
+    "url" : "http://www.youtube.com/watch?feature=fvwp&amp;v=YMod7T0cdrI&amp;NR=1"
+  }, {
+    "id" : 21,
+    "title" : "Barneys Job! (though you probably already know this)",
+    "url" : "http://www.barneystinsonblog.com/about-me/"
+  }, {
+    "id" : 22,
+    "title" : "Googled majestic as fuck.... Wasn't disappointed ",
+    "snippet" : "  If you guys would browse this sub, like ever, you would know that this picture gets posted like 3 times a week. Can we move away from this picture and get back to HIMYM related content? Please?  http://cdn.memegenerator.net/instances/400x/31056298.jpg     I would like to google this phrase to see if you're telling the truth...but I'm afraid google will think I mean \"majestic ass fuck\" I would like to google this phrase to see if you're telling the truth...but I'm afraid google will think I mean \"majestic ass fuck\"",
+    "url" : "http://i.imgur.com/1Lj4nsf.jpg"
+  }, {
+    "id" : 23,
+    "title" : "Barney's future (in Kansas City)",
+    "snippet" : "  And absolutely nobody will know what is done in there.    Up vote, if only for the words Kansas City Up vote, if only for the words Kansas City    There's a Stinson Boulevard (kind of) in Minneapolis. I think it's a fair contender What do you mean by \"kind of?\"   Is this a shot from the show, or a real company? If it's in the show, I somehow missed it.\n\nEDIT: Why is this downvoted? Can anyone at least answer my question?   But, what do they do there!??  I'm pretty sure Barney owns Goliath National Bank.        [deleted]",
+    "url" : "http://i.imgur.com/3wlfxdg.jpg"
+  }, {
+    "id" : 24,
+    "title" : "I was interrupted twice this episode by ridiculous \"severe weather\" updates",
+    "url" : "http://i178.photobucket.com/albums/w242/kellystar2884/Gifs/barneypunch.gif"
+  }, {
+    "id" : 25,
+    "title" : "Caught him mid-sneeze, thought you guys might like it [x-post from r/funny]",
+    "snippet" : "   ",
+    "url" : "http://www.quickmeme.com/meme/3t48s7/"
+  }, {
+    "id" : 26,
+    "title" : "Spoiler — Coat Check Wench is coming back to the show",
+    "snippet" : " ",
+    "url" : "http://tvline.com/2013/02/25/how-i-met-your-mother-season-8-spoilers-jayma-mays-returns-coat-check-girl/"
+  }, {
+    "id" : 27,
+    "title" : "Awesome throwback reference (spoilers)",
+    "snippet" : "I loved how they added the GCWOK approved red cowboy boots to the things Jeanette burned. HIMYM has an awesome way of bringing back things, reddit what's your favorite himym mythos reference?  When Barney told the whole story of HIMYM in 52 seconds",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/198a69/awesome_throwback_reference_spoilers/"
+  }, {
+    "id" : 28,
+    "title" : "Did anyone watch Josh Radnor's movie \"HappyThankYouMorePlease\"? This is my favourite scene.",
+    "snippet" : "  After I saw it, I began thinking that he isn't acting.. As much as being himself all the time. Same, in Liberal Arts, Radnor's character was basically an older Ted Mosby Same, in Liberal Arts, Radnor's character was basically an older Ted Mosby Same, in Liberal Arts, Radnor's character was basically an older Ted Mosby  Holy hot Kate Mara. She is turning into one of my favourite actresses, she is great in House of Cards as well. Holy hot Kate Mara. Holy hot Kate Mara. Holy hot Kate Mara. Holy hot Kate Mara.   Classic Schmosby.  mine is when the guy is out on the date with malin akerman and gives her that speech that changes her mind about the date.   I haven't seen this but I will soon because I just watched Liberal Arts and thought it was very enjoyable and well done. Radnor clearly has a knack for filmmaking and acting, especially when he can be so heavily involved. Where can you watch Liberal Arts?  Radnor isn't Ted. Ted is Radnor              ",
+    "url" : "http://i.imgur.com/chzNMaY.jpg"
+  }, {
+    "id" : 29,
+    "title" : "Tantrum!",
+    "snippet" : "  i dont understand this post\n ",
+    "url" : "http://imgur.com/3XXZIDF"
+  }, {
+    "id" : 30,
+    "title" : "Streaming from out of country?",
+    "snippet" : "I've recently relocated to Shanghai, China for the next 3 months and had a question for you all. HIMYM is really the only show I follow and keep up with and was hoping somebody here could direct me to a site that will allow me to stream it here? Unfortunately CBS doesn't allow viewing so if you guys could help me out that'd be much appreciated. Thanks.     Hola unblocker extension for chrome... i can watch CBS from Sweden perfectly :)  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/196wk7/streaming_from_out_of_country/"
+  }, {
+    "id" : 31,
+    "title" : "How i met your mother is REALLY addicting, anyone feel me on this one?",
+    "snippet" : "So i found HIMYM 'bout four months ago.. Just started watching all the seaons against for the fifth time. Can't go to sleep without watching 2-3 episodes... \n\nAnyone out there feel the same??  I didn't start HIMYM until last year. I watched a season a day. I would wake up, watch an episode or two, go to class, come back and finish the season. I watched 7.5 seasons in 1 week.\n\nI consider it a productive week. I did this with the show 24. That was a dark, dark time...   I wouldn't go that far, but the show makes me long for a close group of friends like that.     Same, i always watch some episodes in bed on Netflix on the phone, sometimes i do it even between classes.      I discovered the series roughly a year ago, have watched it through three times since. It's pretty much the only comedy of its kind that I enjoy, I've tried other sitcoms but none are as addictive and unique as HIMYM. I'm taking a break now but I guess I'll watch it again this summer, if not sooner.. Oh boy.         ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/195ioo/how_i_met_your_mother_is_really_addicting_anyone/"
+  }, {
+    "id" : 32,
+    "title" : "I remember this one, now when I watch it all I see is Shane Walsh (The Walking Dead). Finally found out who Carlos is though ",
+    "snippet" : "      You mean Duncan from The Class? You mean Duncan from The Class?   Not only that, but Works-with-Carlos girl is Parker, world-class thief.  Yeah its really strange seeing her being emotional in this after knowing her as Parker.     Maybe it's the alcohol I've consumed tonight, but he looks like Vin Diesel, if Vin Diesel had hair.  Me and my entire household. Jaws dropped all over. XD You let your entire household see what you do on reddit?         You must not realize actors are capable of playing more than one role in their carriers... Yeah... like... one guy on a carrier could be the communications officer AND a helmsman. For instance. Unless it's a big carrier, then those are probably two different people. Yeah... like... one guy on a carrier could be the communications officer AND a helmsman. For instance. Unless it's a big carrier, then those are probably two different people. Are you guys trying to say career?",
+    "url" : "http://25.media.tumblr.com/tumblr_mdygzdDNBR1rur4luo1_500.jpg"
+  }, {
+    "id" : 33,
+    "title" : "Has anyone ever tried 'The Naked Man'? ",
+    "snippet" : "So I've been tossing up whether to try the naked man or not. The show says it works 2 outta 3 times. IS THAT ACCURATE?! Have any of you ever tried it?  I can confirm that the 2 out of 3 is correct, as when my ex-girlfriend and her parents walked in, 2 out of 3 were impressed.    I'm not sure but I have a date coming up this Saturday and I have the urge to try it.     ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/195xsb/has_anyone_ever_tried_the_naked_man/"
+  }, {
+    "id" : 34,
+    "title" : "Re-watching \"Subway Wars\", something is confusing.",
+    "snippet" : "So I am re-watching the episode \"Subway Wars\",(My favorite episode) and I noticed something, I might be wrong, but when the episode starts the gang is arguing about who can make it to Gregor's stake house the fastest, either by train, bus, running, or anyway barney can (faking a heart-attack lol). Well they all make it to the steak house at the same time and decide whoever makes it to the bar first wins. They run back and robin wins, But this is the thing, when she gets there Marshalls friend is waiting outside. This is where the problem is, was he or was he not at the steak house? and second the episode ends with robin and him eating at the steak house. So did they go back to the steak house or what happened? How did they run to Gregor's and back to McLaren's and end at the steak house. Sorry if this post is long it has been bugging me.  &gt;Well they all make it to the steak house at the same time and decide whoever makes it to the bar first wins.\n\nNope. They all happen to meet up at the same place by accident, but it wasn't the steakhouse. They then raced the rest of the way to the steakhouse. Marshall and Lily bailed, Barney tripped Ted so Robin would win, and they ended up at the steakhouse.  I just got done watching this episode about an hour ago and stumbled across this post, and I happened to have the same question! When they get to that meeting point, they definitely say \"whoever gets back to the bar first wins\" but then they still run to Gregor's. It confused me, too, I think it was an editing error. I just got done watching this episode about an hour ago and stumbled across this post, and I happened to have the same question! When they get to that meeting point, they definitely say \"whoever gets back to the bar first wins\" but then they still run to Gregor's. It confused me, too, I think it was an editing error.",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/195hbc/rewatching_subway_wars_something_is_confusing/"
+  }, {
+    "id" : 35,
+    "title" : "Mothers lock up your daughters, daughters lock up your MILSWANCAs",
+    "snippet" : "  To maybe save a few seconds of your time, it's \"Mother I('d) Like (to) Sleep With And Never Call Again\". Oh jeez, like I was supposed to get that. \n\nthanks, buddy.\n\nAlso, what are these noise cancelling handlebars supposed to do?",
+    "url" : "http://imgur.com/s554S7m"
+  }, {
+    "id" : 36,
+    "title" : "What's the episode where Marshall sends chicken wings back because he already had them earlier, much, much, earlier. ?",
+    "snippet" : " ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/195w4u/whats_the_episode_where_marshall_sends_chicken/"
+  }, {
+    "id" : 37,
+    "title" : "Season 4, episode 2....makes me hungry",
+    "snippet" : "Totally random, but I was watching this episode again and it got me thinking... Does anyone else watch \"the best burger in New York\" and every time the someone in the group bites into a burger, and describes it, get insanely jealous and WANT that same burger (even if its not \"the best burger in New York\")?   ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/1969se/season_4_episode_2makes_me_hungry/"
+  }, {
+    "id" : 38,
+    "title" : "There's a scene in the episode \"The Bracket\" which shows all the girls that Barney had lied to, seduced, and abandoned. I found this woman buried in the list.",
+    "snippet" : "         I believe she was the nanny. I believe she was the nanny. No she was not so the heck was she? so the heck was she? [deleted]",
+    "url" : "http://i.imgur.com/HmwvnC9.png"
+  }, {
+    "id" : 39,
+    "title" : "Gang, some help finding an episode?",
+    "snippet" : "A friend is just on the other end of a rough breakup. I want to help him feel a little better so I'm trying to find the episode where Ted walks out onto the street to find everyone carrying yellow umbrellas (what an image right? They're gonna need em for my tears ha). I think its the one where he decides to move out of the apartment. Any takers? Thanks!  I think you mean [this moment.](http://i.imgur.com/cTXbbZs.png) It's from the episode 'No Pressure' in Season 7",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/1951o9/gang_some_help_finding_an_episode/"
+  }, {
+    "id" : 40,
+    "title" : "My mom was telling me about how Robert Irvine is the \"bad boy\" of cooking shows. This was all I could think of.",
+    "snippet" : "    Bon appe-sweet! ",
+    "url" : "http://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/879/691/CBS_HIMYM_806_CLIP3_IMAGE_640x480_6731843540.jpg"
+  }, {
+    "id" : 41,
+    "title" : "It's my cake day, and who else to share a year on reddit with than my favorite subreddit! ",
+    "snippet" : "  Just be careful. The manager might be watching.  Simplest ways to get karma in /r/HIMYM: \n\n* Complain that we haven't met the mother yet. \n\n* Complain about the Ted and Robin relationship. \n\n* Hate Ted. \n\n* Complain about the writing staff in general.  Simplest ways to get karma in /r/HIMYM: \n\n* Complain that we haven't met the mother yet. \n\n* Complain about the Ted and Robin relationship. \n\n* Hate Ted. \n\n* Complain about the writing staff in general.  Simplest ways to get karma in /r/HIMYM: \n\n* Complain that we haven't met the mother yet. \n\n* Complain about the Ted and Robin relationship. \n\n* Hate Ted. \n\n* Complain about the writing staff in general.  Simplest ways to get karma in /r/HIMYM: \n\n* Complain that we haven't met the mother yet. \n\n* Complain about the Ted and Robin relationship. \n\n* Hate Ted. \n\n* Complain about the writing staff in general.  Have I broken any of these rules? The only rule you broke was not choosing one of those four topics to get more karma.  bro I like where you're coming from. High six!!! Let's never do that again.   This song is my current ringtone. If you want the file, send me a PM with your email! I'm hesitant.        ",
+    "url" : "http://i.imgur.com/LhMq5Ug.jpg"
+  }, {
+    "id" : 42,
+    "title" : "I wonder if being the frontman of the band The Devil Makes Three is another one of Barney's plays.",
+    "snippet" : "  Fantastic band. ",
+    "url" : "http://imgur.com/spdD4v7"
+  }, {
+    "id" : 43,
+    "title" : "Barney (x-post from Advice Animals) ",
+    "url" : "http://i.imgur.com/NjaAsiG.jpg"
+  }, {
+    "id" : 44,
+    "title" : "Apparantly Barney and Jesus have a lot in common.",
+    "snippet" : "   ",
+    "url" : "http://i.imgur.com/x1K1zhl.png"
+  }, {
+    "id" : 45,
+    "title" : "What ever happened to Ted's sister Heather?",
+    "snippet" : "I saw her in the episode Little Minnesota, and they implied she was moving to New York.  If that's the case, why hasn't she been in any more episodes?   I wish I could see her naked\nI wish I could see her naked\nI wish I could see her naked \nAnd down on all fours Ted has a little sister, gets hotter every day.  And if I ever meet her, with her boobies I will play.  I'm hoping she at least shows up for Ted and the Mother's wedding.  And as long as we're on this topic, obligatory reference to Robin's sister who also seems to have disappeared. I'm hoping she at least shows up for Ted and the Mother's wedding.  And as long as we're on this topic, obligatory reference to Robin's sister who also seems to have disappeared. I'm hoping she at least shows up for Ted and the Mother's wedding.  And as long as we're on this topic, obligatory reference to Robin's sister who also seems to have disappeared. On a similar, but unrelated note:\n\nRobin is from Vancouver, which is known for being cosmopolitan and liberal and gay-friendly. However her aunt, who is a lesbian, lives on a farm in upstate New York. \n\nOf course, there a million explanations possible (aunt through marriage, reasons to move to NY, Robin went to NY so why not someone else, etc) but it was really convenient that she had a nearby relative that she could send her dogs to. I personally think the writers just got sick of \"dealing\" with the dogs.. I'm hoping she at least shows up for Ted and the Mother's wedding.  And as long as we're on this topic, obligatory reference to Robin's sister who also seems to have disappeared.  Apparently she was not well received by the fan base so they just never mentioned her again. How could she be poorly received?  She was only in one episode.  There have been far less likable characters that lasted a lot longer. Like Kevin, Nick, and especially Punchy. Ugh. Kevin was the worst.  Ugh. Kevin was the worst.  How could she be poorly received?  She was only in one episode.  There have been far less likable characters that lasted a lot longer. Like Kevin, Nick, and especially Punchy. ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/193l28/what_ever_happened_to_teds_sister_heather/"
+  }, {
+    "id" : 46,
+    "title" : "Teacher hasn't arrived yet",
+    "snippet" : "  He's probably in the wrong classroom trying to be a tough professor, not letting anyone interrupt him, oblivious to the fact he's in the wrong room  This reminds me of Ted's first day of teaching  This reminds me of Ted's first day of teaching  This reminds me of Ted's first day of teaching   or maybe the teacher is sitting in the back enjoying the episode?  ***CENTER THE PICTURE!*** These kinds of things start **murder.** **MURDERRRR! HOP ABOARD THE MURDER TRAIN** Best song replayed throughout the series.  These kinds of things start **murder.**     Project Free TV? Probably. I may or may not have watched the most recent seasons through there Project Free TV?    ",
+    "url" : "http://i.imgur.com/x9IHK3f.jpg"
+  }, {
+    "id" : 47,
+    "title" : "What do you think the outcome of the series would have been like if this happened.",
+    "snippet" : "Lets say Marshall and Lilly never got back togheter in Season 2. What do you think would have happened in the series?  Lilly would've been dropped from the group. The guys would be awkward and everyone would try to stay friends but it just wouldn't work. She would have her own boring stories with her teacher friends. \n\nLilly would've taken Robin too, not consciously, but Robin would've drifted off with her. \n\nRobin and Ted never would've had a back and forth relationship and Ted wouldn't have idolized her as much, and neither would Robin and Barney. \n\nBecause Barney doesn't see the True Love that is Marshall and Lilly, his desire for a monogamous relationship is postponed by 10 years at least. He eventually finds someone, a divorcee with kids who Barney step-dads well. He is ecstatic when they have kids of their own and Barney becomes Pop-pop. \n\nTed continues on his journey for \"the one\" and eventually finds her. This might even happen sooner since Lilly isn't around to break up Ted and his girlfriends. \n\nMarshall eventually falls in love again, and again, and marries. He relishes his wife and the life they've made together, is happy to be picked over lifelong ambition. The wife is also a lawyer, they have a lot in common. But things happen and they end up divorced within five years. No children were had.  Niiiice. I didn't mean to kill the discussion, as I think it is an interesting scenario. \n\nI think Lilly would be the worst off- she looses a husband, the majority of her friends, and still doesn't have the art career she dreamed of. \n\nI think Marshall would be really bad off for awhile because he's heartbroken and distrustful of loving, plus he never had the single 20's to figure out how to date and meet women and how to act after one night stands. \n\nRobin's life would be significantly more boring as she loses shenanigans like crashing the prom with Lilly to check out a band for the wedding, and doesn't have bro-time with Barney at lazer tag.\n\nBarney and Ted are the most unaffected in one way, yet not having Robin around will allow each to move on to other relationships, and so the M and L breakup also has  huge ramifications for these two. \n\nWho knew the show rests on M and L's shoulders? Ha! /talking to myself. Wasn't the prom crashing before Lily decided to leave for SF? And Robin and Ted didn't know about Marshall and Lily's breakup until after they'd gotten together, so maybe they would have stayed together for even longer than they did? (After all, wasn't Lily the one who instigated their breakup?)  It wouldn't have gone past two seasons.  The thought of this makes me really sad. I may be too emotionally involved in this show... **GOOOLDFISSH IN A WHEEELCHAIR!**\n\nGod I see you everywhere. If you tag me, this will be hilarious. Oh my god hahah. Clearly we like the same subreddits. Were you in /r/doctorwho too?  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/193gmn/what_do_you_think_the_outcome_of_the_series_would/"
+  }, {
+    "id" : 48,
+    "title" : "The best gang",
+    "snippet" : "  Dammit whenever I see these pictures I just wish I had a great group of friends like this and hung out at bars and stuff. Can someone feel nostalgic for something they haven't experienced yet?  Robin and Lily look more amazing than usual in these. Just saying. Robin and Lily look more amazing than usual in these. Just saying. Robin and Lily look more amazing than usual in these. Just saying. Everyone but Lily seems to have a really nice base tan going on.   Are these the stills from the intro? yes!      ",
+    "url" : "http://imgur.com/a/vaAsK"
+  }, {
+    "id" : 49,
+    "title" : "When asked \"what is a fun fact?\"",
+    "snippet" : " ",
+    "url" : "http://imgur.com/iiomSv6"
+  } ],
+  "processing-time-source" : 71,
+  "processing-result.title" : "himym0_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym0_reddit.xml"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2182,
+  "processing-time-total" : 2244,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2115,
+  "processing-time-algorithm" : 2156,
   "documents" : [ {
     "id" : 0,
     "title" : "Due to recent events, I felt it pertinent that I post this. If you haven't heard of Ben Stone (Bad Quaker), give his podcast a listen.",
@@ -446,7 +446,7 @@
     "snippet" : "   Here in the US in about 3 to 8% of rape accusation the accuser -- a woman -- admits to lying about rape. How many more lie and don't admit?   I don't know what happened in this case, but false rape claims have been used by women as a weapon of proxy violence for as long as we can remember. Yes, some women lie about rape, and some get convicted for lying. Here in the US in about 3 to 8% of rape accusation the accuser -- a woman -- admits to lying about rape. How many more lie and don't admit?   I don't know what happened in this case, but false rape claims have been used by women as a weapon of proxy violence for as long as we can remember. Yes, some women lie about rape, and some get convicted for lying. Here in the US in about 3 to 8% of rape accusation the accuser -- a woman -- admits to lying about rape. How many more lie and don't admit?   I don't know what happened in this case, but false rape claims have been used by women as a weapon of proxy violence for as long as we can remember. Yes, some women lie about rape, and some get convicted for lying. Here in the US in about 3 to 8% of rape accusation the accuser -- a woman -- admits to lying about rape. How many more lie and don't admit?   I don't know what happened in this case, but false rape claims have been used by women as a weapon of proxy violence for as long as we can remember. Yes, some women lie about rape, and some get convicted for lying.",
     "url" : "http://reason.com/blog/2013/02/05/hows-that-government-working-out-for-som"
   } ],
-  "processing-time-source" : 67,
+  "processing-time-source" : 88,
   "processing-result.title" : "anarcho_capitalism8_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism8_reddit.xml"

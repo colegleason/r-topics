@@ -1,0 +1,444 @@
+{
+  "processing-time-total" : 1241,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 8,
+    "score" : 31.626004930327248,
+    "phrases" : [ "Watch" ],
+    "documents" : [ 3, 4, 6, 9, 18, 33, 45, 47 ],
+    "attributes" : {
+      "score" : 31.626004930327248
+    }
+  }, {
+    "id" : 1,
+    "size" : 5,
+    "score" : 29.138374421722695,
+    "phrases" : [ "Bad" ],
+    "documents" : [ 11, 35, 40, 44, 45 ],
+    "attributes" : {
+      "score" : 29.138374421722695
+    }
+  }, {
+    "id" : 2,
+    "size" : 5,
+    "score" : 45.37990207579976,
+    "phrases" : [ "Favorite" ],
+    "documents" : [ 5, 9, 16, 20, 43 ],
+    "attributes" : {
+      "score" : 45.37990207579976
+    }
+  }, {
+    "id" : 3,
+    "size" : 4,
+    "score" : 48.90648522543243,
+    "phrases" : [ "Barney and Robin" ],
+    "documents" : [ 4, 22, 31, 45 ],
+    "attributes" : {
+      "score" : 48.90648522543243
+    }
+  }, {
+    "id" : 4,
+    "size" : 4,
+    "score" : 69.34893332507319,
+    "phrases" : [ "Picture of Marshall Fixed" ],
+    "documents" : [ 19, 28, 30, 42 ],
+    "attributes" : {
+      "score" : 69.34893332507319
+    }
+  }, {
+    "id" : 5,
+    "size" : 4,
+    "score" : 24.65808912761637,
+    "phrases" : [ "Play" ],
+    "documents" : [ 2, 28, 39, 47 ],
+    "attributes" : {
+      "score" : 24.65808912761637
+    }
+  }, {
+    "id" : 6,
+    "size" : 4,
+    "score" : 53.27050688286783,
+    "phrases" : [ "Ted will end up either Getting" ],
+    "documents" : [ 12, 23, 25, 45 ],
+    "attributes" : {
+      "score" : 53.27050688286783
+    }
+  }, {
+    "id" : 7,
+    "size" : 3,
+    "score" : 34.97032686505186,
+    "phrases" : [ "Episodes of the Season" ],
+    "documents" : [ 1, 4, 45 ],
+    "attributes" : {
+      "score" : 34.97032686505186
+    }
+  }, {
+    "id" : 8,
+    "size" : 3,
+    "score" : 28.489879631100877,
+    "phrases" : [ "Girl that had a variety Show" ],
+    "documents" : [ 1, 9, 45 ],
+    "attributes" : {
+      "score" : 28.489879631100877
+    }
+  }, {
+    "id" : 9,
+    "size" : 3,
+    "score" : 23.046599978882444,
+    "phrases" : [ "NPH" ],
+    "documents" : [ 11, 23, 47 ],
+    "attributes" : {
+      "score" : 23.046599978882444
+    }
+  }, {
+    "id" : 10,
+    "size" : 3,
+    "score" : 45.18355403456433,
+    "phrases" : [ "Opening" ],
+    "documents" : [ 9, 38, 41 ],
+    "attributes" : {
+      "score" : 45.18355403456433
+    }
+  }, {
+    "id" : 11,
+    "size" : 3,
+    "score" : 26.529599670945412,
+    "phrases" : [ "Origin" ],
+    "documents" : [ 4, 14, 19 ],
+    "attributes" : {
+      "score" : 26.529599670945412
+    }
+  }, {
+    "id" : 12,
+    "size" : 3,
+    "score" : 31.891540075176806,
+    "phrases" : [ "Today" ],
+    "documents" : [ 9, 18, 24 ],
+    "attributes" : {
+      "score" : 31.891540075176806
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 42.67329383207007,
+    "phrases" : [ "Captain" ],
+    "documents" : [ 21, 37 ],
+    "attributes" : {
+      "score" : 42.67329383207007
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 36.285144735471086,
+    "phrases" : [ "Favorite Marshall Quotes" ],
+    "documents" : [ 20, 43 ],
+    "attributes" : {
+      "score" : 36.285144735471086
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 41.048049655543466,
+    "phrases" : [ "Just Cast her as the Mother" ],
+    "documents" : [ 25, 45 ],
+    "attributes" : {
+      "score" : 41.048049655543466
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 48.352723876246095,
+    "phrases" : [ "PS I Love" ],
+    "documents" : [ 4, 7 ],
+    "attributes" : {
+      "score" : 48.352723876246095
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 47.84800320923243,
+    "phrases" : [ "Robin Sparkles" ],
+    "documents" : [ 1, 4 ],
+    "attributes" : {
+      "score" : 47.84800320923243
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 29.877803006287795,
+    "phrases" : [ "Super" ],
+    "documents" : [ 26, 34 ],
+    "attributes" : {
+      "score" : 29.877803006287795
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 35.88207653573638,
+    "phrases" : [ "Think that's the Better Explanation" ],
+    "documents" : [ 4, 45 ],
+    "attributes" : {
+      "score" : 35.88207653573638
+    }
+  }, {
+    "id" : 20,
+    "size" : 13,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 0, 8, 10, 13, 15, 17, 27, 29, 32, 36, 46, 48, 49 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 1104,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "Vote for Marshall and Lilly!",
+    "snippet" : "  This needs upvoting, there's no way we can let them lose to a couple from a show I haven't even heard of.   ",
+    "url" : "http://www.eonline.com/news/384756/tv-s-top-couples-vote-in-round-four"
+  }, {
+    "id" : 1,
+    "title" : "References like this make the show great. (Spoiler)",
+    "snippet" : "  Someone in this sub theorized that  Robin Sparkles is an homage to Alanis Morrisette and boy was he right! Dude, it's not a theory.  It was pretty clearly laid out in the episode tonight! It's why the Dave Coulier cameo was there. Not just tonight - it was a pretty clear homage from the start.  Alanis Morisette was a Tiffany-like teen singing star before she was reinvented as a 90's era alterna-pop-grrl star.  \n\nBut yeah, the Dave Coulier thing was awesome. I always thought it was an homage to Tiffany, because of the mall tours that made her hate malls. Then it evolved to this girl that had a variety show (which I'm not sure Alanis had). Before tonight all Alanis and Sparkles had in common was the fact that they're canadian former teen stars. The whole turning grunge and angsty is what made her really be like Alanis. I always thought it was an homage to Tiffany, because of the mall tours that made her hate malls. Then it evolved to this girl that had a variety show (which I'm not sure Alanis had). Before tonight all Alanis and Sparkles had in common was the fact that they're canadian former teen stars. The whole turning grunge and angsty is what made her really be like Alanis. As Mr. Grease2310 said, Alanis appeared on You Can't Do That On Television for a season in the mid-90s.  \n\nThe variety show Robin Sparkles and Jessica Glitter appeared on was also a reference to the 1989-1996 version of [The Mickey Mouse Club](http://en.wikipedia.org/wiki/The_Mickey_Mouse_Club#1989-1996_revival_.28MMC.29) which, featured a number of other future stars, including Christina Aguillera, Britney Spears, Justin Timberlake, JC Chazez, Keri Russell and Ryan Gosling (yes, _that_ Ryan Gosling).   Not just tonight - it was a pretty clear homage from the start.  Alanis Morisette was a Tiffany-like teen singing star before she was reinvented as a 90's era alterna-pop-grrl star.  \n\nBut yeah, the Dave Coulier thing was awesome. &gt;Not just tonight - it was a pretty clear homage from the start.\n\nNo, the subject of the homage has evolved over time as we've learned more about Robin Sparkles' career. As of \"Slap Bet\" she was a generic, Tiffany/Debbie Gibson '80s bubblegum pop (except in the '90s because, as we all know, the '80s didn't come to Canada until 1993) one-hit wonder. As of \"Sandcastles in the Sand\" the analogy changed to pretty much any one-hit wonder that attempts to further her career by greatly changing the style of her followup effort. Only as of \"Glitter\"'s variety show did the Alanis parallel become possible, but certainly not definitive; \"P.S. I Love You\" could just as easily have made her a Canadian version of Christina/Britney/Justin, as ThisDerpForSale mentions. Not just tonight - it was a pretty clear homage from the start.  Alanis Morisette was a Tiffany-like teen singing star before she was reinvented as a 90's era alterna-pop-grrl star.  \n\nBut yeah, the Dave Coulier thing was awesome. Dude, it's not a theory.  It was pretty clearly laid out in the episode tonight! It's why the Dave Coulier cameo was there. In this episode yes. It was very clear tonight. In the rest of Robin Sparkles appearances throughout the seasons, not really.   ",
+    "url" : "http://imgur.com/zhbI96H"
+  }, {
+    "id" : 2,
+    "title" : "So this was the song played by Robin. Slash Ft. Fergie - Beautiful Dangerous",
+    "snippet" : " ",
+    "url" : "http://www.youtube.com/watch?v=EUOpQwsc0dE"
+  }, {
+    "id" : 3,
+    "title" : "Recently started watching the series (seasons 1 - current in less than a week) was fine till this scene and I started cutting onions.",
+    "snippet" : "      I watched the 7 seasons of how I met your mother in one week\n   ",
+    "url" : "http://img2.timeinc.net/ew/i/2011/12/09/Marshall-dad-dies-How_320.jpg"
+  }, {
+    "id" : 4,
+    "title" : "Just something that confuses me about Robin Sparkles",
+    "snippet" : "This has been on my mind for a while, but it became incredibly apparent with tonight's episode \"PS I Love You\". Robin Sparkles was obviously a huge music sensation in Canada, so why was it so hard for Barney to find a tape of \"Let's Go To The Mall\" all the way back in the second season? With her popularity, you would think that the music video would be plastered all over the internet.  I think originally Robin Sparkles was supposed to be a flash in the pan with Mall being her one hit. The gag just ended up being so funny/popular they kept expanding on it. \n\nThe easy out to explain why it's so hard to find stuff is the 'Canada is a media wasteland' stereotype joke.  &gt; The easy out to explain why it's so hard to find stuff is the 'Canada is a media wasteland' stereotype joke. \n\nYeah, I think that's the better explanation.  The running-joke is that Canada is so unimportant that no one other than Canadians care about Canada.  So nothing Canadians do is important enough to be saved.   &gt; The easy out to explain why it's so hard to find stuff is the 'Canada is a media wasteland' stereotype joke. \n\nYeah, I think that's the better explanation.  The running-joke is that Canada is so unimportant that no one other than Canadians care about Canada.  So nothing Canadians do is important enough to be saved.    Canada is always a few years behind the US culturally. YouTube just hadn't caught on in Canada way back in 2006.  [deleted]  Few reasons I can think of.\n\n1. No YouTube back when series premiered. It was just becoming alive really.\n\n2. The group is terrible ith technology.\n\n3. The ongoing joke that Canada doesn't matter.\n\n4. Continuity issues. Did you even watch the \"Possimpibile\" episode?\n  I had a very similar thought. Mine is probably easier explained than yours, but I digress.\n\nWhen Robin started her job at WWN, she was having the issue of Sandy Rivers exploiting her and found \"everything\", including even news tapes Barney hadn't seen. Well, this wasn't found?   This always bothered me. Clearly the group isn't technologically incompetent, so even a simple google search for Robin Scherbatsky would have turned up everything they needed to know. Since the first episode, it seems like the character of Robin Sparkles has expanded from a one-hit wonder who had 15 minutes of fame to a serious Canadian icon and household name.  They still use a VCR.  Forced Meme is forced. Robin Sparkles should have ended with 1 Dude. . .no . . . just no.  Robin Sparkles is one of the best running gags in the series.  I'd say this is enough, but it was a truly worthy final installment.  The kids show she did was hilarious  Yep, loved that one.  I will grant that \"Sandcastles in the Sand\" was the lamest of the three, but even that one was above average on the whole in large part due to Dawson.  Yep, loved that one.  I will grant that \"Sandcastles in the Sand\" was the lamest of the three, but even that one was above average on the whole in large part due to Dawson.  Sandcastles In The Sand was a great episode though, I loved Barney and Robin getting together at the end. Yep, that's what I'm saying.  Good ep, but the weakest of the four Robin Sparkles eps.   Yeah, I think I've seen Glitter too many times now, I've gotten bored of it. This is what happens when you borrow your roommate's HIMYM boxset and she only has one season.",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17wmxy/just_something_that_confuses_me_about_robin/"
+  }, {
+    "id" : 5,
+    "title" : "Found Ted's favorite magazine in a bathroom during a Superbowl party",
+    "snippet" : " ",
+    "url" : "http://i.imgur.com/jQ9GnoV.jpg?1"
+  }, {
+    "id" : 6,
+    "title" : "Americans watching HIMYM,  do you find the Canadian references funny?",
+    "snippet" : "Or am I only roflmao because I am Canadian? \n\nAll the small references; Tim Hortons,  Much Music,  drinking a sixer under the hydro lines.... Wonder if it's as good for you guys as it is for me.    As an American I did not roflmao. However, I did lol and get a craving for donuts...  I think you're gonna get a mixed bag if answers that will be directly linked to their location in the US. I live in Niagara Falls (US side) so the references were great. Fans in Florida or any other non boarder states are gonna probably be more unimpressed: I agree, I live in Rochester and totally get the references to Tim Hortons.  I also loved that they got all of the famous Canadians to contribute to the show. I agree, I live in Rochester and totally get the references to Tim Hortons.  I also loved that they got all of the famous Canadians to contribute to the show. I think you're gonna get a mixed bag if answers that will be directly linked to their location in the US. I live in Niagara Falls (US side) so the references were great. Fans in Florida or any other non boarder states are gonna probably be more unimpressed:   It is for me but that may be because I lived in Ottawa for eight months. So I have seen the obsession with Timmies first hand. I still miss Harvey's and Rickards Red.  Timmies &gt; DD. It's just a fact. I have to disagree. Tim Horton's coffee is disgusting - absolutely appalling. DD isn't much better, but it is better. Where I used to live [Syracuse, NY] we had a Timmie invasion in the past 6 years or so. \n\nThey have a good soup, though. what you need to understand is that it isn't coffee. \n\nIt's a whole other drink. \n\nCalled Timmies. \n\nIt is the Big Mac of coffee. I mean that in every way. \n\nIt's separate. And it's glorious.  It makes my stomach hurt every single time I've tried to drink it. I mean, violently hurt. Curled in bed for three hours trying not to vomit and shit my pants hurt. And it doesn't taste good enough to warrant that sort of pain. It makes my stomach hurt every single time I've tried to drink it. I mean, violently hurt. Curled in bed for three hours trying not to vomit and shit my pants hurt. And it doesn't taste good enough to warrant that sort of pain. Funny, that's how I react to big macs.  I have to disagree. Tim Horton's coffee is disgusting - absolutely appalling. DD isn't much better, but it is better. Where I used to live [Syracuse, NY] we had a Timmie invasion in the past 6 years or so. \n\nThey have a good soup, though. I have to disagree. Tim Horton's coffee is disgusting - absolutely appalling. DD isn't much better, but it is better. Where I used to live [Syracuse, NY] we had a Timmie invasion in the past 6 years or so. \n\nThey have a good soup, though.                   Being from Boston and having visited Quebec many a time, I find the references hilarious, especially because a lot of my friends are oblivious to them. Quebec is the Texas of Canada - they think they're their own country &amp; have tried in the past to make it official.  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17wmyc/americans_watching_himym_do_you_find_the_canadian/"
+  }, {
+    "id" : 7,
+    "title" : "PS I Love You Lyrics",
+    "snippet" : " ",
+    "url" : "http://cliqueclack.com/p/robin-sparkles-ps-i-love-you-lyrics/"
+  }, {
+    "id" : 8,
+    "title" : "Barney bested at his own game",
+    "snippet" : "    ",
+    "url" : "http://www.youtube.com/watch?v=xa1yUaqrdVk"
+  }, {
+    "id" : 9,
+    "title" : "TIL Marvin Eriksen's actor is actually more famous than you may think.",
+    "snippet" : "  He was also on Coach. It's how I knew him. He was also on Coach. It's how I knew him. Yes, and now I feel old because this is apparently _not_ how most folks know him anymore.  I'm 26 and I remembered him from Coach and was too old to watch Sponge Bob when it came out. Don't feel old.  What in the hell are you talking about? I'm 28 and not too old to watch spongebob even now.  Seems like a kid show to me. I've never really found it funny.  There's an inner kid in all of us. The world can't be just serious all of the time. Occasionally you've just got to let loose, be a kid again. Also, there are a lot of adult jokes and inappropriate situations if you know what to look for. Don't take me as some uptight guy. I goof off all the time. I just don't enjoy the humor in the show. I'm not above watching cartoons or anything. My gf and I rented Hotel Transylvania Friday.  I'm 26 and I remembered him from Coach and was too old to watch Sponge Bob when it came out. Don't feel old.  I'm 26 and I remembered him from Coach and was too old to watch Sponge Bob when it came out. Don't feel old.  Yes, and now I feel old because this is apparently _not_ how most folks know him anymore.  He was also on Coach. It's how I knew him. [deleted] He was also on Coach. It's how I knew him. I remember when I learned that he was Patrick Star, way before HIMYM, and my reaction was, \"Dude!  Patrick Star is Dauber!\"\n\nEdit: Wow, looking at the comments, I seem to be exactly the right age for this.  I was 13 when Coach was canceled, and 15 when Spongebob premiered. You are the target audience! Even more so if you're a dude.\n\n\nI didn't know he voiced Patrick until today. Then again, I am an idiot.\n\n\nThanks to your comment, I checked and I was 11 when Coach went off and 13 when Spongebob come on. But at that time, I thought I was too \"mature\" for cartoons, so I only saw them when my younger siblings were watching. \n\n\nThankfully I got out of that stage and can enjoy cartoons again! I'm a lady, so I'm never truly in the target audience unless they say a show wasn't watched enough by my demographic and so they cancel it, like not enough non-teenage girls were watching Freakazoid.  I was apparently the only one.\n\nAnd I never had a problem with watching cartoons because of my mother.  You see, my mother claimed you had to outgrow cartoons sometimes, and that she decided that she was too old for cartoons when she was 13.\n\nThat was 1969.  She'd seen every episode of Scooby Doo before my brothers and I had discovered it, and that didn't come out until 1969.  And that wasn't the only cartoon I'd busted her on.  She even saw the John K. Mighty Mouse, and that came out when I was a kid, so clearly she never *stopped* watching cartoons.  Shame made my mother a liar, and I decided to never fall for that trap. I'm assuming that's where the username comes from? Looks like a cool show, I can't say I remember it, but it looks interesting.\n\n\nYou were smarter than I was, so were my siblings. Is your mother still like that, not willing to admit her love of cartoons?\n\n\n\nI can't recall if my mother or father had any thoughts about cartoons. Probably had something to do with it, because to this day my mother will roll her eyes and say \"You like this junk?\" when I'm watching anything not to her taste.  Yep, that's where my username came from.  It is absolutely one of my favorite cartoons.  It was ahead of its time, and that's why it was doomed.\n\nAnd no, my mom has moved on from being a liar to being a hypocrite.  She and I were at the mall one day, and we stopped into one of the boutique stores, and it had Hello Kitty merchandise.  My mother, remembering my Hello Kitty diary and slap bracelet I had when I was like, 7, turned to me and said, \"It looks like someone's generation forgot to grow up.\"\n\nI replied with, \"Here I come to save the daaaaayyy!\" and she dropped it.  But at least she very openly still watches Mighty Mouse.  She also watches old school Casper, Looney Tunes, and she'll still catch Scooby Doo now and again. He was also on Coach. It's how I knew him.  \"M-O-O-N that spells moon\" will always be the role I remember him for.  Tom Cullen was my favorite character in the whole book.  His innocence was well needed in a world like that.  \"M-O-O-N that spells moon\" will always be the role I remember him for.  \"M-O-O-N that spells moon\" will always be the role I remember him for.   I thought you were referring to the baby.    Yeah, he went to college at my University and came to visit and sign autographs. My daughter who loves Spongebob got her picture with him. He was a really nice guy! I can't imagine an Erikson being anything other than a nice guy.    [I'm just gonna leave this here](http://www.reddit.com/r/HIMYM/comments/xv4i0/things_to_not_repost_on_rhimym/). [I'm just gonna leave this here](http://www.reddit.com/r/HIMYM/comments/xv4i0/things_to_not_repost_on_rhimym/).    I once submitted the same post, but with less positive responses (http://www.reddit.com/r/HIMYM/comments/yhuhm/marvin_eriksen_patrick_star/). Congrats on the upvotes I once submitted the same post, but with less positive responses (http://www.reddit.com/r/HIMYM/comments/yhuhm/marvin_eriksen_patrick_star/). Congrats on the upvotes I once submitted the same post, but with less positive responses (http://www.reddit.com/r/HIMYM/comments/yhuhm/marvin_eriksen_patrick_star/). Congrats on the upvotes          Who is \"This Guy?\" No, this is Patrick\n NO, THIS IS PATRICK! Who is \"This Guy?\" Patrick Star from Spongebob! [deleted]  Everybody knows this.     [deleted] I've been on /r/himym for several months and haven't seen it yet. If it's been posted recently, it hasn't made it very high. I've been on /r/himym for several months and haven't seen it yet. If it's been posted recently, it hasn't made it very high. [deleted] I have never seen this posted. Link? I have never seen this posted. Link? [Here.](http://redd.it/wa31w)\n\n[And here.](http://redd.it/yhuhm)\n\n[One more here.](http://redd.it/o8ml3)\n\n[Last but not least.](http://redd.it/qgc7e)\n\n[And here's a related post about what not to post in r/himym. This is listed as one of them.](http://redd.it/xv4i0) \n\nNot trying to be an ass, just trying to prove a point. The latest one is posted 5 months ago though.\n\nEdit: More turned up after searching for [\"Marshall's Dad\"](http://www.reddit.com/r/HIMYM/search?q=marshall%27s+dad&amp;restrict_sr=on). [Here.](http://redd.it/wa31w)\n\n[And here.](http://redd.it/yhuhm)\n\n[One more here.](http://redd.it/o8ml3)\n\n[Last but not least.](http://redd.it/qgc7e)\n\n[And here's a related post about what not to post in r/himym. This is listed as one of them.](http://redd.it/xv4i0) \n\nNot trying to be an ass, just trying to prove a point. The latest one is posted 5 months ago though.\n\nEdit: More turned up after searching for [\"Marshall's Dad\"](http://www.reddit.com/r/HIMYM/search?q=marshall%27s+dad&amp;restrict_sr=on).",
+    "url" : "http://i.imgur.com/XzNFygg.jpg"
+  }, {
+    "id" : 10,
+    "title" : "Didn't see that coming",
+    "snippet" : " ",
+    "url" : "http://www.youtube.com/watch?v=7iAN33oyLes"
+  }, {
+    "id" : 11,
+    "title" : "NPH really can't take a bad picture ",
+    "snippet" : "  9GAG?!?!?!? 9GAG?!?!?!?  ",
+    "url" : "http://d24w6bsrhbeh9d.cloudfront.net/photo/3171605_700b_v1.jpg"
+  }, {
+    "id" : 12,
+    "title" : "Ted never got punished for breaking the jinx swear",
+    "snippet" : "He was supposed to get hit three times in the nuts with a wiffle ball bat.  Yet.    Barney did say Ted's name in the car.\n\n&gt; Barney: You have something you wanna talk about, Ted?\n&gt; Ted: Nop. He still broke the jinx swear  Oh well, I must've missed something then.  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17w420/ted_never_got_punished_for_breaking_the_jinx_swear/"
+  }, {
+    "id" : 13,
+    "title" : "Can this be the answer to the pineapple incident?",
+    "snippet" : " ",
+    "url" : "http://www.reddit.com/r/AskReddit/comments/17vk9q/how_would_you_normally_tell_somebody_theyve/c897jnr"
+  }, {
+    "id" : 14,
+    "title" : "The origin of the Naked Man (Doogie Howser M.D.)",
+    "snippet" : "    [For those who want the video context, start at 2:40](http://www.youtube.com/watch?feature=player_detailpage&amp;v=cvYuA5_VX40#t=160s)",
+    "url" : "http://imgur.com/B5Ny1lc"
+  }, {
+    "id" : 15,
+    "title" : "Finding out it's my Reddit Birthday, and I have yet to capitalize on it.",
+    "snippet" : "      ",
+    "url" : "http://i.imgur.com/xsMZ8ln.gif"
+  }, {
+    "id" : 16,
+    "title" : "One of my favorite trick of Barney.",
+    "url" : "http://awesomesay.com/q/491"
+  }, {
+    "id" : 17,
+    "title" : "I just had a thought (possible spoilers)",
+    "snippet" : "What if in the scenes where we've seen small glimpses of the mother, it wasn't her at all, but [] (/s \"the girl that's been stalking Ted\")?    But that would only account for glimpses from the past year, not 8 years ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17wl4g/i_just_had_a_thought_possible_spoilers/"
+  }, {
+    "id" : 18,
+    "title" : "Can't watch the Superbowl until after it finishes. This is me today.",
+    "snippet" : "  I want to be that guy that ruins it but I won't.......... Harbaugh wins   [SPOILER](/spoiler) WON    If you place something like this, you're just begging to get spoiled. Especially on the internet.   Ill be that guy so you guys dont have to ruin your karma. The Ravens won 34-31. CONSIDER YOURSELF SPOILED. CONSIDER YOURSELF A FEW HOURS TOO LATE, I've already watched it. Nice try though.  How did you avoid hearing about the winner all day? CONSIDER YOURSELF A FEW HOURS TOO LATE, I've already watched it. Nice try though. ",
+    "url" : "http://imgur.com/HDRCoNp"
+  }, {
+    "id" : 19,
+    "title" : "The best picture of Marshall [Fixed] [Fixed]",
+    "snippet" : "   It always bothered me that Lily is supposed to be this great artist and this is just terrible. I would understand if she was the only one who thought it was good, but Barney liked this so much that he wanted one of himself.  She's really only popular with her friends &amp; family and dogs.\n\nAnd especially not birds. Birds just do NOT get her. It always bothered me that Lily is supposed to be this great artist and this is just terrible. I would understand if she was the only one who thought it was good, but Barney liked this so much that he wanted one of himself.  It's always a problem on shows when the props department has to \"make\" art. In the past, before HD, when people had crappy TVs it was way less noticeable. But now we can see this in really high quality.   This is the first I've noticed that Marshall has 6 fingers on his left hand.   **Original Submission (100%):** [The best picture of Marshall [Fixed]](http://www.reddit.com/r/HIMYM/comments/17t4ff) [[D]](http://i.imgur.com/H49q3Ti.jpg) **[Popular]**\n\n**Posted:** 2h before this post by *[AlexCoomber145](http://www.reddit.com/user/AlexCoomber145)* (fixed by *[domeage](http://www.reddit.com/user/domeage)*)\n\n[This comment generated by an automated bot.](http://www.reddit.com/r/originalfinder/wiki/index) [*Is this match wrong?*](http://www.reddit.com/message/compose/?subject=Error%3A+17tbb9&amp;to=original-finder&amp;message=%2A%2AIncorrect+match%3A%2A%2A+http%3A%2F%2Fwww.reddit.com%2Fr%2FHIMYM%2Fcomments%2F17tbb9%0A%0A%2A%2ACorrect+match%3A%2A%2A) ",
+    "url" : "http://i.imgur.com/0Wc3q8I.jpg"
+  }, {
+    "id" : 20,
+    "title" : "One of my favorite Marshall quotes",
+    "snippet" : " ",
+    "url" : "http://thechive.files.wordpress.com/2012/12/best-of-the-best-of-tapiture-30.jpg"
+  }, {
+    "id" : 21,
+    "title" : "The captain is so creepy!",
+    "url" : "http://www.youtube.com/watch?v=69tzjnCTRX8"
+  }, {
+    "id" : 22,
+    "title" : "The best picture of Marshall",
+    "snippet" : "  Holy shit he was actually pretty fit at the beginning of the show! Holy shit he was actually pretty fit at the beginning of the show! Holy shit he was actually pretty fit at the beginning of the show! Holy shit he was actually pretty fit at the beginning of the show! Yep. He recently lost 35 pounds through for the filming of the five year engagement Holy shit he was actually pretty fit at the beginning of the show! Season 1 and 2 Marshall was the best. He's still awesome but eh something is different. Actually all the characters (especially Ted--holy shit) were better in the first two seasons, though you could make the argument that Barney and Robin improved with character development. And Barney was amazing to begin with. Season 1 and 2 Marshall was the best. He's still awesome but eh something is different. Actually all the characters (especially Ted--holy shit) were better in the first two seasons, though you could make the argument that Barney and Robin improved with character development. And Barney was amazing to begin with.    this picture is in the intro, right? Yes  I think so too everytime the intro comes on. I just sit there nodding and smiling like \"Yeaaaaaah...\" Also, the pic where Barney is straightening his tie. Doesn't he straighten his tie in every picture?  Yeah Jason Segel has not taken good care of himself in the past 8 years...\n\nAlthough it seems like lately he's jumped on a treadmill. Probably in anticipation of more movie roles when the show finally wraps up. The weight thing could have been the direction they wanted him to go in the show. Both him and Allison have gotten that parent weight look about them. No, his weight has fluctuated wildly over 8 seasons, it is entirely a personal matter for Jason Segel... Thanks for clearing that up Jason. The weight thing could have been the direction they wanted him to go in the show. Both him and Allison have gotten that parent weight look about them. *Could be.*  Part of me suspects that, in Alyson's case, it's simply that her age *finally* started to catch up with her.   I still can't get over how quickly Jason aged... Yeah almost a decade... Not quick at all I still can't get over how quickly Jason aged... Yeah, Jason is actually younger than Josh and Neil, but he looks older.        Are there any other pics from the intro? I had no idea an unfiltered version existed. Here are some: http://www.langweiledich.net/2012/11/how-i-met-your-mother-fotos-aus-dem-intro/   I just set this pic as my wallpaper!! Thank you!  That must look absolutely awful.  No! Just makes me look like a creep but I don't mind staring at his hotness for a couple days.               I have this theory that, for the intro pictures, the cast just dressed up in character and went and all got drunk, and took a bunch of pictures.\n\nThis is my headcanon. Please don't ruin it for me.         The only person that can actually pull off the duck face.   [deleted] [deleted] I'd say he's tan, but not from a tanning bed. He's not orange enough.  [deleted]",
+    "url" : "http://i.imgur.com/CDEde2E.jpg"
+  }, {
+    "id" : 23,
+    "title" : "Legen-DARY facts about HIMYM.",
+    "snippet" : "  Ted has dated a butt-load of women. Ted has dated a butt-load of women.  I don't know how I would feel getting paid 50% of what NPH earns per ep.",
+    "url" : "http://infographic-directory.com/wp-content/uploads/2013/01/HowIMetYourMother.jpg"
+  }, {
+    "id" : 24,
+    "title" : "Uncle Barney's words will forever shape the man I am today",
+    "url" : "http://media.tumblr.com/668d17f58384d84138f206276e946482/tumblr_inline_mh8wiokN8T1qz4rgp.gif"
+  }, {
+    "id" : 25,
+    "title" : "I don't believe that Ted would approve this (x-post from /r/gentlemanboners)",
+    "snippet" : "   Damn it, just cast her as the mother already. Damn it, just cast her as the mother already. Ew...?  I don't get it It's his daughter Holy mother of luke and leia....   What....what is she holding!?!?!? D:  Ted Mosby: MY DAUGHTER DOING MODELING THAT'S NOT RISQUÉ IN THE SLIGHTEST? AWW HELL NO. \n\nBut hey kids! Wanna hear the story about how I fucked some other random girl?'    ",
+    "url" : "http://i.imgur.com/pi5nDJv.jpg"
+  }, {
+    "id" : 26,
+    "title" : "Me tomorrow, after Super Bowling",
+    "snippet" : "   ",
+    "url" : "http://alfa.gifs-planet.com/new/1935.gif"
+  }, {
+    "id" : 27,
+    "title" : "this is the advertisement for our beer of the month at my bar. every time i look at it, i think of robin.",
+    "snippet" : "  $5 for a pint? Where do you live that Labatt is that expensive",
+    "url" : "http://imgur.com/PEFRSz5"
+  }, {
+    "id" : 28,
+    "title" : "The best picture of Marshall [Fixed]",
+    "snippet" : "  That's actual Jason Segel the actor who plays Marshall on the show. Ye Ino he is the same person though WRONG! The front of the daredevil jumpsuit clearly is monogrammed for Jason Segel.   ",
+    "url" : "http://i.imgur.com/H49q3Ti.jpg"
+  }, {
+    "id" : 29,
+    "title" : "Kids, Don't Drink Tequila. ",
+    "snippet" : "  Actually, here, Marshall reminded me of when I... eat a sandwich. Dude I fucking love sandwiches, maybe...  ",
+    "url" : "http://i.imgur.com/nKhiz2a.png"
+  }, {
+    "id" : 30,
+    "title" : "The best picture of marshall [fixed] [fixed] [fixed]",
+    "snippet" : "  Please stop, this is getting ridiculous.   ",
+    "url" : "http://images2.fanpop.com/images/photos/4600000/Jason-Friends-in-Vanity-Fair-jason-segel-4611475-604-413.jpg"
+  }, {
+    "id" : 31,
+    "title" : "I just rewatched Barney's love confession to Robin, notice anything about the set? &lt;3",
+    "snippet" : "  TL;DR: Yellow all over the place.  I thought that was such a great touch; such a great way to show loyal fans the \"confession\" was for real.  Don't get it  The scene is covered in yellow. Yellow umbrella represents The Mother, and yellow has come to represent love on the show. I think the yellow means \"the one\" more than love I think the yellow means \"the one\" more than love  I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop. I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop. its just symbolism used in the show for moments where its not explicit. \n\nYellow = true love\n\npurple = search for love \n\nblue = infatuation I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop. I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop. I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop. I'm beginning to doubt this color theory.  When Barney proposed we would have seen yellow all over the place. Unless the marriage is not going to end well in which case we would of seen purple. Neither purple or yellow were present on the rooftop.   wait wait wait. isn't this the same place where they shot Barney and Robin's break up scene? Back when Barney was fat? Or am I just up too late",
+    "url" : "http://youtu.be/jgT2N_nzocs"
+  }, {
+    "id" : 32,
+    "title" : "How I Met Your Mother - P.S. I Love You (Sneak Peek)",
+    "url" : "http://www.youtube.com/watch?v=EQ_y19bGEi4&amp;NR=1&amp;feature=endscreen"
+  }, {
+    "id" : 33,
+    "title" : "So... Somebody watched that 10 hour version of 500 miles",
+    "snippet" : "      Okay, so who's gonna be the one to watch the video of him watching the video for 10 hours?  ",
+    "url" : "http://www.youtube.com/watch?v=bLpgglyO-OQ"
+  }, {
+    "id" : 34,
+    "title" : "The Onion: Cast Of 'How I Met Your Mother' Hamming It Up At Bottom Of Screen For Entire Super Bowl",
+    "url" : "http://www.theonion.com/articles/cast-of-how-i-met-your-mother-hamming-it-up-at-bot,31139/"
+  }, {
+    "id" : 35,
+    "title" : "Some proof that you actually CAN take a bad picture of Barney",
+    "snippet" : " ",
+    "url" : "http://i.imgur.com/dtdBwlT.png"
+  }, {
+    "id" : 36,
+    "title" : "The truth about Barney.",
+    "snippet" : "    ",
+    "url" : "http://imgur.com/a0rT8V0"
+  }, {
+    "id" : 37,
+    "title" : "The captain is returning with his scary eyes",
+    "snippet" : "  ",
+    "url" : "http://images2.wikia.nocookie.net/__cb20101208055910/himym/images/9/97/The_captain_enlarged.png"
+  }, {
+    "id" : 38,
+    "title" : "Still the best opening ",
+    "snippet" : " ",
+    "url" : "http://www.youtube.com/watch?v=SQbDg1LtnAY"
+  }, {
+    "id" : 39,
+    "title" : "I was playing Pixel People and discovered a new career. I think I found Ted, and he doesn't have good news. ",
+    "snippet" : "  I find it hilarious that he's an architect named Bill Ding I wonder if he's the same Bill Ding from the old game Lego Island...  I wonder if he's the same Bill Ding from the old game Lego Island...     I wish they named him Jed Mosley  ",
+    "url" : "http://i.imgur.com/HbpupEX.jpg"
+  }, {
+    "id" : 40,
+    "title" : "Some proof that you actually CAN take a bad picture of Barney FIXED.",
+    "url" : "http://www.youtube.com/watch?v=YTDKrAGRKVY"
+  }, {
+    "id" : 41,
+    "title" : "Still the best opening [Fixed]",
+    "snippet" : " ",
+    "url" : "http://youtu.be/vCYqpdKGf00"
+  }, {
+    "id" : 42,
+    "title" : "The best picture of Marshall [FIXED][FIXED]",
+    "snippet" : " ",
+    "url" : "http://imgur.com/FGFX7KV"
+  }, {
+    "id" : 43,
+    "title" : "One of my favorite Marshall quotes.",
+    "snippet" : "  This quote has been used by a Barney and Quinn at different times as well.  Gets me every time.   I miss quin. This quote has been used by a Barney and Quinn at different times as well.  Gets me every time.   This quote has been used by a Barney and Quinn at different times as well.  Gets me every time.   Quinn got my feels all worked up. I don't know, she just felt right for Barney.  What's with the blue? I am a noob\n    ",
+    "url" : "http://imgur.com/48hPamH"
+  }, {
+    "id" : 44,
+    "title" : "Aimlessly surfing the Internet, landed on Barney's wikipedia page, and look!!!",
+    "snippet" : "  I now have a clear example of why Wikipedia is a bad research source.    They have said this in the show. But that was just for that project (I think it was when they decided who to hire to design the new GNB HQ). But that's not his profession though.  for a while it said \"hahaha please\" under occupation, I wish they hadn't switched that.  It does now!\n\nhttp://imgur.com/zQIe8TO  ",
+    "url" : "http://imgur.com/1AuFmna"
+  }, {
+    "id" : 45,
+    "title" : "I have a theory on what comes next...",
+    "snippet" : "Once we meet the mother, then, even with the resolution known, a new cast can be cast for the mom telling the kids: How I Met Your Father.\n\nEdit:  Got /r/HIMYF in case this proves to be true, not a heavy frequenter of this subreddit however if y'all want I will hand over the subreddit to the mods from here should my theory prove true.\n\n(Only finished S6E15 so far.)  I think this is a plausible idea.  After all, we have had 8 years to understand the other two couples on the show.\n\nTo elaborate on your thoughts, I will paint you a word picture:\n\n* This season finale will be double episode\n* The antics before the wedding will be the first, and the reception will be the second.\n* Ted will start piecing together how cool the girl is because of memories he had when dating her old roommate.\n* Ted and the Mother will have a little dialogue in the finale, and Ted will end up either getting in a fight... or stopping one.  This leads to the Farhampton railroad scene.\n* Like the last couple of seasons, they'll have a little foreshadowing to a future scene... they'll complete the Farhampton scene, but they'll lead to another point which will be the end of Season 9.\n\nEnter Season 9:\n\n* Similar to the Victoria Arc, the first couple of episodes have Ted trying to find  The Mother... perhaps they mixed numbers up, perhaps she was already seeing somebody else, who knows.\n* Similar to the Barney and Robin arc, Ted will have to get his shit together finally to be the man The Mother needs him to be.\n* Similar to the Marshall and Lily arc, Ted will have to put his own drama aside to be the one who deserves The Mother\n* Ted will lose The Mother sometime in the middle of the season.  \n* All of the pieces and teases they gave us about The Mother, they will be resolved from HER perspective.\n* Ted will get The Mother back towards the last 6 episodes of the season\n* You will see the Yellow Umbrella at least 5 times that season.\n* Ted will propose to The Mother within the last 4 episodes.\n* The last episode, Ted is married to the Mother What I think´ll happen: \n\nSeason eight ends. Season 9 starts. Random stuff. Ted says:\"Hello!\", to a woman. END.  As long as he says it like Ranjit, I'm okay with this. I think this is a plausible idea.  After all, we have had 8 years to understand the other two couples on the show.\n\nTo elaborate on your thoughts, I will paint you a word picture:\n\n* This season finale will be double episode\n* The antics before the wedding will be the first, and the reception will be the second.\n* Ted will start piecing together how cool the girl is because of memories he had when dating her old roommate.\n* Ted and the Mother will have a little dialogue in the finale, and Ted will end up either getting in a fight... or stopping one.  This leads to the Farhampton railroad scene.\n* Like the last couple of seasons, they'll have a little foreshadowing to a future scene... they'll complete the Farhampton scene, but they'll lead to another point which will be the end of Season 9.\n\nEnter Season 9:\n\n* Similar to the Victoria Arc, the first couple of episodes have Ted trying to find  The Mother... perhaps they mixed numbers up, perhaps she was already seeing somebody else, who knows.\n* Similar to the Barney and Robin arc, Ted will have to get his shit together finally to be the man The Mother needs him to be.\n* Similar to the Marshall and Lily arc, Ted will have to put his own drama aside to be the one who deserves The Mother\n* Ted will lose The Mother sometime in the middle of the season.  \n* All of the pieces and teases they gave us about The Mother, they will be resolved from HER perspective.\n* Ted will get The Mother back towards the last 6 episodes of the season\n* You will see the Yellow Umbrella at least 5 times that season.\n* Ted will propose to The Mother within the last 4 episodes.\n* The last episode, Ted is married to the Mother  The creators have hinted at the possibility of this for a while.\n\nhttp://www.eonline.com/news/285718/how-i-met-your-mother-bosses-reveal-spinoff-ideas-and-barney-and-robin-are-not-doomed  How will it work without the suspense? Not sure what you mean.  Is the suspense really what makes HIMYM successful? It's a huge part of the draw. Just look through the history here and see how frustrated every one gets when we go another season without knowing who the Mother is, or when the writers keep going back to the damn Robin/Ted well instead of moving forward.\n\nWith the Mother, we already know she ends up with Ted, so whatever relationships we see will automatically comes with an expiration date. \n\nIt's also difficult to imagine they make up for it with strong characters that can match the gang. TV sequel/prequel history is rife with bad spinoffs of sitcoms (Joey, After M*A*S*H,) etc. And the Mother is an enigma, so having to fill in everything about her character, and no matter what they put out, it's not going to match the imagination of the millions of fans.  To me, and those I watch with after discussing this for a bit, we feel that we have to be reminded about the Mother more than worrying who it is.\n\nMy wife suggested that this could be because we are not watching as it goes but wait for full seasons and watch it alternately with other shows season by season.  This might be the case.\n\nHowever, I feel, that the appeal of this show is that its a journey vs destination situation.  I would think that amung those who want to know who the Mother is are probably outnumbered by those who don't want the show to end.  \n\nPlus HIMYF could start in parallel to resolutions HIMYM.  With the exception of soap operas, sci-fi shows have many strong cases where the show/spin-offs have results already known to the audience and it does little to distract from the appeal.  ( ST:DPS vs ST:Voyager, Babylon 5, Battlestar Galactica vs Caprica, etc. )\n\nBest friend, who I am trying to get to stop in to share explanation better than I can, suggested that the show reminds her of the Lovecraftian-Cthulhu'esk RPG game session we ran for a few months without all the crazy monsters, insanity, and a lot less 1900s.  Many different ways to see take this but the area she talked about was about the characters and the complex interactions.  Think of all the characters/guests that could have easy tie in cross over or even permanent roles in spin-off.  (We had a number of small sessions, that, due to life, had me and smaller subset of the players in the game as few as one.  This made the interest/care of players for different NPCs very greatly for full group sessions.)",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17tclw/i_have_a_theory_on_what_comes_next/"
+  }, {
+    "id" : 46,
+    "title" : "Everything is a remix. I still think HIMYM is better though.",
+    "url" : "http://www.youtube.com/watch?v=fJgD4fqJyZ8"
+  }, {
+    "id" : 47,
+    "title" : "You saucy little minx",
+    "snippet" : "  Lily has something to look forward to, I guess. Only because it would be so stupid. Only because it would be so stupid.  http://www.maxim.com/girls-of-maxim/cobie-smulders TL;DR\n\n&gt; Almost. Now I’m hoping to start a lesbian relationship with Lily on the \n&gt; show. Alyson Hannigan is foxy!\n You should watch the outtakes. There are at least half a dozen instances of them jokingly going in for the kiss. A a few of them actually making out. Same with the boys. uh... link? For science... Yeah, nothing makes me hotter than Segal and NPH making out Here you go.. wait for it\n\nhttp://www.youtube.com/watch?v=4FZqiH9YUpM You just rocked my HIMYM world... Some more here: http://www.youtube.com/watch?v=hkaHRHc-yno Some more here: http://www.youtube.com/watch?v=hkaHRHc-yno You should watch the outtakes. There are at least half a dozen instances of them jokingly going in for the kiss. http://www.maxim.com/girls-of-maxim/cobie-smulders http://www.maxim.com/girls-of-maxim/cobie-smulders  So Robin and Lesbian Robin will meet? What's better than Cobie Smulders? Cobie Smulders having sex with herself. It almost happened in her dream once... It almost happened in her dream once...  Great, now i need to clean my keyboard.    My god where did you find this?    Why is she holding a Minnesota cup...? There's a cup?      Cobie Smulders did play a lesbian in the 'L Word'. link? Close, but it's a different L word.  ..And how would she start it? All the main female characters are taken. :\\ Ted seems to find women okay, he's had like 27 girlfriends over the course of the show, and only one of them was a main character.      ",
+    "url" : "http://www.starswelove.com/celebrities/c/cobiesmulders/pictures/cobie_smulders013b.jpg"
+  }, {
+    "id" : 48,
+    "title" : "Mr penguin",
+    "snippet" : "  [deleted] [deleted] You can distract Robin from anything if you start talking about a certain topic, eg emperor penguins. Robin: \"Did you know that before intercourse, the male and female emperor penguins bow to each other?\" Then she imitates them bowing to each other and forgets what she was talking about in the first place.  ",
+    "url" : "http://img93.imageshack.us/img93/1927/3himymrobin.jpg"
+  }, {
+    "id" : 49,
+    "title" : "I think you guys might like this.",
+    "snippet" : "  I like the blue french horn one as well, but I wish they were on a more delicate chain. The chains used as too bulky for the small charms.  You could always get a new chain? ",
+    "url" : "http://www.etsy.com/listing/119100008/my-mothers-yellow-umbrella-charm?ref=sr_gallery_5&amp;ga_search_query=yellow+umbrella&amp;ga_view_type=gallery&amp;ga_ship_to=BE&amp;ga_search_type=handmade&amp;ga_facet=handmade%2Fjewelryyellow+umbrella"
+  } ],
+  "processing-time-source" : 137,
+  "processing-result.title" : "himym7_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym7_reddit.xml"
+  }
+}

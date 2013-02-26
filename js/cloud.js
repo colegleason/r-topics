@@ -5,25 +5,29 @@ var height = 600;
 
 function make_cloud(jsonpath) {
 	var initPhrases = new Array();
-	var initWeights = new Array();
-	var index = -1;
+	var initWeight = new Array();
+	var index = 0;
 
 	d3.json(jsonpath,function(json) {
+		var max_weight = -1;
+		var min_weight = json.clusters[0].total_activity;
+
 		json.clusters.forEach(function(cluster) {
-			index +=1;
-			cluster.phrases.forEach(function(phrase) {
-				initPhrases[index] = phrase;
-				//console.log('initWeights[index]');
-			})
-				cluster.total_activity.forEach(function(activity) {
-					initWeights[index] = activity;
-			})
+			initPhrases[index] = cluster.phrases[0];
+			initWeight[index] = cluster.total_activity;
+			max_weight = cluster.total_activity > max_weight? cluster.total_activity : max_weight;
+			min_weight = cluster.total_activity < min_weight? cluster.total_activity : min_weight;
+			index += 1;
 		})
-		index = -1;
+
+		var size_scale = d3.scale.linear()
+			.domain([min_weight, max_weight])
+			.range([13, 60])
+		
+		index = 0;
 		d3.layout.cloud().size([width, height])
 			.words(initPhrases.map(function(d) {
-				index +=1;
-				return {text: d, size: initWeights[index]};
+				return {text: d, size: size_scale(initWeight[index++])};
 			}))
 			.rotate(function() { return 0; })
 			.font("Impact")
@@ -35,7 +39,7 @@ function make_cloud(jsonpath) {
 }
 
 function draw_cloud(words) {
-    d3.select("body").append("svg")
+    d3.select(".cloud").append("svg")
         .attr("width", width)
         .attr("height", height)
 		.attr("class", "cloud")

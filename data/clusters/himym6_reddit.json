@@ -1,0 +1,452 @@
+{
+  "processing-time-total" : 1058,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 11,
+    "score" : 56.54463218636333,
+    "phrases" : [ "Barney" ],
+    "documents" : [ 8, 9, 11, 17, 24, 33, 34, 36, 40, 46, 48 ],
+    "attributes" : {
+      "score" : 56.54463218636333
+    }
+  }, {
+    "id" : 1,
+    "size" : 9,
+    "score" : 80.1314544762206,
+    "phrases" : [ "Robin Daggers" ],
+    "documents" : [ 8, 13, 18, 23, 26, 28, 29, 40, 47 ],
+    "attributes" : {
+      "score" : 80.1314544762206
+    }
+  }, {
+    "id" : 2,
+    "size" : 6,
+    "score" : 44.09362786833098,
+    "phrases" : [ "Liked that Joke" ],
+    "documents" : [ 8, 16, 18, 32, 40, 45 ],
+    "attributes" : {
+      "score" : 44.09362786833098
+    }
+  }, {
+    "id" : 3,
+    "size" : 6,
+    "score" : 39.202106390751084,
+    "phrases" : [ "Robin Sparkles" ],
+    "documents" : [ 16, 26, 28, 29, 38, 40 ],
+    "attributes" : {
+      "score" : 39.202106390751084
+    }
+  }, {
+    "id" : 4,
+    "size" : 6,
+    "score" : 33.96570189942646,
+    "phrases" : [ "Trying" ],
+    "documents" : [ 0, 8, 17, 25, 45, 48 ],
+    "attributes" : {
+      "score" : 33.96570189942646
+    }
+  }, {
+    "id" : 5,
+    "size" : 5,
+    "score" : 49.609464470440756,
+    "phrases" : [ "Just Making" ],
+    "documents" : [ 8, 16, 30, 45, 48 ],
+    "attributes" : {
+      "score" : 49.609464470440756
+    }
+  }, {
+    "id" : 6,
+    "size" : 5,
+    "score" : 45.45921319335913,
+    "phrases" : [ "Just Thought" ],
+    "documents" : [ 16, 18, 21, 34, 45 ],
+    "attributes" : {
+      "score" : 45.45921319335913
+    }
+  }, {
+    "id" : 7,
+    "size" : 5,
+    "score" : 38.176681074475404,
+    "phrases" : [ "Mother" ],
+    "documents" : [ 8, 14, 27, 31, 48 ],
+    "attributes" : {
+      "score" : 38.176681074475404
+    }
+  }, {
+    "id" : 8,
+    "size" : 4,
+    "score" : 54.07605383230082,
+    "phrases" : [ "Donuts" ],
+    "documents" : [ 4, 12, 36, 37 ],
+    "attributes" : {
+      "score" : 54.07605383230082
+    }
+  }, {
+    "id" : 9,
+    "size" : 4,
+    "score" : 91.7064991434636,
+    "phrases" : [ "P.S. I Love" ],
+    "documents" : [ 5, 26, 40, 47 ],
+    "attributes" : {
+      "score" : 91.7064991434636
+    }
+  }, {
+    "id" : 10,
+    "size" : 4,
+    "score" : 47.48398221271307,
+    "phrases" : [ "Priestley" ],
+    "documents" : [ 4, 6, 12, 15 ],
+    "attributes" : {
+      "score" : 47.48398221271307
+    }
+  }, {
+    "id" : 11,
+    "size" : 3,
+    "score" : 7.804281756506675,
+    "phrases" : [ "Future Ted" ],
+    "documents" : [ 1, 31, 34 ],
+    "attributes" : {
+      "score" : 7.804281756506675
+    }
+  }, {
+    "id" : 12,
+    "size" : 3,
+    "score" : 40.62069527708487,
+    "phrases" : [ "Tonight" ],
+    "documents" : [ 16, 28, 35 ],
+    "attributes" : {
+      "score" : 40.62069527708487
+    }
+  }, {
+    "id" : 13,
+    "size" : 2,
+    "score" : 48.51664502542925,
+    "phrases" : [ "Bears" ],
+    "documents" : [ 28, 30 ],
+    "attributes" : {
+      "score" : 48.51664502542925
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 49.26839606174709,
+    "phrases" : [ "Double" ],
+    "documents" : [ 7, 39 ],
+    "attributes" : {
+      "score" : 49.26839606174709
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 48.31395349308456,
+    "phrases" : [ "Favorite Part of the Episode" ],
+    "documents" : [ 18, 28 ],
+    "attributes" : {
+      "score" : 48.31395349308456
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 28.43105477340144,
+    "phrases" : [ "Moment" ],
+    "documents" : [ 22, 40 ],
+    "attributes" : {
+      "score" : 28.43105477340144
+    }
+  }, {
+    "id" : 17,
+    "size" : 2,
+    "score" : 49.34410407549265,
+    "phrases" : [ "Mustard Plug" ],
+    "documents" : [ 1, 5 ],
+    "attributes" : {
+      "score" : 49.34410407549265
+    }
+  }, {
+    "id" : 18,
+    "size" : 2,
+    "score" : 55.10939245194497,
+    "phrases" : [ "Sandcastles in the Sand" ],
+    "documents" : [ 23, 46 ],
+    "attributes" : {
+      "score" : 55.10939245194497
+    }
+  }, {
+    "id" : 19,
+    "size" : 2,
+    "score" : 50.243474798525554,
+    "phrases" : [ "Suits" ],
+    "documents" : [ 9, 33 ],
+    "attributes" : {
+      "score" : 50.243474798525554
+    }
+  }, {
+    "id" : 20,
+    "size" : 2,
+    "score" : 54.51833387396175,
+    "phrases" : [ "Ted has a Theory" ],
+    "documents" : [ 10, 40 ],
+    "attributes" : {
+      "score" : 54.51833387396175
+    }
+  }, {
+    "id" : 21,
+    "size" : 9,
+    "score" : 0.0,
+    "phrases" : [ "Other Topics" ],
+    "documents" : [ 2, 3, 19, 20, 41, 42, 43, 44, 49 ],
+    "attributes" : {
+      "other-topics" : true,
+      "score" : 0.0
+    }
+  } ],
+  "processing-time-algorithm" : 980,
+  "documents" : [ {
+    "id" : 0,
+    "title" : "Nice try, Scherbatsky...",
+    "url" : "http://i.imgur.com/aFH7Ztq.png"
+  }, {
+    "id" : 1,
+    "title" : "Ted Mosby has some good taste in music",
+    "snippet" : "  The costumer and set designers sure do at any rate.   He's like, the only person other than me and his future wife who owns Who Will Cut Our Hair When We're Gone      He also is in to ska, noticed a Skapololypse Now poster in his room in one episode, and Mustard Plug too I think...",
+    "url" : "http://imgur.com/a/194qt"
+  }, {
+    "id" : 2,
+    "title" : "Ugh, This is embarrassing, I wasn't gonna tell y'all this, but ...",
+    "snippet" : "I wish Jeanette was on more episodes.  I just can't stand the idea of watching HIMYM without her   I'm curious how long she's gonna be on the show for. I bet Ted will probably break it off after an episode or two but she IS a stalker so who knows what happens after that... Well Ted said that starting a relationship with her was one of his biggest mistakes. So sure as hell she will be stalking him to wedding.      She is - just look real close in the background for Season 7 and Season 8 and you can see her.",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17zbxg/ugh_this_is_embarrassing_i_wasnt_gonna_tell_yall/"
+  }, {
+    "id" : 3,
+    "title" : "This episode in general was pretty sad, but its this scene that always gets to me.",
+    "snippet" : "  ",
+    "url" : "http://i.imgur.com/rb5N383.jpg"
+  }, {
+    "id" : 4,
+    "title" : "Tim Hortons recreates 'The Priestley'",
+    "snippet" : "     I never been to Canada....are these donuts as good as they look??? Or are they just like Canadian Dunkin' Donuts? Its like if Dunkin Donuts fucked starbucks and had a kid. That's Timmys. Its like if Dunkin Donuts fucked starbucks and had a kid. That's Timmys. Its like if Dunkin Donuts fucked starbucks and had a kid. That's Timmys. Its like if Dunkin Donuts fucked starbucks and had a kid. That's Timmys.      Its so funny because Priestly says its the proudest day of his life. HIMYM is so accurate in their Canadian stereotypes sometimes....",
+    "url" : "https://twitter.com/TimHortons/status/298885200706940928"
+  }, {
+    "id" : 5,
+    "title" : "Seeing as Ted has a mustard plug poster, this song seemed so appropriate for \"P.S. I Love You\"",
+    "snippet" : " ",
+    "url" : "https://www.youtube.com/watch?v=Xu4-0xLYTtA"
+  }, {
+    "id" : 6,
+    "title" : "Jason Priestley's \"proudest day of my life\" - Timmie's creating \"The Priestley\"",
+    "snippet" : " ",
+    "url" : "https://twitter.com/Jason_Priestley/status/298888048681308160"
+  }, {
+    "id" : 7,
+    "title" : "For all you Canadian HIMYM fans. ",
+    "snippet" : "Where were you when grunge was born?  Skookumchuck, BC, and I was having a maple dip and a double double! Skookumchuck, BC, and I was having a maple dip and a double double! My 'MERICA is telling me Skookumchuck isn't a word My 'MERICA is telling me Skookumchuck isn't a word                Calgary AB, double chocolate      London Ontario.  Mint Hot Chocolate and Sour Cream glaze ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17z752/for_all_you_canadian_himym_fans/"
+  }, {
+    "id" : 8,
+    "title" : "Anyone else catch the lesbians shirt?",
+    "snippet" : "  Of course we did. It was the only word on screen.  Also, on her magnificent boobs. So, yeah...  Yes...it was the entire point of that scene. Sometimes I wonder how this show is still successful these days, having become so broad and predictable.\n\nThen I come here, see someone make a post that implies that an incredibly obvious joke was subtle, and I realize how the show can still be successful.\n\nAs long as there are people like OP who find these incredibly obvious jokes as subtle and hidden, it will be popular.\n\nSee also, several weeks ago, some guy was convinced that the guys in the background of Ted's webcam, eating a \"sandwich\" and acting high, were a subtle joke, rather than, again, the whole point of the scene. I think some people just assume if a joke isn't spoken by a character along with the laugh track, then it's supposed to be subtle. If you took a person who finds these kinds of jokes as subtle and then showed them every single hidden joke in Arrested Development, I think they might shit their pants.\n\nIf someone finds these super obvious jokes on HIMYM as subtle, I can't even imagine how they would view Arrested Development. Try Community. That whole show is a collection of easter eggs and inside jokes. Can't wait for this season! Try Community. If you took a person who finds these kinds of jokes as subtle and then showed them every single hidden joke in Arrested Development, I think they might shit their pants.\n\nIf someone finds these super obvious jokes on HIMYM as subtle, I can't even imagine how they would view Arrested Development. I have seen both series. I love them both. I don't think HIMYM jokes are subtle, I just enjoy them. I think some people just assume if a joke isn't spoken by a character along with the laugh track, then it's supposed to be subtle. Love your username. Have an upvote. I think some people just assume if a joke isn't spoken by a character along with the laugh track, then it's supposed to be subtle. Sometimes I wonder how this show is still successful these days, having become so broad and predictable.\n\nThen I come here, see someone make a post that implies that an incredibly obvious joke was subtle, and I realize how the show can still be successful.\n\nAs long as there are people like OP who find these incredibly obvious jokes as subtle and hidden, it will be popular.\n\nSee also, several weeks ago, some guy was convinced that the guys in the background of Ted's webcam, eating a \"sandwich\" and acting high, were a subtle joke, rather than, again, the whole point of the scene. Thus we have a troll downthread railing against over the top stereotyping of GLBTQABCDEF characters.\n\nIt's simple. It's still gotta play in Omaha.\n\nGranny don't get subtle.\n Granny wants to watch a show with a dude who bones 30+ chicks while looking for the one, helped by his womanizing buddy and commitment-scared ex?    Pretty sure everyone caught the shirt  Everyone knows Lily is bi.. If Robin ever said.. \"Hey Lily...\" Lily would be there in a heartbeat. (I just said Lily too many times and now it sounds like a weird name lol) Everyone knows Lily is bi.. If Robin ever said.. \"Hey Lily...\" Lily would be there in a heartbeat. (I just said Lily too many times and now it sounds like a weird name lol) Everyone knows Lily is bi.. If Robin ever said.. \"Hey Lily...\" Lily would be there in a heartbeat. (I just said Lily too many times and now it sounds like a weird name lol) Everyone knows Lily is bi.. If Robin ever said.. \"Hey Lily...\" Lily would be there in a heartbeat. (I just said Lily too many times and now it sounds like a weird name lol) Not lesbian, just bicurious. Once Lily gets her fix she'll be fine. Should have got with that girl...     its too bad that poster behind her wasnt for \"Robin Daggers\"        Wow, you must be really observant. Great find and thanks for sharing your deep discoveries with the rest of us. http://i.imgur.com/QtgPFLA.png  [deleted] For those of you at work, this a gif of an erection.   Really, Robin? So a post some days ago about \"Yeah I'd really like to get a lesbian relationship on the show\" and the best they can go for is the most stereotypically stone butch \"chick\" ever? Fucking fail, HIMYM. \n\nAs a huge femme, getting real tired of your shit, Big Media. Wasn't there a lesbian relationship portrayed by one of Ted's ex-girlfriends? They were on the subway talking just the other episode. If you're going to critique the show, at least know your shit. Her name is Cindy and she's kind of a big deal. Really, Robin? So a post some days ago about \"Yeah I'd really like to get a lesbian relationship on the show\" and the best they can go for is the most stereotypically stone butch \"chick\" ever? Fucking fail, HIMYM. \n\nAs a huge femme, getting real tired of your shit, Big Media. Really, Robin? So a post some days ago about \"Yeah I'd really like to get a lesbian relationship on the show\" and the best they can go for is the most stereotypically stone butch \"chick\" ever? Fucking fail, HIMYM. \n\nAs a huge femme, getting real tired of your shit, Big Media. Huge douche, you mean? I'm totally sure that's what you meant.\n\nKindly fuck off. Fuck off yourself, asshole. I'm getting real fucking sick of every single time a gay chick is shown off in some show like OOH, WE'RE BEING PROGRESSIVE!! it's the most stereotypical stone butch bull dyke on the planet.\n\nAre you black? How would you feel if every single black person on TV got shown chowing down on watermelon and fried chicken and never spoke in proper english? \n\nAsian? Would you like to see every single Asian person on TV unable to pronounce their Rs and shown off with exaggeratedly narrow eyes?\n\nMexican? How about everyone being lazy and constantly sounding like the Taco Bell chihuahua?\n\nA gay male? Better swish it up with a lisp and toss on a feather boa!\n\nI'm not remotely surprised to see this getting downvoted by idiots that have no idea what it's like to see your race/orientation/etc constantly portrayed in such a way as to show off every single stereotype on the planet.\n\nThe whole idea that every single one of us goes around in plaid and combat boots, can't grow hair longer than ear-length, and walks around with a frat boy swagger is perpetuated because of shit like this in the first place. In every. Single. Show. Ever.\n\nSo fuck you, and fuck every ignorant asshole downvoting this while having no damn clue what I'm talking about. Dude the Mother's old roommate is a lesbian and they don't show her to be a dyke or anything. Barney's brother is gay in the show, and he doesnt act all extravagant or shit. Sounds like you are more ignorant than the people you are accusing.  I like that you called her a dude.",
+    "url" : "http://i.imgur.com/nzP3Yh8.jpg"
+  }, {
+    "id" : 9,
+    "title" : "Barney and Suits.",
+    "url" : "http://imgur.com/6gUFgxB"
+  }, {
+    "id" : 10,
+    "title" : "Small Jeanette theory",
+    "snippet" : "I was thinking, what if Jeanette tells Robin about how Ted and Victoria broke up?  She's been stalking him, so she might know that Ted is keeping it from her.    I have a feeling we may never see her again. http://www.youtube.com/watch?v=5sHSl_LB8z0",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17zmd3/small_jeanette_theory/"
+  }, {
+    "id" : 11,
+    "title" : "The Barney Stinson Pregnancy Test",
+    "snippet" : "  ",
+    "url" : "http://imgur.com/UXWGjfu"
+  }, {
+    "id" : 12,
+    "title" : "Tim Hortons liked the idea of the Priestley and actually made a batch - a Timbit in a donut, freaking genius.",
+    "snippet" : "    What the fuck is a timbit?\n\nEdit: Oh, it's a donut hole... Canada.   [deleted] [deleted] [](/rarityreally)You know not what you speak of. I think your flair is in the wrong subreddit :o",
+    "url" : "http://i.imgur.com/HN4m4pT.jpg"
+  }, {
+    "id" : 13,
+    "title" : "Robin Daggers",
+    "snippet" : "  ",
+    "url" : "http://i.minus.com/imiJv5eclO8LT.gif"
+  }, {
+    "id" : 14,
+    "title" : "Van Smooten",
+    "snippet" : "I was just re-watching episode 8 from season 6 'Natural History' and I just realized Zoey's Husband is named Captain Van Smooten. And it just dawned on me from season one when Marshall and Lilly were planning their first wedding there was an episode where they were racing with another couple to book their wedding for a venue that had just had a cancellation and was open for their wedding day. The name of the venue was the Van Smooten House. I wonder if this was a coincidence or if this was on purpose.    [SPOILERS] (/s \"Speaking of The Captain, he's actually coming back in an episode this month, just a FYI.\") the Captain's daughter is the mother? I think she was just a kid, but was her age ever explicitly stated? the Captain's daughter is the mother? I think she was just a kid, but was her age ever explicitly stated?  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17z46e/van_smooten/"
+  }, {
+    "id" : 15,
+    "title" : "Tim Hortons creates ‘The Priestley’ doughnut",
+    "url" : "http://ca.omg.yahoo.com/blogs/north-stars/tim-hortons-creates-priestley-doughnut-153556184.html"
+  }, {
+    "id" : 16,
+    "title" : "As a Canadian watching tonight's episode",
+    "snippet" : "  Bob Sagat + Dave Coulier was the best. Not a Canadian reference, but a great one nonetheless  Well, to an extent it was. Dave Coulier was referencing the fact that he was believed to be the inspiration for Alanis Morissette's \"You Oughtta Know\", which was also Robin Sparkles' basic look in the video. And Alanis is Canadian. Given, the Bob Saget line about that being a favourite joke was gold too.  I just understood the favorite line joke. Well, to an extent it was. Dave Coulier was referencing the fact that he was believed to be the inspiration for Alanis Morissette's \"You Oughtta Know\", which was also Robin Sparkles' basic look in the video. And Alanis is Canadian. Given, the Bob Saget line about that being a favourite joke was gold too.  Well, to an extent it was. Dave Coulier was referencing the fact that he was believed to be the inspiration for Alanis Morissette's \"You Oughtta Know\", which was also Robin Sparkles' basic look in the video. And Alanis is Canadian. Given, the Bob Saget line about that being a favourite joke was gold too.  I think Bob Saget was referencing the \"Cut it out\" bit from Full House, not the rumor about Alanis Morisette. Well, to an extent it was. Dave Coulier was referencing the fact that he was believed to be the inspiration for Alanis Morissette's \"You Oughtta Know\", which was also Robin Sparkles' basic look in the video. And Alanis is Canadian. Given, the Bob Saget line about that being a favourite joke was gold too.  Bob Sagat + Dave Coulier was the best. Not a Canadian reference, but a great one nonetheless  I had to pause the DVR on the Bob Saget line. I was already still laughing from Dave Coulier's first appearance, so his second one with the \"Cut it Out\" and then Bob Saget.... I lost it. My wife and I re-watched those 2 lines of dialogue 2 or 3 times before moving on.  We watched it recorded on our DVR.  We missed the episode because we were out curling (true story).  How Canadian of us. seriously you were curling? wow... just wow.  I am indeed 100% serious.  I was curling.  I curl once a week.  I scaled back my curling this season because I had too many things going on.  I used to curl 3 times a week (and might practice once more per week on top of that).  I'm Canadian, yo! It's just funny to think that you guys actually do that. I mean it does look like a fun sport, but only one you see on the obscure winter sports days of the Olympics.  I did grow up in Iowa though and we like to play broomball. :) It's pretty common in Canada.\n\nThe Brier (Canadian men's curling championship) is a huge event and is pretty much always shown live on tv It's just funny to think that you guys actually do that. I mean it does look like a fun sport, but only one you see on the obscure winter sports days of the Olympics.  I did grow up in Iowa though and we like to play broomball. :) I had to pause the DVR on the Bob Saget line. I was already still laughing from Dave Coulier's first appearance, so his second one with the \"Cut it Out\" and then Bob Saget.... I lost it. Bob Sagat + Dave Coulier was the best. Not a Canadian reference, but a great one nonetheless  I didn't get it. (Forgive me, I'm Dutch). Anyone care to explain? Bob Sagat and Dave Coulier were co-stars on a family-friendly sitcom called [Full House](http://en.wikipedia.org/wiki/Full_House) in the late '80s/early '90s.  \"Cut it out\" was Dave Coulier's character's catchphrase in that show.    You're not using it right... He had no idea what they were talking aboot. You're not using it right... You're not using it right...  As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. Drumheller, AB. Honey Glazed. Greenwood, NS. Apple Fritter Winnipeg, MB.  Lemon filled. Toronto, ON. Honey Cruller Montreal, QC. Poutine filled. Montreal, QC. Poutine filled. Montreal, QC. Poutine filled. Toronto, ON. Honey Cruller St. John's, NL. Old Fashioned Dip.  St. John's, NL. Old Fashioned Dip.  As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. Langley, BC. Honey Cruller. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. St. John's, NL. Chocolate glazed.\n\nWhat are we talking about? Haven't watched the episode yet. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. Abbotsford!!!!?? Oh yes. Abbotsford/Langley. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream. As a Canadian...\n\n\nAbbotsford, BC. Boston Cream.  Hey, you know when the guy from Barenaked ladies says he was in a Tim Horton's, eating a blueberry fritter (when he heard the news).  THERE WAS NO TIM HORTON'S IN WAWA IN 1996. As a northern ontario resident, I remember when it opened (it was a big deal)! Little known fact: When you reach a certain amount of Canadian fame (such as being in BNL, or winning the Hart trophy) the ghost of Tim Horton will come to you at any time with delicious baked goods. Oh, okay, they're BNL now? We need a shorthand for the Barenaked Ladies. That's how fundamental they are?!  Yeah, well maybe they have two Billboard awards to your zero! Maybe we need some time to pull the knife out of the back of the most celebrated Canadian alt-rock band of the mid 90s you jaded ass! This is a fight! We *are* fighting now! BNL are triple platinum, are you?! Oh, okay, they're BNL now? We need a shorthand for the Barenaked Ladies. That's how fundamental they are?!  Oh, okay, they're BNL now? We need a shorthand for the Barenaked Ladies. That's how fundamental they are?!  Is it October 17 yet? 19th** 19th** So... if Thursday is Oct 19th, then yes! Today is October 17th!  Hey, you know when the guy from Barenaked ladies says he was in a Tim Horton's, eating a blueberry fritter (when he heard the news).  THERE WAS NO TIM HORTON'S IN WAWA IN 1996. As a northern ontario resident, I remember when it opened (it was a big deal)! Hey, you know when the guy from Barenaked ladies says he was in a Tim Horton's, eating a blueberry fritter (when he heard the news).  THERE WAS NO TIM HORTON'S IN WAWA IN 1996. As a northern ontario resident, I remember when it opened (it was a big deal)! You guys didn't get a Tim Horton's until after 1996!? Why were you so neglected up there?   I live in Guelph and I was nerdily excited to hear them mention it :D TBH No one would refer to Hamilton as being \"just outside Guelph\", it would be the other way round :P Let's be serious, everything in that area is \"just outside Toronto\". But when it comes to HIMYM and Canadian references they go for making everything as seemingly obscure as they can. TBH No one would refer to Hamilton as being \"just outside Guelph\", it would be the other way round :P  I live in Guelph and I was nerdily excited to hear them mention it :D  I live in Guelph and I was nerdily excited to hear them mention it :D  I live in Guelph and I was nerdily excited to hear them mention it :D  I live in Guelph and I was nerdily excited to hear them mention it :D  That was great. I thought MuchMusic was Canada's MTV not Canada's VH1 TIL MuchMusic exists, I just thought it was made up. TIL MuchMusic exists, I just thought it was made up. That was great. I thought MuchMusic was Canada's MTV not Canada's VH1 It used to be, there is a MTV Canada now though. I would say MuchMore is more like VH1, The only thing MuchMusic is good for now is Fresh Prince and Saved by the bell reruns. It used to be, there is a MTV Canada now though. I would say MuchMore is more like VH1, The only thing MuchMusic is good for now is Fresh Prince and Saved by the bell reruns. That was great. I thought MuchMusic was Canada's MTV not Canada's VH1 I miss MuchMusic, we used to get it in the US, so I loved Ed the Sock and George Strombolopolous.  Also loved seeing lots of Our Lady Peace and Matthew Good Band videos.  Strombo has an hour long interview show on CBC now. He interviewed Jason Segel twice, and Cobie Smuders once I think. He is actually really good at giving interviews, and researches his guests. I miss MuchMusic, we used to get it in the US, so I loved Ed the Sock and George Strombolopolous.  Also loved seeing lots of Our Lady Peace and Matthew Good Band videos.  I miss MuchMusic, we used to get it in the US, so I loved Ed the Sock and George Strombolopolous.  Also loved seeing lots of Our Lady Peace and Matthew Good Band videos.  That was great. I thought MuchMusic was Canada's MTV not Canada's VH1 That was great. I thought MuchMusic was Canada's MTV not Canada's VH1 Hey, remember when they played music videos on Much Music??? Much**Music** needs more music! Much**Music** needs more music!  My favorite was K.D. Lang \"I wish it was me.\"\n\nMy friends didn't get why I was laughing and saying \"Cooooooonstant Crraaaaaaaving.\" I don't get it either :( kd lang is a lesbian songwriter and its a reference to her work.   I'M FROM RED DEER!!! THEY SAID MY TOWN!! I got way too excited when I heard that.  I'M FROM RED DEER!!! THEY SAID MY TOWN!! I got stranded in red deer for 14 hours once after my uncle in castor filled our gas tank with rusty gas from the farm.   The Ivor Wynne mention was absolutely amazing.  What year did they say Robin performed at the Grey Cup half time show? They said '96. Great attention to detail by the writing staff too since the '96 Grey Cup was actually held at Ivor Wynne.  They said '96. Great attention to detail by the writing staff too since the '96 Grey Cup was actually held at Ivor Wynne.  I was actually at the game haha! It was probably -30 with wind chill that day. It was NOT comfortable to be outside for hours not moving around. But getting to see Doug and Darren Flutie play against each other was cool.  who was the halftime show?  What year did they say Robin performed at the Grey Cup half time show?  I just moved to Hamilton and had my first timbit today so this episode was freaking awesome! What kind did you get?  If it wasn't sour cream, go back right now and get some! I just moved to Hamilton and had my first timbit today so this episode was freaking awesome!  Or...... http://www.quickmeme.com/meme/3suuks/  As an American living on the US/Canada Border (Niagara Falls) I too got all of references. Had my Tim's this morning as a matter of fact. As an American living on the US/Canada Border (Niagara Falls) I too got all of references. Had my Tim's this morning as a matter of fact.        I really assumed whenever Robin said something about Canada that no one understood, they were just making it up. Just found out Grey Cup was a real thing.\n Most of their references are real things.  I really assumed whenever Robin said something about Canada that no one understood, they were just making it up. Just found out Grey Cup was a real thing.\n    i was excited to hear victoriaville, although it is an hr drive from where i live My friend from Drummondville went nuts when she heard her city on her favorite show.   This whole episode made me crave Timmies. Sometimes I really hate living in South Carolina. I have a Timmies card burning a hole in my wallet currently and all I want is a maple dip!            The funny thing is that the \"downfall of Robin Sparkles\" was (I guess) a spoof of the fall of the Berlin Wall. I live in Germany and here people often talk about where they've been when the wall fell and what they did or what they ate. Was kinda funny for me. The funny thing is that the \"downfall of Robin Sparkles\" was (I guess) a spoof of the fall of the Berlin Wall. I live in Germany and here people often talk about where they've been when the wall fell and what they did or what they ate. Was kinda funny for me.",
+    "url" : "http://www.quickmeme.com/meme/3sutyf/"
+  }, {
+    "id" : 17,
+    "title" : "Description for the next episode: Bad Crazy",
+    "snippet" : "  Barney and Robin are surely going to discuss children this episode. Barney and Robin are surely going to discuss children this episode. Barney and Robin are surely going to discuss children this episode.   What the last episode was missing was something that could really be used well in this episode. Barney, Ted and Marshall used to get in some really outlandish things together. It would be great it Barney helped Ted break up with his girlfriend, and they both get trapped in her apartment. Maybe Barney pretends to be the delivery guy or something, and is trying to help Ted out, when they get caught.\n\nEpisodes like that always show a great bond of friendship, provide some good laughs, and make for good stories. \n\nHaving Ted experience the crazy girl by himself, but none of the gang meets her is like having a shitty spinoff show where you get a plot synopsis every week, but no one ever interacts.\n\nLet's see the group help save Ted, or at least Barney.    Even if he does break it off with her, I'm sure this won't be the end of Jeanette. Well, she did spend the last year and a half Dahmering him.     [deleted] I'm sorry, but what were you expecting?  [deleted]",
+    "url" : "http://imgur.com/QEbr005"
+  }, {
+    "id" : 18,
+    "title" : "VERY subtle reference in PS I Love You (Spoilers)",
+    "snippet" : "In the music video during the end credits, she sings\n\n&gt; I pray to God, but she doesn't reply\n\nRobin Daggers was based on Alanis Morisette, who played God, as female, in Kevin Smith's *Dogma*.  I think it's more a joke about how calling God \"she\" was a super edgy trend in the 90s. I think it's more a joke about how calling God \"she\" was a super edgy trend in the 90s.  There is also the reference to Alanis Morissette through Dave Coulier. The song \"You Oughta Know\" is supposedly about him and is pretty angsty itself.  That was my favorite part of the episode. I thought it was interesting that they went there and even had Coulier on there, especially considering Bob Sagget narrates and has gone on record as saying You Ought to know HAS to be about Coulier.\n\nBetcha Alanis is pissed off. I enjoyed David Coulier using the \"Cut it out\" joke with Bob Saget interjecting with, \"I always loved that joke.\" That was my favorite part of the episode. I thought it was interesting that they went there and even had Coulier on there, especially considering Bob Sagget narrates and has gone on record as saying You Ought to know HAS to be about Coulier.\n\nBetcha Alanis is pissed off. \"Joss Whedon in drag?\" There is also the reference to Alanis Morissette through Dave Coulier. The song \"You Oughta Know\" is supposedly about him and is pretty angsty itself.    I feel like you might be reaching a bit far on this theory. It's only one step!  OP is right, the fact Dave Coulier is in it confirms it. Even the song she sings has the same melody of the rumored song about Dave. They practically feed it to you. I like the Dogma theory better.   With the all the references to alanis morissette , who is also candian, was a child teen pop star (known as the debbie gibson of canada) and child actor on a Nickelodeon show (Space Teens anyone)  , wrote  \"[You Ougta Know](http://www.youtube.com/watch?v=NPcyTyilmYY)\" (PS I love you even sounds like it) for dave coulier ...I have to agree its probably a nod to her role in Dogma  \n\nhttp://i.imgur.com/O5ke8bA.jpg It wasn't Nickelodeon (though they aired it in the US), but the show you're referring to, referenced directly in the Space Teens episode no less, was *You Can't Do That on Television*. With the all the references to alanis morissette , who is also candian, was a child teen pop star (known as the debbie gibson of canada) and child actor on a Nickelodeon show (Space Teens anyone)  , wrote  \"[You Ougta Know](http://www.youtube.com/watch?v=NPcyTyilmYY)\" (PS I love you even sounds like it) for dave coulier ...I have to agree its probably a nod to her role in Dogma  \n\nhttp://i.imgur.com/O5ke8bA.jpg     In this thread there are three theories:\n\nOp's Dogma theory\n\nThe Dishwalla theory\n\nThe general 90's female God theory.\n\nMaybe it's all three.  Pretty sure the second theory is just a part of the third theory.  ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17y99g/very_subtle_reference_in_ps_i_love_you_spoilers/"
+  }, {
+    "id" : 19,
+    "title" : "Paused this at the best time, ",
+    "url" : "http://imgur.com/GwTkWLG"
+  }, {
+    "id" : 20,
+    "title" : "P S I Love You",
+    "snippet" : "  ",
+    "url" : "http://i.minus.com/iUixLOS6fD5wN.gif"
+  }, {
+    "id" : 21,
+    "title" : "I just thought this video should be on here.",
+    "snippet" : " ",
+    "url" : "http://www.youtube.com/watch?v=w2N6lYj5r6U&amp;feature=youtu.be"
+  }, {
+    "id" : 22,
+    "title" : "What's a \"Dobler\" moment you've had that others would consider to be a \"Dahmer\" moment? ",
+    "snippet" : "  I rode a stunt bicycle from my city to visit a friend where she attended college, which is about a 2 hour drive (by highway), and I completed the trip (can't ride on a high way, had to take normal roads) in just over 11 hours, and that's with a few bouts of hitchiking to save time. Totally a dahmer moment, if she hadn't started dating me a few days later, and marrying me a couple years after that.\n\n10 years after that ride, she's still married to me and my Dobler self. So you're saying you walked 500 miles and you walked 500 more? I rode a stunt bicycle from my city to visit a friend where she attended college, which is about a 2 hour drive (by highway), and I completed the trip (can't ride on a high way, had to take normal roads) in just over 11 hours, and that's with a few bouts of hitchiking to save time. Totally a dahmer moment, if she hadn't started dating me a few days later, and marrying me a couple years after that.\n\n10 years after that ride, she's still married to me and my Dobler self. Pretty awesome story, were there no trains around or something? Not to kill the story or anything.\n\n No real cash for that, but I had leg power and will power, so I made that shit happen. For that, I request the highest of fives.    I don't have many Doblers, but I have a some great Dahmer stories.  Share them! ... for ... science. Of course.",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17y0q9/whats_a_dobler_moment_youve_had_that_others_would/"
+  }, {
+    "id" : 23,
+    "title" : "The thing about \"Sandcastles\" (spoiler for last night).",
+    "snippet" : "Back when we first heard Sandcastles in the Sand, Robin said it kind of tanked. Pretty much implied that it wasn't very well liked/received. So it kinda bothered me that in last night's episode, it seemed to suddenly be a lot better than she once explained (going Maple). Did anyone else think about this? It's a very minor thing, but I thought I'd at least bring it up for discussion.  Im surprised they didn't imply that Canadians are so polite they bought the album anyway.   That's an interesting idea. But robin definitely could have been lying to the gang to make them think there wasn't anymore because robin daggers was pretty embarrassing for her. So its plausible.  That's an interesting idea. But robin definitely could have been lying to the gang to make them think there wasn't anymore because robin daggers was pretty embarrassing for her. So its plausible.  That's an interesting idea. But robin definitely could have been lying to the gang to make them think there wasn't anymore because robin daggers was pretty embarrassing for her. So its plausible.      ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17xltp/the_thing_about_sandcastles_spoiler_for_last_night/"
+  }, {
+    "id" : 24,
+    "title" : "I kept expecting Barney to pull out this when ted met his new girl.",
+    "snippet" : "    ",
+    "url" : "http://i.imgur.com/GVigX8P.jpg"
+  }, {
+    "id" : 25,
+    "title" : "even when canadians are trying to rebel against authority they're polite.",
+    "snippet" : "   I just tried to start the video..",
+    "url" : "http://i.imgur.com/te8BZLX.png"
+  }, {
+    "id" : 26,
+    "title" : "Robin Sparkles (Robin Daggers) - P.S. I Love You",
+    "snippet" : "  ",
+    "url" : "http://www.youtube.com/watch?v=91tAE58qOnY"
+  }, {
+    "id" : 27,
+    "title" : "CBC: How I Met Your Mother salutes Canada with themed episode",
+    "url" : "http://www.cbc.ca/news/arts/story/2013/02/04/how-i-met-your-mother-canada-episode.html"
+  }, {
+    "id" : 28,
+    "title" : "Our favorite Canadian pop star is back tonight! ",
+    "snippet" : "  I let out an audible yelp when seeing the commercial last night LOL. Me too. All the men in the room turned to see the girl in the back excitedly giggling and clapping over a commercial. its worse when your a dude...   Robin Sparkles returns tonight? And it's my birthday!  Robin Sparkles returns tonight? And it's my birthday!  MINE TOO!!! And 21st so it's gonna be a great one lol MINE TOO!!! And 21st so it's gonna be a great one lol Happy birthday! :D  Robin Sparkles [] (/s \"goes goth/rebellious, apparently.\") Robin Sparkles [] (/s \"goes goth/rebellious, apparently.\")  I've never understood how her-dad-wanted-a-boy-Robin evolved into Robin Sparkles. Maybe they'll cover that tonight.\n\nedit: I no have good grammar today apparently. \n\nedit edit: JK guys They covered that in the S4E6 \"Happily Ever After\" very briefly. After her dad caught her kissing her teammate she moved in with her mom and went as girly as possible to spite him.   Robin Sparkles reminds me of Alanis transforming into Alanis Morisette.   This episode was really sucky. Robin Daggers was overkill, and and the crazy whore who I cannot remember the name of was pointless.    Confession Bear: I did not care for Robin Sparkles 2. I hold little hope for 4.\n\nEdit: Ok, the Beaver song was funny in 3. Really? Nothing for the beaver song? I'll agree that 2 was kind of lame, but I liked 3. Hey, Beaver, come on\nWhen you feel alone\nJust pick up that phone\nAnd I'll be there to share my\nIce cream cone\nWe'll lick it side-by-side\nAnd deep inside you'll know before the day is done Really? Nothing for the beaver song? I'll agree that 2 was kind of lame, but I liked 3. Really? Nothing for the beaver song? I'll agree that 2 was kind of lame, but I liked 3. I think 2 was supposed to be lame. That was the whole point, Sandcastles just flopped after Lets Go To The Mall. Confession Bear: I did not care for Robin Sparkles 2. I hold little hope for 4.\n\nEdit: Ok, the Beaver song was funny in 3. So you didn't enjoy 3?\n\n[...Okay.....](http://media.tumblr.com/tumblr_lr13sqhey01qafrh6.gif)  Is this something Im supposed to care about? Because any Robin is the worst part of the show That's how I've felt about lily lately. Lily gets on my nerves too, I just wish the female characters were more relatable",
+    "url" : "http://i.imgur.com/nJfb3u0.png"
+  }, {
+    "id" : 29,
+    "title" : "Who else thinks Robin Daggers is way hotter than Robin Sparkles?",
+    "snippet" : "   It's hard not to like the founder of grunge as we know it.    Looks too much like Kristen Stewart........ so no sorry :P       ",
+    "url" : "http://imgur.com/gallery/Ijqcoi5"
+  }, {
+    "id" : 30,
+    "title" : "What is your favorite thing about koala bears?",
+    "snippet" : "   Koala's are not bears. \n\nYou do NOT want to make that mistake with Australian Drop Bears.   Just saw that today haha",
+    "url" : "http://i.imgur.com/N2CMIzr.gif"
+  }, {
+    "id" : 31,
+    "title" : "New story telling approach for season 9",
+    "snippet" : "  The rest of the story is told by mother, calling it now The rest of the story is told by mother, calling it now The rest of the story is told by mother, calling it now  Prediction: The season is split into four parts, with each part having the other four members of the group telling about Ted meeting the mother from their perspective.  Prediction: The season is split into four parts, with each part having the other four members of the group telling about Ted meeting the mother from their perspective.   That means there's a high chance the mother will be revealed at the end of season 8? We'll see her face at the wedding on the last episode then season 9 is about how they fall in love. Excellent! :D Almost. We won't see her face, we'll only see her back. The second half of the wedding will be S09E01. Professionals can construct a face from a skeleton. So I think people can do the same from the many different parts we have seen till now! That means there's a high chance the mother will be revealed at the end of season 8? We'll see her face at the wedding on the last episode then season 9 is about how they fall in love. Excellent! :D Ah, but then who will provide the voice of Future Mother?       The only disappointing part to me is that they can't use Ted's kids. They already filmed stuff for the reveal of meeting the mother back in the second or third season, but they hadn't casted the mother back then and now the kids are all grown. I think it would have been really cool if after Future Ted tells the kids how he meets the mother, the mother comes in, sits down, relieves Ted and tells the kids about the time from them meeting to marriage. \n\nI mean, they still can do that, but they've been using the same non-plussed reaction shots for the last 7 seasons.  They can still do that. \"I'll tell you more about your mother when you're older.\" Flash forward a few years and the kids are relevant again.",
+    "url" : "http://www.vulture.com/2013/02/himym-final-season-secret.html"
+  }, {
+    "id" : 32,
+    "title" : "This reference is one of the many things that made this episode my new favorite. Cut it out.",
+    "snippet" : "  Not only that, but I loved Bob Saget saying \"I always liked that joke\".  That whole Full House reference was awesome Not only that, but I loved Bob Saget saying \"I always liked that joke\".  That whole Full House reference was awesome Not only that, but I loved Bob Saget saying \"I always liked that joke\".  That whole Full House reference was awesome ",
+    "url" : "http://gifsoup.com/webroot/animatedgifs/54500_o.gif"
+  }, {
+    "id" : 33,
+    "title" : "Pulp Fiction reference S8 E7?",
+    "snippet" : "I was re-watching earlier episodes and I was wondering if anyone else caught that when Robin was stuck in Barneys closet she told Ted that she was calling in The Wolf, Lily. I was wondering if that was a reference to Pulp Fiction or not.   They also make two other Pulp Fiction references in the series. In the episode Arrivederci, Fiero , when they flashback to Robin and Lily getting Thai food and spilling it in Marshall's Fiero, Robin talks about how they need to \"scoop up the pools that have collected\" a reference to when the Wolf talks about cleaning Marvin's remains up in Pulp Fiction. Addtionally, when Barney stops wearing suits in the episode Girls vs. Suits and steps into the bathroom to wear a suit he has hidden, it is a reference to when Vincent shoots up heroin at his dealer's house.",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17xw3m/pulp_fiction_reference_s8_e7/"
+  }, {
+    "id" : 34,
+    "title" : "Future Ted's appreciation for the Uncle Joey catchphrase",
+    "snippet" : "Others found it awesome, yes? Considering that Saget does the voice of older Ted, this nod was equal parts subtle and perfectly 90s nostalgic.\n\nEdit for typo.   I was already laughing hard enough at the fact that Dave Coulier was denying that the song was about him and then they pull out that gem.  Alanis Morsette reference was gold, Full House reference pushed it to legendary Alanis Morsette reference was gold, Full House reference pushed it to legendary  It would be crazy if the wife was one of the Olsen twins and uncle Jesse was the priest at Barney's or Ted's wedding Josh Radnor's love interest was Elizabeth Olsen in that \"Liberal Arts\" movie. She seemed like a good fit for him.  Elizabeth Olsen is not one of the Olsen twins who appeared on Full House.      It wasn't until Future Ted said that line I remembered who Future Ted was.  I'm usually so into the show, I don't think of actors and stuff until after.  I was loving the reference to the fact everyone thought he was the subject of the Alanis Morrisette song, but then they added that and it was 1995 all over again for a nano-second.\n\nDave Coulier may have become my favorite HIMYM cameo appearance. He was the subject of You Oughta Know.. No, he wasn't.  That's just a rumor that won't die. [deleted] No, he didn't admit it was about him.  In fact, he has said the exact opposite. [deleted]        ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17wssa/future_teds_appreciation_for_the_uncle_joey/"
+  }, {
+    "id" : 35,
+    "title" : "As a Canadian after tonights episode",
+    "snippet" : " ",
+    "url" : "http://25.media.tumblr.com/tumblr_lw5p3uhW121qdkrt1o1_500.gif"
+  }, {
+    "id" : 36,
+    "title" : "Barney's Blog: Kicked in the donuts",
+    "url" : "http://www.cbs.com/shows/how_i_met_your_mother/barneys_blog/1000305/"
+  }, {
+    "id" : 37,
+    "title" : "So polska1717 was in two places eating different donuts? Or memory not as good as Ted's?",
+    "url" : "http://i.imgur.com/vbRPnOp.jpg"
+  }, {
+    "id" : 38,
+    "title" : "Robin Sparkles Greatest Hits Album. Unearthed. From 1998. Too much awesome.",
+    "snippet" : "   ",
+    "url" : "http://www.vulture.com/2013/02/vulture-uncovers-the-lost-robin-sparkles-cd-eh.html"
+  }, {
+    "id" : 39,
+    "title" : "Double maple...that's what it's all aboot ",
+    "snippet" : "  ",
+    "url" : "http://i.imgur.com/M9bGOG5.png"
+  }, {
+    "id" : 40,
+    "title" : "Episode Discussion S08E15 - P.S. I Love You (Here be spoilers!)",
+    "snippet" : "**Live Chat:**\n\nWe now have our own registered IRC channel. Pop in any time to see if people are there discussing the show!\n\nFollow [this link](http://webchat.freenode.net/?channels=#himym), log in with your reddit nick and we will discuss live! **Chat is open now, but picks up ~15 minutes prior to airing.**\n****\n**Reddit:**\n\nThere will still be discussion here on this post, but we will be live in IRC aswell.\n****\n**DISCUSS!**  \"Cut it out!\" -Dave Coulier\n\n\"I always liked that joke\" - Bob Saget You literally had to spell out the joke for me to get it. Not my best moment. You literally had to spell out the joke for me to get it. Not my best moment. WHOOOSH.\n\nThat's the sound of that reference going over my head.  Should have watched Full House more. WHOOOSH.\n\nThat's the sound of that reference going over my head.  Should have watched Full House more. You literally had to spell out the joke for me to get it. Not my best moment. Can you explain it to me? Bob Saget and Dave Coulier used to be on a sitcom together called Full House and Dave Coulier catch phrase on the show was \"Cut it out!\" It hurts my soul that you had to explain that... Bob Saget and Dave Coulier used to be on a sitcom together called Full House and Dave Coulier catch phrase on the show was \"Cut it out!\" \"Cut it out!\" -Dave Coulier\n\n\"I always liked that joke\" - Bob Saget \"Cut it out!\" -Dave Coulier\n\n\"I always liked that joke\" - Bob Saget  Calling it: PS [=](/s \"Paul Shaffer\")\n\nEDIT to add spoiler tag for anyone watching this episode later on. You... You're a winner.  Calling it: PS [=](/s \"Paul Shaffer\")\n\nEDIT to add spoiler tag for anyone watching this episode later on. Calling it: PS [=](/s \"Paul Shaffer\")\n\nEDIT to add spoiler tag for anyone watching this episode later on. Obviously... Every young Canadian girl loves him! Calling it: PS [=](/s \"Paul Shaffer\")\n\nEDIT to add spoiler tag for anyone watching this episode later on. Calling it: PS [=](/s \"Paul Shaffer\")\n\nEDIT to add spoiler tag for anyone watching this episode later on.  Fun fact: Dave coulier was the person alanis morrisette sung about and was obsessed over. He was also in full house. Fun fact: Dave coulier was the person alanis morrisette sung about and was obsessed over. He was also in full house. No he wasn't. That's the joke  Dobler-Dahmer Theory is so legit!  50 meters? That's like.....4 years. I knew they were going somewhere with this, in the usual vein of \"the metric system is so weird.\"  And I still laughed hard.  Dave Coulier: \"Cut it out\"\n\nBob Saget: \"I always liked that joke\"\n\n\n**BRILLIANT**\n\nEDIT /u/citylovesme beat me to it by 45 seconds Dave Coulier: \"Cut it out\"\n\nBob Saget: \"I always liked that joke\"\n\n\n**BRILLIANT**\n\nEDIT /u/citylovesme beat me to it by 45 seconds Dave Coulier: \"Cut it out\"\n\nBob Saget: \"I always liked that joke\"\n\n\n**BRILLIANT**\n\nEDIT /u/citylovesme beat me to it by 45 seconds  Don't tell Jeff Winger about one of the Barenaked Ladies being on this episode. BNL has 2 Billboard awards to your 0! Oh we're calling them BNL now? Don't tell Jeff Winger about one of the Barenaked Ladies being on this episode. Don't tell Jeff Winger about one of the Barenaked Ladies being on this episode.  So Ted got *another* VCR? I'm surprised someone hasn't \"borrowed\" it yet.  Well, it was at Marshall and Lily's apartment.... It probably still is Ted's VCR. So Ted got *another* VCR?  That vagitarian girl was hot.  Lily must have really wanted to meet Marshall since she didn't jump on the vagetarian girl even when she always wanted to have a lesbian relationship at some point. That vagitarian girl was hot.    Get this out of my face please, excuse me, thank you, sorry. Get this out of my face please, excuse me, thank you, sorry.  GEDDY LEE! He's is mentioned by Jason Segel in, like, half of his roles! He's is mentioned by Jason Segel in, like, half of his roles! He's is mentioned by Jason Segel in, like, half of his roles! I love that. Can anyone help with a list? All I can think of is Freaks and Geeks, I Love You Man, HIMYM.  GEDDY LEE! GEDDY LEE!   As a Canadian, I understand these references. I'm in Hamilton! They recently tore down Ivor Wynne, obviously to stop the pilgrimage by fans of the show. I laughed my ass off when they said Hamilton was near Guelf. But then...why did you spell Guelph that way? Sorry You fucking better be, asshole. Sorry. Thank you. I'm in Hamilton! They recently tore down Ivor Wynne, obviously to stop the pilgrimage by fans of the show. As a Canadian, I understand these references.   Consider questioning authority, please   Psycho Marshall is pretty damn creepy...very Dahmer A bit similar to his character in freaks and geeks actually. A bit similar to his character in freaks and geeks actually. A bit similar to his character in freaks and geeks actually.  Even the robot says move on. Even the robot says move on.  Wait... Ted has a theory? I feel like this is usually Barney Wait... Ted has a theory? I feel like this is usually Barney But Ted has finally learned to be like Barney over many years. And Barney is no longer Barney, so someone has to fill the void for the duration of the series.  Which Tim Horton's and doughnut were you eating when Robin Sparkles died? Which Tim Horton's and doughnut were you eating when Robin Sparkles died? Which Tim Horton's and doughnut were you eating when Robin Sparkles died?  I kept thinking she reminded me of Alanis Morisette, and then Dave Coulier shows up.  I love that Joshua Jackson was on the speculation list!  Must have been James Van Der Beek's input :)   Ted's drill is back! :D   I got way more enjoyment out of that Dave Coulier bit than I thought I would.\n\nIt's always you, Uncle Joey.  Always.  That was so many guest stars... how much did this episode cost? 20 Canadian dollars and a whole lot of powdered jellies.  Excuse me barney but robin is our friend, and The bare naked ladies are triple platinum, are you? and BNL is most likely triple Maple   Jeanette first got sent to Professor *Laybourne*... sound familiar, Community fans?  As in, the Vice Dean of the AC annex?    Dave Coulier!!!! Yes!!!!  Also, was watching the video again... at one point Robin refers to God as she.\n\nAlanis played God in Dogma.\n\n\nPerhaps I'm reaching.... Also, was watching the video again... at one point Robin refers to God as she.\n\nAlanis played God in Dogma.\n\n\nPerhaps I'm reaching....  Luc Robitaille!    *Stalker Ted Alert!* *Stalker Ted Alert!*   Already has a legal pad going, I repeat, already has a legal pad going.\n\nEdit: aaaand the backup pad.  I think this might actually be the first time we have seen Robin's new apartment.  We saw it when she was dating Nick as well      Reminds me of Alanis \"You Outta Know\" was written about Dave Coulier. It was a homage to her.   Who could possibly be unclear on the fact that PS is Paul Schaeffer?   Is anyone else confused when Lilly how she met Marshall was by knocking on all of the doors. \nBut... in an earlier episode Ted says that she went to Hewitt 110 for Ted       I like how not only did Robin's story mirror Alanis Morrisette's almost exactly, but it's like Alanis didn't exist.\n\nRobin Sparkles is Alanis Morrisette.     What happened to Carly?   [deleted]             So I have a question, if this 1996 event was like the \"Canadian SuperBowl\", why could everyone remember what Tim Hortons they were at. Why weren't they watching the event?    What's the name of Ted's girl? It's Lilly's dad's RL daughter. Abby Elliot. What's the name of Ted's girl? Jeanette, I think.  I mean the actress... it's not on IMDB.    This was a really good episode on the surface.  The Coulier-Saget callout was really good.  It would have been in the top 5 for the season but for a few glaring errors, mistakes this show's writers rarely make.\n\n* If Jeanette was a Dahmer, why did she get off the subway so fast?\n* Ted should have noticed her Crazy Eyes.\n* Apparently everything about music takes 10 years to get to Canada; [Grunge](http://en.wikipedia.org/wiki/Grunge) came about in the mid-80's, and Geddy Lee should know that.\n* There's no way Barney could fly from NYC to Vancouver and back in one day and still have time to interview a bunch of Robin's exes.\n\nMaybe they missed an opportunity to put another callback in action: the Hot-Crazy scale.\n\nCobie is attractive, but to me she's much more so with visible eye makeup.  Daggers &gt; Sparkles &gt; Scherbatsky.    Back at school where I don't have cable :(\n\nI'll be watching as soon as I can find somewhere online, hopefully tomorrow. Back at school where I don't have cable :(\n\nI'll be watching as soon as I can find somewhere online, hopefully tomorrow.     Under the list of celebrities, did it say Neil Patrick Harris at the end?      ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17wh9h/episode_discussion_s08e15_ps_i_love_you_here_be/"
+  }, {
+    "id" : 41,
+    "title" : "HIMYM Season 9 Teaser!",
+    "url" : "http://www.vulture.com/2013/02/himym-final-season-secret.html?utm_source=%3Fmid%3Dtwitter_vulture&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nymag%2Fvulture+%28Vulture+-+nymag.com%27s+Entertainment+and+Culture+Blog%29"
+  }, {
+    "id" : 42,
+    "title" : "Has to be one of my favorite episodes",
+    "snippet" : "  ",
+    "url" : "http://www.imgur.com/JwB2N4V.png"
+  }, {
+    "id" : 43,
+    "title" : "Having grown up on Punk Rock, this made my night a little better.",
+    "snippet" : "  Changing grrrl to crrrl because Canada. Oh god my sides. It's actually because [curling](http://en.wikipedia.org/wiki/Curling): there's a curling stone on the cover.  The reference is to the punk genre Riot grrrl, most notably the band Bikini Kill, whose lead singer (Kathleen Hanna) inspired the title \"Smells Like Teen Spirit\" by Nirvana.  ",
+    "url" : "http://i.imgur.com/C9PWCTu.jpg"
+  }, {
+    "id" : 44,
+    "title" : "The early days",
+    "snippet" : "  Ted kinda looks the same   ",
+    "url" : "http://i.imgur.com/VrG63Ls.jpg"
+  }, {
+    "id" : 45,
+    "title" : "Well that's disappointing...",
+    "snippet" : "  \"Well it's not like he knows anything about music anyway\"\n\"Well that's disappointing.\"   That's what I say pretty much every time I hear Rush. 13 downvotes! Don't you feel silly.  I stand by what I said!  That's your opinion, man. It's fine to have it, but I feel bad for you. Rush is amazing. I have my reasons. I could have my own tv show called \"Why I hate rush\". It'd start out \"kids, in 2002, I was in college a stranger smacked me on the ass.\" It would end \"in my head, the whole bowling alley got to their feet and cheered. In reality, my friends high-fived me and I began to enjoy my 21st birthday. And that, kids, is why I fucking hate Rush.\" Can I ask what your reasons are just want to understand, is it his voice, cause you can't deny that the are great musicians.   His voice is upsetting to me. I do not like it. I'd be merely apathetic about Rush if it weren't for a young man I dated whose parents were so obsessed with Rush that they named their young son Geddy. This young chap had two ways to take being saddled with that particular name: he could say \"yes, I like Rush. They are fine musicians\" and develop other interests and a decent personality, or he could become as obsessed with Rush as his parents and be a horrible, manipulative, lying, immature little shit. Regrettably, he went with the latter. Naturally, when he walked up to me, smacked me on the ass and said, \"Hey, babe. Is this the smmmmokin' section?\" while wiggling his eyebrows, I was smitten. However, despite such charming beginnings, our relationship was not the divine thing of Rumi poetry. \n\nHe cheated on me, came back with ridiculously over-the-top *I've been cheating on you* signs (claw marks on back, bite marks on neck) and when I would start to break up with him, he would threaten to commit suicide or staunchly deny that anything untoward had actually happened and it was a strange set of circumstances that were really funny when you think about it, and furthermore, why didn't I trust him? \n\nHe convinced his friends to try to seduce me to make him feel like less of an asshole. He got busted on marijuana possession charges and guilted me into selling my blood (well, plasma) in order to help him pay his legal fees. He then took the blood money and spent it on fast food. \n\nOnce, when I tried to break up with him for cheating on me, he promised to take me out to a nice date that would not be interrupted by any of his friends trying to fuck me or any of his friends trying to fuck him. We went to a sushi restaurant where he realized he didn't have enough money for both of us, so he asked me to pay for myself and leave the tip (which I had no problem doing, since I was used to having to pay for both of us, anyways.) We then went to the movies. While standing in line for tickets, he realized he didn't have enough money for even his own ticket and asked for me to pay for both tickets. Once again, I didn't mind paying for him, as I always had to pay for him everywhere else, so I was more or less used to it. As we approached the box office to purchase the tickets, he was getting more and more nervous. Finally, he admitted that he didn't want the box office cashier to think he was so cheap that his girlfriend had to pay for him at the movies, so he requested that he be allowed to hold the money and pay. I agreed to this rather odd request. He kept the change (over $5.) \n\nHe would sexually harass my gay friend, but then when my gay friend would say \"Hey, man. That's not alright. I'm not into you and your girlfriend is LITERALLY RIGHT THERE!\" He would deny that he was actually flirting with him, and then try to kiss him. He would also send lewd messages to the friend. \n\nI am usually a very good-natured person who gets along with most people. It is rare, therefore, when there is someone I actively dislike. There was one particular girl on campus I disliked. She was very unstable, and thought it was appropriate to tell me how much she wanted to be with my boyfriend and how much she didn't like me. Naturally, young Geddy not only cheated on me with her repeatedly, he attempted to make us be friends, presumably so he could win the championship belt. He then went out of his way to find the one person I did not get along with in high school. He  fucked her, too. \n\nHe got evicted from his shitty apartment, so I let him stay in my dorm room with me for a few weeks while he looked for a new place to live for free. I would regularly come back from classes to find him bundled up in one of my sweaters, masturbating furiously to internet pornography. The sweaters, he explained, were softer than his own clothes. That was the only explanation that was forthcoming about his behavior. Once he found a new place to live for free, he fucked at least one of the people there who had scabies, and transmitted it to me. \n\nI have so many more anecdotes about how awful this young man was. However, throughout the entire relationship, he remained true to his one and only love: Rush. He would sing Rush songs all the time. He would listen to Rush constantly. If someone was talking about music, he had to bring Rush up. I heard more Rush during the year or two that we dated than I had in my entire life leading up to that point or since then. \n\nI had a nervous break down, dropped out of college, moved back in with my family, and slowly began successfully distancing myself from the young man. On my 21st birthday, my friends and I went bowling. I hadn't spoken to Geddy in almost a week and I was starting to feel slightly less heavy with dread. Then he called. He wanted to talk. The bowling alley was loud, all of my friends were there, and he kept trying to tell me a story about why McDonalds wouldn't hire him back, or why he got fired from KMart or something. Finally, I asked what he wanted. He said \"Well, I just wanted to call my WholesaleBees on her birthday and talk to her.\" I said, and keep in mind it was a very loud evening at the bowling alley, so I said it rather loudly and forcefully to be heard over the din and through the cheap cellphones that were available in 2004, \"Let's get one thing straight: I am not **your** WholesaleBees. Thank you for the birthday wishes. Please don't ever call me again.\" I hung up the phone. In my head, the whole bowling alley got to their feet and cheered. In reality, my friends high-fived me and I began to enjoy my 21st birthday party. And that, kids, is why I fucking hate Rush.  I think you hate that guy more than you hate Rush, Rush would never be caught dead around something like that. I doubt you ever gave Rush a chance, I don't blame you with that stigma attached. Also since you are a girl it makes more sense, girls don't really like Rush(not sexist, just a joke that's brought up around the fans and band) I'm positive I hate that guy more than Rush. I never really thought about Rush one way or the other before him, and now every Rush song I've ever heard, and the lead singer's voice and image are permanently associated with one of the worst times of my life. But that is the real story of why I fucking hate Rush. I figured this was a safe place for it way down here in the threads of a buried comment. ",
+    "url" : "http://cbskluv2.files.wordpress.com/2013/01/geddy_lee_by_mike_lawrie.jpg"
+  }, {
+    "id" : 46,
+    "title" : "Sandcastles in the Sand",
+    "snippet" : "Have any other members of the gang seen Sand Castles in the Sand?\n I know Barney has seen it ( that's the night that he and Robin slept together). ",
+    "url" : "http://www.reddit.com/r/HIMYM/comments/17ykec/sandcastles_in_the_sand/"
+  }, {
+    "id" : 47,
+    "title" : "Robin Daggers P.S. I Love You",
+    "snippet" : "  ",
+    "url" : "http://www.cbs.com/shows/how_i_met_your_mother/music-vault/"
+  }, {
+    "id" : 48,
+    "title" : "My reaction after watching the last episode when Ted said Robin should be with him",
+    "snippet" : "  I find it so incredibly ironic that people complain about how the show brings up Ted and Robin being beating a dead horse, yet everyone who brings it up is beating a freaking dead horse. We get it. To be fair, it is like real life. People find it hard to get over people they fall in love with.  Thank you. I always get annoyed when people think they have license to criticize others' emotions (like AgamemnonV1 does). Ted's crossed no lines so it's not like he's done anything socially unacceptable. As someone struggling to get over someone after liking them for the longest time (and there being many indications that my feelings were unrequited, though she's never said so formally) I can totally identify with Ted.\n\nI'm not saying I like the storyline at all, but it's a totally realistic scenario, especially considering how much time Ted spends with Robin. I'd imagine the best way for him to get over her would be to cut off all ties with her for some period of time, though clearly that doesn't happen.  I know the feels, buddy. I know the feels...  Thank you. I always get annoyed when people think they have license to criticize others' emotions (like AgamemnonV1 does). Ted's crossed no lines so it's not like he's done anything socially unacceptable. As someone struggling to get over someone after liking them for the longest time (and there being many indications that my feelings were unrequited, though she's never said so formally) I can totally identify with Ted.\n\nI'm not saying I like the storyline at all, but it's a totally realistic scenario, especially considering how much time Ted spends with Robin. I'd imagine the best way for him to get over her would be to cut off all ties with her for some period of time, though clearly that doesn't happen.  Just because it's a realistic scenario doesn't make it good TV. If I wanted realistic, I'd get a girlfriend, lose her, and then take 7 years to get over her. I watch HIMYM to laugh, not to see the same stupid shit recycled over and over again.\n\nThat said, the scene in question WAS very poignant and touching, and stood out as a highlight of the season so far. Of allllllllllll the recent Ted / Robin BS, it's probably been the best handled. But it's like trying to eat a sundae after you gorged on 10 large pizzas. To be fair, it is like real life. People find it hard to get over people they fall in love with.  Not for ten years they don't. Not after knowing they don't want the same things you do in the grand scheme of things and not after being told flat-out that they are not in love with you. If you think that's even remotely socially acceptable behavior, you may need to seek professional help.\n\nEdit: If you downvoted, you're probably a virgin neckbeard who is still holding out on Britney Spears. Not for ten years they don't. Not after knowing they don't want the same things you do in the grand scheme of things and not after being told flat-out that they are not in love with you. If you think that's even remotely socially acceptable behavior, you may need to seek professional help.\n\nEdit: If you downvoted, you're probably a virgin neckbeard who is still holding out on Britney Spears.  id call you out on spoilers... but who am i kidding. saying ted wants to be with robin, again, doesnt spoil anything at all. Kids, this is the story of how I got over your Aunt Robin.  He needs to get over Robin... MOVE ON TED. MOVE ON.  Ted is such a dick. He hasn't deserved Robin since he lied to her about being broken up with Victoria so he could sleep with her. Now he's just pissy that Barney, the quintessential man-whore, has found the thing Ted has been looking for the whole show and he thinks he deserves it more than him. It's crazy how the show portraits Ted as a nice guy and as a complete jerk at the same time. Ted is such a dick. He hasn't deserved Robin since he lied to her about being broken up with Victoria so he could sleep with her. Now he's just pissy that Barney, the quintessential man-whore, has found the thing Ted has been looking for the whole show and he thinks he deserves it more than him. It's crazy how the show portraits Ted as a nice guy and as a complete jerk at the same time. I think Ted represents a lot of what everybody goes through. This struggle between finding what you deserve and getting what you deserve. The episode where Klaus explains the difference between those two German sayings comes to mind. I think Robin was the 'almost but not quite what you want' instead of Ted's 'Lebenslangerschicksalsschatz' (Lifelong treasure destiny) its important to highlight just how difficult of a struggle that is, how easy it is to believe so much that the thing thats not quite what you want is a temptation. \n\nTL;DR It's necessary to have this struggle between the two to make the finding out who the mother actually is to be that much more prominent.    Cause you know, that's not a spoiler or anything. 48 hour rule. From the sidebar: \n\n&gt; All new episode discussion is considered to be spoilers for a minimum of 48 hours from air.   (POSSIBLE SPOILER) When did he say this?? In the episode with Barney's sister? ",
+    "url" : "http://i.imgur.com/6mf1clp.gif"
+  }, {
+    "id" : 49,
+    "title" : "\"Some things Marshall found were embarrassing. But others were just awesome\" *Shows this*",
+    "snippet" : "  Never had to ask this before, but which episode is this? I just can't remember it",
+    "url" : "http://24.media.tumblr.com/tumblr_m93auj23gK1rdwvpto1_500.jpg"
+  } ],
+  "processing-time-source" : 78,
+  "processing-result.title" : "himym6_reddit.xml",
+  "XmlDocumentSource.xml" : {
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym6_reddit.xml"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1589,
+  "processing-time-total" : 1591,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1524,
+  "processing-time-algorithm" : 1498,
   "documents" : [ {
     "id" : 0,
     "title" : "What do you guys think of the Club for Growth?",
@@ -443,7 +443,7 @@
     "snippet" : "I have started to listen to Debt: The first 5000 years. While Im not very far yet I naturally have started to think about debt as well. \n\nI want to stress that this post is not about book or anything in it. I also want to point out that this is not a post 'How will X be done in AnCapistan?'.  I want to start a general discussion on the theme of debt.\n\nHere are some question I am thinking about right now. With how much of a persons property or even life is a person liable on debt. How will debt collection work the giving up of the property is not voluntary.  Will it all be contract bases, in the sence that in the contract you write down that the money is owed and that the liabilty is all the property of the owner at this point in time, or maybe at the point in time when contract is forst broken.\n\nIs it ok to demand future income stream? Would that have to be in the contract, as in I agree that I will pay back this debt even if I have to give up all but X$ per month.\n\nHow much will be reputation based? I think today it would be quite easy to have a generall database of who owns who and make that (sometimes) publicly visible. As in that it is harder for you to go into contracted if you have defaulted befor and that you still have outsending debt. We already have that in modern society but it clear does not get used as often as I would imagen it in AnCapistan.\n\nAnother thing is standards, or common law. If you go into debt contract is is assumed that if you default you have, from that time on live on a reduced standard of living.\n\nI know that this is not really clean thought im producing here but I wanted to hear some thoughts on the subject. Also it will be intressting to see if the book will change my view on any of this.   ",
     "url" : "http://www.reddit.com/r/Anarcho_Capitalism/comments/184jxq/debt/"
   } ],
-  "processing-time-source" : 65,
+  "processing-time-source" : 93,
   "processing-result.title" : "anarcho_capitalism7_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism7_reddit.xml"

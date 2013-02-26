@@ -39,18 +39,22 @@ if __name__ == "__main__":
 
     overall_activity = 0
 
-    for cluster in cluster_info:
-        cluster["total_activity"] = get_popularity_all(cluster["documents"], reddit_info)
-        overall_activity += cluster["total_activity"]
-        cluster["created"] = reddit_info[str(cluster["id"])]["created"]
+    new_clusters = []
 
     for cluster in cluster_info:
+        if "Other Topics" not in cluster["phrases"]:
+            cluster["total_activity"] = get_popularity_all(cluster["documents"], reddit_info)
+            overall_activity += cluster["total_activity"]
+            cluster["created"] = reddit_info[str(cluster["id"])]["created"]
+            new_clusters.append(cluster)
+
+    for cluster in new_clusters:
         cluster["frac_activity"] = float(cluster["total_activity"])/overall_activity
 
     if len(cluster_info) > 40:
-        pruned = sorted(cluster_info, key= lambda x: x["frac_activity"])
+        pruned = sorted(new_clusters, key= lambda x: x["frac_activity"])
     else:
-        pruned = cluster_info
+        pruned = new_clusters
 
     earliest_post = min(pruned, key=lambda x: x["created"])
     latest_post = max(pruned, key=lambda x: x["created"])

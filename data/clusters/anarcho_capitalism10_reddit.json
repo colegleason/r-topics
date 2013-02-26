@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2227,
+  "processing-time-total" : 2535,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2153,
+  "processing-time-algorithm" : 2423,
   "documents" : [ {
     "id" : 0,
     "title" : "You own yourself.  Does Self Ownership mean the body is physical property of \"the soul\"?",
@@ -446,7 +446,7 @@
     "snippet" : "   You do realize that in some cases under a veil of ignorance it is impossible to have optimal collectivism voluntarily? See healthcare. In what way would something such as healthcare be impossible to have optimal collectivism in? Not trying to argue, I just don't see it yet. You do realize that in some cases under a veil of ignorance it is impossible to have optimal collectivism voluntarily? See healthcare. You do realize that in some cases under a veil of ignorance it is impossible to have optimal collectivism voluntarily? See healthcare.",
     "url" : "http://voluntaryvirtues.com/2013/01/31/collectivists-if-you-want-good-collectivism-you-must-stand-up-against-forced-collectivism/"
   } ],
-  "processing-time-source" : 74,
+  "processing-time-source" : 112,
   "processing-result.title" : "anarcho_capitalism10_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism10_reddit.xml"

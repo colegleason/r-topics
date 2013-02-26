@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1772,
+  "processing-time-total" : 1831,
   "clusters" : [ {
     "id" : 0,
     "size" : 6,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1706,
+  "processing-time-algorithm" : 1740,
   "documents" : [ {
     "id" : 0,
     "title" : "A couple more questions for you guys...",
@@ -443,7 +443,7 @@
     "snippet" : "   Ok so the study might be biased but I wanted to share this anyway, because Duolingo is awesome and completely free.   No Ruuski D': Russian would be awesome. Such a beautiful, badass language. No Ruuski D': or esperanto ): For Esperanto you've got Lernu.net, it is incredibly helpful and clear.\n\nTo be fair, a platform like that of Duolingo wouldn't be very useful for Esperanto. Grammar is so simple everything could be learn in maybe three lessons, and everything else would be just simple vocabulary memorization. And pronunciation is almost completely standardized in Esperanto, so. Not a whole lot to practice. Yup. Ĉu vi estas Esperanto parolanto? It's hard to find AnCaps who are Esperantists... or should I say: Esperantists who are AnCaps. Most of them go more with the hippie culture, on both the good parts and bad parts of it...\n\n  It'd be awesome if there was some Eastern languages like Chinese or Japanese on this list..\n\n I was disappointed too. Damn racist Duolingo. Hates Asians. I'd imagine that text rendering may play a role as well. It'd be awesome if there was some Eastern languages like Chinese or Japanese on this list..\n\n     Polska? Check out http://www.livemocha.com and http://www.italki.com  ",
     "url" : "http://techcrunch.com/2013/01/17/study-learning-spanish-with-duolingo-can-be-more-effective-than-college-classes-or-rosetta-stone/"
   } ],
-  "processing-time-source" : 66,
+  "processing-time-source" : 91,
   "processing-result.title" : "anarcho_capitalism11_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism11_reddit.xml"

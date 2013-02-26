@@ -28,7 +28,7 @@ function make_stream(jsonpath, reddit_name) {
 		
 		d3.select(".redditname").text("/r/" + reddit_name + " > ");
 
-		svg = d3.select("body").append("svg")
+		svg = d3.select(".stream").append("svg")
 			.attr("width", width)
 			.attr("height", height)
 			.attr("class", "stream");
@@ -43,7 +43,7 @@ function draw_layers(layers) {
 		.data(layers)
 		.enter().append("path")
 		.attr("d", function(d) { return area(d.values);})
-		.attr("class",function(d) { return "layer"})
+		.attr("class",  "layer")
 		.style("fill", function(d) { return d.color })
 		.on("click", function(d) { change_layers([layers[d.id]]);})
 		.on("mouseover", function(d) { 
@@ -119,20 +119,4 @@ var draw_axes = function(svg) {
 		.attr("class", "axis")
 		.attr("transform", "translate(" + padding + ",0)")
 		.call(yAxis);
-
-	svg.append("text")
-		.attr("class", "xlabel")
-		.attr("text-anchor", "end")
-		.attr("x", (width+padding)/2)
-		.attr("y", height)
-		.text("time (last month)");
-
-	svg.append("text")
-		.attr("class", "ylabel")
-		.attr("text-anchor", "end")
-		.attr("y", 6)
-		.attr("dy", ".75em")
-		.attr("transform", "rotate(-90)")
-		.text(stack.offset() == "zero" ? "activity" : "fraction of daily activity");
-
 }

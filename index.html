@@ -21,17 +21,20 @@
 		</div>
 		<h3 class="redditname"></h3>
 		<h4 class="topicname"></h4>
+		<div class="stream"></div>
+		<div class="cloud"></div>
 	  </div>
-	  <script type="text/javascript">
-		function graph(id) {
-		d3.selectAll("svg").remove();
-
-		var txtbox = document.getElementById(id);
-		var value = txtbox.value;
-		make_stream("/data/combined/"+value+"_combined.json", value);
-		make_cloud("/data/combined/"+value+"_combined.json");
-		return false;
-		}
-      </script>
     </body>
+	<script type="text/javascript">
+	  function graph(id) {
+	  d3.selectAll("svg").remove();
+	  
+	  var txtbox = document.getElementById(id);
+	  var value = txtbox.value;
+	  make_stream("/data/combined/"+value+"_combined.json", value);
+	  make_cloud("/data/combined/"+value+"_combined.json");
+	  return false;
+	  }
+    </script>
+	
 </html> 

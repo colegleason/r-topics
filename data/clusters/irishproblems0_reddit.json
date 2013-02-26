@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1056,
+  "processing-time-total" : 1016,
   "clusters" : [ {
     "id" : 0,
     "size" : 15,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1002,
+  "processing-time-algorithm" : 950,
   "documents" : [ {
     "id" : 0,
     "title" : "I had to take money from the Trócaire box this morning to make up my bus fare.",
@@ -452,7 +452,7 @@
     "snippet" : "This is an offense to my native vulture.   ",
     "url" : "http://www.reddit.com/r/irishproblems/comments/17dpvb/autocorrect_wont_suggest_swear_words/"
   } ],
-  "processing-time-source" : 54,
+  "processing-time-source" : 66,
   "processing-result.title" : "irishproblems0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/irishproblems0_reddit.xml"
