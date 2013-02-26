@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 971,
+  "processing-time-total" : 977,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 915,
+  "processing-time-algorithm" : 921,
   "documents" : [ {
     "id" : 0,
     "title" : "(Late) morning roundup - forgot my iPad edition",

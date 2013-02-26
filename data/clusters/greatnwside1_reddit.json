@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 997,
+  "processing-time-total" : 959,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 938,
+  "processing-time-algorithm" : 900,
   "documents" : [ {
     "id" : 0,
     "title" : "Morning roundup - high-five edition",

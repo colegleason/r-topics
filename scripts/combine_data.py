@@ -38,6 +38,7 @@ if __name__ == "__main__":
         reddit_info = json.loads(f.read())
 
     overall_activity = 0
+
     for cluster in cluster_info:
         cluster["total_activity"] = get_popularity_all(cluster["documents"], reddit_info)
         overall_activity += cluster["total_activity"]
@@ -47,7 +48,7 @@ if __name__ == "__main__":
         cluster["frac_activity"] = float(cluster["total_activity"])/overall_activity
 
     if len(cluster_info) > 40:
-        pruned = sorted(cluster_info, key= lambda x: x["frac_activity"])[:40]
+        pruned = sorted(cluster_info, key= lambda x: x["frac_activity"])
     else:
         pruned = cluster_info
 

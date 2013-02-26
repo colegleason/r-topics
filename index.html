@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>Reddit Topics</title>
-		<link href="views/rtopics.css" rel="stylesheet" type="text/css">
+		<link href="/rtopics.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" src="/js/d3/d3.js"></script>
-        <script type="text/javascript" src="/d3-cloud/d3.layout.cloud.js"></script>
+        <script type="text/javascript" src="/js/d3-cloud/d3.layout.cloud.js"></script>
 		<script type="text/javascript" src="/js/stream.js"></script>
 		<script type="text/javascript" src="/js/cloud.js"></script>
     </head>
@@ -28,8 +28,8 @@
 
 		var txtbox = document.getElementById(id);
 		var value = txtbox.value;
-		make_stream("/data/"+value+"_combined.json", value);
-		make_cloud("/data/"+value+"_combined.json");
+		make_stream("/data/combined/"+value+"_combined.json", value);
+		make_cloud("/data/combined/"+value+"_combined.json");
 		return false;
 		}
       </script>
