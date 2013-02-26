@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1276,
+  "processing-time-total" : 1325,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1202,
+  "processing-time-algorithm" : 1250,
   "documents" : [ {
     "id" : 0,
     "title" : "Saw this on r/ImSavingUpForThis and instantly thought of Barney's TV",
@@ -438,7 +438,7 @@
     "snippet" : " ",
     "url" : "http://www.youtube.com/watch?v=GLEW3V3QW1I&amp;t=50s"
   } ],
-  "processing-time-source" : 74,
+  "processing-time-source" : 75,
   "processing-result.title" : "himym8_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym8_reddit.xml"

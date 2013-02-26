@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2462,
+  "processing-time-total" : 2472,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2357,
+  "processing-time-algorithm" : 2378,
   "documents" : [ {
     "id" : 0,
     "title" : "Algorithm Development / Pre-coding Advice",
@@ -446,7 +446,7 @@
     "snippet" : "  ",
     "url" : "http://en.wikipedia.org/wiki/Turbo_code"
   } ],
-  "processing-time-source" : 105,
+  "processing-time-source" : 94,
   "processing-result.title" : "compsci0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/compsci0_reddit.xml"

@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 3196,
+  "processing-time-total" : 3296,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
-    "score" : 55.39394620493323,
+    "score" : 58.591380794019095,
     "phrases" : [ "Wedding" ],
     "documents" : [ 8, 19, 21, 23, 26, 27, 44 ],
     "attributes" : {
-      "score" : 55.39394620493323
+      "score" : 58.591380794019095
     }
   }, {
     "id" : 1,
     "size" : 6,
-    "score" : 61.38501702003775,
-    "phrases" : [ "Basic Human" ],
-    "documents" : [ 0, 3, 19, 34, 42, 44 ],
+    "score" : 67.56239334649239,
+    "phrases" : [ "Birth Control Pills" ],
+    "documents" : [ 25, 27, 32, 33, 38, 42 ],
     "attributes" : {
-      "score" : 61.38501702003775
+      "score" : 67.56239334649239
     }
   }, {
     "id" : 2,
     "size" : 6,
-    "score" : 103.54158229442636,
-    "phrases" : [ "Light Period" ],
-    "documents" : [ 3, 9, 18, 25, 33, 42 ],
+    "score" : 38.002624516028334,
+    "phrases" : [ "Choice in this Matter" ],
+    "documents" : [ 0, 19, 27, 33, 44, 48 ],
     "attributes" : {
-      "score" : 103.54158229442636
+      "score" : 38.002624516028334
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 119.76118207965159,
-    "phrases" : [ "Long Hair" ],
-    "documents" : [ 6, 10, 29, 42, 44, 45 ],
+    "score" : 85.9861031065429,
+    "phrases" : [ "Light Period" ],
+    "documents" : [ 3, 9, 18, 25, 33, 42 ],
     "attributes" : {
-      "score" : 119.76118207965159
+      "score" : 85.9861031065429
     }
   }, {
     "id" : 4,
     "size" : 6,
-    "score" : 59.479069600907586,
-    "phrases" : [ "Mom or Sister" ],
-    "documents" : [ 3, 4, 22, 26, 28, 44 ],
+    "score" : 120.40597285991821,
+    "phrases" : [ "Long Hair" ],
+    "documents" : [ 6, 10, 29, 42, 44, 45 ],
     "attributes" : {
-      "score" : 59.479069600907586
+      "score" : 120.40597285991821
     }
   }, {
     "id" : 5,
     "size" : 6,
-    "score" : 34.74807250892748,
-    "phrases" : [ "Rest of the Night" ],
-    "documents" : [ 4, 5, 21, 26, 34, 48 ],
+    "score" : 69.3693088290695,
+    "phrases" : [ "Mom or Sister" ],
+    "documents" : [ 3, 4, 22, 26, 28, 44 ],
     "attributes" : {
-      "score" : 34.74807250892748
+      "score" : 69.3693088290695
     }
   }, {
     "id" : 6,
     "size" : 6,
-    "score" : 60.73096251071838,
-    "phrases" : [ "Sharing your Story" ],
-    "documents" : [ 0, 3, 12, 20, 21, 42 ],
+    "score" : 34.47045597287591,
+    "phrases" : [ "Rest of the Night" ],
+    "documents" : [ 4, 5, 21, 26, 34, 48 ],
     "attributes" : {
-      "score" : 60.73096251071838
+      "score" : 34.47045597287591
     }
   }, {
     "id" : 7,
     "size" : 6,
-    "score" : 96.41118919248284,
-    "phrases" : [ "Skin care Advice" ],
-    "documents" : [ 6, 16, 20, 25, 42, 48 ],
+    "score" : 58.15922037621219,
+    "phrases" : [ "Sharing your Story" ],
+    "documents" : [ 0, 3, 12, 20, 21, 42 ],
     "attributes" : {
-      "score" : 96.41118919248284
+      "score" : 58.15922037621219
     }
   }, {
     "id" : 8,
     "size" : 5,
-    "score" : 34.48732794896474,
-    "phrases" : [ "Excitement" ],
-    "documents" : [ 6, 17, 24, 36, 42 ],
+    "score" : 43.620060491694964,
+    "phrases" : [ "Especially as it Applies to Women" ],
+    "documents" : [ 0, 3, 19, 42, 44 ],
     "attributes" : {
-      "score" : 34.48732794896474
+      "score" : 43.620060491694964
     }
   }, {
     "id" : 9,
-    "size" : 5,
-    "score" : 73.17783754838463,
-    "phrases" : [ "Stereotypically" ],
-    "documents" : [ 7, 19, 24, 44, 47 ],
+    "size" : 4,
+    "score" : 50.108584460785096,
+    "phrases" : [ "Girl Book" ],
+    "documents" : [ 3, 10, 40, 44 ],
     "attributes" : {
-      "score" : 73.17783754838463
+      "score" : 50.108584460785096
     }
   }, {
     "id" : 10,
     "size" : 4,
-    "score" : 58.078496078237784,
-    "phrases" : [ "Girl Book" ],
-    "documents" : [ 3, 10, 40, 44 ],
+    "score" : 39.91217091616331,
+    "phrases" : [ "Maybe you or her Dad or Mom" ],
+    "documents" : [ 3, 25, 34, 40 ],
     "attributes" : {
-      "score" : 58.078496078237784
+      "score" : 39.91217091616331
     }
   }, {
     "id" : 11,
     "size" : 4,
-    "score" : 40.88113324087711,
-    "phrases" : [ "Magically make People not have to Work" ],
-    "documents" : [ 4, 19, 34, 44 ],
+    "score" : 58.28450805558773,
+    "phrases" : [ "Play into Anyone's Games" ],
+    "documents" : [ 19, 23, 34, 44 ],
     "attributes" : {
-      "score" : 40.88113324087711
+      "score" : 58.28450805558773
     }
   }, {
     "id" : 12,
     "size" : 4,
-    "score" : 55.08869583986249,
+    "score" : 50.87834718361687,
     "phrases" : [ "Pregnancy Test" ],
     "documents" : [ 14, 27, 33, 38 ],
     "attributes" : {
-      "score" : 55.08869583986249
+      "score" : 50.87834718361687
     }
   }, {
     "id" : 13,
-    "size" : 4,
-    "score" : 95.04748847210169,
-    "phrases" : [ "Regular Tampon" ],
-    "documents" : [ 9, 25, 32, 33 ],
+    "size" : 3,
+    "score" : 67.97260415763382,
+    "phrases" : [ "IUD Inserted" ],
+    "documents" : [ 25, 27, 42 ],
     "attributes" : {
-      "score" : 95.04748847210169
+      "score" : 67.97260415763382
     }
   }, {
     "id" : 14,
     "size" : 3,
-    "score" : 65.20045062770669,
-    "phrases" : [ "Copper IUD" ],
-    "documents" : [ 32, 33, 42 ],
+    "score" : 43.658428043717535,
+    "phrases" : [ "Sex with anyone else even with Condoms" ],
+    "documents" : [ 1, 27, 42 ],
     "attributes" : {
-      "score" : 65.20045062770669
+      "score" : 43.658428043717535
     }
   }, {
     "id" : 15,
-    "size" : 3,
-    "score" : 73.94737031976729,
-    "phrases" : [ "IUD Inserted" ],
-    "documents" : [ 25, 27, 42 ],
+    "size" : 2,
+    "score" : 59.00506569992503,
+    "phrases" : [ "Adoptive Mom of an Older Kid" ],
+    "documents" : [ 3, 22 ],
     "attributes" : {
-      "score" : 73.94737031976729
+      "score" : 59.00506569992503
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 103.81968255754862,
+    "score" : 100.29310503958297,
     "phrases" : [ "Gender Equality Stalled" ],
     "documents" : [ 11, 41 ],
     "attributes" : {
-      "score" : 103.81968255754862
+      "score" : 100.29310503958297
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 32.56088392732979,
-    "phrases" : [ "Let's get you to the Easiest Place" ],
-    "documents" : [ 4, 20 ],
+    "score" : 94.5297602275418,
+    "phrases" : [ "Lots of Scars" ],
+    "documents" : [ 20, 25 ],
     "attributes" : {
-      "score" : 32.56088392732979
+      "score" : 94.5297602275418
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 72.53326823169267,
-    "phrases" : [ "Lots of Scars" ],
-    "documents" : [ 20, 25 ],
+    "score" : 36.71907577924345,
+    "phrases" : [ "Person is more Likely to be Assaulted" ],
+    "documents" : [ 0, 3 ],
     "attributes" : {
-      "score" : 72.53326823169267
+      "score" : 36.71907577924345
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 86.37244073476515,
+    "score" : 94.641041074057,
     "phrases" : [ "Stable Relationships" ],
     "documents" : [ 19, 35 ],
     "attributes" : {
-      "score" : 86.37244073476515
+      "score" : 94.641041074057
     }
   }, {
     "id" : 20,
-    "size" : 11,
+    "size" : 2,
+    "score" : 53.21028394955357,
+    "phrases" : [ "Women in the Netherlands Work" ],
+    "documents" : [ 19, 37 ],
+    "attributes" : {
+      "score" : 53.21028394955357
+    }
+  }, {
+    "id" : 21,
+    "size" : 15,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 2, 13, 15, 30, 31, 37, 39, 43, 46, 49 ],
+    "documents" : [ 2, 7, 13, 15, 16, 17, 24, 30, 31, 36, 39, 43, 46, 47, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 3127,
+  "processing-time-algorithm" : 3025,
   "documents" : [ {
     "id" : 0,
     "title" : "Ever wonder why victim-blaming is so common? The just-world hypothesis can explain why.",
@@ -441,9 +450,9 @@
     "snippet" : "Hi ladies. I need some advice.\n\nMy partner and I live on the second floor of a two story apartment. When they first moved in, they asked, and I agreed to give one of my downstairs neighbors a ride to a bus stop, seeing as they were new to the area and didn't speak English very well. I also babysat their ten year old daughter twice. I was unemployed at the time and had just moved into the area myself, so I was glad to make some new acquaintances and help out. \n\nHowever, in the past year, I've started working full time and made a lot of my own friends. And I have no idea how to communicate to my neighbors that I'm no longer available or willing to give them rides, babysit their kid, run them errands, or even really interact with them outside of a polite smile when we see each other. \n\nThey've gotten into the habit of asking me and my boyfriend to help them out with a lot of things, whether it's putting together a piece of furniture or helping them carry something heavy, or picking their daughter up from school. It's not like I really mind doing these things for them, necessarily, but we both really value our privacy when we're at home. Our apartment is our sanctuary. We spend eight to ten hours a day interacting with different people, and when we come home, we don't want to have to answer the phone or the door. \n\nIt's really frustrating because it feels like they're always invading my privacy to ask me for favors. They've also buzzed our buzzer late at night on three separate occasions to say that it smelled like something was on fire in our apartment. (Nothing was amiss, one time we were burning incense and the other two times it was just food cooking. I think they're a little paranoid.) \n\nIt doesn't happen on a super frequent basis, but it's happened enough times that it just stresses me out when I hear them open up their front  door. Is there anyway we can communicate to them that we don't want to be bothered without sounding rude?  &gt; Is there anyway we can communicate to them that we don't want to be bothered without sounding rude?\n\nNo. The polite way is to honestly answer each request. Even if you decline every time.   I'm reminded of one of my favorite Robert Heinlein quotes\n\n&gt;Do not confuse \"duty\" with what other people expect of you; they are utterly different. Duty is a debt you owe to yourself to fulfill obligations you have assumed voluntarily. Paying that debt can entail anything from years of patient work to instant willingness to die. Difficult it may be, but the reward is self-respect.\nBut there is no reward at all for doing what other people expect of you, and to do so is not merely difficult, but impossible. It is easier to deal with a footpad than it is with the leech who wants \"just a few minutes of your time, please — this won't take long.\" Time is your total capital, and the minutes of your life are painfully few. If you allow yourself to fall into the vice of agreeing to such requests, they quickly snowball to the point where these parasites will use up 100 percent of your time — and squawk for more!\nSo learn to say No — and to be rude about it when necessary.\nOtherwise you will not have time to carry out your duty, or to do your own work, and certainly no time for love and happiness. The termites will nibble away your life and leave none of it for you.\n(This rule does not mean that you must not do a favor for a friend, or even a stranger. But let the choice be yours. Don't do it because it is \"expected\" of you.)\n\nWhen you want to help out, help!  When you don't want to, say \"No\".  Maybe this is rude and maybe they will like you less, but you have to choose whether your time is worth being rude or worth the esteem of your neighbors.   Ask them for favors.  Constantly.  If they vanish, you're done.  If they come through, scale back and realize you have some excellent friends. This might not work because they might not be in a position to actually do anything for the OP.  They may want to, but they may just not have the means.  For example, the OP gives them rides places because they don't have a car, so the OP can't ask them for anything car-worthy.  Also, asking for favors when the OP doesn't really need anything sounds a little spiteful.  This might not work because they might not be in a position to actually do anything for the OP.  They may want to, but they may just not have the means.  For example, the OP gives them rides places because they don't have a car, so the OP can't ask them for anything car-worthy.  Also, asking for favors when the OP doesn't really need anything sounds a little spiteful.  Ask them for favors.  Constantly.  If they vanish, you're done.  If they come through, scale back and realize you have some excellent friends.   I think the fact is that American culture is different from a lot of foreign cultures.  Foreign countries have a much stronger sense of community and its just expected for people to help each other all the time.  This is good and bad - it's good because it means that people have a strong support network but it's bad because it means that lazy people get a free ride.  In a lot of countries, families have a perpetual open door policy (walk in whenever you want), no strong sense of individual property, and a weaker sense of personal space.  Americans, on the other hand, are a lot more individualistic (and are becoming more and more so).  If you listen to immigrants talk about Americans, they often accuse Americans of being cold and selfish.    Tell them that you can't give them rides any longer because your schedules have changed. Tell them you're not available to babysit on a moment's notice and that you might not be available, because you have increased demands on your time elsewhere.\n\nIf they buzz late at night, make sure one of the first things you say is, \"It's kind of late, don't you think?\"\n\nWhen they ask you to carry heavy furniture say, no, sorry, you wrenched your wrist yesterday and it still hurts. And your boyfriend is getting over a back ache.\n\nPolitely keep declining. They'll get the point eventually. &gt; \"It's kind of late, don't you think?\"\n\nNo.  This kind of passive-aggressive behavior won't work, because they apparently don't understand social norms.  They'll respond \"no, I don't think it's too late.\"\n\nThe first thing you should say is \"please don't buzz me after 9:00 pm again\" &gt; \"It's kind of late, don't you think?\"\n\nNo.  This kind of passive-aggressive behavior won't work, because they apparently don't understand social norms.  They'll respond \"no, I don't think it's too late.\"\n\nThe first thing you should say is \"please don't buzz me after 9:00 pm again\"  &gt;Is there anyway we can communicate to them that we don't want to be bothered without sounding rude?  \n\nNot really.   \n\nI spent a big chunk of my life ignoring and avoiding my neighbors like they had the plague.   When I stopped doing that and got to know them and became part of a community it was a real life changer for me.  \n\n Not everyone wants that, though, and it sounds like OP is one that doesn't. Not to be rude, but yes, I have no interest in becoming friends with this family. In the year and a half or so that they've been living below us, they've caused more than a few annoyances. \n\nOne of the main reasons I'd prefer to stop interacting with them is because communication with them is quite frustrating, since English is not their native language. They're also very loud and have a large extended family that comes and goes at all hours of the night. They're nice enough people, but they definitely are not people that my partner and I have anything in common with and don't really wish to adopt into our circle of friends. Is it more the regular requests for favours, the general noise &amp; the way they live, or the communication that annoys you most? Have you talked to them about the noise &amp; other problems? Might be a way to respond to the next request for help. I'm sorry I don't have time, and could you ask your visitors to keep it down when they come &amp; go after midnight?\n\nSince I'm currently on the recieving end of people who can't be arsed talking to me cos I don't speak their language perfectly, I feel compelled to point out that it isn't really a reflection on their characters or value as friends that they don't speak your language... It's not that I have a problem with English not being their native language. Like I said, they're nice people, but it's almost impossible to communicate with them. I would say English is their second language, but to be honest, their ten year old daughter speaks more English than both of her parents put together.           I really thought TwoX would be a place where people understood how important it is to say \"No\" clearly and strongly even when it's awkward and people are going to be grumpy about it. (Thank god it looks like the commenters on this thread, at least, do.) Please learn this important skill before you have children who are going to pick up your behavior. It's not really that I have an issue saying no; I have declined several of their requests in recent weeks. The issue is I want them to stop *asking.* I don't like having to put on pants at 4:30 on a Saturday afternoon to answer the door to tell my neighbors that I'm not available to run an errand for them. \n\nAnd it's sort of irrelevant, but I'm not having kids, so thankfully I won't be passing this, or any of my bad habits, on to anyone. :)",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18njn6/not_to_be_a_grinch_but_is_there_any_way_to_deter/"
   } ],
-  "processing-time-source" : 69,
+  "processing-time-source" : 271,
   "processing-result.title" : "twoxchromosomes11_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes11_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes11_reddit.xml"
   }
 }

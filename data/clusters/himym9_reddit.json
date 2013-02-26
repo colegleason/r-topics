@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 968,
+  "processing-time-total" : 977,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -447,7 +447,7 @@
     "snippet" : "   ",
     "url" : "http://www.youtube.com/watch?v=CiweaZQ8g5U&amp;ytsession=u36RDbqO68UQELhBKBqHyyFfVVoZdkJrYya_PpnYQkOMYegfPAoNk61fbM9dDqDF9WgNOGu0PvRHtNWdqzL_ozF3N--9tpHdvKfVD4AcyMdm4jt5OmMkFW3pRMmWZ6dnzaI4IuxwMzOpmq6EjT-kXb4dtwCxjaeCz1DGqu6Wh8mWsjY0RU8x9usjuaW1VN-WsKjhO-mzZFuyv4aoe92Jq6yJ1xPDa98oORDTwT7xI7I"
   } ],
-  "processing-time-source" : 72,
+  "processing-time-source" : 81,
   "processing-result.title" : "himym9_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym9_reddit.xml"

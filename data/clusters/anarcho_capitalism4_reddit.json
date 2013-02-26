@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2370,
+  "processing-time-total" : 2164,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2250,
+  "processing-time-algorithm" : 2067,
   "documents" : [ {
     "id" : 0,
     "title" : "I thought this was a universally accepted truth within the AnCap community that copying is not theft.",
@@ -450,7 +450,7 @@
     "snippet" : "I read an article on Mieses.com or Everything-Voluntary.com, I can't remember, but it outlined the flaws of democracy.\n\nIt gave a fantastic anaolgy that went along the lines of: Imagine there are 5 people living in an area, there are 5 plots of land, one for each person. There becomes a problem with the land and we all meet and discuss what to do. 3 people decide to get cats, one decides to get poison and I decide to get a fence\n\nLong and short of it, it says that in a democracy the 4 people voted then to get cats instead of fences, and I then have to stick with getting a cat but im alergic to cats, and that's why I didn't want it. So now I have to stick with having this cat, and now I also have to suffer. \n\n\nDoes anyone know what article I'm talking about? Im in the process of trying to convert one of my stubborn \"liberal\" friends. I'm ding this for manny of my friends in my school, and I really need your guys help with this. ",
     "url" : "http://www.reddit.com/r/Anarcho_Capitalism/comments/18jvty/real_quick_i_need_some_help_finding_an_article_i/"
   } ],
-  "processing-time-source" : 120,
+  "processing-time-source" : 97,
   "processing-result.title" : "anarcho_capitalism4_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism4_reddit.xml"

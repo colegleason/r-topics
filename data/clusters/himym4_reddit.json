@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1308,
+  "processing-time-total" : 1281,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1233,
+  "processing-time-algorithm" : 1205,
   "documents" : [ {
     "id" : 0,
     "title" : "Ted telling his kids inappropriate stories...",
@@ -440,7 +440,7 @@
     "snippet" : "  When did Sylvester Stallone make a cameo appearance?",
     "url" : "http://imgur.com/xPMJWYX"
   } ],
-  "processing-time-source" : 75,
+  "processing-time-source" : 76,
   "processing-result.title" : "himym4_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym4_reddit.xml"

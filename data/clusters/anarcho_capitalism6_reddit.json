@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1925,
+  "processing-time-total" : 2002,
   "clusters" : [ {
     "id" : 0,
     "size" : 6,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1835,
+  "processing-time-algorithm" : 1914,
   "documents" : [ {
     "id" : 0,
     "title" : "Run Your Family Like a Business",
@@ -436,7 +436,7 @@
     "snippet" : "   I have to run in a few minutes so I don't have time to find it and link, but there's a great interview with Tupac on Youtube somewhere where he makes a ton of connections between gangs and government, and specifically talked about the NATO bombings of Bosnia. [Found it.](http://www.youtube.com/watch?v=qm9dduejCmI)",
     "url" : "http://www.reddit.com/r/videos/comments/1879mm/good_cop_gets_fired_for_stopping_another_cop_who/"
   } ],
-  "processing-time-source" : 90,
+  "processing-time-source" : 88,
   "processing-result.title" : "anarcho_capitalism6_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism6_reddit.xml"

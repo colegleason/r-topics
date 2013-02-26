@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 998,
+  "processing-time-total" : 922,
   "clusters" : [ {
     "id" : 0,
     "size" : 9,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 922,
+  "processing-time-algorithm" : 839,
   "documents" : [ {
     "id" : 0,
     "title" : "Here's both images for a comparison of the face swap (Marshall and Ted)",
@@ -451,7 +451,7 @@
     "snippet" : "  Man, djtimwright really Britta'd that one. Are people using Britta to mean \"make a small mistake\"? DUH-doy! DUH-doy! Cool. Cool Cool Cool. Man, djtimwright really Britta'd that one.  what youtube video is that from? lets vote him/her up to top comment https://www.youtube.com/watch?v=SQbDg1LtnAY https://www.youtube.com/watch?v=SQbDg1LtnAY I don't know how you did it since you're not the OP but good job. i was gonna make an upvoting obama for such a random situation but then laziness happened so... fuck it have an upvote. Probably looked up one of their profiles in the right time frame what youtube video is that from? lets vote him/her up to top comment   Most likely, no one got the reference and just thought they messed up Barney's quote. thatsthejoke.jpg    I've done a few HIMYM references on other subreddits...they all fell flat.   That was lead and Jerry. - Young Barney Since small Barney and Jerry were talking about Led Zeppelin, I thought he said \"Led and Jerry\", which is a pretty good joke if it was on purpose. It was on purpose. It's a scripted TV show. It's on purpose. I realize that, but was small Barney scripted to actually say \"Led and Jerry\" or just mess up \"legendary\"? That's the question... It was scripted as \"Led and Jerry.\"  It was scripted. Since small Barney and Jerry were talking about Led Zeppelin, I thought he said \"Led and Jerry\", which is a pretty good joke if it was on purpose.   You are the assistant to the under secretary of only ok.        who else though the 1st comment \"how I banged every girl before ur mother\" was the funniest part of the post lol /r/im14andthisisfunny oh man, that's real.",
     "url" : "http://i.imgur.com/U7qO86V.png"
   } ],
-  "processing-time-source" : 76,
+  "processing-time-source" : 83,
   "processing-result.title" : "himym5_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym5_reddit.xml"

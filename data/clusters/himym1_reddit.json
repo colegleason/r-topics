@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1227,
+  "processing-time-total" : 1273,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1148,
+  "processing-time-algorithm" : 1170,
   "documents" : [ {
     "id" : 0,
     "title" : "Fact: It's always 4:20 in Marshall&amp;Lily's Apartment!",
@@ -440,7 +440,7 @@
     "snippet" : "I don't think we're going to find out Barney's job, last week he said, \"Some questions are just not meant to be answered [...] like where do I work?\", does this mean that we'll never find out?  I doubt they ever will tell. For the simple reason, that no answer they give will live up to the interesting mystery they've created.\n\nPersonally, I'm pretty sure he's a transponster.   ",
     "url" : "http://www.reddit.com/r/HIMYM/comments/18wtb5/some_questions_werent_meant_to_be_answered/"
   } ],
-  "processing-time-source" : 79,
+  "processing-time-source" : 103,
   "processing-result.title" : "himym1_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym1_reddit.xml"

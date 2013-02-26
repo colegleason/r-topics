@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1831,
+  "processing-time-total" : 1812,
   "clusters" : [ {
     "id" : 0,
     "size" : 6,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1740,
+  "processing-time-algorithm" : 1721,
   "documents" : [ {
     "id" : 0,
     "title" : "A couple more questions for you guys...",

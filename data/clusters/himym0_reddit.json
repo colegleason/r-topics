@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1064,
+  "processing-time-total" : 1056,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 993,
+  "processing-time-algorithm" : 984,
   "documents" : [ {
     "id" : 0,
     "title" : "RIP 2/25/2013",
@@ -444,7 +444,7 @@
     "snippet" : " ",
     "url" : "http://imgur.com/iiomSv6"
   } ],
-  "processing-time-source" : 71,
+  "processing-time-source" : 72,
   "processing-result.title" : "himym0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym0_reddit.xml"

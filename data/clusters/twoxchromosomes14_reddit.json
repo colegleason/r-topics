@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 1990,
+  "processing-time-total" : 2096,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
-    "score" : 44.534303263037046,
+    "score" : 33.76210773523565,
     "phrases" : [ "State" ],
     "documents" : [ 5, 8, 20, 24, 27, 28, 33, 37, 38, 43 ],
     "attributes" : {
-      "score" : 44.534303263037046
+      "score" : 33.76210773523565
     }
   }, {
     "id" : 1,
-    "size" : 8,
-    "score" : 46.86746378144978,
-    "phrases" : [ "Women's Rights" ],
-    "documents" : [ 0, 18, 24, 25, 34, 37, 40, 46 ],
+    "size" : 9,
+    "score" : 47.52047368208579,
+    "phrases" : [ "Sounds Like she Just wants Stuff" ],
+    "documents" : [ 0, 5, 16, 22, 34, 37, 38, 39, 46 ],
     "attributes" : {
-      "score" : 46.86746378144978
+      "score" : 47.52047368208579
     }
   }, {
     "id" : 2,
     "size" : 7,
-    "score" : 123.80494139156694,
+    "score" : 123.10921135104611,
     "phrases" : [ "Young Girl" ],
     "documents" : [ 0, 1, 4, 18, 34, 37, 46 ],
     "attributes" : {
-      "score" : 123.80494139156694
+      "score" : 123.10921135104611
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 52.04150064596705,
-    "phrases" : [ "IFF" ],
-    "documents" : [ 2, 3, 7, 11, 19, 21 ],
+    "score" : 46.652895371606846,
+    "phrases" : [ "Expect the Guy to Know" ],
+    "documents" : [ 5, 16, 34, 38, 39, 43 ],
     "attributes" : {
-      "score" : 52.04150064596705
+      "score" : 46.652895371606846
     }
   }, {
     "id" : 4,
     "size" : 6,
-    "score" : 53.78013815627364,
-    "phrases" : [ "Valentine's Day" ],
-    "documents" : [ 5, 12, 22, 24, 26, 43 ],
+    "score" : 49.10293808938744,
+    "phrases" : [ "IFF" ],
+    "documents" : [ 2, 3, 7, 11, 19, 21 ],
     "attributes" : {
-      "score" : 53.78013815627364
+      "score" : 49.10293808938744
     }
   }, {
     "id" : 5,
-    "size" : 5,
-    "score" : 63.72865213053692,
-    "phrases" : [ "Attention of a few Guys" ],
-    "documents" : [ 0, 5, 16, 20, 37 ],
+    "size" : 6,
+    "score" : 50.93092736832142,
+    "phrases" : [ "Valentine's Day" ],
+    "documents" : [ 5, 12, 22, 24, 26, 43 ],
     "attributes" : {
-      "score" : 63.72865213053692
+      "score" : 50.93092736832142
     }
   }, {
     "id" : 6,
     "size" : 5,
-    "score" : 35.338229732595266,
-    "phrases" : [ "Big of a Problem" ],
-    "documents" : [ 5, 24, 25, 34, 46 ],
-    "attributes" : {
-      "score" : 35.338229732595266
-    }
-  }, {
-    "id" : 7,
-    "size" : 5,
-    "score" : 62.126893985198905,
+    "score" : 63.16560289302754,
     "phrases" : [ "Making Jokes" ],
     "documents" : [ 0, 4, 12, 46, 49 ],
     "attributes" : {
-      "score" : 62.126893985198905
+      "score" : 63.16560289302754
+    }
+  }, {
+    "id" : 7,
+    "size" : 4,
+    "score" : 88.2340796886653,
+    "phrases" : [ "Pretty Awesome" ],
+    "documents" : [ 0, 22, 33, 34 ],
+    "attributes" : {
+      "score" : 88.2340796886653
     }
   }, {
     "id" : 8,
     "size" : 4,
-    "score" : 30.36922437667651,
-    "phrases" : [ "Inside" ],
-    "documents" : [ 0, 8, 11, 32 ],
+    "score" : 29.13818547890489,
+    "phrases" : [ "Saw" ],
+    "documents" : [ 0, 9, 17, 34 ],
     "attributes" : {
-      "score" : 30.36922437667651
+      "score" : 29.13818547890489
     }
   }, {
     "id" : 9,
     "size" : 4,
-    "score" : 30.10973608247511,
-    "phrases" : [ "Police" ],
-    "documents" : [ 16, 37, 38, 46 ],
+    "score" : 31.488340522216017,
+    "phrases" : [ "Stop all Contact" ],
+    "documents" : [ 0, 16, 23, 34 ],
     "attributes" : {
-      "score" : 30.10973608247511
+      "score" : 31.488340522216017
     }
   }, {
     "id" : 10,
-    "size" : 4,
-    "score" : 75.38211372739092,
-    "phrases" : [ "Pretty Awesome" ],
-    "documents" : [ 0, 22, 33, 34 ],
+    "size" : 3,
+    "score" : 48.31141111274562,
+    "phrases" : [ "Dad" ],
+    "documents" : [ 2, 10, 34 ],
     "attributes" : {
-      "score" : 75.38211372739092
+      "score" : 48.31141111274562
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 53.805099822980104,
-    "phrases" : [ "Dad" ],
-    "documents" : [ 2, 10, 34 ],
+    "score" : 42.86081186389344,
+    "phrases" : [ "Hug" ],
+    "documents" : [ 4, 8, 14 ],
     "attributes" : {
-      "score" : 53.805099822980104
+      "score" : 42.86081186389344
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 39.07109999059233,
-    "phrases" : [ "Hug" ],
-    "documents" : [ 4, 8, 14 ],
+    "score" : 26.467642128879476,
+    "phrases" : [ "Peace" ],
+    "documents" : [ 1, 5, 46 ],
     "attributes" : {
-      "score" : 39.07109999059233
+      "score" : 26.467642128879476
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 26.254560973520636,
-    "phrases" : [ "Pictures" ],
-    "documents" : [ 2, 34, 40 ],
+    "score" : 84.48980911344958,
+    "phrases" : [ "Single Mothers" ],
+    "documents" : [ 0, 13, 31 ],
     "attributes" : {
-      "score" : 26.254560973520636
+      "score" : 84.48980911344958
     }
   }, {
     "id" : 14,
     "size" : 3,
-    "score" : 88.71722079416696,
-    "phrases" : [ "Single Mothers" ],
-    "documents" : [ 0, 13, 31 ],
-    "attributes" : {
-      "score" : 88.71722079416696
-    }
-  }, {
-    "id" : 15,
-    "size" : 3,
-    "score" : 60.296213227847936,
+    "score" : 73.13938213768624,
     "phrases" : [ "Years of Wearing" ],
     "documents" : [ 4, 8, 34 ],
     "attributes" : {
-      "score" : 60.296213227847936
+      "score" : 73.13938213768624
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 80.38600268090237,
+    "phrases" : [ "Billion Rising" ],
+    "documents" : [ 24, 47 ],
+    "attributes" : {
+      "score" : 80.38600268090237
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 61.7228060052168,
-    "phrases" : [ "Billion Rising" ],
-    "documents" : [ 24, 47 ],
+    "score" : 86.59285342222782,
+    "phrases" : [ "Birth Control Pill" ],
+    "documents" : [ 30, 33 ],
     "attributes" : {
-      "score" : 61.7228060052168
+      "score" : 86.59285342222782
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 87.00386365391523,
-    "phrases" : [ "Birth Control Pill" ],
-    "documents" : [ 30, 33 ],
+    "score" : 51.341610426981156,
+    "phrases" : [ "Heart Attack" ],
+    "documents" : [ 12, 24 ],
     "attributes" : {
-      "score" : 87.00386365391523
+      "score" : 51.341610426981156
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 33.31510258586574,
-    "phrases" : [ "Having Recognized what you did and Wanting" ],
-    "documents" : [ 34, 43 ],
+    "score" : 34.61840947850551,
+    "phrases" : [ "Shoot" ],
+    "documents" : [ 15, 24 ],
     "attributes" : {
-      "score" : 33.31510258586574
+      "score" : 34.61840947850551
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 61.90870240645992,
-    "phrases" : [ "Heart Attack" ],
-    "documents" : [ 12, 24 ],
+    "score" : 36.94243382677262,
+    "phrases" : [ "Shop" ],
+    "documents" : [ 5, 11 ],
     "attributes" : {
-      "score" : 61.90870240645992
+      "score" : 36.94243382677262
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 35.39962448583639,
-    "phrases" : [ "Shoot" ],
-    "documents" : [ 15, 24 ],
+    "score" : 66.29948251042826,
+    "phrases" : [ "Team" ],
+    "documents" : [ 0, 6 ],
     "attributes" : {
-      "score" : 35.39962448583639
+      "score" : 66.29948251042826
     }
   }, {
     "id" : 21,
-    "size" : 13,
+    "size" : 11,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 6, 9, 17, 23, 29, 35, 36, 39, 41, 42, 44, 45, 48 ],
+    "documents" : [ 25, 29, 32, 35, 36, 40, 41, 42, 44, 45, 48 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1931,
+  "processing-time-algorithm" : 2001,
   "documents" : [ {
     "id" : 0,
     "title" : "The strangest attempted pickup I've ever seen",
@@ -448,9 +448,9 @@
     "snippet" : "Hi lovely ladies,\n\nI'm going to propose to my boyfriend this weekend. We've been joking about it for months, and we know we want to spend the rest of our lives together. We won't be able to have a big wedding for about five years (navy life, family issues, et cetera). I'm thinking I'll propose now and we can have a small ceremony, then in a few years have a bigass party when we can afford it. \n\n\nMy plan is to take him out for dessert on Sunday night and sneak it in there somewhere at our favourite restaurant. I need tips and advice and feedback from you beautiful creatures!  Have you actually had a real serious talk about getting married soon? Because a proposal should never be an actual surprise (except, you know, \"how are you going to do it\"). It shouldn't be out of left field. You should discuss discuss and discuss some more all of the details about being married  before you pop the question, and make sure it's wanted now instead of 5 years down the line, you know?\n\nAlso a public proposal is often not a good idea. I thought at first this said \"take him out to the desert\" at night which sounds really freaking romantic (yeah a little cold but, seriously, alone, at night, under the stars...)\n\nI would much prefer it to be an intimate moment shared between just me and my future partner than in a public setting. Make sure he's not planning on proposing first, too!! (my friend's parents did this actually. she proposed to him and after he said yes he took out his own ring... he was going to propose that night too!)\n\nI would say just discuss this and try to do it somewhere private and intimate with just the two of you instead of in public at a restaurant. You can go out to eat afterwards to celebrate but I think you could think of a more romantic and intimate setting I also 2nd the not a public proposal thing. I have no idea how comfortable he's going to be with a girl proposing in the first place (kinda making some assumptions since you mentioned the navy which is usually a bit more conservative/traditional) and even if he is a lot of people won't be.  Have you actually had a real serious talk about getting married soon? Because a proposal should never be an actual surprise (except, you know, \"how are you going to do it\"). It shouldn't be out of left field. You should discuss discuss and discuss some more all of the details about being married  before you pop the question, and make sure it's wanted now instead of 5 years down the line, you know?\n\nAlso a public proposal is often not a good idea. I thought at first this said \"take him out to the desert\" at night which sounds really freaking romantic (yeah a little cold but, seriously, alone, at night, under the stars...)\n\nI would much prefer it to be an intimate moment shared between just me and my future partner than in a public setting. Make sure he's not planning on proposing first, too!! (my friend's parents did this actually. she proposed to him and after he said yes he took out his own ring... he was going to propose that night too!)\n\nI would say just discuss this and try to do it somewhere private and intimate with just the two of you instead of in public at a restaurant. You can go out to eat afterwards to celebrate but I think you could think of a more romantic and intimate setting Yes, we absolutely have had real serious talks. We've also joked about eloping recently but the jokes have gotten less and less joke-y. I know he's not planning on proposing within the next year so I'm not worried about that (the reason he hasn't proposed yet is due to a timeframe I said would fit my comfort zone best). I do think you're right about the setting though. I might get dessert for pickup and then take him to the waterfront to watch the sunset.   ",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18k33x/im_proposing_to_my_boyfriend_this_weekend_tips/"
   } ],
-  "processing-time-source" : 59,
+  "processing-time-source" : 95,
   "processing-result.title" : "twoxchromosomes14_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes14_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes14_reddit.xml"
   }
 }

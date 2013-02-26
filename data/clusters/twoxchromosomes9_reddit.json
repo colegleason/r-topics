@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 1982,
+  "processing-time-total" : 1634,
   "clusters" : [ {
     "id" : 0,
-    "size" : 7,
-    "score" : 66.71580418204645,
-    "phrases" : [ "Book" ],
-    "documents" : [ 4, 14, 18, 32, 33, 35, 46 ],
+    "size" : 8,
+    "score" : 40.70950612126231,
+    "phrases" : [ "Married" ],
+    "documents" : [ 1, 8, 14, 15, 26, 33, 34, 42 ],
     "attributes" : {
-      "score" : 66.71580418204645
+      "score" : 40.70950612126231
     }
   }, {
     "id" : 1,
-    "size" : 6,
-    "score" : 50.53861902301166,
-    "phrases" : [ "Size" ],
-    "documents" : [ 14, 20, 25, 28, 39, 47 ],
+    "size" : 7,
+    "score" : 71.86326568156458,
+    "phrases" : [ "Book" ],
+    "documents" : [ 4, 14, 18, 32, 33, 35, 46 ],
     "attributes" : {
-      "score" : 50.53861902301166
+      "score" : 71.86326568156458
     }
   }, {
     "id" : 2,
-    "size" : 4,
-    "score" : 28.062762024995706,
-    "phrases" : [ "Dreams" ],
-    "documents" : [ 1, 15, 34, 46 ],
+    "size" : 6,
+    "score" : 61.43461355741371,
+    "phrases" : [ "Size" ],
+    "documents" : [ 14, 20, 25, 28, 39, 47 ],
     "attributes" : {
-      "score" : 28.062762024995706
+      "score" : 61.43461355741371
     }
   }, {
     "id" : 3,
-    "size" : 4,
-    "score" : 86.2609814862958,
-    "phrases" : [ "Rape" ],
-    "documents" : [ 12, 24, 37, 41 ],
+    "size" : 5,
+    "score" : 44.104377225486,
+    "phrases" : [ "Little Girl" ],
+    "documents" : [ 6, 21, 34, 43, 46 ],
     "attributes" : {
-      "score" : 86.2609814862958
+      "score" : 44.104377225486
     }
   }, {
     "id" : 4,
-    "size" : 3,
-    "score" : 42.102031245256846,
-    "phrases" : [ "Baby is now a Woman's Organ" ],
-    "documents" : [ 2, 5, 48 ],
+    "size" : 5,
+    "score" : 54.43424089396888,
+    "phrases" : [ "Pretty Normal" ],
+    "documents" : [ 5, 17, 23, 28, 45 ],
     "attributes" : {
-      "score" : 42.102031245256846
+      "score" : 54.43424089396888
     }
   }, {
     "id" : 5,
-    "size" : 3,
-    "score" : 48.477435695373394,
-    "phrases" : [ "Gender" ],
-    "documents" : [ 7, 32, 41 ],
+    "size" : 4,
+    "score" : 67.27237070408515,
+    "phrases" : [ "Rape" ],
+    "documents" : [ 12, 24, 37, 41 ],
     "attributes" : {
-      "score" : 48.477435695373394
+      "score" : 67.27237070408515
     }
   }, {
     "id" : 6,
-    "size" : 3,
-    "score" : 75.42468193284563,
-    "phrases" : [ "Hair Grows" ],
-    "documents" : [ 6, 27, 46 ],
+    "size" : 4,
+    "score" : 51.236418722749434,
+    "phrases" : [ "Sexual Comments" ],
+    "documents" : [ 16, 20, 37, 46 ],
     "attributes" : {
-      "score" : 75.42468193284563
+      "score" : 51.236418722749434
     }
   }, {
     "id" : 7,
     "size" : 3,
-    "score" : 43.28129653863193,
-    "phrases" : [ "Sad that your Friend" ],
-    "documents" : [ 21, 35, 41 ],
+    "score" : 75.84568174416457,
+    "phrases" : [ "Baby is now a Woman's Organ" ],
+    "documents" : [ 2, 5, 48 ],
     "attributes" : {
-      "score" : 43.28129653863193
+      "score" : 75.84568174416457
     }
   }, {
     "id" : 8,
-    "size" : 2,
-    "score" : 102.36224499779156,
-    "phrases" : [ "Abortion Clinic" ],
-    "documents" : [ 40, 48 ],
+    "size" : 3,
+    "score" : 77.90951986681259,
+    "phrases" : [ "Hair Grows" ],
+    "documents" : [ 6, 27, 46 ],
     "attributes" : {
-      "score" : 102.36224499779156
+      "score" : 77.90951986681259
     }
   }, {
     "id" : 9,
-    "size" : 2,
-    "score" : 41.56121901827258,
-    "phrases" : [ "Bras" ],
-    "documents" : [ 25, 28 ],
+    "size" : 3,
+    "score" : 21.26851772875152,
+    "phrases" : [ "School Early" ],
+    "documents" : [ 13, 15, 20 ],
     "attributes" : {
-      "score" : 41.56121901827258
+      "score" : 21.26851772875152
     }
   }, {
     "id" : 10,
-    "size" : 2,
-    "score" : 32.70692266869391,
-    "phrases" : [ "Daughter who is 5 Years Younger" ],
-    "documents" : [ 15, 46 ],
+    "size" : 3,
+    "score" : 51.35314291589683,
+    "phrases" : [ "Wear Makeup" ],
+    "documents" : [ 6, 13, 21 ],
     "attributes" : {
-      "score" : 32.70692266869391
+      "score" : 51.35314291589683
     }
   }, {
     "id" : 11,
     "size" : 2,
-    "score" : 51.347255177754604,
-    "phrases" : [ "Dumped" ],
-    "documents" : [ 0, 44 ],
+    "score" : 91.4182636363622,
+    "phrases" : [ "Abortion Clinic" ],
+    "documents" : [ 40, 48 ],
     "attributes" : {
-      "score" : 51.347255177754604
+      "score" : 91.4182636363622
     }
   }, {
     "id" : 12,
     "size" : 2,
-    "score" : 30.681695369734072,
-    "phrases" : [ "Entering" ],
-    "documents" : [ 43, 46 ],
+    "score" : 39.761363991222,
+    "phrases" : [ "Bras" ],
+    "documents" : [ 25, 28 ],
     "attributes" : {
-      "score" : 30.681695369734072
+      "score" : 39.761363991222
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 51.41215518066694,
-    "phrases" : [ "Entirely Changed my Period" ],
-    "documents" : [ 5, 28 ],
+    "score" : 42.300107426497824,
+    "phrases" : [ "Dumped" ],
+    "documents" : [ 0, 44 ],
     "attributes" : {
-      "score" : 51.41215518066694
+      "score" : 42.300107426497824
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 53.810928615324286,
-    "phrases" : [ "High School" ],
-    "documents" : [ 6, 28 ],
+    "score" : 62.267605459619794,
+    "phrases" : [ "Gym" ],
+    "documents" : [ 22, 28 ],
     "attributes" : {
-      "score" : 53.810928615324286
+      "score" : 62.267605459619794
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 58.56766375806782,
-    "phrases" : [ "Mother and Father" ],
-    "documents" : [ 37, 46 ],
+    "score" : 48.56761815750936,
+    "phrases" : [ "Mood Swings" ],
+    "documents" : [ 23, 28 ],
     "attributes" : {
-      "score" : 58.56766375806782
+      "score" : 48.56761815750936
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 46.88364608020143,
-    "phrases" : [ "Pain Tolerance" ],
-    "documents" : [ 28, 35 ],
+    "score" : 50.38360901016554,
+    "phrases" : [ "Mother and Father" ],
+    "documents" : [ 37, 46 ],
     "attributes" : {
-      "score" : 46.88364608020143
+      "score" : 50.38360901016554
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 68.41885137467196,
-    "phrases" : [ "Paragard IUD" ],
-    "documents" : [ 20, 28 ],
+    "score" : 47.7905000449585,
+    "phrases" : [ "Pain Tolerance is Pretty High" ],
+    "documents" : [ 28, 35 ],
     "attributes" : {
-      "score" : 68.41885137467196
+      "score" : 47.7905000449585
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 32.58098739896029,
-    "phrases" : [ "Quickly you Took" ],
-    "documents" : [ 6, 9 ],
+    "score" : 72.94015799147859,
+    "phrases" : [ "Paragard IUD" ],
+    "documents" : [ 20, 28 ],
     "attributes" : {
-      "score" : 32.58098739896029
+      "score" : 72.94015799147859
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 67.15122612743187,
-    "phrases" : [ "Wedding Plans" ],
-    "documents" : [ 14, 31 ],
+    "score" : 42.00659716073229,
+    "phrases" : [ "Sign with Defined Rules you Expect" ],
+    "documents" : [ 5, 19 ],
     "attributes" : {
-      "score" : 67.15122612743187
+      "score" : 42.00659716073229
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 44.785888109094444,
-    "phrases" : [ "Women only Gym" ],
-    "documents" : [ 22, 28 ],
+    "score" : 64.22441598934795,
+    "phrases" : [ "Wedding Plans" ],
+    "documents" : [ 14, 31 ],
     "attributes" : {
-      "score" : 44.785888109094444
+      "score" : 64.22441598934795
     }
   }, {
     "id" : 21,
-    "size" : 17,
+    "size" : 10,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 3, 8, 10, 11, 13, 16, 17, 19, 23, 26, 29, 30, 36, 38, 42, 45, 49 ],
+    "documents" : [ 3, 7, 9, 10, 11, 29, 30, 36, 38, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1924,
+  "processing-time-algorithm" : 1551,
   "documents" : [ {
     "id" : 0,
     "title" : "Dumped. Ex has a new squeeze. Would love some support, thank you in advance.",
@@ -449,9 +449,9 @@
     "snippet" : "So I know that there's been discussions about this on 2X before, but I couldn't find a thread that really went over all the options with all the pros and cons.\n\nI've had a copper IUD for the last...18 months-ish? I got it checked for the first time in ~a year today, an the doctor said it had moved, wasn't protecting me anymore, and had to be taken out.\n\nNow I've got some questions.\n\n1. Is it true that I should be worried about pregnancy now? I tried to do some research and it looks like it's not really a risk unless it's, like, all the way out.\n\n2. I'm considering changing for two reasons-- first, because the strings were poking my partner (I know that's a silly reason), and two, because it hurt SO MUCH the first time i got it inserted, and I'm scared of doing it again (...also kinda silly).\n\nSo, what do you use? What did you use before? What are the pros and cons? I'd love to hear.  Crap, I am due for an annual. Thanks for the reminder.\n\nDid she do an ultrasound? Unless it's poking out, thats really the only way to tell where it is. I'd use a backup method just in case, it can't hurt.\n\nI have a mirena - did you notice anything off about it? I worry about mine moving but my strings have stayed put for over 6 months, would love to know if you had any 'symptoms'!   I've been on the copper IUD for the exact same amount of time. From what I understand,\n\n1. Yes. Even though the copper can act as a spermicide itself, you have the most protection when it's in place where it should be. I second curlyzz's suggestion to get an ultrasound, just to be completely sure where it is.\n\n2. The IUD is great, but like any other BC, it's not for everyone. I can completely understand your apprehension on getting another one inserted...the surgery to get mine in place was some of the worse pain I've ever felt in my life (never given childbirth, granted). I would talk to your gyno/doctor to see which choice is best for you. [deleted]",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18u59k/iud_moved_out_of_place_considering_changing_bc/"
   } ],
-  "processing-time-source" : 58,
+  "processing-time-source" : 83,
   "processing-result.title" : "twoxchromosomes9_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes9_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes9_reddit.xml"
   }
 }

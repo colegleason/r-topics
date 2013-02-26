@@ -1,197 +1,197 @@
 {
-  "processing-time-total" : 2330,
+  "processing-time-total" : 2235,
   "clusters" : [ {
     "id" : 0,
-    "size" : 8,
-    "score" : 46.385939973436216,
-    "phrases" : [ "Friend Family" ],
-    "documents" : [ 4, 23, 30, 34, 36, 38, 44, 45 ],
+    "size" : 13,
+    "score" : 38.85400461971148,
+    "phrases" : [ "Woman" ],
+    "documents" : [ 4, 5, 8, 10, 16, 26, 30, 31, 36, 39, 40, 43, 47 ],
     "attributes" : {
-      "score" : 46.385939973436216
+      "score" : 38.85400461971148
     }
   }, {
     "id" : 1,
     "size" : 6,
-    "score" : 73.99730595832229,
+    "score" : 70.54025059873658,
     "phrases" : [ "Birth Control" ],
     "documents" : [ 4, 5, 17, 37, 38, 49 ],
     "attributes" : {
-      "score" : 73.99730595832229
+      "score" : 70.54025059873658
     }
   }, {
     "id" : 2,
-    "size" : 5,
-    "score" : 75.39947957556575,
-    "phrases" : [ "Basically no Money" ],
-    "documents" : [ 5, 29, 30, 34, 36 ],
+    "size" : 6,
+    "score" : 61.00402875099381,
+    "phrases" : [ "Periods where you may not be Able" ],
+    "documents" : [ 2, 4, 5, 11, 30, 44 ],
     "attributes" : {
-      "score" : 75.39947957556575
+      "score" : 61.00402875099381
     }
   }, {
     "id" : 3,
-    "size" : 4,
-    "score" : 38.05243010589383,
-    "phrases" : [ "Baby" ],
-    "documents" : [ 8, 11, 27, 49 ],
+    "size" : 6,
+    "score" : 24.506608435411703,
+    "phrases" : [ "Save Money" ],
+    "documents" : [ 5, 7, 23, 30, 36, 44 ],
     "attributes" : {
-      "score" : 38.05243010589383
+      "score" : 24.506608435411703
     }
   }, {
     "id" : 4,
-    "size" : 4,
-    "score" : 35.56337707639104,
-    "phrases" : [ "Mean that he Wanted to Rape" ],
-    "documents" : [ 4, 10, 18, 40 ],
+    "size" : 5,
+    "score" : 64.19128389226171,
+    "phrases" : [ "Basically no Money" ],
+    "documents" : [ 5, 29, 30, 34, 36 ],
     "attributes" : {
-      "score" : 35.56337707639104
+      "score" : 64.19128389226171
     }
   }, {
     "id" : 5,
-    "size" : 3,
-    "score" : 44.75666129122892,
-    "phrases" : [ "Applied for the Job" ],
-    "documents" : [ 4, 22, 29 ],
+    "size" : 5,
+    "score" : 75.2344929217169,
+    "phrases" : [ "Blood Test" ],
+    "documents" : [ 2, 5, 31, 38, 44 ],
     "attributes" : {
-      "score" : 44.75666129122892
+      "score" : 75.2344929217169
     }
   }, {
     "id" : 6,
-    "size" : 3,
-    "score" : 100.64600008235527,
-    "phrases" : [ "Cute Dresses" ],
-    "documents" : [ 4, 6, 36 ],
+    "size" : 4,
+    "score" : 37.05184764259058,
+    "phrases" : [ "Just Mean that he Wanted to Rape" ],
+    "documents" : [ 4, 10, 18, 40 ],
     "attributes" : {
-      "score" : 100.64600008235527
+      "score" : 37.05184764259058
     }
   }, {
     "id" : 7,
-    "size" : 3,
-    "score" : 30.257404991327082,
-    "phrases" : [ "Lean" ],
-    "documents" : [ 18, 31, 46 ],
+    "size" : 4,
+    "score" : 36.102722649358775,
+    "phrases" : [ "Ready to Stop" ],
+    "documents" : [ 8, 34, 44, 49 ],
     "attributes" : {
-      "score" : 30.257404991327082
+      "score" : 36.102722649358775
     }
   }, {
     "id" : 8,
     "size" : 3,
-    "score" : 87.72870545108165,
-    "phrases" : [ "Panic Attacks" ],
-    "documents" : [ 11, 36, 45 ],
+    "score" : 34.402521068359235,
+    "phrases" : [ "Condoms" ],
+    "documents" : [ 5, 9, 49 ],
     "attributes" : {
-      "score" : 87.72870545108165
+      "score" : 34.402521068359235
     }
   }, {
     "id" : 9,
     "size" : 3,
-    "score" : 113.45691179247282,
-    "phrases" : [ "Wedding Day" ],
-    "documents" : [ 23, 30, 36 ],
+    "score" : 39.61123166178952,
+    "phrases" : [ "Movement" ],
+    "documents" : [ 18, 46, 49 ],
     "attributes" : {
-      "score" : 113.45691179247282
+      "score" : 39.61123166178952
     }
   }, {
     "id" : 10,
-    "size" : 2,
-    "score" : 41.523538075701886,
-    "phrases" : [ "Abusing Women" ],
-    "documents" : [ 40, 43 ],
+    "size" : 3,
+    "score" : 90.02924196475962,
+    "phrases" : [ "Panic Attacks" ],
+    "documents" : [ 11, 36, 45 ],
     "attributes" : {
-      "score" : 41.523538075701886
+      "score" : 90.02924196475962
     }
   }, {
     "id" : 11,
-    "size" : 2,
-    "score" : 45.79355230321435,
-    "phrases" : [ "Cheating" ],
-    "documents" : [ 25, 43 ],
+    "size" : 3,
+    "score" : 100.88085040658993,
+    "phrases" : [ "Wedding Day" ],
+    "documents" : [ 23, 30, 36 ],
     "attributes" : {
-      "score" : 45.79355230321435
+      "score" : 100.88085040658993
     }
   }, {
     "id" : 12,
     "size" : 2,
-    "score" : 44.122915207064324,
-    "phrases" : [ "Disney" ],
-    "documents" : [ 6, 22 ],
+    "score" : 63.25542135412033,
+    "phrases" : [ "Abusing Women" ],
+    "documents" : [ 40, 43 ],
     "attributes" : {
-      "score" : 44.122915207064324
+      "score" : 63.25542135412033
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 75.59928389604643,
-    "phrases" : [ "Lighter Jeans can be Worn" ],
-    "documents" : [ 4, 21 ],
+    "score" : 54.10192149039272,
+    "phrases" : [ "Cheating" ],
+    "documents" : [ 25, 43 ],
     "attributes" : {
-      "score" : 75.59928389604643
+      "score" : 54.10192149039272
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 50.01659658337015,
-    "phrases" : [ "Minor Cramps" ],
-    "documents" : [ 1, 3 ],
+    "score" : 50.7684084854064,
+    "phrases" : [ "Dad Died" ],
+    "documents" : [ 23, 29 ],
     "attributes" : {
-      "score" : 50.01659658337015
+      "score" : 50.7684084854064
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 47.278636069046826,
-    "phrases" : [ "Planned Parenthood" ],
-    "documents" : [ 5, 9 ],
+    "score" : 45.72968084489204,
+    "phrases" : [ "Disney" ],
+    "documents" : [ 6, 22 ],
     "attributes" : {
-      "score" : 47.278636069046826
+      "score" : 45.72968084489204
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 118.46619531735013,
-    "phrases" : [ "Red Hair" ],
-    "documents" : [ 4, 36 ],
+    "score" : 45.026447119884054,
+    "phrases" : [ "Ive" ],
+    "documents" : [ 14, 19 ],
     "attributes" : {
-      "score" : 118.46619531735013
+      "score" : 45.026447119884054
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 46.575886950678296,
-    "phrases" : [ "Satire" ],
-    "documents" : [ 28, 40 ],
+    "score" : 68.0355211244647,
+    "phrases" : [ "Lighter Jeans can be Worn" ],
+    "documents" : [ 4, 21 ],
     "attributes" : {
-      "score" : 46.575886950678296
+      "score" : 68.0355211244647
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 50.44114207312679,
-    "phrases" : [ "Vagina" ],
-    "documents" : [ 8, 20 ],
+    "score" : 115.47022760614557,
+    "phrases" : [ "Red Hair" ],
+    "documents" : [ 4, 36 ],
     "attributes" : {
-      "score" : 50.44114207312679
+      "score" : 115.47022760614557
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 53.19720341127721,
-    "phrases" : [ "Woman can't get to her Feet" ],
-    "documents" : [ 4, 26 ],
+    "score" : 37.48275867817775,
+    "phrases" : [ "Satire" ],
+    "documents" : [ 28, 40 ],
     "attributes" : {
-      "score" : 53.19720341127721
+      "score" : 37.48275867817775
     }
   }, {
     "id" : 20,
-    "size" : 18,
+    "size" : 15,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 0, 2, 7, 12, 13, 14, 15, 16, 19, 24, 32, 33, 35, 39, 41, 42, 47, 48 ],
+    "documents" : [ 0, 1, 3, 12, 13, 15, 20, 24, 27, 32, 33, 35, 41, 42, 48 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2268,
+  "processing-time-algorithm" : 2146,
   "documents" : [ {
     "id" : 0,
     "title" : "I need help with my hair!!!",
@@ -440,9 +440,9 @@
     "snippet" : "So I stopped taking my birth control pill about a week ago because of some new symptoms I had been having after taking the same pill for about 8 years. My boyfriend was very supportive of the whole thing and never made me feel like I had to keep taking it, it was totally my decision. The thing is that he is totally opposed to having PIV sex when I am not on the pill. We have talked about it a lot and since he really does not trust condoms after a pretty serious mishap with a previous gf, I understand where he is coming from and we both don't want any kids for a couple years so this is really the only way to guarantee that. \n\nThe thing that worries me is that we have been having sex for 3 years now and we have never really done a lot of sexual things besides sex. We have done all the standard oral, fingering and a little bit of anal (but it's not really something either of us is super into). None of that stuff has ever been the main event though, which is why I am asking for suggestions on everything except for PIV sex. He loves blowjobs and I like giving them so it's not really him I'm worried about but I am thinking more about my own satisfaction (which is why I am asking all of you wonderful ladies). So give me all your best ideas I am interested to try anything!     Do you plan on going on hormonal birth control again soon or is this a long-term solution? I'm thinking about 3-6 months. I have another appointment with my gyno in three months to talk about it again.   Have you tried toys? \n\nFrom my own experience there's nothing quite like PIV so you may find your relationship changes. I'm curious as to what mishap gave him such a fear of just using condoms - I used them for a few years with no problems - is he afraid you're going to turkey-baste yourself preggers?! Your only other option is to try a non-hormonal contraceptive device. We haven't tried toys and it seems like there are so many options I don't really know where to start. \n\nHim and his ex had a condom break while they were in college and she ended up getting pregnant. They were both freshman so neither of them was ready for a baby and she got an abortion. The whole experience was pretty traumatic for him since he went to catholic school his whole life and never thought it would be him in that situation. While he is much more open to the pro choice movement now that he has experienced it he still just does not want to go through it again.  Surely the morning after pill (which does cause cause abortion but prevents pregnancy in the first place) would be ok should the condom break? I don't know, it could be a pretty big hormonal hit for you though.",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/196tj2/looking_for_some_non_sex_sex_suggestions/"
   } ],
-  "processing-time-source" : 62,
+  "processing-time-source" : 89,
   "processing-result.title" : "twoxchromosomes1_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes1_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes1_reddit.xml"
   }
 }

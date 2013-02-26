@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 2869,
+  "processing-time-total" : 2807,
   "clusters" : [ {
     "id" : 0,
     "size" : 12,
-    "score" : 47.544228483833976,
+    "score" : 46.707123692094356,
     "phrases" : [ "Period" ],
     "documents" : [ 0, 1, 5, 9, 11, 12, 19, 21, 26, 27, 40, 47 ],
     "attributes" : {
-      "score" : 47.544228483833976
+      "score" : 46.707123692094356
     }
   }, {
     "id" : 1,
     "size" : 11,
-    "score" : 39.94156921480115,
+    "score" : 40.24426626339255,
     "phrases" : [ "Amazing" ],
     "documents" : [ 5, 11, 21, 26, 27, 28, 30, 32, 38, 41, 46 ],
     "attributes" : {
-      "score" : 39.94156921480115
+      "score" : 40.24426626339255
     }
   }, {
     "id" : 2,
-    "size" : 7,
-    "score" : 36.57611968913653,
-    "phrases" : [ "Direct" ],
-    "documents" : [ 12, 19, 36, 42, 43, 44, 47 ],
+    "size" : 6,
+    "score" : 39.90736410034727,
+    "phrases" : [ "Ground" ],
+    "documents" : [ 0, 10, 14, 19, 33, 37 ],
     "attributes" : {
-      "score" : 36.57611968913653
+      "score" : 39.90736410034727
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 47.24171526622492,
-    "phrases" : [ "Play" ],
-    "documents" : [ 8, 10, 19, 23, 26, 48 ],
+    "score" : 26.31877602361144,
+    "phrases" : [ "Love and Respect" ],
+    "documents" : [ 13, 22, 41, 42, 44, 46 ],
     "attributes" : {
-      "score" : 47.24171526622492
+      "score" : 26.31877602361144
     }
   }, {
     "id" : 4,
-    "size" : 5,
-    "score" : 50.90341420735304,
-    "phrases" : [ "Abuse" ],
-    "documents" : [ 2, 10, 15, 41, 42 ],
+    "size" : 6,
+    "score" : 34.503246473610865,
+    "phrases" : [ "Play" ],
+    "documents" : [ 8, 10, 19, 23, 26, 48 ],
     "attributes" : {
-      "score" : 50.90341420735304
+      "score" : 34.503246473610865
     }
   }, {
     "id" : 5,
     "size" : 5,
-    "score" : 81.84986514640869,
-    "phrases" : [ "Healthy Weight" ],
-    "documents" : [ 5, 13, 26, 27, 47 ],
+    "score" : 71.7611276237007,
+    "phrases" : [ "Fat People" ],
+    "documents" : [ 13, 19, 26, 36, 47 ],
     "attributes" : {
-      "score" : 81.84986514640869
+      "score" : 71.7611276237007
     }
   }, {
     "id" : 6,
-    "size" : 4,
-    "score" : 40.37939729110751,
-    "phrases" : [ "Boyfriends Girlfriends" ],
-    "documents" : [ 11, 26, 35, 39 ],
+    "size" : 5,
+    "score" : 56.22401369357848,
+    "phrases" : [ "Healthy Weight" ],
+    "documents" : [ 5, 13, 26, 27, 47 ],
     "attributes" : {
-      "score" : 40.37939729110751
+      "score" : 56.22401369357848
     }
   }, {
     "id" : 7,
-    "size" : 4,
-    "score" : 26.699491580202796,
-    "phrases" : [ "Step" ],
-    "documents" : [ 0, 18, 19, 42 ],
+    "size" : 5,
+    "score" : 47.248312207904014,
+    "phrases" : [ "Sexual Partners" ],
+    "documents" : [ 4, 7, 9, 24, 41 ],
     "attributes" : {
-      "score" : 26.699491580202796
+      "score" : 47.248312207904014
     }
   }, {
     "id" : 8,
-    "size" : 4,
-    "score" : 47.499564072071585,
-    "phrases" : [ "Woman's Breasts" ],
-    "documents" : [ 4, 19, 28, 47 ],
+    "size" : 5,
+    "score" : 39.8236031948157,
+    "phrases" : [ "Women Unless" ],
+    "documents" : [ 10, 19, 24, 40, 47 ],
     "attributes" : {
-      "score" : 47.499564072071585
+      "score" : 39.8236031948157
     }
   }, {
     "id" : 9,
-    "size" : 3,
-    "score" : 54.72466326048504,
-    "phrases" : [ "Abortion" ],
-    "documents" : [ 12, 17, 28 ],
+    "size" : 4,
+    "score" : 45.9051740587617,
+    "phrases" : [ "Birth Control" ],
+    "documents" : [ 6, 11, 21, 28 ],
     "attributes" : {
-      "score" : 54.72466326048504
+      "score" : 45.9051740587617
     }
   }, {
     "id" : 10,
-    "size" : 3,
-    "score" : 38.82322549759649,
-    "phrases" : [ "Abusive Relationship" ],
-    "documents" : [ 2, 15, 41 ],
+    "size" : 4,
+    "score" : 33.29991318282013,
+    "phrases" : [ "Step" ],
+    "documents" : [ 0, 18, 19, 42 ],
     "attributes" : {
-      "score" : 38.82322549759649
+      "score" : 33.29991318282013
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 37.81902219743791,
-    "phrases" : [ "Memories" ],
-    "documents" : [ 1, 10, 34 ],
+    "score" : 43.14093627920017,
+    "phrases" : [ "Abortion" ],
+    "documents" : [ 12, 17, 28 ],
     "attributes" : {
-      "score" : 37.81902219743791
+      "score" : 43.14093627920017
     }
   }, {
     "id" : 12,
-    "size" : 2,
-    "score" : 66.48276267264623,
-    "phrases" : [ "Cyst" ],
-    "documents" : [ 6, 7 ],
+    "size" : 3,
+    "score" : 48.90424318923107,
+    "phrases" : [ "Abusive Relationship" ],
+    "documents" : [ 2, 15, 41 ],
     "attributes" : {
-      "score" : 66.48276267264623
+      "score" : 48.90424318923107
     }
   }, {
     "id" : 13,
-    "size" : 2,
-    "score" : 72.03232324632754,
-    "phrases" : [ "Damage your Hair" ],
-    "documents" : [ 31, 46 ],
+    "size" : 3,
+    "score" : 41.574591371007486,
+    "phrases" : [ "Memories" ],
+    "documents" : [ 1, 10, 34 ],
     "attributes" : {
-      "score" : 72.03232324632754
+      "score" : 41.574591371007486
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 45.541335307118146,
-    "phrases" : [ "Hooks" ],
-    "documents" : [ 14, 22 ],
+    "score" : 32.557172910239025,
+    "phrases" : [ "Damage your Hair" ],
+    "documents" : [ 31, 46 ],
     "attributes" : {
-      "score" : 45.541335307118146
+      "score" : 32.557172910239025
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 46.709682856615444,
-    "phrases" : [ "Horse" ],
-    "documents" : [ 3, 19 ],
+    "score" : 50.647637159859464,
+    "phrases" : [ "Hooks" ],
+    "documents" : [ 14, 22 ],
     "attributes" : {
-      "score" : 46.709682856615444
+      "score" : 50.647637159859464
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 37.3502791211131,
-    "phrases" : [ "Minimum Wage" ],
-    "documents" : [ 0, 36 ],
+    "score" : 62.312829460388016,
+    "phrases" : [ "Just an Ugly Scar" ],
+    "documents" : [ 7, 24 ],
     "attributes" : {
-      "score" : 37.3502791211131
+      "score" : 62.312829460388016
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 72.94140527614512,
+    "score" : 73.52148418265809,
     "phrases" : [ "Pill Anymore" ],
     "documents" : [ 11, 16 ],
     "attributes" : {
-      "score" : 72.94140527614512
+      "score" : 73.52148418265809
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 34.89372071588739,
-    "phrases" : [ "Separate" ],
-    "documents" : [ 10, 25 ],
+    "score" : 43.83448519332141,
+    "phrases" : [ "Relationship with him while he was Carrying" ],
+    "documents" : [ 11, 35 ],
     "attributes" : {
-      "score" : 34.89372071588739
+      "score" : 43.83448519332141
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 81.6683554333385,
-    "phrases" : [ "Ugly Scar" ],
-    "documents" : [ 7, 24 ],
+    "score" : 34.710483590570725,
+    "phrases" : [ "Skype" ],
+    "documents" : [ 20, 24 ],
     "attributes" : {
-      "score" : 81.6683554333385
+      "score" : 34.710483590570725
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 93.1466263558241,
+    "score" : 92.14857127699744,
     "phrases" : [ "Visibly Tattooed" ],
     "documents" : [ 4, 46 ],
     "attributes" : {
-      "score" : 93.1466263558241
+      "score" : 92.14857127699744
     }
   }, {
     "id" : 21,
-    "size" : 6,
+    "size" : 7,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 20, 29, 33, 37, 45, 49 ],
+    "documents" : [ 3, 25, 29, 39, 43, 45, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2804,
+  "processing-time-algorithm" : 2709,
   "documents" : [ {
     "id" : 0,
     "title" : "If I haven't gotten my career off the ground by the time I'm 30, am I shit outta luck?",
@@ -451,9 +451,9 @@
     "snippet" : "   You are absolutely stunning...\n\n...AND proper trigger discipline to boot.  Am I out of line for maybe wanting a NSFW tag on this post? It's a beautiful photo and everything but.. you know.. ass.   Reminds me a lot of this campaign - http://fashiongonerogue.com/cintia-dicker-allures-in-wildfoxs-swim-2013-campaign/ \n\nGL with modelling! It can be pretty awesome.        ",
     "url" : "http://i.imgur.com/6KgSdYx.jpg"
   } ],
-  "processing-time-source" : 65,
+  "processing-time-source" : 98,
   "processing-result.title" : "twoxchromosomes12_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes12_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes12_reddit.xml"
   }
 }

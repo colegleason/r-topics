@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 2529,
+  "processing-time-total" : 2012,
   "clusters" : [ {
     "id" : 0,
-    "size" : 9,
-    "score" : 40.788156711188954,
-    "phrases" : [ "Period" ],
-    "documents" : [ 6, 16, 26, 32, 33, 37, 40, 43, 46 ],
+    "size" : 10,
+    "score" : 69.37795204986433,
+    "phrases" : [ "Girl Friends" ],
+    "documents" : [ 5, 22, 25, 27, 30, 34, 43, 45, 47, 48 ],
     "attributes" : {
-      "score" : 40.788156711188954
+      "score" : 69.37795204986433
     }
   }, {
     "id" : 1,
-    "size" : 6,
-    "score" : 85.53685693801957,
-    "phrases" : [ "Happy V-day" ],
-    "documents" : [ 7, 25, 33, 34, 38, 42 ],
+    "size" : 9,
+    "score" : 24.571269494020815,
+    "phrases" : [ "Just Didn't Think about how I Look" ],
+    "documents" : [ 2, 11, 27, 29, 32, 34, 47, 48, 49 ],
     "attributes" : {
-      "score" : 85.53685693801957
+      "score" : 24.571269494020815
     }
   }, {
     "id" : 2,
     "size" : 6,
-    "score" : 109.71395007670505,
-    "phrases" : [ "New Name" ],
-    "documents" : [ 29, 32, 39, 42, 43, 47 ],
+    "score" : 88.55308967311154,
+    "phrases" : [ "Happy V-day" ],
+    "documents" : [ 7, 25, 33, 34, 38, 42 ],
     "attributes" : {
-      "score" : 109.71395007670505
+      "score" : 88.55308967311154
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 35.58728430658222,
-    "phrases" : [ "Old People Love Love" ],
-    "documents" : [ 22, 27, 29, 42, 43, 47 ],
+    "score" : 96.58459835718182,
+    "phrases" : [ "New Name" ],
+    "documents" : [ 29, 32, 39, 42, 43, 47 ],
     "attributes" : {
-      "score" : 35.58728430658222
+      "score" : 96.58459835718182
     }
   }, {
     "id" : 4,
     "size" : 5,
-    "score" : 71.16739878800136,
+    "score" : 48.173305540891796,
     "phrases" : [ "Ask the Question" ],
     "documents" : [ 8, 22, 37, 39, 43 ],
     "attributes" : {
-      "score" : 71.16739878800136
+      "score" : 48.173305540891796
     }
   }, {
     "id" : 5,
     "size" : 5,
-    "score" : 39.48267383511106,
-    "phrases" : [ "Girl Hate" ],
-    "documents" : [ 18, 27, 43, 47, 48 ],
+    "score" : 69.25057380513407,
+    "phrases" : [ "Look Forward" ],
+    "documents" : [ 7, 11, 27, 32, 33 ],
     "attributes" : {
-      "score" : 39.48267383511106
+      "score" : 69.25057380513407
     }
   }, {
     "id" : 6,
     "size" : 5,
-    "score" : 82.65266228809101,
-    "phrases" : [ "Look Forward" ],
-    "documents" : [ 7, 11, 27, 32, 33 ],
+    "score" : 47.30266690679285,
+    "phrases" : [ "People in the Comments for that Post" ],
+    "documents" : [ 13, 25, 27, 32, 37 ],
     "attributes" : {
-      "score" : 82.65266228809101
+      "score" : 47.30266690679285
     }
   }, {
     "id" : 7,
     "size" : 5,
-    "score" : 89.98256378178706,
+    "score" : 97.39469410949825,
     "phrases" : [ "Valentine's Day Gifts" ],
     "documents" : [ 1, 7, 32, 34, 42 ],
     "attributes" : {
-      "score" : 89.98256378178706
+      "score" : 97.39469410949825
     }
   }, {
     "id" : 8,
     "size" : 4,
-    "score" : 28.152752539714267,
-    "phrases" : [ "Dad Told" ],
-    "documents" : [ 27, 29, 40, 43 ],
+    "score" : 65.10429053938344,
+    "phrases" : [ "Flowers" ],
+    "documents" : [ 3, 7, 34, 42 ],
     "attributes" : {
-      "score" : 28.152752539714267
+      "score" : 65.10429053938344
     }
   }, {
     "id" : 9,
     "size" : 4,
-    "score" : 53.53391732179576,
-    "phrases" : [ "Flowers" ],
-    "documents" : [ 3, 7, 34, 42 ],
+    "score" : 64.0730757337331,
+    "phrases" : [ "Gaining Weight" ],
+    "documents" : [ 6, 27, 43, 49 ],
     "attributes" : {
-      "score" : 53.53391732179576
+      "score" : 64.0730757337331
     }
   }, {
     "id" : 10,
     "size" : 4,
-    "score" : 61.24068372185052,
-    "phrases" : [ "Gaining Weight" ],
-    "documents" : [ 6, 27, 43, 49 ],
+    "score" : 38.84649446077915,
+    "phrases" : [ "Great Valentine's Day" ],
+    "documents" : [ 32, 33, 34, 36 ],
     "attributes" : {
-      "score" : 61.24068372185052
+      "score" : 38.84649446077915
     }
   }, {
     "id" : 11,
     "size" : 4,
-    "score" : 72.43094435626986,
-    "phrases" : [ "Great Valentine's Day" ],
-    "documents" : [ 32, 33, 34, 36 ],
+    "score" : 71.68669401748325,
+    "phrases" : [ "Little Gifts" ],
+    "documents" : [ 32, 34, 42, 47 ],
     "attributes" : {
-      "score" : 72.43094435626986
+      "score" : 71.68669401748325
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 80.04255779455346,
+    "score" : 90.24784993571299,
     "phrases" : [ "Applying for Jobs" ],
     "documents" : [ 11, 27, 43 ],
     "attributes" : {
-      "score" : 80.04255779455346
+      "score" : 90.24784993571299
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 65.45802450757397,
-    "phrases" : [ "Right to Judge" ],
-    "documents" : [ 16, 22, 27 ],
+    "score" : 61.15460371922356,
+    "phrases" : [ "Boobs" ],
+    "documents" : [ 16, 26, 43 ],
     "attributes" : {
-      "score" : 65.45802450757397
+      "score" : 61.15460371922356
     }
   }, {
     "id" : 14,
-    "size" : 2,
-    "score" : 59.13246574758042,
-    "phrases" : [ "Black" ],
-    "documents" : [ 12, 43 ],
+    "size" : 3,
+    "score" : 39.099610902765555,
+    "phrases" : [ "Rewards" ],
+    "documents" : [ 9, 11, 18 ],
     "attributes" : {
-      "score" : 59.13246574758042
+      "score" : 39.099610902765555
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 54.21550416715329,
-    "phrases" : [ "Football" ],
-    "documents" : [ 0, 24 ],
+    "score" : 37.22682119862071,
+    "phrases" : [ "Balloons" ],
+    "documents" : [ 1, 43 ],
     "attributes" : {
-      "score" : 54.21550416715329
+      "score" : 37.22682119862071
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 47.999813158776476,
-    "phrases" : [ "Fun that lets me Relax" ],
-    "documents" : [ 19, 47 ],
+    "score" : 68.81307415979244,
+    "phrases" : [ "Dude that won't Judge" ],
+    "documents" : [ 22, 27 ],
     "attributes" : {
-      "score" : 47.999813158776476
+      "score" : 68.81307415979244
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 42.72950468516563,
-    "phrases" : [ "Global" ],
-    "documents" : [ 10, 23 ],
+    "score" : 54.26191008823186,
+    "phrases" : [ "Football" ],
+    "documents" : [ 0, 24 ],
     "attributes" : {
-      "score" : 42.72950468516563
+      "score" : 54.26191008823186
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 38.74653508831266,
-    "phrases" : [ "Husband Noticed" ],
-    "documents" : [ 27, 34 ],
+    "score" : 38.79503625487379,
+    "phrases" : [ "Look at the Fat" ],
+    "documents" : [ 6, 27 ],
     "attributes" : {
-      "score" : 38.74653508831266
+      "score" : 38.79503625487379
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 36.92851364125919,
-    "phrases" : [ "Pill for eleven Months" ],
-    "documents" : [ 32, 43 ],
+    "score" : 48.83972267608078,
+    "phrases" : [ "Months and I Missed" ],
+    "documents" : [ 5, 32 ],
     "attributes" : {
-      "score" : 36.92851364125919
+      "score" : 48.83972267608078
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 95.52366509767604,
+    "score" : 97.6509069702811,
     "phrases" : [ "Plan on Getting an Abortion" ],
     "documents" : [ 14, 43 ],
     "attributes" : {
-      "score" : 95.52366509767604
+      "score" : 97.6509069702811
     }
   }, {
     "id" : 21,
     "size" : 16,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 2, 4, 5, 9, 13, 15, 17, 20, 21, 28, 30, 31, 35, 41, 44, 45 ],
+    "documents" : [ 4, 10, 12, 15, 17, 19, 20, 21, 23, 28, 31, 35, 40, 41, 44, 46 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2476,
+  "processing-time-algorithm" : 1926,
   "documents" : [ {
     "id" : 0,
     "title" : "'More than able to hold her own,' girl gets boot from Catholic football league",
@@ -449,9 +449,9 @@
     "snippet" : "  That type of psychological abuse she mentions is very similar to my high school track coach ran practice. He would make you run until many of us had passed out or vomited during workouts. He would also say that we were doing more sets of whatever than he intended us to do so it would look like he was letting us off easy. He told stories about one kid who would run a mile vom behind a tree (point to the tree the kid used to vomit near), go back to the track and keep running like it was some sort of thing to aspire to. It's sort of Stockholm Syndrome but for coaching. \n\nThe dehydration thing is something rowers and boxers do frequently but to a lesser degree of severity to meet weight ranges. I remember having cut weight (see: didn't eat enough fucking food) myself at one point to meet the weight test for the girls pole vault pole that the school owned. \n\nThe way they treated the lady with the doctor's note reminded me a lot of my own career of injuries that I kept playing on. I tore a muscle so bad I couldn't walk and wound up in the ER after practice and was on crutches for 2 weeks. I went back to running right after that, because pole vaulting dammit. I also broke my toe (unrelated dumbass award), pulled my achilles tendons from over training to the point of not being able to walk and went to the ER during class, and got horrible shin splints. If I wasn't on crutches for it, I was running on it. I also had pretty bad environmental asthma and would pass out every time we did a gauntlet. \n\nMy legs are just now fully recovering at 22, almost 23 from some of these shitty injuries I got. All of which could have been avoided by not overtraining and being more aware of \"if it hurts slow down/stop, don't power through\". Now I think I finally have a healthy outlook on exercise, I bike a lot, walk everywhere (city dweller), do yoga and bodyweight strength exercises at my own pace. \n\nIf they're ripping people up like that, especially if they have no prior fitness training... they're fucking them up for decades, particularly if they're older. It's really fucking irresponsible. \n\nTL;DR: I am triggered with fist shaking rage.   Not only is Biggest Loser bad for the contestants, it's bad for people.  Contestants get angry if they only lose like five pounds one week or lose like 20lbs in one week.  This is completely unrealistic for most people and very unhealthy.  Permanent weight loss is better at a slow and steady pace for around 0.5-2lbs per week.  Also, the BL also promotes unhealthy and expensive processed food that are necessary for weight loss.  \n\nThat being said, I like Jillian Michaels when she's not on BL.  She has a great podcast and really helps people address the emotional issues of weight loss.  I belong to her website (because she has great meal plans and my RD kept trying to sell me this like MEDIFAST diet) and she has daily journals where you are supposed to write about your day, etc.  And there are also worksheets that help you address your issues (if you're like me, you probably have a ton) that might be associated with your weight.  Plus her workouts kick my booty.   The trainers are encouraging it, the film crew is filming it, the editors are editing it. How do you get so many shitty people into one place at once? Reality TV, it's a shitty blackhole that sucks in shitty people to form a shitty singularity. [I liked your quote so much I glamorized it.](http://i.imgur.com/3ofiBhI.jpg)   It's very disturbing and disgusting how they warp body image and glamorize unhealthy weight loss. Not to mention practically *torturing* people. I'm all for people wanting to be healthy but honestly, weight loss doesn't work and in the long run you'll probably put on more weight than what you started with. It's a big sham by diet companies and it really saddens me. I don't know how anyone can call TBL \"reality\".  &gt;weight loss doesn't work and in the long run you'll probably put on more weight than what you started with\n\nThis isn't really correct. *Dieting*, especially fad dieting, will make you almost invariably gain weight back. If you just \"diet\" and don't actually move to a healthier lifestyle, you'll gain the weight back. As *soon* as you stop the diet, you tend to revert back to your normal lifestyle and obviously gain weight at the same rate you did before. If your weight was at a plateau before, then you are more likely to not gain it back. \n\nHowever, this only applies to *dieting*. Weight loss can and will \"stick\", it honestly just depends on how far you go with it. Most studies I've heard pretty much say just that: fad dieting, normal dieting, etc. just doesn't work. That does *not* mean that weight loss does not work. \n\nDiets don't require a lifestyle change. More often than not, you just change *what* you're eating. The best, healthiest way to take in less excess calories through food is by lessening your portion sizes and varying the type of food you eat. \n\nFad diets, and indeed most diets in general, completely ignore this. That is why they don't work. If you lose weight from dieting, and you were gaining weight before dieting, you're going to gain the weight back as soon as you go back to the diet you had before. Simple as that. However, if you adjust your portion sizes (to **healthy** sizes, not small sizes) and start changing what types of foods you eat, your health will improve, and if you do it for long enough, you'll probably lose a good amount of weight. And because you lost that weight due to a gradual, healthy change in your lifestyle, you're likely to keep it off. \n\nThis isn't taking into account exercise, which will obviously burn calories and does (in varying degrees) improve your metabolism. Because this conversation should be about health and not about weight, though, exercise is vital to your physical well-being. If you're going to diet to replace an exercise regime, don't just diet harder! Increase your activeness. \"Take the stairs!\" is really tired advice, but it exemplifies a part of weight loss that a lot of people just don't seem to take seriously. \n\nOur bodies are very malleable. It is very possible to lose weight and not gain it back. It takes some effort, but that shouldn't make people feel like it's out of reach, and literally saying \"weight loss doesn't work\" is misleading and adds to a lot of the confusion surrounding weight loss. I'm sure you've heard this a hundred times, but while the body is a complex thing, you can boil down weight gain to \"the amount of excess calories consumed is directly proportional to the amount of calories stored\" and \"the amount of calories burned is inversely proportional to the amount of calories stored.\"  &gt;you just change what you're eating\n\n&gt;lessening your portion sizes and varying the type of food you eat.\n\nI don't understand what you're saying. A diet can be all of these things.\n\n&gt;If you just \"diet\" and don't actually move to a healthier lifestyle\n\nYou're presenting a false dilema I think darklettermen is using the word *diet* in a way that means \"temporary, finite, eating plan for losing weight\" and the phrase *lifestyle change* in a way that means \"making your eating habits healthier for the rest of your life to lose weight and keep it off\". &gt;you just change what you're eating\n\n&gt;lessening your portion sizes and varying the type of food you eat.\n\nI don't understand what you're saying. A diet can be all of these things.\n\n&gt;If you just \"diet\" and don't actually move to a healthier lifestyle\n\nYou're presenting a false dilema It's very disturbing and disgusting how they warp body image and glamorize unhealthy weight loss. Not to mention practically *torturing* people. I'm all for people wanting to be healthy but honestly, weight loss doesn't work and in the long run you'll probably put on more weight than what you started with. It's a big sham by diet companies and it really saddens me. I don't know how anyone can call TBL \"reality\".    Someone did an [AMA a while back](http://www.reddit.com/r/IAmA/comments/zakkz/i_ama_former_biggest_loser_contestant_who_would/) about his experience on the Biggest Loser. He enjoyed his experience and would do it again. \n\n\nThere seems to be mixed feeling towards the show. It's a quick way to loose weight, but not the way to live. If you read the AMA, he says they did 6 hours of exercise a day, and the contestants controlled their diet and usually ate around 1500 calories a day. He also denies any dehydration rumors.",
     "url" : "http://www.bodylovewellness.com/2010/06/23/kai-hibbard-biggest-loser-finalist-part-3-of-3/"
   } ],
-  "processing-time-source" : 53,
+  "processing-time-source" : 86,
   "processing-result.title" : "twoxchromosomes15_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes15_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes15_reddit.xml"
   }
 }

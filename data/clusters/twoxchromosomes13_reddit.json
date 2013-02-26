@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 1962,
+  "processing-time-total" : 1510,
   "clusters" : [ {
     "id" : 0,
-    "size" : 9,
-    "score" : 46.134307620101275,
-    "phrases" : [ "Wait Wait" ],
-    "documents" : [ 7, 15, 19, 21, 32, 35, 36, 39, 46 ],
+    "size" : 11,
+    "score" : 36.17370241679004,
+    "phrases" : [ "Girls" ],
+    "documents" : [ 0, 13, 15, 25, 26, 31, 32, 33, 39, 44, 48 ],
     "attributes" : {
-      "score" : 46.134307620101275
+      "score" : 36.17370241679004
     }
   }, {
     "id" : 1,
-    "size" : 8,
-    "score" : 42.64760681706691,
-    "phrases" : [ "Hate" ],
-    "documents" : [ 6, 11, 17, 26, 30, 36, 39, 45 ],
+    "size" : 7,
+    "score" : 40.16974870559554,
+    "phrases" : [ "Deleted Deleted" ],
+    "documents" : [ 7, 12, 18, 29, 30, 32, 44 ],
     "attributes" : {
-      "score" : 42.64760681706691
+      "score" : 40.16974870559554
     }
   }, {
     "id" : 2,
     "size" : 7,
-    "score" : 67.92831004736601,
+    "score" : 60.326276563019235,
     "phrases" : [ "Looks Great" ],
     "documents" : [ 11, 14, 26, 27, 30, 32, 46 ],
     "attributes" : {
-      "score" : 67.92831004736601
+      "score" : 60.326276563019235
     }
   }, {
     "id" : 3,
     "size" : 5,
-    "score" : 43.91987892840624,
-    "phrases" : [ "Sucks that you're Having" ],
-    "documents" : [ 0, 12, 26, 30, 39 ],
+    "score" : 42.425371311353636,
+    "phrases" : [ "Stuff Like" ],
+    "documents" : [ 11, 30, 36, 39, 46 ],
     "attributes" : {
-      "score" : 43.91987892840624
+      "score" : 42.425371311353636
     }
   }, {
     "id" : 4,
     "size" : 4,
-    "score" : 73.00866404983063,
+    "score" : 82.91802794783848,
     "phrases" : [ "Explain" ],
     "documents" : [ 0, 20, 26, 39 ],
     "attributes" : {
-      "score" : 73.00866404983063
+      "score" : 82.91802794783848
     }
   }, {
     "id" : 5,
     "size" : 4,
-    "score" : 61.03141166872685,
-    "phrases" : [ "Ring" ],
-    "documents" : [ 19, 21, 23, 27 ],
+    "score" : 48.06364134964178,
+    "phrases" : [ "Husband" ],
+    "documents" : [ 12, 23, 37, 46 ],
     "attributes" : {
-      "score" : 61.03141166872685
+      "score" : 48.06364134964178
     }
   }, {
     "id" : 6,
     "size" : 4,
-    "score" : 83.47310751449643,
-    "phrases" : [ "Valentine's Day" ],
-    "documents" : [ 11, 22, 37, 41 ],
+    "score" : 62.694457759636784,
+    "phrases" : [ "Ring" ],
+    "documents" : [ 19, 21, 23, 27 ],
     "attributes" : {
-      "score" : 83.47310751449643
+      "score" : 62.694457759636784
     }
   }, {
     "id" : 7,
-    "size" : 3,
-    "score" : 40.64447794510215,
-    "phrases" : [ "Family that could take Perfect" ],
-    "documents" : [ 3, 26, 46 ],
+    "size" : 4,
+    "score" : 98.88147601978919,
+    "phrases" : [ "Valentine's Day" ],
+    "documents" : [ 11, 22, 37, 41 ],
     "attributes" : {
-      "score" : 40.64447794510215
+      "score" : 98.88147601978919
     }
   }, {
     "id" : 8,
     "size" : 3,
-    "score" : 51.642085340976614,
-    "phrases" : [ "Silly" ],
-    "documents" : [ 18, 24, 26 ],
+    "score" : 48.126372483395556,
+    "phrases" : [ "Black" ],
+    "documents" : [ 10, 16, 39 ],
     "attributes" : {
-      "score" : 51.642085340976614
+      "score" : 48.126372483395556
     }
   }, {
     "id" : 9,
     "size" : 3,
-    "score" : 71.96008836599916,
-    "phrases" : [ "Stranger on the Internet" ],
-    "documents" : [ 7, 25, 27 ],
+    "score" : 36.36676755144542,
+    "phrases" : [ "Draw" ],
+    "documents" : [ 4, 27, 39 ],
     "attributes" : {
-      "score" : 71.96008836599916
+      "score" : 36.36676755144542
     }
   }, {
     "id" : 10,
-    "size" : 2,
-    "score" : 65.94116078789145,
-    "phrases" : [ "Beer" ],
-    "documents" : [ 17, 22 ],
+    "size" : 3,
+    "score" : 48.180013684288475,
+    "phrases" : [ "Family that could take Perfect" ],
+    "documents" : [ 3, 26, 46 ],
     "attributes" : {
-      "score" : 65.94116078789145
+      "score" : 48.180013684288475
     }
   }, {
     "id" : 11,
-    "size" : 2,
-    "score" : 87.32264364015568,
-    "phrases" : [ "Canada" ],
-    "documents" : [ 35, 43 ],
+    "size" : 3,
+    "score" : 44.05258615776991,
+    "phrases" : [ "Silly" ],
+    "documents" : [ 18, 24, 26 ],
     "attributes" : {
-      "score" : 87.32264364015568
+      "score" : 44.05258615776991
     }
   }, {
     "id" : 12,
-    "size" : 2,
-    "score" : 59.74910280861069,
-    "phrases" : [ "Co-workers" ],
-    "documents" : [ 5, 39 ],
+    "size" : 3,
+    "score" : 49.825094473538776,
+    "phrases" : [ "Stranger on the Internet" ],
+    "documents" : [ 7, 25, 27 ],
     "attributes" : {
-      "score" : 59.74910280861069
+      "score" : 49.825094473538776
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 126.28154604784436,
-    "phrases" : [ "Diva Cup" ],
-    "documents" : [ 14, 35 ],
+    "score" : 61.532706039045095,
+    "phrases" : [ "Beer" ],
+    "documents" : [ 17, 22 ],
     "attributes" : {
-      "score" : 126.28154604784436
+      "score" : 61.532706039045095
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 41.044612302845735,
-    "phrases" : [ "Fat" ],
-    "documents" : [ 31, 32 ],
+    "score" : 52.27924122855877,
+    "phrases" : [ "Chose" ],
+    "documents" : [ 40, 46 ],
     "attributes" : {
-      "score" : 41.044612302845735
+      "score" : 52.27924122855877
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 77.13642004680625,
-    "phrases" : [ "Painting" ],
-    "documents" : [ 13, 34 ],
+    "score" : 105.26404957659662,
+    "phrases" : [ "Diva Cup" ],
+    "documents" : [ 14, 35 ],
     "attributes" : {
-      "score" : 77.13642004680625
+      "score" : 105.26404957659662
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 37.79941133333788,
-    "phrases" : [ "Rape" ],
-    "documents" : [ 7, 44 ],
+    "score" : 71.2593415572824,
+    "phrases" : [ "Force Attraction" ],
+    "documents" : [ 32, 44 ],
     "attributes" : {
-      "score" : 37.79941133333788
+      "score" : 71.2593415572824
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 37.91219011100699,
-    "phrases" : [ "Romantic Relationship" ],
-    "documents" : [ 11, 32 ],
+    "score" : 71.48792156845626,
+    "phrases" : [ "Painting" ],
+    "documents" : [ 13, 34 ],
     "attributes" : {
-      "score" : 37.91219011100699
+      "score" : 71.48792156845626
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 59.32040648897751,
-    "phrases" : [ "Significant" ],
-    "documents" : [ 8, 26 ],
+    "score" : 39.12700504351067,
+    "phrases" : [ "Rape" ],
+    "documents" : [ 7, 44 ],
     "attributes" : {
-      "score" : 59.32040648897751
+      "score" : 39.12700504351067
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 66.85004728703721,
+    "score" : 68.3798727122693,
     "phrases" : [ "Wife" ],
     "documents" : [ 12, 47 ],
     "attributes" : {
-      "score" : 66.85004728703721
+      "score" : 68.3798727122693
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 61.82017709629021,
+    "score" : 72.65418548472826,
     "phrases" : [ "Women in General" ],
     "documents" : [ 39, 45 ],
     "attributes" : {
-      "score" : 61.82017709629021
+      "score" : 72.65418548472826
     }
   }, {
     "id" : 21,
-    "size" : 14,
+    "size" : 11,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 2, 4, 9, 10, 16, 28, 29, 33, 38, 40, 42, 48, 49 ],
+    "documents" : [ 1, 2, 5, 6, 8, 9, 28, 38, 42, 43, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1913,
+  "processing-time-algorithm" : 1351,
   "documents" : [ {
     "id" : 0,
     "title" : "Some \"friends\" called me condescending among other things that really stung. Could I get some advice?",
@@ -449,9 +449,9 @@
     "snippet" : "  ",
     "url" : "http://www.wired.com/underwire/2013/02/opinion-star-wars-females-media/"
   } ],
-  "processing-time-source" : 49,
+  "processing-time-source" : 159,
   "processing-result.title" : "twoxchromosomes13_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes13_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes13_reddit.xml"
   }
 }

@@ -1,206 +1,197 @@
 {
-  "processing-time-total" : 2983,
+  "processing-time-total" : 3245,
   "clusters" : [ {
     "id" : 0,
-    "size" : 9,
-    "score" : 48.56051572018392,
-    "phrases" : [ "Stop Abusing" ],
-    "documents" : [ 8, 9, 10, 12, 18, 19, 25, 26, 29 ],
-    "attributes" : {
-      "score" : 48.56051572018392
-    }
-  }, {
-    "id" : 1,
     "size" : 8,
-    "score" : 75.64965500842567,
+    "score" : 60.14563676268587,
     "phrases" : [ "Amazing" ],
     "documents" : [ 3, 7, 8, 13, 26, 32, 45, 47 ],
     "attributes" : {
-      "score" : 75.64965500842567
+      "score" : 60.14563676268587
+    }
+  }, {
+    "id" : 1,
+    "size" : 5,
+    "score" : 59.13096636331443,
+    "phrases" : [ "Dating this Girl" ],
+    "documents" : [ 2, 21, 25, 26, 37 ],
+    "attributes" : {
+      "score" : 59.13096636331443
     }
   }, {
     "id" : 2,
-    "size" : 8,
-    "score" : 33.93960652544783,
-    "phrases" : [ "Mean that you can't Talk to Women" ],
-    "documents" : [ 1, 2, 3, 8, 9, 26, 32, 37 ],
+    "size" : 5,
+    "score" : 48.487551100100546,
+    "phrases" : [ "Just Meant" ],
+    "documents" : [ 2, 3, 9, 26, 37 ],
     "attributes" : {
-      "score" : 33.93960652544783
+      "score" : 48.487551100100546
     }
   }, {
     "id" : 3,
     "size" : 5,
-    "score" : 61.71308845312798,
-    "phrases" : [ "Child Support" ],
-    "documents" : [ 2, 13, 18, 21, 29 ],
+    "score" : 35.562351566275474,
+    "phrases" : [ "Pursue" ],
+    "documents" : [ 2, 19, 26, 37, 41 ],
     "attributes" : {
-      "score" : 61.71308845312798
+      "score" : 35.562351566275474
     }
   }, {
     "id" : 4,
     "size" : 5,
-    "score" : 44.90791047184693,
-    "phrases" : [ "Emotional Kind" ],
-    "documents" : [ 2, 3, 9, 10, 26 ],
+    "score" : 31.33469994242158,
+    "phrases" : [ "UPDATE" ],
+    "documents" : [ 7, 8, 9, 10, 25 ],
     "attributes" : {
-      "score" : 44.90791047184693
+      "score" : 31.33469994242158
     }
   }, {
     "id" : 5,
     "size" : 5,
-    "score" : 30.188104289425688,
-    "phrases" : [ "Kids should not Live with their Mother" ],
-    "documents" : [ 2, 12, 13, 21, 37 ],
+    "score" : 67.47546013019569,
+    "phrases" : [ "Young Women" ],
+    "documents" : [ 1, 2, 4, 9, 37 ],
     "attributes" : {
-      "score" : 30.188104289425688
+      "score" : 67.47546013019569
     }
   }, {
     "id" : 6,
-    "size" : 5,
-    "score" : 24.126915703515735,
-    "phrases" : [ "Married to the Father" ],
-    "documents" : [ 2, 9, 13, 29, 37 ],
+    "size" : 4,
+    "score" : 94.59107507006861,
+    "phrases" : [ "Birth Control" ],
+    "documents" : [ 2, 4, 43, 48 ],
     "attributes" : {
-      "score" : 24.126915703515735
+      "score" : 94.59107507006861
     }
   }, {
     "id" : 7,
     "size" : 4,
-    "score" : 82.24804717372832,
-    "phrases" : [ "Birth Control" ],
-    "documents" : [ 2, 4, 43, 48 ],
+    "score" : 30.23082669155778,
+    "phrases" : [ "Previous Relationship" ],
+    "documents" : [ 3, 21, 29, 37 ],
     "attributes" : {
-      "score" : 82.24804717372832
+      "score" : 30.23082669155778
     }
   }, {
     "id" : 8,
     "size" : 4,
-    "score" : 27.77299783781608,
-    "phrases" : [ "Previous Relationship" ],
-    "documents" : [ 3, 21, 29, 37 ],
+    "score" : 64.96042441267922,
+    "phrases" : [ "Smell" ],
+    "documents" : [ 17, 21, 24, 38 ],
     "attributes" : {
-      "score" : 27.77299783781608
+      "score" : 64.96042441267922
     }
   }, {
     "id" : 9,
     "size" : 4,
-    "score" : 68.0918565330131,
-    "phrases" : [ "Smell" ],
-    "documents" : [ 17, 21, 24, 38 ],
+    "score" : 68.87826502074789,
+    "phrases" : [ "Supportive Community" ],
+    "documents" : [ 8, 13, 22, 37 ],
     "attributes" : {
-      "score" : 68.0918565330131
+      "score" : 68.87826502074789
     }
   }, {
     "id" : 10,
     "size" : 3,
-    "score" : 43.0227263957297,
+    "score" : 43.50346930895439,
     "phrases" : [ "IUD" ],
     "documents" : [ 2, 4, 5 ],
     "attributes" : {
-      "score" : 43.0227263957297
+      "score" : 43.50346930895439
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 55.06051716097231,
-    "phrases" : [ "Posts in most other Subreddits" ],
-    "documents" : [ 26, 33, 37 ],
+    "score" : 43.92016615986652,
+    "phrases" : [ "Photos" ],
+    "documents" : [ 12, 20, 33 ],
     "attributes" : {
-      "score" : 55.06051716097231
+      "score" : 43.92016615986652
     }
   }, {
     "id" : 12,
-    "size" : 2,
-    "score" : 121.19882701255247,
-    "phrases" : [ "Boobs Song" ],
-    "documents" : [ 16, 30 ],
+    "size" : 3,
+    "score" : 38.03646009806792,
+    "phrases" : [ "Sexual Assault" ],
+    "documents" : [ 6, 12, 14 ],
     "attributes" : {
-      "score" : 121.19882701255247
+      "score" : 38.03646009806792
     }
   }, {
     "id" : 13,
-    "size" : 2,
-    "score" : 57.4362809100029,
-    "phrases" : [ "Concert" ],
-    "documents" : [ 31, 49 ],
+    "size" : 3,
+    "score" : 36.48304953449605,
+    "phrases" : [ "Willing to go to Marriage Counseling" ],
+    "documents" : [ 18, 21, 29 ],
     "attributes" : {
-      "score" : 57.4362809100029
+      "score" : 36.48304953449605
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 47.73940299187841,
-    "phrases" : [ "Energy" ],
-    "documents" : [ 8, 36 ],
+    "score" : 107.26705683467434,
+    "phrases" : [ "Boobs Song" ],
+    "documents" : [ 16, 30 ],
     "attributes" : {
-      "score" : 47.73940299187841
+      "score" : 107.26705683467434
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 58.10170025263562,
-    "phrases" : [ "Keen on Dating" ],
-    "documents" : [ 2, 37 ],
+    "score" : 55.56639529660767,
+    "phrases" : [ "Concert" ],
+    "documents" : [ 31, 49 ],
     "attributes" : {
-      "score" : 58.10170025263562
+      "score" : 55.56639529660767
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 70.04875893902754,
-    "phrases" : [ "Music Video" ],
-    "documents" : [ 11, 26 ],
+    "score" : 47.66261206708635,
+    "phrases" : [ "Energy" ],
+    "documents" : [ 8, 36 ],
     "attributes" : {
-      "score" : 70.04875893902754
+      "score" : 47.66261206708635
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 35.541354433163555,
-    "phrases" : [ "Professional Clothes" ],
-    "documents" : [ 8, 21 ],
+    "score" : 40.8777813141759,
+    "phrases" : [ "Music Video" ],
+    "documents" : [ 11, 26 ],
     "attributes" : {
-      "score" : 35.541354433163555
+      "score" : 40.8777813141759
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 33.58271314253217,
-    "phrases" : [ "UNC" ],
-    "documents" : [ 6, 14 ],
+    "score" : 30.965567146214127,
+    "phrases" : [ "Professional Clothes" ],
+    "documents" : [ 8, 21 ],
     "attributes" : {
-      "score" : 33.58271314253217
+      "score" : 30.965567146214127
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 28.302076727413738,
-    "phrases" : [ "University Feels about Rape by Referring" ],
-    "documents" : [ 6, 12 ],
-    "attributes" : {
-      "score" : 28.302076727413738
-    }
-  }, {
-    "id" : 20,
-    "size" : 2,
-    "score" : 67.03214531940738,
+    "score" : 67.59603713561924,
     "phrases" : [ "Work Friend Regardless of Gender" ],
     "documents" : [ 32, 37 ],
     "attributes" : {
-      "score" : 67.03214531940738
+      "score" : 67.59603713561924
     }
   }, {
-    "id" : 21,
-    "size" : 15,
+    "id" : 20,
+    "size" : 12,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 0, 15, 20, 22, 23, 27, 28, 34, 35, 39, 40, 41, 42, 44, 46 ],
+    "documents" : [ 0, 15, 23, 27, 28, 34, 35, 39, 40, 42, 44, 46 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2924,
+  "processing-time-algorithm" : 3147,
   "documents" : [ {
     "id" : 0,
     "title" : "I just accepted a job that makes me the first female winemaker in my state!",
@@ -451,9 +442,9 @@
     "snippet" : "I'm going to my very first concert at The House of Blues ! I am going to see the band Imagine Dragons. I am a almost 18 year old girl and I don't know what to wear. In terms of comfort and durability, any concert going veterans have some tips ?         ",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/1986xn/what_should_i_wear_to_my_very_first_concert/"
   } ],
-  "processing-time-source" : 59,
+  "processing-time-source" : 98,
   "processing-result.title" : "twoxchromosomes0_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes0_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes0_reddit.xml"
   }
 }

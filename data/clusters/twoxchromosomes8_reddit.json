@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 3123,
+  "processing-time-total" : 2663,
   "clusters" : [ {
     "id" : 0,
     "size" : 6,
-    "score" : 48.27838401456857,
-    "phrases" : [ "Organ" ],
-    "documents" : [ 9, 11, 15, 17, 39, 46 ],
+    "score" : 46.620579449425584,
+    "phrases" : [ "Taking the Car" ],
+    "documents" : [ 7, 11, 16, 17, 33, 35 ],
     "attributes" : {
-      "score" : 48.27838401456857
+      "score" : 46.620579449425584
     }
   }, {
     "id" : 1,
     "size" : 5,
-    "score" : 40.229967872897646,
-    "phrases" : [ "Confident" ],
-    "documents" : [ 7, 17, 28, 40, 48 ],
+    "score" : 47.03994379004714,
+    "phrases" : [ "Mother Died" ],
+    "documents" : [ 1, 5, 35, 39, 41 ],
     "attributes" : {
-      "score" : 40.229967872897646
+      "score" : 47.03994379004714
     }
   }, {
     "id" : 2,
     "size" : 5,
-    "score" : 59.938255106571035,
-    "phrases" : [ "Friends List" ],
-    "documents" : [ 9, 17, 29, 35, 46 ],
+    "score" : 66.33558363256779,
+    "phrases" : [ "Sex Drive" ],
+    "documents" : [ 0, 11, 12, 14, 46 ],
     "attributes" : {
-      "score" : 59.938255106571035
+      "score" : 66.33558363256779
     }
   }, {
     "id" : 3,
     "size" : 5,
-    "score" : 63.81625288359085,
-    "phrases" : [ "Mother Died" ],
-    "documents" : [ 1, 5, 35, 39, 41 ],
-    "attributes" : {
-      "score" : 63.81625288359085
-    }
-  }, {
-    "id" : 4,
-    "size" : 5,
-    "score" : 32.44974569644731,
-    "phrases" : [ "Rape" ],
-    "documents" : [ 11, 20, 45, 46, 49 ],
-    "attributes" : {
-      "score" : 32.44974569644731
-    }
-  }, {
-    "id" : 5,
-    "size" : 5,
-    "score" : 57.04399257350236,
-    "phrases" : [ "Sex Drive" ],
-    "documents" : [ 0, 11, 12, 14, 46 ],
-    "attributes" : {
-      "score" : 57.04399257350236
-    }
-  }, {
-    "id" : 6,
-    "size" : 5,
-    "score" : 37.96997018580437,
+    "score" : 64.44794650418784,
     "phrases" : [ "Young Women" ],
     "documents" : [ 9, 11, 17, 26, 34 ],
     "attributes" : {
-      "score" : 37.96997018580437
+      "score" : 64.44794650418784
+    }
+  }, {
+    "id" : 4,
+    "size" : 4,
+    "score" : 82.02442534139381,
+    "phrases" : [ "Awful Cramps" ],
+    "documents" : [ 0, 36, 37, 47 ],
+    "attributes" : {
+      "score" : 82.02442534139381
+    }
+  }, {
+    "id" : 5,
+    "size" : 4,
+    "score" : 117.96608842828415,
+    "phrases" : [ "Heavy Periods" ],
+    "documents" : [ 10, 21, 37, 47 ],
+    "attributes" : {
+      "score" : 117.96608842828415
+    }
+  }, {
+    "id" : 6,
+    "size" : 4,
+    "score" : 57.18333303583532,
+    "phrases" : [ "Hits" ],
+    "documents" : [ 3, 7, 11, 40 ],
+    "attributes" : {
+      "score" : 57.18333303583532
     }
   }, {
     "id" : 7,
     "size" : 4,
-    "score" : 90.50584707933116,
-    "phrases" : [ "Awful Cramps" ],
-    "documents" : [ 0, 36, 37, 47 ],
+    "score" : 54.893760406563416,
+    "phrases" : [ "National" ],
+    "documents" : [ 13, 17, 34, 45 ],
     "attributes" : {
-      "score" : 90.50584707933116
+      "score" : 54.893760406563416
     }
   }, {
     "id" : 8,
     "size" : 4,
-    "score" : 121.71629682790348,
-    "phrases" : [ "Heavy Periods" ],
-    "documents" : [ 10, 21, 37, 47 ],
+    "score" : 65.25927964069923,
+    "phrases" : [ "Really Think Facebook" ],
+    "documents" : [ 7, 9, 17, 46 ],
     "attributes" : {
-      "score" : 121.71629682790348
+      "score" : 65.25927964069923
     }
   }, {
     "id" : 9,
     "size" : 4,
-    "score" : 61.515645101823424,
-    "phrases" : [ "Hits" ],
-    "documents" : [ 3, 7, 11, 40 ],
+    "score" : 51.54274688759474,
+    "phrases" : [ "Room" ],
+    "documents" : [ 8, 16, 26, 34 ],
     "attributes" : {
-      "score" : 61.515645101823424
+      "score" : 51.54274688759474
     }
   }, {
     "id" : 10,
     "size" : 4,
-    "score" : 50.12782836898195,
-    "phrases" : [ "Room" ],
-    "documents" : [ 8, 16, 26, 34 ],
+    "score" : 57.04787218797174,
+    "phrases" : [ "Size" ],
+    "documents" : [ 21, 28, 32, 39 ],
     "attributes" : {
-      "score" : 50.12782836898195
+      "score" : 57.04787218797174
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 86.47867464593723,
-    "phrases" : [ "Abortion Clinic" ],
-    "documents" : [ 11, 34, 39 ],
+    "score" : 85.66979453477522,
+    "phrases" : [ "Good at STEM" ],
+    "documents" : [ 17, 21, 48 ],
     "attributes" : {
-      "score" : 86.47867464593723
+      "score" : 85.66979453477522
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 41.376645156111906,
-    "phrases" : [ "Girl can Pull" ],
-    "documents" : [ 17, 28, 35 ],
+    "score" : 31.244948387021154,
+    "phrases" : [ "Hot" ],
+    "documents" : [ 0, 15, 18 ],
     "attributes" : {
-      "score" : 41.376645156111906
+      "score" : 31.244948387021154
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 39.70887618904572,
-    "phrases" : [ "Hot" ],
-    "documents" : [ 0, 15, 18 ],
-    "attributes" : {
-      "score" : 39.70887618904572
-    }
-  }, {
-    "id" : 14,
-    "size" : 3,
-    "score" : 52.61277565868736,
+    "score" : 58.57499362045661,
     "phrases" : [ "Shopping" ],
     "documents" : [ 16, 17, 27 ],
     "attributes" : {
-      "score" : 52.61277565868736
+      "score" : 58.57499362045661
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 32.26581221957291,
+    "phrases" : [ "10K" ],
+    "documents" : [ 4, 11 ],
+    "attributes" : {
+      "score" : 32.26581221957291
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 51.96128419114872,
-    "phrases" : [ "Cervical Cancer" ],
-    "documents" : [ 1, 42 ],
+    "score" : 41.52641089169024,
+    "phrases" : [ "Alien" ],
+    "documents" : [ 23, 40 ],
     "attributes" : {
-      "score" : 51.96128419114872
+      "score" : 41.52641089169024
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 43.19933735647869,
-    "phrases" : [ "Lube" ],
-    "documents" : [ 15, 19 ],
+    "score" : 60.893494926612284,
+    "phrases" : [ "Cervical Cancer" ],
+    "documents" : [ 1, 42 ],
     "attributes" : {
-      "score" : 43.19933735647869
+      "score" : 60.893494926612284
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 53.833852593281875,
+    "score" : 48.26758490950477,
     "phrases" : [ "Manipulative" ],
     "documents" : [ 6, 35 ],
     "attributes" : {
-      "score" : 53.833852593281875
+      "score" : 48.26758490950477
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 43.20428398044239,
-    "phrases" : [ "Religion is a Belief System" ],
-    "documents" : [ 34, 46 ],
+    "score" : 35.353970107914115,
+    "phrases" : [ "Social Construct" ],
+    "documents" : [ 17, 34 ],
     "attributes" : {
-      "score" : 43.20428398044239
+      "score" : 35.353970107914115
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 71.67359843226419,
-    "phrases" : [ "Women in STEM" ],
-    "documents" : [ 17, 21 ],
+    "score" : 50.43649496517972,
+    "phrases" : [ "Tumor" ],
+    "documents" : [ 1, 38 ],
     "attributes" : {
-      "score" : 71.67359843226419
+      "score" : 50.43649496517972
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 60.0098610977781,
+    "score" : 54.50383100381278,
     "phrases" : [ "Work in Tech and Computing" ],
     "documents" : [ 9, 17 ],
     "attributes" : {
-      "score" : 60.0098610977781
+      "score" : 54.50383100381278
     }
   }, {
     "id" : 21,
-    "size" : 14,
+    "size" : 12,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 2, 4, 13, 22, 23, 24, 25, 30, 31, 32, 33, 38, 43, 44 ],
+    "documents" : [ 2, 19, 20, 22, 24, 25, 29, 30, 31, 43, 44, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 3057,
+  "processing-time-algorithm" : 2569,
   "documents" : [ {
     "id" : 0,
     "title" : "I forgot how much cramps suck uggghh",
@@ -452,9 +452,9 @@
     "snippet" : "I just talked to my bio-dad and he told me my half sister got raped last weekend.  He is hoping I can try to talk to her.   \n\nHe told me about how her Mom tried to \"helpfully\" warn her about how hard things would be if she went to the police.  \n\nHe told me about how she was telling him she didn't know what she did to \"deserve\" it and that she didn't think she had \"led him on\".  \n\nHe told me about how she is worried that if she is crying too much people will think she is doing it for drama's sake and that she made it up for attention but that if she doesn't cry enough people will think she is lying and that she made it up.  \n\nHe told me that her \"friend\" who invited the guy over and who they think \"encouraged\" him to go in after her when she was drunk claims she must be lying because she didn't hear any screaming or yelling and is mad that they might get in trouble for underage drinking.  \n\nHe told me about how a friend of his asked to talk to her because the friend had a similar experience and then when she went to talk to her the friend just unloaded all over her with her own issues.  \n\nI am fucking furious that these are the things women have to go through when they experience rape.  I am fucking furious that girls end up feeling embarrassed when they should be righteously angry.  I am furious that she is being treated this way by the people who should be supporting her.  \n\nOkay...rant over.  I just needed to vent before I have to focus on work for the rest of the day.  Thank God she has you for a sister, half or otherwise.     I might be off my rocket here, and downvotes for my opinion may happen, and that's ok.  I'm not exactly sure what your mother's intentions were in trying to warn her about how \"hard things would be if she went to the police\" as you said.  But it is possible that she didn't mean anything harmful by it.  I'm not sure.\n\nIn all reality, it is HARD.  You have to let people physically examine you, you have to tell your story countless of times to different people, and once again in court, in front of a judge, in front of your attacker, and defend your story against a defense lawyer, who WILL try to trip you up with your story, make you seem like you are lying, like you wanted it, and how it's not your attackers fault.  And then, leave it up to interpretation to other people to find this person guilty, or not.  \n\nI mean, it is 100% absolutely terrifying and difficult thing to do.  Should every woman \"ought\" to report and try to persecute their attackers?  It's noble, in a sense, to say YES.  Every woman should.\n\nBut who are we to DEMAND that every woman should do this?  Of course, we mean well, and we don't want this to happen again to anyone, but it is NOT our cross to bear.  It is the victim's cross and decision to take.  At the end of the day, we simply HAVE to be supportive of our loved ones choices.  I applaud women who take on the system head on, but I certainly cannot shame anyone who chooses not to.  \n\nAnyhow, I hope that in the end, everyone in your family can agree to be supportive and most of all SENSITIVE towards the situation.  We just can't tell people what to do, or not do. Just to clear up, because I think there may have been a misconception, no one is forcing her to either report or not report.  She wanted to report it and has already done so.  I hope my rant didn't come across as an attempt by me or anyone else to force her to report something she wasn't comfortable with.  \n\nHer mom definitely did not mean anything harmful by it.  She was attempting to be helpful and to be honest and upfront about exactly the issues you are bringing up here.  But at that point, my sister was telling her what she wanted to do (go to the police) and what she heard her mom telling her was that she shouldn't do it because it will be difficult and she might get in trouble for underage drinking.   \n\nI definitely feel that women have the right to make their own choice about reporting.  I am personally in favor of reporting, but you are right.  I don't get to demand it.  However, it is absolute bullshit when someone is pushed to *not* report because \"it will make you look bad\" or \"it is just your word\" or \"they probably won't believe you\" or \"you shouldn't have gotten yourself in that position in the first place\".  \n\nSo, no one is forcing her to do anything.  She wanted to report it and she did.  That's fucking absurd. I'd talk to her and get her to fucking prosecute the guy. That is bullshit.     Why don't you do something about it?  Reach out to your half-sister and help her out.  If you can't translate your anger into action, then its wasted. \n\nEDIT: Really?  This gets downvoted?   Correct your dad. ....meaning what? I'm an idiot and misread what you wrote, correct her mom. \n\nJesus, I'm sorry.",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18tn0p/i_am_absolutely_furious_right_now_rant_trigger/"
   } ],
-  "processing-time-source" : 66,
+  "processing-time-source" : 94,
   "processing-result.title" : "twoxchromosomes8_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes8_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes8_reddit.xml"
   }
 }

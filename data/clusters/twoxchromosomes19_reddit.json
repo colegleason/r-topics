@@ -1,278 +1,278 @@
 {
-  "processing-time-total" : 3559,
+  "processing-time-total" : 3907,
   "clusters" : [ {
     "id" : 0,
-    "size" : 17,
-    "score" : 26.362473109203624,
-    "phrases" : [ "Didn't want to make People Feel Bad" ],
-    "documents" : [ 2, 14, 27, 37, 38, 41, 46, 56, 62, 64, 73, 74, 80, 81, 86, 88, 89 ],
+    "size" : 13,
+    "score" : 31.286213639004707,
+    "phrases" : [ "Gender" ],
+    "documents" : [ 3, 14, 21, 32, 39, 43, 44, 49, 64, 70, 74, 81, 86 ],
     "attributes" : {
-      "score" : 26.362473109203624
+      "score" : 31.286213639004707
     }
   }, {
     "id" : 1,
     "size" : 13,
-    "score" : 31.609590873050735,
-    "phrases" : [ "Gender" ],
-    "documents" : [ 3, 14, 21, 32, 39, 43, 44, 49, 64, 70, 74, 81, 86 ],
+    "score" : 38.1236014965568,
+    "phrases" : [ "Story" ],
+    "documents" : [ 3, 6, 9, 14, 19, 35, 41, 46, 59, 65, 86, 88, 90 ],
     "attributes" : {
-      "score" : 31.609590873050735
+      "score" : 38.1236014965568
     }
   }, {
     "id" : 2,
     "size" : 13,
-    "score" : 38.59222657301188,
-    "phrases" : [ "Men's Rights" ],
-    "documents" : [ 3, 14, 25, 39, 41, 42, 43, 45, 55, 64, 73, 81, 86 ],
-    "attributes" : {
-      "score" : 38.59222657301188
-    }
-  }, {
-    "id" : 3,
-    "size" : 13,
-    "score" : 92.18825289212363,
+    "score" : 73.41070483350833,
     "phrases" : [ "Week before my Period" ],
     "documents" : [ 3, 22, 30, 37, 40, 42, 45, 80, 81, 82, 84, 88, 91 ],
     "attributes" : {
-      "score" : 92.18825289212363
+      "score" : 73.41070483350833
+    }
+  }, {
+    "id" : 3,
+    "size" : 12,
+    "score" : 63.00727380261882,
+    "phrases" : [ "Abusive Relationship" ],
+    "documents" : [ 3, 37, 38, 41, 45, 56, 62, 64, 65, 78, 81, 88 ],
+    "attributes" : {
+      "score" : 63.00727380261882
     }
   }, {
     "id" : 4,
     "size" : 12,
-    "score" : 59.56753761675449,
-    "phrases" : [ "Abusive Relationship" ],
-    "documents" : [ 3, 37, 38, 41, 45, 56, 62, 64, 65, 78, 81, 88 ],
+    "score" : 25.0236435765637,
+    "phrases" : [ "Help or will they take it Weirdly" ],
+    "documents" : [ 14, 41, 42, 51, 57, 69, 72, 80, 82, 85, 86, 90 ],
     "attributes" : {
-      "score" : 59.56753761675449
+      "score" : 25.0236435765637
     }
   }, {
     "id" : 5,
     "size" : 12,
-    "score" : 23.77526167986619,
-    "phrases" : [ "Help or will they take it Weirdly" ],
-    "documents" : [ 14, 41, 42, 51, 57, 69, 72, 80, 82, 85, 86, 90 ],
-    "attributes" : {
-      "score" : 23.77526167986619
-    }
-  }, {
-    "id" : 6,
-    "size" : 12,
-    "score" : 59.59315281050475,
+    "score" : 79.05997436625103,
     "phrases" : [ "Posted an Edit" ],
     "documents" : [ 3, 10, 14, 32, 38, 46, 53, 62, 73, 74, 88, 91 ],
     "attributes" : {
-      "score" : 59.59315281050475
+      "score" : 79.05997436625103
     }
   }, {
-    "id" : 7,
+    "id" : 6,
     "size" : 11,
-    "score" : 25.344806357280902,
-    "phrases" : [ "Long should I Wait" ],
-    "documents" : [ 3, 22, 35, 38, 41, 45, 46, 56, 57, 88, 90 ],
-    "attributes" : {
-      "score" : 25.344806357280902
-    }
-  }, {
-    "id" : 8,
-    "size" : 11,
-    "score" : 65.37773172403858,
+    "score" : 66.19808653772682,
     "phrases" : [ "Young Girl" ],
     "documents" : [ 5, 32, 36, 42, 43, 48, 64, 74, 86, 89, 90 ],
     "attributes" : {
-      "score" : 65.37773172403858
+      "score" : 66.19808653772682
+    }
+  }, {
+    "id" : 7,
+    "size" : 10,
+    "score" : 31.834601349937948,
+    "phrases" : [ "Hang out with Friends" ],
+    "documents" : [ 3, 21, 38, 41, 42, 45, 56, 81, 82, 88 ],
+    "attributes" : {
+      "score" : 31.834601349937948
+    }
+  }, {
+    "id" : 8,
+    "size" : 10,
+    "score" : 22.748909196835204,
+    "phrases" : [ "Tried Crying" ],
+    "documents" : [ 3, 38, 40, 62, 69, 71, 80, 81, 88, 90 ],
+    "attributes" : {
+      "score" : 22.748909196835204
     }
   }, {
     "id" : 9,
     "size" : 9,
-    "score" : 32.413385316632784,
-    "phrases" : [ "Explain to him in Terms" ],
-    "documents" : [ 14, 20, 41, 43, 62, 64, 81, 84, 86 ],
-    "attributes" : {
-      "score" : 32.413385316632784
-    }
-  }, {
-    "id" : 10,
-    "size" : 9,
-    "score" : 53.78629123643847,
+    "score" : 49.71120728341197,
     "phrases" : [ "Sexual Act" ],
     "documents" : [ 3, 14, 41, 42, 45, 55, 64, 74, 81 ],
     "attributes" : {
-      "score" : 53.78629123643847
+      "score" : 49.71120728341197
+    }
+  }, {
+    "id" : 10,
+    "size" : 8,
+    "score" : 37.57412463327114,
+    "phrases" : [ "Birth Control Pills" ],
+    "documents" : [ 10, 22, 58, 69, 79, 80, 84, 91 ],
+    "attributes" : {
+      "score" : 37.57412463327114
     }
   }, {
     "id" : 11,
-    "size" : 9,
-    "score" : 88.74521884615088,
-    "phrases" : [ "Younger Women" ],
-    "documents" : [ 3, 32, 38, 39, 41, 74, 81, 82, 86 ],
+    "size" : 7,
+    "score" : 40.273101281977205,
+    "phrases" : [ "Deserve Love" ],
+    "documents" : [ 3, 14, 38, 41, 62, 78, 81 ],
     "attributes" : {
-      "score" : 88.74521884615088
+      "score" : 40.273101281977205
     }
   }, {
     "id" : 12,
-    "size" : 8,
-    "score" : 50.7909991727127,
-    "phrases" : [ "Week after our first Date" ],
-    "documents" : [ 3, 19, 30, 45, 46, 81, 82, 88 ],
-    "attributes" : {
-      "score" : 50.7909991727127
-    }
-  }, {
-    "id" : 13,
     "size" : 7,
-    "score" : 71.12947392108816,
+    "score" : 65.14227838869667,
     "phrases" : [ "Position of Power" ],
     "documents" : [ 3, 5, 14, 38, 40, 46, 88 ],
     "attributes" : {
-      "score" : 71.12947392108816
+      "score" : 65.14227838869667
+    }
+  }, {
+    "id" : 13,
+    "size" : 6,
+    "score" : 50.665503693599256,
+    "phrases" : [ "Bitch Voice" ],
+    "documents" : [ 38, 41, 49, 51, 73, 74 ],
+    "attributes" : {
+      "score" : 50.665503693599256
     }
   }, {
     "id" : 14,
     "size" : 6,
-    "score" : 62.075664275609704,
+    "score" : 63.31865102400581,
     "phrases" : [ "Lose Weight" ],
     "documents" : [ 14, 26, 27, 33, 57, 81 ],
     "attributes" : {
-      "score" : 62.075664275609704
+      "score" : 63.31865102400581
     }
   }, {
     "id" : 15,
     "size" : 6,
-    "score" : 61.0554202502955,
+    "score" : 61.30047882717185,
     "phrases" : [ "Planned Parenthood" ],
     "documents" : [ 10, 31, 37, 38, 75, 91 ],
     "attributes" : {
-      "score" : 61.0554202502955
+      "score" : 61.30047882717185
     }
   }, {
     "id" : 16,
     "size" : 6,
-    "score" : 53.32570751278148,
+    "score" : 49.41543560992492,
     "phrases" : [ "Valentine's Day" ],
     "documents" : [ 2, 7, 21, 22, 52, 56 ],
     "attributes" : {
-      "score" : 53.32570751278148
+      "score" : 49.41543560992492
     }
   }, {
     "id" : 17,
     "size" : 5,
-    "score" : 29.95622753297572,
+    "score" : 32.873020100063385,
     "phrases" : [ "Abortion" ],
     "documents" : [ 0, 3, 11, 37, 43 ],
     "attributes" : {
-      "score" : 29.95622753297572
+      "score" : 32.873020100063385
     }
   }, {
     "id" : 18,
     "size" : 5,
-    "score" : 22.90547614088475,
+    "score" : 33.286265574118005,
     "phrases" : [ "Anxiety" ],
     "documents" : [ 6, 48, 71, 82, 88 ],
     "attributes" : {
-      "score" : 22.90547614088475
+      "score" : 33.286265574118005
     }
   }, {
     "id" : 19,
-    "size" : 4,
-    "score" : 62.02848739706009,
-    "phrases" : [ "Role Model" ],
-    "documents" : [ 28, 46, 47, 65 ],
+    "size" : 5,
+    "score" : 31.615559971357513,
+    "phrases" : [ "Wearing Dresses" ],
+    "documents" : [ 21, 49, 55, 56, 57 ],
     "attributes" : {
-      "score" : 62.02848739706009
+      "score" : 31.615559971357513
     }
   }, {
     "id" : 20,
-    "size" : 3,
-    "score" : 51.541234023529306,
-    "phrases" : [ "Consent is Easy" ],
-    "documents" : [ 8, 64, 81 ],
+    "size" : 4,
+    "score" : 36.5018693084539,
+    "phrases" : [ "Older men up to a certain Age" ],
+    "documents" : [ 3, 32, 41, 46 ],
     "attributes" : {
-      "score" : 51.541234023529306
+      "score" : 36.5018693084539
     }
   }, {
     "id" : 21,
-    "size" : 3,
-    "score" : 72.58691108756939,
-    "phrases" : [ "Feminine or Masculine" ],
-    "documents" : [ 49, 55, 86 ],
+    "size" : 4,
+    "score" : 62.43160776187882,
+    "phrases" : [ "Role Model" ],
+    "documents" : [ 28, 46, 47, 65 ],
     "attributes" : {
-      "score" : 72.58691108756939
+      "score" : 62.43160776187882
     }
   }, {
     "id" : 22,
     "size" : 3,
-    "score" : 32.84980160822226,
-    "phrases" : [ "Graduating College in a few Months" ],
-    "documents" : [ 38, 88, 90 ],
+    "score" : 65.67157676106646,
+    "phrases" : [ "Feminine or Masculine" ],
+    "documents" : [ 49, 55, 86 ],
     "attributes" : {
-      "score" : 32.84980160822226
+      "score" : 65.67157676106646
     }
   }, {
     "id" : 23,
     "size" : 3,
-    "score" : 33.07475639872602,
-    "phrases" : [ "Openly Gay" ],
-    "documents" : [ 3, 24, 88 ],
+    "score" : 32.36182214699201,
+    "phrases" : [ "Graduating College in a few Months" ],
+    "documents" : [ 38, 88, 90 ],
     "attributes" : {
-      "score" : 33.07475639872602
+      "score" : 32.36182214699201
     }
   }, {
     "id" : 24,
     "size" : 3,
-    "score" : 36.20435552902348,
-    "phrases" : [ "Tampon" ],
-    "documents" : [ 15, 40, 42 ],
-    "attributes" : {
-      "score" : 36.20435552902348
-    }
-  }, {
-    "id" : 25,
-    "size" : 3,
-    "score" : 53.571756660035874,
+    "score" : 51.42883812872173,
     "phrases" : [ "Wearing Makeup" ],
     "documents" : [ 21, 55, 68 ],
     "attributes" : {
-      "score" : 53.571756660035874
+      "score" : 51.42883812872173
+    }
+  }, {
+    "id" : 25,
+    "size" : 2,
+    "score" : 32.0900721980658,
+    "phrases" : [ "Baby Wipes" ],
+    "documents" : [ 17, 25 ],
+    "attributes" : {
+      "score" : 32.0900721980658
     }
   }, {
     "id" : 26,
     "size" : 2,
-    "score" : 30.322249221849717,
-    "phrases" : [ "Baby Wipes" ],
-    "documents" : [ 17, 25 ],
+    "score" : 48.79585106078225,
+    "phrases" : [ "Catholic Church" ],
+    "documents" : [ 3, 38 ],
     "attributes" : {
-      "score" : 30.322249221849717
+      "score" : 48.79585106078225
     }
   }, {
     "id" : 27,
     "size" : 2,
-    "score" : 30.869303446252143,
-    "phrases" : [ "Low Self-esteem" ],
-    "documents" : [ 41, 88 ],
+    "score" : 38.52869794426226,
+    "phrases" : [ "Symptoms of BV are very Similar" ],
+    "documents" : [ 85, 88 ],
     "attributes" : {
-      "score" : 30.869303446252143
+      "score" : 38.52869794426226
     }
   }, {
     "id" : 28,
     "size" : 2,
-    "score" : 51.39948218640443,
-    "phrases" : [ "Symptoms of a UTI" ],
-    "documents" : [ 79, 85 ],
+    "score" : 38.97154193105,
+    "phrases" : [ "Watch Porn" ],
+    "documents" : [ 45, 64 ],
     "attributes" : {
-      "score" : 51.39948218640443
+      "score" : 38.97154193105
     }
   }, {
     "id" : 29,
-    "size" : 25,
+    "size" : 26,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 4, 9, 12, 13, 16, 18, 23, 29, 34, 50, 54, 58, 59, 60, 61, 63, 66, 67, 76, 77, 83, 87, 92, 93 ],
+    "documents" : [ 1, 4, 8, 12, 13, 15, 16, 18, 20, 23, 24, 29, 34, 50, 54, 60, 61, 63, 66, 67, 76, 77, 83, 87, 92, 93 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 3480,
+  "processing-time-algorithm" : 3798,
   "documents" : [ {
     "id" : 0,
     "title" : "Thinking about conceiving or trying to conceive?  Take folic acid supplements, to reduce autism risk",
@@ -734,9 +734,9 @@
     "snippet" : "  *sigh* I wish I had a secret admirer. All boys did in junior high was make fun of me. :( There was this girl everyone used to make fun of, back in elementary school.  I also used to make fun of this girl.  But I also used to have a crush on this girl, so, you never know :)",
     "url" : "http://www.theatlantic.com/health/archive/2013/02/my-only-secret-admirer/273019/"
   } ],
-  "processing-time-source" : 79,
+  "processing-time-source" : 109,
   "processing-result.title" : "twoxchromosomes19_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes19_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes19_reddit.xml"
   }
 }

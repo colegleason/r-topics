@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 2179,
+  "processing-time-total" : 2090,
   "clusters" : [ {
     "id" : 0,
-    "size" : 6,
-    "score" : 47.6746119223868,
-    "phrases" : [ "Coming up with a Plan" ],
-    "documents" : [ 22, 25, 30, 34, 35, 48 ],
+    "size" : 11,
+    "score" : 64.79615050436952,
+    "phrases" : [ "Say I Love" ],
+    "documents" : [ 10, 15, 16, 19, 21, 23, 25, 26, 30, 34, 35 ],
     "attributes" : {
-      "score" : 47.6746119223868
+      "score" : 64.79615050436952
     }
   }, {
     "id" : 1,
     "size" : 6,
-    "score" : 46.271109434467206,
-    "phrases" : [ "Female" ],
-    "documents" : [ 2, 9, 11, 24, 26, 47 ],
+    "score" : 34.235786216103506,
+    "phrases" : [ "Coming up with a Plan" ],
+    "documents" : [ 22, 25, 30, 34, 35, 48 ],
     "attributes" : {
-      "score" : 46.271109434467206
+      "score" : 34.235786216103506
     }
   }, {
     "id" : 2,
     "size" : 6,
-    "score" : 57.17716192416467,
-    "phrases" : [ "Meet" ],
-    "documents" : [ 11, 21, 25, 37, 41, 48 ],
+    "score" : 57.87599002930468,
+    "phrases" : [ "Female" ],
+    "documents" : [ 2, 9, 11, 24, 26, 47 ],
     "attributes" : {
-      "score" : 57.17716192416467
+      "score" : 57.87599002930468
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 45.74197261219069,
-    "phrases" : [ "Video" ],
-    "documents" : [ 2, 4, 18, 32, 33, 43 ],
+    "score" : 59.2565098180313,
+    "phrases" : [ "Meet" ],
+    "documents" : [ 11, 21, 25, 37, 41, 48 ],
     "attributes" : {
-      "score" : 45.74197261219069
+      "score" : 59.2565098180313
     }
   }, {
     "id" : 4,
     "size" : 5,
-    "score" : 27.065844211753905,
-    "phrases" : [ "Long Term" ],
-    "documents" : [ 16, 17, 22, 32, 48 ],
+    "score" : 89.44232231141045,
+    "phrases" : [ "Birth Control" ],
+    "documents" : [ 3, 14, 20, 22, 26 ],
     "attributes" : {
-      "score" : 27.065844211753905
+      "score" : 89.44232231141045
     }
   }, {
     "id" : 5,
-    "size" : 4,
-    "score" : 117.1528703980489,
-    "phrases" : [ "Body Type" ],
-    "documents" : [ 15, 26, 30, 42 ],
+    "size" : 5,
+    "score" : 31.919781483278094,
+    "phrases" : [ "Long Term" ],
+    "documents" : [ 16, 17, 22, 32, 48 ],
     "attributes" : {
-      "score" : 117.1528703980489
+      "score" : 31.919781483278094
     }
   }, {
     "id" : 6,
     "size" : 4,
-    "score" : 51.74084343388944,
-    "phrases" : [ "Wear a Size 8 and Wear" ],
-    "documents" : [ 15, 18, 26, 32 ],
+    "score" : 101.29704679335437,
+    "phrases" : [ "Body Type" ],
+    "documents" : [ 15, 26, 30, 42 ],
     "attributes" : {
-      "score" : 51.74084343388944
+      "score" : 101.29704679335437
     }
   }, {
     "id" : 7,
-    "size" : 4,
-    "score" : 100.24895020920599,
-    "phrases" : [ "Women Playing" ],
-    "documents" : [ 2, 26, 35, 39 ],
+    "size" : 3,
+    "score" : 80.52693336972143,
+    "phrases" : [ "Brazilian Wax" ],
+    "documents" : [ 17, 28, 34 ],
     "attributes" : {
-      "score" : 100.24895020920599
+      "score" : 80.52693336972143
     }
   }, {
     "id" : 8,
     "size" : 3,
-    "score" : 82.16460656732649,
-    "phrases" : [ "Brazilian Wax" ],
-    "documents" : [ 17, 28, 34 ],
+    "score" : 62.204313518074336,
+    "phrases" : [ "Currently Pregnant" ],
+    "documents" : [ 22, 25, 40 ],
     "attributes" : {
-      "score" : 82.16460656732649
+      "score" : 62.204313518074336
     }
   }, {
     "id" : 9,
     "size" : 3,
-    "score" : 36.34711684896421,
-    "phrases" : [ "Came up Positive" ],
-    "documents" : [ 22, 41, 42 ],
+    "score" : 59.68541162636323,
+    "phrases" : [ "Discussion around her Body" ],
+    "documents" : [ 20, 22, 26 ],
     "attributes" : {
-      "score" : 36.34711684896421
+      "score" : 59.68541162636323
     }
   }, {
     "id" : 10,
-    "size" : 3,
-    "score" : 45.844355999039124,
-    "phrases" : [ "Pregnant with my first 3 Months" ],
-    "documents" : [ 22, 25, 40 ],
+    "size" : 2,
+    "score" : 71.00931791530405,
+    "phrases" : [ "Added Link" ],
+    "documents" : [ 2, 21 ],
     "attributes" : {
-      "score" : 45.844355999039124
+      "score" : 71.00931791530405
     }
   }, {
     "id" : 11,
     "size" : 2,
-    "score" : 77.01211385942301,
-    "phrases" : [ "Added Link" ],
-    "documents" : [ 2, 21 ],
+    "score" : 51.968082288258636,
+    "phrases" : [ "Birthday" ],
+    "documents" : [ 6, 16 ],
     "attributes" : {
-      "score" : 77.01211385942301
+      "score" : 51.968082288258636
     }
   }, {
     "id" : 12,
     "size" : 2,
-    "score" : 44.15419493178733,
-    "phrases" : [ "Alright" ],
-    "documents" : [ 9, 26 ],
+    "score" : 34.58924709214953,
+    "phrases" : [ "Bleeding on your Period" ],
+    "documents" : [ 38, 40 ],
     "attributes" : {
-      "score" : 44.15419493178733
+      "score" : 34.58924709214953
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 120.04449327316622,
+    "score" : 124.9408493993287,
     "phrases" : [ "Breast Cancer Prevention" ],
     "documents" : [ 5, 46 ],
     "attributes" : {
-      "score" : 120.04449327316622
+      "score" : 124.9408493993287
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 79.80768961744013,
+    "score" : 79.48000408306524,
     "phrases" : [ "Casual Games" ],
     "documents" : [ 2, 10 ],
     "attributes" : {
-      "score" : 79.80768961744013
+      "score" : 79.48000408306524
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 41.70510552934849,
-    "phrases" : [ "Children" ],
-    "documents" : [ 22, 25 ],
+    "score" : 49.660645754764715,
+    "phrases" : [ "False Positive" ],
+    "documents" : [ 15, 42 ],
     "attributes" : {
-      "score" : 41.70510552934849
+      "score" : 49.660645754764715
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 50.661531159247296,
-    "phrases" : [ "Help any Guy's Cars" ],
-    "documents" : [ 27, 48 ],
+    "score" : 51.220057560519734,
+    "phrases" : [ "Pant Size" ],
+    "documents" : [ 15, 26 ],
     "attributes" : {
-      "score" : 50.661531159247296
+      "score" : 51.220057560519734
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 50.25270076794093,
-    "phrases" : [ "Rape" ],
-    "documents" : [ 21, 49 ],
+    "score" : 59.02256831731168,
+    "phrases" : [ "Propose" ],
+    "documents" : [ 26, 31 ],
     "attributes" : {
-      "score" : 50.25270076794093
+      "score" : 59.02256831731168
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 35.542322339029376,
-    "phrases" : [ "Stalking" ],
-    "documents" : [ 19, 41 ],
+    "score" : 47.977086652753464,
+    "phrases" : [ "Rape" ],
+    "documents" : [ 21, 49 ],
     "attributes" : {
-      "score" : 35.542322339029376
+      "score" : 47.977086652753464
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 77.36614312900116,
-    "phrases" : [ "Yeast Infection" ],
-    "documents" : [ 0, 13 ],
+    "score" : 38.34424810922304,
+    "phrases" : [ "Stalking" ],
+    "documents" : [ 19, 41 ],
     "attributes" : {
-      "score" : 77.36614312900116
+      "score" : 38.34424810922304
     }
   }, {
     "id" : 20,
-    "size" : 15,
+    "size" : 2,
+    "score" : 74.15639376253,
+    "phrases" : [ "Yeast Infection" ],
+    "documents" : [ 0, 13 ],
+    "attributes" : {
+      "score" : 74.15639376253
+    }
+  }, {
+    "id" : 21,
+    "size" : 14,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 3, 6, 7, 8, 12, 14, 20, 23, 29, 31, 36, 38, 44, 45 ],
+    "documents" : [ 1, 4, 7, 8, 12, 18, 27, 29, 33, 36, 39, 43, 44, 45 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2119,
+  "processing-time-algorithm" : 2010,
   "documents" : [ {
     "id" : 0,
     "title" : "[UPDATE] Ladies, can someone help me with my not-feeling-too-good cooch?",
@@ -437,9 +446,9 @@
     "snippet" : "  I should tag this with a trigger warning but I don't know how :/ It's stated at the top of the article that it could be triggering and has rape in the title, but still. You can't do it, only a mod can.   They're pretty good about that though.",
     "url" : "http://thoughtcatalog.com/2013/when-a-drunk-girl-passes-out-and-a-group-of-boys-rape-her-this-is-who-to-blame/"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 80,
   "processing-result.title" : "twoxchromosomes17_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes17_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes17_reddit.xml"
   }
 }

@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 2693,
+  "processing-time-total" : 2148,
   "clusters" : [ {
     "id" : 0,
-    "size" : 8,
-    "score" : 49.50045726380344,
-    "phrases" : [ "Years where I Moved 5 Times" ],
-    "documents" : [ 5, 6, 13, 15, 21, 23, 30, 47 ],
+    "size" : 13,
+    "score" : 24.86379107490991,
+    "phrases" : [ "Question" ],
+    "documents" : [ 2, 6, 11, 15, 17, 18, 27, 28, 33, 37, 38, 42, 46 ],
     "attributes" : {
-      "score" : 49.50045726380344
+      "score" : 24.86379107490991
     }
   }, {
     "id" : 1,
-    "size" : 5,
-    "score" : 26.155652762912318,
-    "phrases" : [ "Awful" ],
-    "documents" : [ 17, 21, 22, 45, 46 ],
+    "size" : 7,
+    "score" : 44.68836357401646,
+    "phrases" : [ "Able to Feel it during Sex" ],
+    "documents" : [ 6, 11, 13, 15, 23, 42, 45 ],
     "attributes" : {
-      "score" : 26.155652762912318
+      "score" : 44.68836357401646
     }
   }, {
     "id" : 2,
-    "size" : 5,
-    "score" : 39.55798431234588,
-    "phrases" : [ "Didn't Fight" ],
-    "documents" : [ 6, 8, 28, 40, 45 ],
+    "size" : 6,
+    "score" : 47.76252483887289,
+    "phrases" : [ "Years where I Moved 5 Times" ],
+    "documents" : [ 6, 15, 21, 23, 30, 47 ],
     "attributes" : {
-      "score" : 39.55798431234588
+      "score" : 47.76252483887289
     }
   }, {
     "id" : 3,
     "size" : 5,
-    "score" : 51.24804507716011,
-    "phrases" : [ "Sex Drive" ],
-    "documents" : [ 11, 13, 23, 33, 40 ],
+    "score" : 108.63700836398026,
+    "phrases" : [ "Birth Control" ],
+    "documents" : [ 3, 13, 27, 29, 40 ],
     "attributes" : {
-      "score" : 51.24804507716011
+      "score" : 108.63700836398026
     }
   }, {
     "id" : 4,
-    "size" : 4,
-    "score" : 26.041139012084464,
-    "phrases" : [ "Amazing Guy" ],
-    "documents" : [ 13, 20, 30, 34 ],
+    "size" : 5,
+    "score" : 51.48677479297504,
+    "phrases" : [ "Didn't Fight" ],
+    "documents" : [ 6, 8, 28, 40, 45 ],
     "attributes" : {
-      "score" : 26.041139012084464
+      "score" : 51.48677479297504
     }
   }, {
     "id" : 5,
     "size" : 4,
-    "score" : 63.338366268040126,
-    "phrases" : [ "America" ],
-    "documents" : [ 6, 11, 12, 35 ],
+    "score" : 29.40990138068894,
+    "phrases" : [ "Amazing Guy" ],
+    "documents" : [ 13, 20, 30, 34 ],
     "attributes" : {
-      "score" : 63.338366268040126
+      "score" : 29.40990138068894
     }
   }, {
     "id" : 6,
     "size" : 4,
-    "score" : 115.15525904038732,
-    "phrases" : [ "Birth Control Pills" ],
-    "documents" : [ 3, 13, 27, 29 ],
+    "score" : 37.73529019109299,
+    "phrases" : [ "Blame the Girl" ],
+    "documents" : [ 6, 11, 22, 49 ],
     "attributes" : {
-      "score" : 115.15525904038732
+      "score" : 37.73529019109299
     }
   }, {
     "id" : 7,
     "size" : 4,
-    "score" : 89.78669087227442,
+    "score" : 95.05760793231666,
     "phrases" : [ "Female Sexuality" ],
     "documents" : [ 11, 20, 45, 48 ],
     "attributes" : {
-      "score" : 89.78669087227442
+      "score" : 95.05760793231666
     }
   }, {
     "id" : 8,
     "size" : 4,
-    "score" : 30.237262687876576,
+    "score" : 46.55581737097607,
     "phrases" : [ "Interview" ],
     "documents" : [ 1, 11, 46, 47 ],
     "attributes" : {
-      "score" : 30.237262687876576
+      "score" : 46.55581737097607
     }
   }, {
     "id" : 9,
-    "size" : 3,
-    "score" : 46.896691860473574,
-    "phrases" : [ "Orgasm" ],
-    "documents" : [ 33, 40, 43 ],
+    "size" : 4,
+    "score" : 69.27619434590339,
+    "phrases" : [ "Pill don't Know Exactly how they Work" ],
+    "documents" : [ 3, 13, 15, 23 ],
     "attributes" : {
-      "score" : 46.896691860473574
+      "score" : 69.27619434590339
     }
   }, {
     "id" : 10,
     "size" : 3,
-    "score" : 54.47400188369768,
-    "phrases" : [ "Sex Train" ],
-    "documents" : [ 4, 6, 15 ],
+    "score" : 66.11006372457368,
+    "phrases" : [ "Feminist" ],
+    "documents" : [ 12, 20, 26 ],
     "attributes" : {
-      "score" : 54.47400188369768
+      "score" : 66.11006372457368
     }
   }, {
     "id" : 11,
-    "size" : 2,
-    "score" : 51.53455817584023,
-    "phrases" : [ "Bed with the Performer" ],
-    "documents" : [ 15, 47 ],
+    "size" : 3,
+    "score" : 50.56067400607346,
+    "phrases" : [ "Orgasm" ],
+    "documents" : [ 33, 40, 43 ],
     "attributes" : {
-      "score" : 51.53455817584023
+      "score" : 50.56067400607346
     }
   }, {
     "id" : 12,
-    "size" : 2,
-    "score" : 52.12604501442893,
-    "phrases" : [ "Bullying" ],
-    "documents" : [ 0, 19 ],
+    "size" : 3,
+    "score" : 46.55172932660989,
+    "phrases" : [ "Trouble" ],
+    "documents" : [ 7, 24, 36 ],
     "attributes" : {
-      "score" : 52.12604501442893
+      "score" : 46.55172932660989
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 62.278339311060506,
-    "phrases" : [ "Causing the Straps" ],
-    "documents" : [ 6, 37 ],
+    "score" : 47.77420290861029,
+    "phrases" : [ "Bullying" ],
+    "documents" : [ 0, 19 ],
     "attributes" : {
-      "score" : 62.278339311060506
+      "score" : 47.77420290861029
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 40.45056272126321,
-    "phrases" : [ "Compliments" ],
-    "documents" : [ 22, 24 ],
+    "score" : 49.99637463983939,
+    "phrases" : [ "Causing the Straps" ],
+    "documents" : [ 6, 37 ],
     "attributes" : {
-      "score" : 40.45056272126321
+      "score" : 49.99637463983939
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 28.305234424093783,
-    "phrases" : [ "Cup Sizes" ],
-    "documents" : [ 37, 49 ],
+    "score" : 48.29778138859226,
+    "phrases" : [ "Compliments" ],
+    "documents" : [ 22, 24 ],
     "attributes" : {
-      "score" : 28.305234424093783
+      "score" : 48.29778138859226
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 50.17535609518536,
-    "phrases" : [ "Dolls" ],
-    "documents" : [ 12, 16 ],
+    "score" : 40.102909910800264,
+    "phrases" : [ "Doing with Sex not with Performance" ],
+    "documents" : [ 15, 47 ],
     "attributes" : {
-      "score" : 50.17535609518536
+      "score" : 40.102909910800264
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 59.16029741098153,
-    "phrases" : [ "Food" ],
-    "documents" : [ 10, 39 ],
+    "score" : 26.592813480197574,
+    "phrases" : [ "Fight back I'm Saying Rape" ],
+    "documents" : [ 6, 45 ],
     "attributes" : {
-      "score" : 59.16029741098153
+      "score" : 26.592813480197574
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 31.94501646655206,
-    "phrases" : [ "Logged" ],
-    "documents" : [ 14, 38 ],
+    "score" : 69.80478758446107,
+    "phrases" : [ "Food" ],
+    "documents" : [ 10, 39 ],
     "attributes" : {
-      "score" : 31.94501646655206
+      "score" : 69.80478758446107
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 37.86918319230419,
-    "phrases" : [ "Strains" ],
-    "documents" : [ 34, 44 ],
+    "score" : 31.395054164809842,
+    "phrases" : [ "Gift" ],
+    "documents" : [ 31, 41 ],
     "attributes" : {
-      "score" : 37.86918319230419
+      "score" : 31.395054164809842
     }
   }, {
     "id" : 20,
-    "size" : 11,
+    "size" : 2,
+    "score" : 44.969448034140306,
+    "phrases" : [ "Strains" ],
+    "documents" : [ 34, 44 ],
+    "attributes" : {
+      "score" : 44.969448034140306
+    }
+  }, {
+    "id" : 21,
+    "size" : 8,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 2, 7, 9, 18, 25, 26, 31, 32, 36, 41, 42 ],
+    "documents" : [ 4, 5, 9, 14, 16, 25, 32, 35 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2630,
+  "processing-time-algorithm" : 2076,
   "documents" : [ {
     "id" : 0,
     "title" : "To This Day on Vimeo - amazing video about surviving bullying.",
@@ -441,9 +450,9 @@
     "snippet" : "  I'm thoroughly surprised at all the negative comments about this idea. There seems to be three women who are running this, without much money. They don't have the funds for 20 different sized models, and it's probably one of the girls or a friend modelling for them.\n\nThey are also a brand new company with NO income at this time. It's hard to start up with so many different sizes and types, with no money to work with. Best example I can think of is *Mod Podge*, they started with *TWO* types, in *ONE* size, but now they have many, more types, and more amounts! [SOURCE](http://modpodgerocksblog.com/2009/07/mod-podge-formula-guide-youve-been.html)\n\nThe price seems to astound people, but we pay for \"overpriced\" bras and underwear quite often - because they're GOOD QUALITY. SURE, you can get a set of Bras/Undies for $10, but I find these don't last as long and stretch much quicker (plus the underwire!). These underwear are the same, Good Quality AND donate to a worthy cause. A cause I didn't even think of.\n\nIf you plan on just waiting for it to happen, because that without any backing, they will manage to start up a company AND back everyone's wants - you're a little mad.\n\nI understand that not everyone can afford the costs. I don't expect everyone to pay. I just find it really sad, that so many people have negativity in their comments because a fresh idea, hasn't covered everyone yet.  Stain resistant... THEY ARE BLACK. There are nude ones too. Nude for who? White people?  White people are not nude, my asian friend has the skin closest to nude I've seen yet. Nude for who? White people?  Nude for who? White people?   Brilliant idea... but I'll save my cash for a lace-free version. it's so nice to find the other ladies who don't like lacey undies. they rip so easy! And lace is itchy Brilliant idea... but I'll save my cash for a lace-free version. Brilliant idea... but I'll save my cash for a lace-free version.  can I get a TL;DR? I can't watch the video right now can I get a TL;DR? I can't watch the video right now  Are we not allowed to say \"underwear + pad in one!\"?\n\nI mean that is what it is, right?  I love the idea but their kickstarter page makes me wanna barf. Why? If you don't mind me asking.   Does this really need a Kickstarter? [Lunapads already does the same thing.](http://lunapads.com/underwear.html) Does this really need a Kickstarter? [Lunapads already does the same thing.](http://lunapads.com/underwear.html)  That would almost certainly give me a yeast infection. The fabric is anti microbial.  So the yeast won't grow in the panties, but they will have a hey-day in my vagina if it's not all cotton panties, especially if the moisture and heat is trapped there by multiple layers of fabric. So the yeast won't grow in the panties, but they will have a hey-day in my vagina if it's not all cotton panties, especially if the moisture and heat is trapped there by multiple layers of fabric. Do pads also cause infections? Everyone always talks about cotton underwear, but no one mentions pads and if their plastic backing is a problem.  Oh, the \"same sizes as Victoria's Secret\". That means I can't wear them anyway. Never mind. Oh, the \"same sizes as Victoria's Secret\". That means I can't wear them anyway. Never mind. Same. I guess they just lost all the bigger girls' business.  Super cool, I totally want a few pairs. Hopefully they come in colors other than black.    Interesting concept...\n\nBut it really bugs me when fabric is described as \"nude.\" Nude is only \"flesh color\" for light-skinned people. It's a pretty (clothing) industry standard term. Not that I agree with it, but we can't get down on these ladies for describing something using a \"color type\" that most others use too. It's a pretty (clothing) industry standard term. Not that I agree with it, but we can't get down on these ladies for describing something using a \"color type\" that most others use too.   Retail for $28? Really, that seems kind of expensive. Retail for $28? Really, that seems kind of expensive. [For every pair you buy they donate 7 reusable cloth pads to women in Africa who don't have a way to safely have their period](http://www.youtube.com/watch?v=HJt2e9J77jw?rel=0) Yeah I saw that, but idk if it's worth it. Might as well just donate directly to a cause if that's the point. Its not the point, but I think it helps. And considering that we buy bras that cost upwards of fifty dollars which only hold our boobs up I don't think its so against the grain to spend money on good quality underwear that saves waste and helps a cause and would just be all around useful for me.  I only need a couple of good bras; I need at least 20 pairs of underwear. But the point of these is that you wear them only when you need them. Rather than wasting a tampon when you're only spotting at the start or end of your period or during your period with a tampon. You're saving resources and you only need one or two pairs. Its not a necessity but its definitely a good thing.  I think I'll just stick with my DivaCup. Zero waste, and for $25 I have one that will last me for at least as long as my cat doesn't find it and turns it into a chew toy. So far so good since 2007 I read that as, your Diva Cup will last you as long as your cat ... what are you using your cat for? ~*worried face*~ Its not the point, but I think it helps. And considering that we buy bras that cost upwards of fifty dollars which only hold our boobs up I don't think its so against the grain to spend money on good quality underwear that saves waste and helps a cause and would just be all around useful for me.  I spent $15 on my last bra, and I only have three that fit me right now (one of which is in a different state because I left it at my parents' house by accident). My last pair of underwear cost $3. You must have a really common size or something. I can't find a decent bra in my size for less than $25.     &gt;They'll be some of the most comfy &amp; well-made undies you'll own.\n\nIs anyone else annoyed by words like \"comfy\" \"undies\" and \"super (comfortable)\"?  It sounds so cutesy, diminutive and unprofessional.  Is 'super' 30% more comfy than 'kinda'? I don't want to sound like I'm being contrary or anything because I get what you're saying but I'm wondering what kind of language you prefer them to use. Underwear instead of undies and so on?  It'd be awesome if they could make plus size too. It would open up the market for them. I'd hope they would after being funded. A lot of kickstarter projects start off with a small scope since that is all they can afford. But I agree it would be great if they opened their line up to a wider variety of sizes if/when they get funded.    [deleted] It looks like they only have like 4 pictures or something that all very well may be the same girl. Can you blame them if they're just getting started and only have one model? [deleted] [deleted] [deleted]",
     "url" : "http://shethinx.com/"
   } ],
-  "processing-time-source" : 63,
+  "processing-time-source" : 72,
   "processing-result.title" : "twoxchromosomes7_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes7_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes7_reddit.xml"
   }
 }

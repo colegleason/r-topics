@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1058,
+  "processing-time-total" : 1084,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 980,
+  "processing-time-algorithm" : 1014,
   "documents" : [ {
     "id" : 0,
     "title" : "Nice try, Scherbatsky...",
@@ -444,7 +444,7 @@
     "snippet" : "  Never had to ask this before, but which episode is this? I just can't remember it",
     "url" : "http://24.media.tumblr.com/tumblr_m93auj23gK1rdwvpto1_500.jpg"
   } ],
-  "processing-time-source" : 78,
+  "processing-time-source" : 70,
   "processing-result.title" : "himym6_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym6_reddit.xml"

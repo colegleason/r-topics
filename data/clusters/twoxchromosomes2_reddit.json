@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 2095,
+  "processing-time-total" : 1993,
   "clusters" : [ {
     "id" : 0,
-    "size" : 11,
-    "score" : 34.84674555831252,
-    "phrases" : [ "Husband" ],
-    "documents" : [ 5, 12, 16, 18, 22, 24, 37, 43, 44, 45, 46 ],
-    "attributes" : {
-      "score" : 34.84674555831252
-    }
-  }, {
-    "id" : 1,
-    "size" : 8,
-    "score" : 48.73291681792684,
-    "phrases" : [ "Boyfriend Lives there and your Friend Lives" ],
-    "documents" : [ 12, 17, 19, 27, 41, 42, 43, 47 ],
-    "attributes" : {
-      "score" : 48.73291681792684
-    }
-  }, {
-    "id" : 2,
-    "size" : 7,
-    "score" : 56.151085297257545,
-    "phrases" : [ "Foods to Eat" ],
-    "documents" : [ 0, 7, 28, 34, 41, 43, 47 ],
-    "attributes" : {
-      "score" : 56.151085297257545
-    }
-  }, {
-    "id" : 3,
     "size" : 6,
-    "score" : 37.76541641229109,
+    "score" : 38.49678235897166,
     "phrases" : [ "Awkward" ],
     "documents" : [ 5, 12, 40, 42, 47, 49 ],
     "attributes" : {
-      "score" : 37.76541641229109
+      "score" : 38.49678235897166
     }
   }, {
-    "id" : 4,
-    "size" : 6,
-    "score" : 35.956588531753454,
-    "phrases" : [ "Lost my whole Family" ],
-    "documents" : [ 7, 18, 24, 27, 33, 43 ],
-    "attributes" : {
-      "score" : 35.956588531753454
-    }
-  }, {
-    "id" : 5,
+    "id" : 1,
     "size" : 5,
-    "score" : 78.29462917101716,
+    "score" : 75.55520169694047,
     "phrases" : [ "Amazing Relationship" ],
     "documents" : [ 12, 15, 34, 41, 47 ],
     "attributes" : {
-      "score" : 78.29462917101716
+      "score" : 75.55520169694047
     }
   }, {
-    "id" : 6,
+    "id" : 2,
     "size" : 5,
-    "score" : 43.07676240120014,
+    "score" : 48.83079303457747,
     "phrases" : [ "Feel Horribly" ],
     "documents" : [ 0, 5, 9, 33, 41 ],
     "attributes" : {
-      "score" : 43.07676240120014
+      "score" : 48.83079303457747
     }
   }, {
-    "id" : 7,
+    "id" : 3,
     "size" : 5,
-    "score" : 109.43905803111976,
+    "score" : 108.6255370459868,
     "phrases" : [ "Hate my Body" ],
     "documents" : [ 16, 27, 34, 44, 47 ],
     "attributes" : {
-      "score" : 109.43905803111976
+      "score" : 108.6255370459868
     }
   }, {
-    "id" : 8,
+    "id" : 4,
     "size" : 5,
-    "score" : 34.02668026907949,
+    "score" : 31.989888056432644,
     "phrases" : [ "Tell him your Plan for Getting" ],
     "documents" : [ 19, 21, 23, 41, 43 ],
     "attributes" : {
-      "score" : 34.02668026907949
+      "score" : 31.989888056432644
     }
   }, {
-    "id" : 9,
+    "id" : 5,
     "size" : 4,
-    "score" : 30.694601428807115,
-    "phrases" : [ "Talk to your Doctor" ],
-    "documents" : [ 12, 24, 38, 43 ],
+    "score" : 36.82354574439167,
+    "phrases" : [ "Human" ],
+    "documents" : [ 7, 12, 15, 21 ],
     "attributes" : {
-      "score" : 30.694601428807115
+      "score" : 36.82354574439167
     }
   }, {
-    "id" : 10,
+    "id" : 6,
     "size" : 4,
-    "score" : 92.63231135782488,
+    "score" : 41.08554487600074,
+    "phrases" : [ "Longer Friends" ],
+    "documents" : [ 1, 24, 41, 43 ],
+    "attributes" : {
+      "score" : 41.08554487600074
+    }
+  }, {
+    "id" : 7,
+    "size" : 4,
+    "score" : 90.61400268060837,
     "phrases" : [ "Time to take the Pill" ],
     "documents" : [ 4, 23, 37, 38 ],
     "attributes" : {
-      "score" : 92.63231135782488
+      "score" : 90.61400268060837
+    }
+  }, {
+    "id" : 8,
+    "size" : 3,
+    "score" : 25.892611172020725,
+    "phrases" : [ "Lose my Father" ],
+    "documents" : [ 23, 37, 43 ],
+    "attributes" : {
+      "score" : 25.892611172020725
+    }
+  }, {
+    "id" : 9,
+    "size" : 3,
+    "score" : 38.199732516213906,
+    "phrases" : [ "Problems are Small" ],
+    "documents" : [ 9, 25, 41 ],
+    "attributes" : {
+      "score" : 38.199732516213906
+    }
+  }, {
+    "id" : 10,
+    "size" : 3,
+    "score" : 19.73922155113256,
+    "phrases" : [ "Saving Money" ],
+    "documents" : [ 17, 27, 35 ],
+    "attributes" : {
+      "score" : 19.73922155113256
     }
   }, {
     "id" : 11,
-    "size" : 3,
-    "score" : 31.4820300116346,
-    "phrases" : [ "Candy" ],
-    "documents" : [ 12, 20, 47 ],
+    "size" : 2,
+    "score" : 41.04384618503842,
+    "phrases" : [ "Breast" ],
+    "documents" : [ 3, 47 ],
     "attributes" : {
-      "score" : 31.4820300116346
+      "score" : 41.04384618503842
     }
   }, {
     "id" : 12,
-    "size" : 3,
-    "score" : 37.875466357902305,
-    "phrases" : [ "Glad to see she Turned" ],
-    "documents" : [ 5, 25, 47 ],
+    "size" : 2,
+    "score" : 43.55335007715883,
+    "phrases" : [ "Chronic Pain" ],
+    "documents" : [ 24, 47 ],
     "attributes" : {
-      "score" : 37.875466357902305
+      "score" : 43.55335007715883
     }
   }, {
     "id" : 13,
-    "size" : 3,
-    "score" : 62.90911863341244,
-    "phrases" : [ "Period a few Days before it Starts" ],
-    "documents" : [ 33, 38, 44 ],
+    "size" : 2,
+    "score" : 39.3879184428613,
+    "phrases" : [ "Donating" ],
+    "documents" : [ 21, 29 ],
     "attributes" : {
-      "score" : 62.90911863341244
+      "score" : 39.3879184428613
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 42.00619250029311,
-    "phrases" : [ "Breast" ],
-    "documents" : [ 3, 47 ],
+    "score" : 49.642047666836405,
+    "phrases" : [ "Eat it too with a Straight Face" ],
+    "documents" : [ 41, 43 ],
     "attributes" : {
-      "score" : 42.00619250029311
+      "score" : 49.642047666836405
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 40.26694487785887,
-    "phrases" : [ "Celebrate" ],
-    "documents" : [ 2, 47 ],
+    "score" : 40.597230232598136,
+    "phrases" : [ "Longer Period" ],
+    "documents" : [ 11, 38 ],
     "attributes" : {
-      "score" : 40.26694487785887
+      "score" : 40.597230232598136
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 39.89255506750107,
-    "phrases" : [ "Donating" ],
-    "documents" : [ 21, 29 ],
+    "score" : 37.71676591059036,
+    "phrases" : [ "Ovary" ],
+    "documents" : [ 24, 32 ],
     "attributes" : {
-      "score" : 39.89255506750107
+      "score" : 37.71676591059036
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 43.91122585062761,
-    "phrases" : [ "Ovary" ],
-    "documents" : [ 24, 32 ],
+    "score" : 73.88950777395316,
+    "phrases" : [ "Say no to Size Zero" ],
+    "documents" : [ 9, 47 ],
     "attributes" : {
-      "score" : 43.91122585062761
+      "score" : 73.88950777395316
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 73.12098040855005,
-    "phrases" : [ "Say no to Size Zero" ],
-    "documents" : [ 9, 47 ],
+    "score" : 28.34792160280692,
+    "phrases" : [ "Self Esteem" ],
+    "documents" : [ 9, 22 ],
     "attributes" : {
-      "score" : 73.12098040855005
+      "score" : 28.34792160280692
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 71.78471437338723,
+    "score" : 82.68033276494234,
     "phrases" : [ "Truck Drivers" ],
     "documents" : [ 9, 14 ],
     "attributes" : {
-      "score" : 71.78471437338723
+      "score" : 82.68033276494234
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 64.3466826971375,
+    "score" : 61.9955199099663,
     "phrases" : [ "Vibrator" ],
     "documents" : [ 13, 30 ],
     "attributes" : {
-      "score" : 64.3466826971375
+      "score" : 61.9955199099663
     }
   }, {
     "id" : 21,
-    "size" : 11,
+    "size" : 14,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 6, 8, 10, 11, 26, 31, 35, 36, 39, 48 ],
+    "documents" : [ 2, 6, 8, 10, 18, 20, 26, 28, 31, 36, 39, 45, 46, 48 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2038,
+  "processing-time-algorithm" : 1907,
   "documents" : [ {
     "id" : 0,
     "title" : "Latex free condoms? Opinions?",
@@ -452,9 +452,9 @@
     "snippet" : "Background:\n\nI am a young woman, recent college graduate, and I want to find a healthy relationship someday (not necessarily anytime soon). I'm afraid that if I meet someone that I actually like, I will ruin it like I have in the past.\n\nI'll give an example. I was seeing a man for several months, and I really liked him. He was a total gentleman the whole time, and he was intellectually stimulating, nice, and we had fun together. However, when things started to get serious, I couldn't bring myself to talk to him anymore.\n\nFast forward a few months, I am drunk at a football game and I meet a guy. We sleep together and we end up dating for almost a year, despite my significant lack of interest and trust in him. I only broke up with him when he started going crazy (telling me I wasn't allowed to talk to men, wear revealing clothes, etc.).\n\nReddit, why can't I sleep with a guy that I actually like and trust? What is wrong with me? How do I fix this?  As a guy, I honestly have the same problem. I find it almost awkward or weird getting intimate or serious with someone that I really know rather than say a one time fling. I have no problems with a drunken fling with a girl (obviously only doing what there comfortable with) but trying something with someone that I really know and appreciate, I just can't bear myself to do that. I think about it a lot and sometimes it gets to me but at the end of the day I always end up with the same positive outlook that yeah, eventually everything will work out. I don't have any advice as of right now but don't think that there is anything wrong with yourself, I think that's a bad way to view it. Just know that it's not only girls who can feel this way.  You sound like me. When the situation is convenient, I just go for it, but when the situation is ideal, there's this fear that grips me and I run away. Perhaps you're different, for me it was a combination of trust issues, loneliness and indifference. Even when I trust someone, sometimes I push them away, I don't know why, I just do. I learned to handle it, but that internal fear is always there. It's different for my fiance because I known the man for seven years.   I used to do something similar. Whenever I met a great person, I would essentially self-sabotage. I have a wild enough past, and there are some parts of it that I'm not proud of. I got caught in between \"Wow, this is such an awesome person. I hope they think well of me!\" and \"I am such a class A fuckup,\" and so I would pull myself back in the hopes that they'd never get close enough to see the less-than-shiny bits. \n\nBut some random? Totally fine. If I didn't care about them, it didn't matter what they saw. Their opinion of me held no value and no weight, so I could be myself in all the glorious disaster that I was. I didn't have to give them anything, or let them access who I really was. \n\nIt took me a while to get past it. I had to start valuing myself as more than my past. I used to see the part of me that was an addict, and now I still see that part but I also see the part that was strong enough to ask for help and who kicked the habit. I used to see my \"number\" as a bad thing, but now it means that I'm a confident woman who gets what she wants. You have to shift your entire paradigm, but you have to do it yourself before you can bring another person into the mix. Convince *yourself* that you're awesome and you deserve good things, and you do not need to have bad things in your life. Even if you have to fake it til you make it, you're going to make it.    ",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/1948ri/i_cant_get_myself_to_sleep_with_men_that_i_have/"
   } ],
-  "processing-time-source" : 57,
+  "processing-time-source" : 86,
   "processing-result.title" : "twoxchromosomes2_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes2_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes2_reddit.xml"
   }
 }

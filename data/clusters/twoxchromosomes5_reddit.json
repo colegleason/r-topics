@@ -1,197 +1,188 @@
 {
-  "processing-time-total" : 2368,
+  "processing-time-total" : 2533,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
-    "score" : 72.54561833035815,
+    "score" : 72.12086773223118,
     "phrases" : [ "Serious Relationship" ],
     "documents" : [ 1, 3, 26, 35, 38, 47, 48, 49 ],
     "attributes" : {
-      "score" : 72.54561833035815
+      "score" : 72.12086773223118
     }
   }, {
     "id" : 1,
-    "size" : 6,
-    "score" : 51.16922484082285,
-    "phrases" : [ "Hurtful to another Person" ],
-    "documents" : [ 3, 5, 33, 35, 41, 47 ],
+    "size" : 5,
+    "score" : 47.59680149500101,
+    "phrases" : [ "Feel Stupid by People that don't Like" ],
+    "documents" : [ 5, 34, 41, 47, 49 ],
     "attributes" : {
-      "score" : 51.16922484082285
+      "score" : 47.59680149500101
     }
   }, {
     "id" : 2,
-    "size" : 6,
-    "score" : 36.78257764463985,
-    "phrases" : [ "Watching all your Friends find New Friends" ],
-    "documents" : [ 3, 5, 34, 38, 40, 49 ],
+    "size" : 5,
+    "score" : 83.9473670054229,
+    "phrases" : [ "New Job" ],
+    "documents" : [ 5, 11, 34, 46, 49 ],
     "attributes" : {
-      "score" : 36.78257764463985
+      "score" : 83.9473670054229
     }
   }, {
     "id" : 3,
     "size" : 5,
-    "score" : 33.85185604506534,
-    "phrases" : [ "Favorite" ],
-    "documents" : [ 4, 15, 20, 29, 47 ],
+    "score" : 33.732129497676546,
+    "phrases" : [ "Pick" ],
+    "documents" : [ 1, 3, 24, 47, 48 ],
     "attributes" : {
-      "score" : 33.85185604506534
+      "score" : 33.732129497676546
     }
   }, {
     "id" : 4,
     "size" : 5,
-    "score" : 96.32771312641967,
-    "phrases" : [ "New Job" ],
-    "documents" : [ 5, 11, 34, 46, 49 ],
-    "attributes" : {
-      "score" : 96.32771312641967
-    }
-  }, {
-    "id" : 5,
-    "size" : 5,
-    "score" : 34.640687814314944,
-    "phrases" : [ "Pick" ],
-    "documents" : [ 1, 3, 24, 47, 48 ],
-    "attributes" : {
-      "score" : 34.640687814314944
-    }
-  }, {
-    "id" : 6,
-    "size" : 5,
-    "score" : 26.309040413386732,
-    "phrases" : [ "Seek Help" ],
-    "documents" : [ 33, 35, 38, 47, 49 ],
-    "attributes" : {
-      "score" : 26.309040413386732
-    }
-  }, {
-    "id" : 7,
-    "size" : 5,
-    "score" : 109.11971520571934,
+    "score" : 124.0365230458837,
     "phrases" : [ "Sex Drive" ],
     "documents" : [ 3, 33, 37, 45, 48 ],
     "attributes" : {
-      "score" : 109.11971520571934
+      "score" : 124.0365230458837
     }
   }, {
-    "id" : 8,
+    "id" : 5,
     "size" : 4,
-    "score" : 37.58632067097411,
-    "phrases" : [ "Extremely Fine" ],
-    "documents" : [ 3, 10, 34, 47 ],
-    "attributes" : {
-      "score" : 37.58632067097411
-    }
-  }, {
-    "id" : 9,
-    "size" : 4,
-    "score" : 64.91290547611365,
+    "score" : 70.80980152056976,
     "phrases" : [ "Female Doctors" ],
     "documents" : [ 3, 5, 33, 47 ],
     "attributes" : {
-      "score" : 64.91290547611365
+      "score" : 70.80980152056976
+    }
+  }, {
+    "id" : 6,
+    "size" : 4,
+    "score" : 50.723998366754415,
+    "phrases" : [ "Shirt" ],
+    "documents" : [ 0, 14, 34, 41 ],
+    "attributes" : {
+      "score" : 50.723998366754415
+    }
+  }, {
+    "id" : 7,
+    "size" : 3,
+    "score" : 36.2846310845827,
+    "phrases" : [ "Accident" ],
+    "documents" : [ 17, 47, 49 ],
+    "attributes" : {
+      "score" : 36.2846310845827
+    }
+  }, {
+    "id" : 8,
+    "size" : 3,
+    "score" : 50.99122859178389,
+    "phrases" : [ "Cup" ],
+    "documents" : [ 5, 9, 32 ],
+    "attributes" : {
+      "score" : 50.99122859178389
+    }
+  }, {
+    "id" : 9,
+    "size" : 3,
+    "score" : 73.554023801358,
+    "phrases" : [ "Fact that even though the Fight" ],
+    "documents" : [ 17, 35, 47 ],
+    "attributes" : {
+      "score" : 73.554023801358
     }
   }, {
     "id" : 10,
     "size" : 3,
-    "score" : 52.71381790739631,
-    "phrases" : [ "Abortion" ],
-    "documents" : [ 3, 21, 33 ],
+    "score" : 57.249831494279896,
+    "phrases" : [ "IFF" ],
+    "documents" : [ 0, 2, 27 ],
     "attributes" : {
-      "score" : 52.71381790739631
+      "score" : 57.249831494279896
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 41.08187445192013,
-    "phrases" : [ "Accident" ],
-    "documents" : [ 17, 47, 49 ],
+    "score" : 64.85572407477399,
+    "phrases" : [ "Mirena" ],
+    "documents" : [ 19, 42, 44 ],
     "attributes" : {
-      "score" : 41.08187445192013
+      "score" : 64.85572407477399
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 61.227834113747086,
-    "phrases" : [ "Fact that even though the Fight" ],
-    "documents" : [ 17, 35, 47 ],
+    "score" : 49.081787936309674,
+    "phrases" : [ "Normal Day of myself not Showering" ],
+    "documents" : [ 3, 5, 34 ],
     "attributes" : {
-      "score" : 61.227834113747086
+      "score" : 49.081787936309674
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 44.508661418604675,
-    "phrases" : [ "IFF" ],
-    "documents" : [ 0, 2, 27 ],
-    "attributes" : {
-      "score" : 44.508661418604675
-    }
-  }, {
-    "id" : 14,
-    "size" : 3,
-    "score" : 67.78652271428668,
-    "phrases" : [ "Mirena" ],
-    "documents" : [ 19, 42, 44 ],
-    "attributes" : {
-      "score" : 67.78652271428668
-    }
-  }, {
-    "id" : 15,
-    "size" : 3,
-    "score" : 50.971317553309696,
-    "phrases" : [ "Yeast Infections" ],
-    "documents" : [ 3, 5, 45 ],
-    "attributes" : {
-      "score" : 50.971317553309696
-    }
-  }, {
-    "id" : 16,
-    "size" : 3,
-    "score" : 118.52230809145941,
+    "score" : 122.75137416591804,
     "phrases" : [ "Young Women" ],
     "documents" : [ 1, 28, 48 ],
     "attributes" : {
-      "score" : 118.52230809145941
+      "score" : 122.75137416591804
+    }
+  }, {
+    "id" : 14,
+    "size" : 2,
+    "score" : 68.95071926134717,
+    "phrases" : [ "Abnormal" ],
+    "documents" : [ 18, 30 ],
+    "attributes" : {
+      "score" : 68.95071926134717
+    }
+  }, {
+    "id" : 15,
+    "size" : 2,
+    "score" : 96.39112386635273,
+    "phrases" : [ "Egg Donation" ],
+    "documents" : [ 20, 43 ],
+    "attributes" : {
+      "score" : 96.39112386635273
+    }
+  }, {
+    "id" : 16,
+    "size" : 2,
+    "score" : 41.274548934915,
+    "phrases" : [ "Report" ],
+    "documents" : [ 16, 38 ],
+    "attributes" : {
+      "score" : 41.274548934915
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 84.92203908169988,
-    "phrases" : [ "Egg Donation" ],
-    "documents" : [ 20, 43 ],
+    "score" : 38.96115857477027,
+    "phrases" : [ "Ring" ],
+    "documents" : [ 8, 19 ],
     "attributes" : {
-      "score" : 84.92203908169988
+      "score" : 38.96115857477027
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 37.90874244399687,
-    "phrases" : [ "Scars on my Face" ],
-    "documents" : [ 12, 47 ],
-    "attributes" : {
-      "score" : 37.90874244399687
-    }
-  }, {
-    "id" : 19,
-    "size" : 2,
-    "score" : 56.99389952455568,
+    "score" : 59.69147752204758,
     "phrases" : [ "Washing your Vagina" ],
     "documents" : [ 5, 6 ],
     "attributes" : {
-      "score" : 56.99389952455568
+      "score" : 59.69147752204758
     }
   }, {
-    "id" : 20,
+    "id" : 19,
     "size" : 15,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 7, 8, 9, 13, 14, 16, 18, 22, 23, 25, 30, 31, 32, 36, 39 ],
+    "documents" : [ 4, 7, 10, 12, 13, 15, 21, 22, 23, 25, 29, 31, 36, 39, 40 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2307,
+  "processing-time-algorithm" : 2460,
   "documents" : [ {
     "id" : 0,
     "title" : "[IFF]:  I just finished sewing my boyfriend a new shirt!",
@@ -437,9 +428,9 @@
     "snippet" : "I've never posted anything here before- this is obv. a throwaway account. I guess I’m just wondering if therapy actually works for people, or if it will work for me. Or if I just need better friends to actually listen.\n\nDoes anyone here- cry? Every day, every other day. I do it a lot. I’ve gotten better at it during the years, enough that I can cry in class and the person next to me doesn’t even notice. Same on the train during my commute. Well I’m kind of sick of it to be honest. I’m sick of being in class, doing work, and then all it takes is some stupid little thought or insecurity to come waltzing into my head and I’ll start tearing up and just lose concentration in class.\n\nI guess that might be the first problem. Thoughts. I’m a constant daydreamer, I can’t help it. I can zone out for a good amount of time, and just warp myself up in my own world. There I’m beautiful, and have friends, and people actually want to talk to me and actually be my friend and my boyfriend has eyes for me alone, and my roomates actually wanted me to move in to be their friend and not just another person to pay the bills. Dammit I’m tearing up again, and this time in the library. Stupid little immature thoughts that just get to me. I moved halfway across the nation for university, trying to escape all my problems and insecurities in my home state. Freshman year I was single and made so many new friends. Sophmore year it seems my insecurities finally caught up to me again.\n\nThis always happens when I get a boyfriend, I’ve never really known what it’s like to be single except for a couple months. Someone always claims me, and the thought seems nice because it makes me feel like I’m welI enough of a person that someone notices me and wants to be my friend and wants to love me. I love being in relationship, but they bring out all the sadness in me because of my low self-esteem. I just want to make someone happy and be perfect and in return have them just love me and be there for me. Crap. Crap. Crap. \n\nI love to daydream, it gets me happy and gives me a burst of energy (kind makes me pace a lot too... made for an awkward enough adolescence when you’re accidently blurting out dialogue from  a daydream or smiling at nothing). But it’s also a little annoying to others, like every now and then someone asking me a question or my boyfriend telling me a story. I’ve gotten good at remembering the last couple sentences and going from there- the only one that notices that is my boyfriend and it annoys him. I just get so preoccupied in my own thoughts, it will make a task like just DOING stuff take longer. “Hey can you get water from the kitchen?” I go to the kitchen…well wander to there… and then get there stand there for a bit and return empty handed (obv. doesn’t happen ALL the time, but enough that it’s a ‘thing’). My boyfriend thinks it’s a cute quirk of mine. It makes me feel stupid and useless.\n\nWhat he doesn’t think is cute is my crying over nothing. He claims he’s been depressed though, and that is encouraging to me but I feel like we my still be on different pages. I mean, no two depressed people are the same and deal with the same issues….right? He used to think it was kind of cute, again, that I was so sensitive. It always starts that way… I cry a little at first, they give me comfort and hugs and love. But it just doesn’t go away, and then instead of being understanding it’s defensive and anger towards my crying. “you’re embarrassing me, people are going to think I’m a woman abuser or something!” “Is this your way of punishing me?” And what do I do? Cry. Cry as I watch my emotions ruin everything.\n\nI can be happy too though. Sometimes I can be confident, and even somewhat witty and feel smart. I feel like I get a little annoying when I’m happy and even a bit too spontaneous. \n\nI don’t know what to write anymore. Writing this felt nice, but I doubt it will actually fix anything. \n  You really should see a therapist, or even a psychiatrist so that you could possibly get prescribed an antidepressant. You can start by reaching out to your college's counseling center, which would have plenty of resources for your process of seeking help.\n\nA lot of people are put off by the thought of therapists and antidepressants, but it could make a HUGE difference in your quality of life if this is being caused by a chemical imbalance. \n\nCrying is normal. Crying at little things once in a while is normal. Crying all the time is not normal, and you seem to recognize that. This sounds like depression. Daydreaming is also very common, but you might want to consider ADHD could have a role to play in your inability to focus on reality. At times you are happy, maybe too happy. Be ready to hear the possibility of being bipolar, which has a strong stigma surrounding it, but it is a very manageable disorder. Now, I am NOT a psychiatrist but I have a lot of experience with mental disorders. I am not qualified to dispense any diagnoses, especially over the internet based on a few paragraphs. I am really just trying to give you my opinion on what might be causing some of your problems and what psychiatrists might see from a description similar to this.\n\nYour boyfriend sounds as if he could potentially be a very supportive partner if you decide to seek help, which I highly recommend. It is hard to continue being with someone who won't help themselves. You need to help yourself by seeking help. You sound like an extremely bright and capable woman. Seek help. This post is a great first step in recognizing that there are things you can do to change what is wrong in your life.\n\nFinally, as for whether therapy actually helps, I've seen a few therapists in my time and my biggest advice is don't settle for a therapist who you are not comfortable with. Therapists need to be a good fit for you in order to help. Once I learned that, I made a lot of progress with a therapist that fit me.\n\nI wish you the best of luck dear! Keep your head up and let good things come your way. &lt;3 You really should see a therapist, or even a psychiatrist so that you could possibly get prescribed an antidepressant. You can start by reaching out to your college's counseling center, which would have plenty of resources for your process of seeking help.\n\nA lot of people are put off by the thought of therapists and antidepressants, but it could make a HUGE difference in your quality of life if this is being caused by a chemical imbalance. \n\nCrying is normal. Crying at little things once in a while is normal. Crying all the time is not normal, and you seem to recognize that. This sounds like depression. Daydreaming is also very common, but you might want to consider ADHD could have a role to play in your inability to focus on reality. At times you are happy, maybe too happy. Be ready to hear the possibility of being bipolar, which has a strong stigma surrounding it, but it is a very manageable disorder. Now, I am NOT a psychiatrist but I have a lot of experience with mental disorders. I am not qualified to dispense any diagnoses, especially over the internet based on a few paragraphs. I am really just trying to give you my opinion on what might be causing some of your problems and what psychiatrists might see from a description similar to this.\n\nYour boyfriend sounds as if he could potentially be a very supportive partner if you decide to seek help, which I highly recommend. It is hard to continue being with someone who won't help themselves. You need to help yourself by seeking help. You sound like an extremely bright and capable woman. Seek help. This post is a great first step in recognizing that there are things you can do to change what is wrong in your life.\n\nFinally, as for whether therapy actually helps, I've seen a few therapists in my time and my biggest advice is don't settle for a therapist who you are not comfortable with. Therapists need to be a good fit for you in order to help. Once I learned that, I made a lot of progress with a therapist that fit me.\n\nI wish you the best of luck dear! Keep your head up and let good things come your way. &lt;3  Ah, my dear...I know what's wrong with you, you're a human.\n\nYou sound a lot like me. I've had depression before and YES, going and talking to a therapist helped me a lot. I don't believe I'll ever be over it completely 100% and I still randomly cry at times (even when it seems at times that I've got nothing to cry about), but I do definitely feel a lot better now.\n\nYou sound like you have some self-esteem issues and may indeed be depressed (I'm no doctor so I can't say for absolute certainty). We all feel doubtful of ourselves at times and if you didn't doubt yourself, you wouldn't be human. Relationships can often bring out of insecurities as well and you'd be hard-pressed to find a person who didn't experience the same self-doubt issues you described while you are in one.\n\nJust remember, none of your feelings are worthless and they all mean something. Just be honest with your boyfriend about what you're feeling, he's not a psychic...a good therapist can help you become more in touch with your self-doubt issues and depression. Ah, my dear...I know what's wrong with you, you're a human.\n\nYou sound a lot like me. I've had depression before and YES, going and talking to a therapist helped me a lot. I don't believe I'll ever be over it completely 100% and I still randomly cry at times (even when it seems at times that I've got nothing to cry about), but I do definitely feel a lot better now.\n\nYou sound like you have some self-esteem issues and may indeed be depressed (I'm no doctor so I can't say for absolute certainty). We all feel doubtful of ourselves at times and if you didn't doubt yourself, you wouldn't be human. Relationships can often bring out of insecurities as well and you'd be hard-pressed to find a person who didn't experience the same self-doubt issues you described while you are in one.\n\nJust remember, none of your feelings are worthless and they all mean something. Just be honest with your boyfriend about what you're feeling, he's not a psychic...a good therapist can help you become more in touch with your self-doubt issues and depression.  I secretly cry all the time. It's--well. I do have lots of reasons, but sometimes I just cry. A lot. I'm overly emotional, it happens. Usually it's cathartic, but I recently went through a period of daily sobbing and it just seemed to fuel more crying, if anything.   \n\nI felt completely drained and significantly better after my last big cry, though, which is genuinely helpful. I don't know what to say. Life is difficult. I don't really talk about this with many people; it's just my burden to bear.   \n\n\"Laugh when you can, cry when you must,\" have always been the words I've lived by. I'm sorry things have been difficult for you. I can relate very much to the dreaminess and emotionality you describe, and while everyone has their own path and you should do what works for you personally, I've found little of value in therapy and psychiatry and much to value in daydreams and sincere bursts of emotion. It's a harder path, I think, to see tears and spaciness as virtues, but it's what's helped me live my life. Hopefully you'll find something that works for you.  That definitely sounds like depression.\n\nThat also sounds exactly like what I was going through at one point.\n\nI still daydream pretty much all the time, and up until recently I was in constant relationships for more than two years.\n\nTo be honest, try *not* being in a relationship. It doesn't have to be right now, I see that you're currently in one, but trust me. You'll start to realize the benefits of loving yourself and you will start to realize that a relationship is only good if you're both caring for each other and needing each other equally. I'm not goig to lie I feel a lot more confident and happy when I'm alone, thing is t always generates some sort of attention (girl having coffee and listening to music alone attracts more vultures than I thought) and gah in suh a sucker for a guy with charm and I just fall for it and get sexual and stuff.   If you can't get to counseling and feel hopeless still, try [this website](https://moodgym.anu.edu.au/welcome) out.  It's a little cheesy, but it's basically cognitive behavioral therapy for free, at your own leisure.  It will help you sort out those warped thoughts of yours.  &lt;3  \n\nI think you're normal, just going through depression, and dealing with the young people blues.  I had it for years til recently, somehow at 28 I've come out of it.  All my friends dealt with it in some shade.  Being young is hard.  I'm not trying to sound patronizing... I genuinely wouldn't trade the wisdom, experience, and security that comes with time and age for any of the stuff I felt in my early 20s and late teens.  There's so much pressure on you and all these expectations out of life that have been building up through your teens that might not match reality.  There's your first big relationships, first big jobs, moving away from home, watching all your friends find new friends and fall out of touch... there's so much going on at that stage of life.  Don't think for a minute you are the only one out there who feels like that. If you can't get to counseling and feel hopeless still, try [this website](https://moodgym.anu.edu.au/welcome) out.  It's a little cheesy, but it's basically cognitive behavioral therapy for free, at your own leisure.  It will help you sort out those warped thoughts of yours.  &lt;3  \n\nI think you're normal, just going through depression, and dealing with the young people blues.  I had it for years til recently, somehow at 28 I've come out of it.  All my friends dealt with it in some shade.  Being young is hard.  I'm not trying to sound patronizing... I genuinely wouldn't trade the wisdom, experience, and security that comes with time and age for any of the stuff I felt in my early 20s and late teens.  There's so much pressure on you and all these expectations out of life that have been building up through your teens that might not match reality.  There's your first big relationships, first big jobs, moving away from home, watching all your friends find new friends and fall out of touch... there's so much going on at that stage of life.  Don't think for a minute you are the only one out there who feels like that.  It's probably more complicated that this, but what medications are you taking? Do you take birth control? My roommate in college was taking some for awhile (I forget which brand) that seriously had a side effect of \"uncontrollable crying.\" She had to switch birth control because of it.\n\nIt sounds like you need something that would give you another outlet for emotions and a confidence boost, maybe you could take up a sport through your college, like kickboxing or judo or something similar.   What the fuck did Tazo ever do to you? The calm flavor did little for my mood",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18zfr5/if_anyone_has_a_minute_or_two_to_waste_i_thought/"
   } ],
-  "processing-time-source" : 61,
+  "processing-time-source" : 73,
   "processing-result.title" : "twoxchromosomes5_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes5_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes5_reddit.xml"
   }
 }

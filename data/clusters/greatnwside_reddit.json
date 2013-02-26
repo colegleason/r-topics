@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1628,
+  "processing-time-total" : 1573,
   "clusters" : [ {
     "id" : 0,
     "size" : 36,
@@ -353,7 +353,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1513,
+  "processing-time-algorithm" : 1449,
   "documents" : [ {
     "id" : 0,
     "title" : "Jefferson Park Chamber of Commerce gets New Logo",
@@ -1150,7 +1150,7 @@
     "snippet" : "**PC Here Chicago**, the go to place in Six Corners,  for color laser outputs, BW output, fax service, and computer hardware and software repairs. They also rent computers on site for internet use, word processing, graphic design, and video and sound editing.\n\n\n**While you wait or Order ahead via Email:**\n\nAffordable Color laser output up to 11x17 inches, high speed BW output, and fax service. \n\n\n**Scanning Workstation:**\n\nDigitize your transparencies, slides, reflective artwork, prints and documents.\n\n\n**Sluggish, Virus Infected and Machines needing Updates or Repairs:**\n\nSave your files, reformat your drive and reinstall Windows, $65.00\n\n\n\n**Come with a Friend or Hangout Alone for Internet Access:**\n\n1/4, 1/2. full hour PC computer workstations for internet and business use.\n\n*Stop in, mention Reddit, WikiBlocks, or CircleSavvy, and get one free hour of computer use. Bring a few friends spend an hour on the house.*\n\nWe're right across the street from The Portage Theater. Ample street parking.\n\nhttp://pcherechicago.com/\n\nOpen daily until 1AM 7 days a week.\n\n4055 N. MILWAUKEE AVENUE, CHICAGO, IL 60641\n(773) 736-3900\nEMAIL: pc_here_michael@live.com   That website would've been bad even if it was made in 1994. (This is a useful business to have in a neighborhood, though.) Yeah, know what you mean. I like the anachronistic look of the website. It says when they close but not when they open.  Whenever they roll out of bed? Click on \"ancestors\" too.  I got a weird Star Wars control panel type graphic. where? On the pc here website click ancestor ",
     "url" : "http://www.reddit.com/r/greatNWside/comments/18pl5z/pc_here_the_go_to_place_in_six_corners_chicago/"
   } ],
-  "processing-time-source" : 115,
+  "processing-time-source" : 124,
   "processing-result.title" : "greatnwside_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/greatnwside_reddit.xml"

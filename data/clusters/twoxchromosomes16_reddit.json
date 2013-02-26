@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 2960,
+  "processing-time-total" : 3366,
   "clusters" : [ {
     "id" : 0,
-    "size" : 9,
-    "score" : 55.25770702913262,
-    "phrases" : [ "Run" ],
-    "documents" : [ 2, 8, 14, 19, 26, 31, 34, 37, 44 ],
+    "size" : 12,
+    "score" : 40.587703755778726,
+    "phrases" : [ "Job" ],
+    "documents" : [ 2, 7, 10, 14, 15, 18, 26, 27, 37, 44, 46, 48 ],
     "attributes" : {
-      "score" : 55.25770702913262
+      "score" : 40.587703755778726
     }
   }, {
     "id" : 1,
-    "size" : 8,
-    "score" : 48.135337915120196,
-    "phrases" : [ "People have no Fucking Right to Tell" ],
-    "documents" : [ 1, 2, 8, 9, 19, 26, 34, 37 ],
+    "size" : 10,
+    "score" : 29.646818987339604,
+    "phrases" : [ "Family is Family" ],
+    "documents" : [ 2, 4, 5, 9, 15, 26, 37, 44, 45, 46 ],
     "attributes" : {
-      "score" : 48.135337915120196
+      "score" : 29.646818987339604
     }
   }, {
     "id" : 2,
-    "size" : 7,
-    "score" : 38.55906474562702,
-    "phrases" : [ "Extremely Happy" ],
-    "documents" : [ 2, 3, 17, 26, 34, 37, 44 ],
+    "size" : 9,
+    "score" : 59.821131136884006,
+    "phrases" : [ "Run" ],
+    "documents" : [ 2, 8, 14, 19, 26, 31, 34, 37, 44 ],
     "attributes" : {
-      "score" : 38.55906474562702
+      "score" : 59.821131136884006
     }
   }, {
     "id" : 3,
-    "size" : 6,
-    "score" : 105.88872961446852,
-    "phrases" : [ "Young Women" ],
-    "documents" : [ 2, 14, 19, 29, 36, 37 ],
+    "size" : 8,
+    "score" : 43.388234892897344,
+    "phrases" : [ "Girls who Look" ],
+    "documents" : [ 1, 8, 18, 26, 33, 34, 37, 43 ],
     "attributes" : {
-      "score" : 105.88872961446852
+      "score" : 43.388234892897344
     }
   }, {
     "id" : 4,
-    "size" : 5,
-    "score" : 41.15523289621865,
-    "phrases" : [ "Birth Control" ],
-    "documents" : [ 2, 7, 14, 15, 22 ],
+    "size" : 7,
+    "score" : 42.29990287314451,
+    "phrases" : [ "Extremely Happy" ],
+    "documents" : [ 2, 3, 17, 26, 34, 37, 44 ],
     "attributes" : {
-      "score" : 41.15523289621865
+      "score" : 42.29990287314451
     }
   }, {
     "id" : 5,
-    "size" : 4,
-    "score" : 48.92275496768959,
-    "phrases" : [ "Facebook but also your Life" ],
-    "documents" : [ 8, 26, 37, 46 ],
+    "size" : 6,
+    "score" : 41.94392069115971,
+    "phrases" : [ "Sex Drive" ],
+    "documents" : [ 3, 8, 18, 26, 29, 37 ],
     "attributes" : {
-      "score" : 48.92275496768959
+      "score" : 41.94392069115971
     }
   }, {
     "id" : 6,
-    "size" : 4,
-    "score" : 36.538710962368626,
-    "phrases" : [ "Gained Weight" ],
-    "documents" : [ 2, 18, 40, 47 ],
+    "size" : 5,
+    "score" : 32.70056419787765,
+    "phrases" : [ "Reddit" ],
+    "documents" : [ 2, 17, 33, 37, 40 ],
     "attributes" : {
-      "score" : 36.538710962368626
+      "score" : 32.70056419787765
     }
   }, {
     "id" : 7,
-    "size" : 4,
-    "score" : 78.75163104348447,
-    "phrases" : [ "Oral Sex" ],
-    "documents" : [ 1, 3, 8, 49 ],
+    "size" : 5,
+    "score" : 64.15099512526987,
+    "phrases" : [ "Started Texting" ],
+    "documents" : [ 8, 26, 33, 34, 45 ],
     "attributes" : {
-      "score" : 78.75163104348447
+      "score" : 64.15099512526987
     }
   }, {
     "id" : 8,
-    "size" : 3,
-    "score" : 32.51558958307534,
-    "phrases" : [ "Choices Affect those who Look" ],
-    "documents" : [ 2, 14, 37 ],
+    "size" : 5,
+    "score" : 108.61872242739132,
+    "phrases" : [ "Young Women" ],
+    "documents" : [ 2, 14, 19, 29, 37 ],
     "attributes" : {
-      "score" : 32.51558958307534
+      "score" : 108.61872242739132
     }
   }, {
     "id" : 9,
-    "size" : 3,
-    "score" : 73.73625821488586,
-    "phrases" : [ "New Guy Friend you were Texting" ],
-    "documents" : [ 26, 33, 34 ],
+    "size" : 4,
+    "score" : 38.54140285736041,
+    "phrases" : [ "Gained Weight" ],
+    "documents" : [ 2, 18, 40, 47 ],
     "attributes" : {
-      "score" : 73.73625821488586
+      "score" : 38.54140285736041
     }
   }, {
     "id" : 10,
-    "size" : 3,
-    "score" : 49.084881580799,
-    "phrases" : [ "Pads" ],
-    "documents" : [ 14, 30, 41 ],
+    "size" : 4,
+    "score" : 44.130809648871235,
+    "phrases" : [ "Open Relationship" ],
+    "documents" : [ 3, 34, 37, 45 ],
     "attributes" : {
-      "score" : 49.084881580799
+      "score" : 44.130809648871235
     }
   }, {
     "id" : 11,
-    "size" : 3,
-    "score" : 58.33549308073749,
-    "phrases" : [ "Reality Check" ],
-    "documents" : [ 6, 19, 26 ],
+    "size" : 4,
+    "score" : 47.210095637974426,
+    "phrases" : [ "Oral Sex" ],
+    "documents" : [ 1, 3, 8, 49 ],
     "attributes" : {
-      "score" : 58.33549308073749
+      "score" : 47.210095637974426
     }
   }, {
     "id" : 12,
-    "size" : 3,
-    "score" : 43.7544084864048,
-    "phrases" : [ "Social Media" ],
-    "documents" : [ 20, 26, 37 ],
+    "size" : 4,
+    "score" : 34.86101189578785,
+    "phrases" : [ "Start of his Friendship with a Girl" ],
+    "documents" : [ 26, 33, 34, 37 ],
     "attributes" : {
-      "score" : 43.7544084864048
+      "score" : 34.86101189578785
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 48.56804979839434,
-    "phrases" : [ "Underwear" ],
-    "documents" : [ 0, 8, 30 ],
+    "score" : 59.12089890329933,
+    "phrases" : [ "Help that I don't Eat Dinner" ],
+    "documents" : [ 2, 37, 40 ],
     "attributes" : {
-      "score" : 48.56804979839434
+      "score" : 59.12089890329933
     }
   }, {
     "id" : 14,
-    "size" : 2,
-    "score" : 51.19876962064269,
-    "phrases" : [ "Career Killing" ],
-    "documents" : [ 26, 37 ],
+    "size" : 3,
+    "score" : 56.706719513840945,
+    "phrases" : [ "Pads" ],
+    "documents" : [ 14, 30, 41 ],
     "attributes" : {
-      "score" : 51.19876962064269
+      "score" : 56.706719513840945
     }
   }, {
     "id" : 15,
-    "size" : 2,
-    "score" : 109.00507693686914,
-    "phrases" : [ "Leg Hair and I Shaved my Legs" ],
-    "documents" : [ 21, 43 ],
+    "size" : 3,
+    "score" : 52.62164059677957,
+    "phrases" : [ "Underwear" ],
+    "documents" : [ 0, 8, 30 ],
     "attributes" : {
-      "score" : 109.00507693686914
+      "score" : 52.62164059677957
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 50.016582735439606,
-    "phrases" : [ "New Insurance Plans" ],
-    "documents" : [ 15, 22 ],
+    "score" : 44.31592814992824,
+    "phrases" : [ "Epilators" ],
+    "documents" : [ 23, 43 ],
     "attributes" : {
-      "score" : 50.016582735439606
+      "score" : 44.31592814992824
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 56.537286680163504,
-    "phrases" : [ "Piercing" ],
-    "documents" : [ 36, 38 ],
+    "score" : 53.310334660563804,
+    "phrases" : [ "New Insurance Plans" ],
+    "documents" : [ 15, 22 ],
     "attributes" : {
-      "score" : 56.537286680163504
+      "score" : 53.310334660563804
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 55.610225399601255,
-    "phrases" : [ "Vagina Smells" ],
-    "documents" : [ 8, 30 ],
+    "score" : 58.22050630784199,
+    "phrases" : [ "Piercing" ],
+    "documents" : [ 36, 38 ],
     "attributes" : {
-      "score" : 55.610225399601255
+      "score" : 58.22050630784199
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 80.88010293842599,
-    "phrases" : [ "Worst Abortion" ],
-    "documents" : [ 9, 14 ],
+    "score" : 113.6564097925247,
+    "phrases" : [ "Shave her Legs" ],
+    "documents" : [ 21, 43 ],
     "attributes" : {
-      "score" : 80.88010293842599
+      "score" : 113.6564097925247
     }
   }, {
     "id" : 20,
-    "size" : 18,
+    "size" : 2,
+    "score" : 69.81596649172462,
+    "phrases" : [ "Worst Abortion" ],
+    "documents" : [ 9, 14 ],
+    "attributes" : {
+      "score" : 69.81596649172462
+    }
+  }, {
+    "id" : 21,
+    "size" : 13,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 4, 5, 10, 11, 12, 13, 16, 23, 24, 25, 27, 28, 32, 35, 39, 42, 45, 48 ],
+    "documents" : [ 6, 11, 12, 13, 16, 20, 24, 25, 28, 32, 35, 39, 42 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2897,
+  "processing-time-algorithm" : 3227,
   "documents" : [ {
     "id" : 0,
     "title" : "The only time I wear my sexiest underwear is on laundry day when everything else is in the wash, am I the only one?",
@@ -441,9 +450,9 @@
     "snippet" : "Long story short: I probably have herpes. I won't know the diagnosis, but the doctor took one look and said \"I'm going to go ahead and start you on herpes medication.\" \n\n\nI guess now I have to inform the guy I got it from- who told me he was clean. Honestly, he might not have known, or he might have thought that HSV-1 (oral herpes) wasn't transferable through oral sex. \n\n\nI'm oscillating on a spectrum of feeling throroughy worthless/unclean and being rational about it. It's still very surreal. I'm going to have to caveat emptor my sex life from here on out. I'm going to have to get used to more frequent and emotionally scarring rejections. \n\nI just need to vent. I need stories of how you rose above the stigma of having herpes, especially since the stigma is particularly prevelant in the United States.\n\nGive me your survival/thrival tips: how do you go about informing new partners/old partners? How do you deal with outbreaks? How do you deal?\n\n\nI don't know what I'm going to do.   ",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18hkmc/had_a_devastating_visit_to_my_universitys_womens/"
   } ],
-  "processing-time-source" : 63,
+  "processing-time-source" : 139,
   "processing-result.title" : "twoxchromosomes16_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes16_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes16_reddit.xml"
   }
 }

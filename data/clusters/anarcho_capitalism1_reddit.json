@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2114,
+  "processing-time-total" : 2267,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2027,
+  "processing-time-algorithm" : 2178,
   "documents" : [ {
     "id" : 0,
     "title" : "The Libertarian Republic now has forum boards, including one for ancaps and voluntaryists.",
@@ -451,7 +451,7 @@
     "snippet" : "  ",
     "url" : "http://india.nydailynews.com/newsarticle/7b470adb0a9b6c32e19e16a08df13f3d/buddhist-monk-is-the-worlds-happiest-man"
   } ],
-  "processing-time-source" : 87,
+  "processing-time-source" : 89,
   "processing-result.title" : "anarcho_capitalism1_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/anarcho_capitalism1_reddit.xml"

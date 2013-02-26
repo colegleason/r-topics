@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 2530,
+  "processing-time-total" : 2138,
   "clusters" : [ {
     "id" : 0,
-    "size" : 13,
-    "score" : 37.43111407736003,
-    "phrases" : [ "Picture" ],
-    "documents" : [ 0, 2, 6, 9, 14, 16, 22, 24, 30, 34, 37, 38, 40 ],
-    "attributes" : {
-      "score" : 37.43111407736003
-    }
-  }, {
-    "id" : 1,
     "size" : 10,
-    "score" : 57.66118978790678,
+    "score" : 55.57354307227195,
     "phrases" : [ "Shorts" ],
     "documents" : [ 2, 3, 4, 8, 12, 14, 18, 20, 26, 29 ],
     "attributes" : {
-      "score" : 57.66118978790678
+      "score" : 55.57354307227195
+    }
+  }, {
+    "id" : 1,
+    "size" : 7,
+    "score" : 35.40506565582916,
+    "phrases" : [ "Hours" ],
+    "documents" : [ 2, 5, 9, 34, 36, 45, 47 ],
+    "attributes" : {
+      "score" : 35.40506565582916
     }
   }, {
     "id" : 2,
     "size" : 7,
-    "score" : 32.14596582285137,
-    "phrases" : [ "Hours" ],
-    "documents" : [ 2, 5, 9, 34, 36, 45, 47 ],
+    "score" : 44.24669083279557,
+    "phrases" : [ "Photo" ],
+    "documents" : [ 2, 14, 24, 30, 35, 38, 39 ],
     "attributes" : {
-      "score" : 32.14596582285137
+      "score" : 44.24669083279557
     }
   }, {
     "id" : 3,
     "size" : 6,
-    "score" : 49.38869932491532,
-    "phrases" : [ "Feel Beautiful" ],
-    "documents" : [ 0, 9, 12, 20, 24, 26 ],
+    "score" : 54.476305552118916,
+    "phrases" : [ "Course it's your Place to Ask" ],
+    "documents" : [ 2, 5, 9, 12, 24, 39 ],
     "attributes" : {
-      "score" : 49.38869932491532
+      "score" : 54.476305552118916
     }
   }, {
     "id" : 4,
-    "size" : 5,
-    "score" : 26.39211262940676,
-    "phrases" : [ "Distance" ],
-    "documents" : [ 2, 18, 21, 40, 45 ],
+    "size" : 6,
+    "score" : 38.36176434035086,
+    "phrases" : [ "Feel Beautiful" ],
+    "documents" : [ 0, 9, 12, 20, 24, 26 ],
     "attributes" : {
-      "score" : 26.39211262940676
+      "score" : 38.36176434035086
     }
   }, {
     "id" : 5,
     "size" : 5,
-    "score" : 53.77855590841779,
-    "phrases" : [ "Guys Way of being with any Woman" ],
-    "documents" : [ 2, 5, 9, 12, 22 ],
+    "score" : 40.329584258585555,
+    "phrases" : [ "Shared with the World" ],
+    "documents" : [ 6, 9, 14, 24, 37 ],
     "attributes" : {
-      "score" : 53.77855590841779
+      "score" : 40.329584258585555
     }
   }, {
     "id" : 6,
-    "size" : 5,
-    "score" : 32.231778610257976,
-    "phrases" : [ "Life or Relationship Advice" ],
-    "documents" : [ 2, 11, 14, 24, 45 ],
+    "size" : 4,
+    "score" : 59.230153880450054,
+    "phrases" : [ "Light Period" ],
+    "documents" : [ 13, 36, 45, 47 ],
     "attributes" : {
-      "score" : 32.231778610257976
+      "score" : 59.230153880450054
     }
   }, {
     "id" : 7,
-    "size" : 5,
-    "score" : 69.84819986650517,
+    "size" : 4,
+    "score" : 39.86089079374618,
     "phrases" : [ "Talk to your Doctor" ],
-    "documents" : [ 5, 10, 15, 25, 45 ],
+    "documents" : [ 5, 10, 25, 45 ],
     "attributes" : {
-      "score" : 69.84819986650517
+      "score" : 39.86089079374618
     }
   }, {
     "id" : 8,
-    "size" : 4,
-    "score" : 25.143809545679844,
-    "phrases" : [ "Having Kids ever they Looked" ],
-    "documents" : [ 9, 20, 25, 49 ],
+    "size" : 3,
+    "score" : 67.62623992255486,
+    "phrases" : [ "Burning" ],
+    "documents" : [ 26, 33, 35 ],
     "attributes" : {
-      "score" : 25.143809545679844
+      "score" : 67.62623992255486
     }
   }, {
     "id" : 9,
     "size" : 3,
-    "score" : 36.7936205806187,
-    "phrases" : [ "Abortion once you do become Pregnant" ],
-    "documents" : [ 9, 21, 46 ],
+    "score" : 37.45319222437701,
+    "phrases" : [ "Emotional Abuse" ],
+    "documents" : [ 14, 24, 32 ],
     "attributes" : {
-      "score" : 36.7936205806187
+      "score" : 37.45319222437701
     }
   }, {
     "id" : 10,
     "size" : 3,
-    "score" : 75.07204803092259,
-    "phrases" : [ "Burning" ],
-    "documents" : [ 26, 33, 35 ],
+    "score" : 55.98473759664435,
+    "phrases" : [ "IUD's often Stop Periods" ],
+    "documents" : [ 10, 13, 25 ],
     "attributes" : {
-      "score" : 75.07204803092259
+      "score" : 55.98473759664435
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 31.214241776732862,
-    "phrases" : [ "Close Friends" ],
-    "documents" : [ 12, 21, 24 ],
+    "score" : 30.253564292617867,
+    "phrases" : [ "Long Distance Relationship" ],
+    "documents" : [ 2, 18, 45 ],
     "attributes" : {
-      "score" : 31.214241776732862
+      "score" : 30.253564292617867
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 45.643330722303176,
-    "phrases" : [ "Emotional Abuse" ],
-    "documents" : [ 14, 24, 32 ],
+    "score" : 65.23455237243378,
+    "phrases" : [ "Older Woman" ],
+    "documents" : [ 9, 12, 22 ],
     "attributes" : {
-      "score" : 45.643330722303176
+      "score" : 65.23455237243378
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 76.96735084134241,
-    "phrases" : [ "IFF my Sister" ],
-    "documents" : [ 9, 17, 19 ],
+    "score" : 61.11737910008974,
+    "phrases" : [ "Packed in with his Stuff" ],
+    "documents" : [ 14, 42, 44 ],
     "attributes" : {
-      "score" : 76.96735084134241
+      "score" : 61.11737910008974
     }
   }, {
     "id" : 14,
     "size" : 3,
-    "score" : 97.40916578626793,
-    "phrases" : [ "IUD's often Stop Periods" ],
-    "documents" : [ 10, 13, 25 ],
+    "score" : 36.35316416891309,
+    "phrases" : [ "Project" ],
+    "documents" : [ 14, 16, 32 ],
     "attributes" : {
-      "score" : 97.40916578626793
+      "score" : 36.35316416891309
     }
   }, {
     "id" : 15,
     "size" : 3,
-    "score" : 69.13989448897513,
-    "phrases" : [ "Packed in with his Stuff" ],
-    "documents" : [ 14, 42, 44 ],
+    "score" : 83.66076849805476,
+    "phrases" : [ "Watching Porn" ],
+    "documents" : [ 2, 8, 12 ],
     "attributes" : {
-      "score" : 69.13989448897513
+      "score" : 83.66076849805476
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 32.86993799022729,
-    "phrases" : [ "Blood Clots" ],
-    "documents" : [ 5, 47 ],
+    "score" : 75.1036998945416,
+    "phrases" : [ "Dress Size" ],
+    "documents" : [ 14, 35 ],
     "attributes" : {
-      "score" : 32.86993799022729
+      "score" : 75.1036998945416
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 85.05507834861102,
-    "phrases" : [ "Cup of Tea" ],
-    "documents" : [ 14, 36 ],
+    "score" : 67.30572780399056,
+    "phrases" : [ "Experiences with IUD" ],
+    "documents" : [ 10, 25 ],
     "attributes" : {
-      "score" : 85.05507834861102
+      "score" : 67.30572780399056
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 60.24002843035662,
-    "phrases" : [ "Dress Size" ],
-    "documents" : [ 14, 35 ],
+    "score" : 31.533092121384403,
+    "phrases" : [ "Meeting New People" ],
+    "documents" : [ 4, 20 ],
     "attributes" : {
-      "score" : 60.24002843035662
+      "score" : 31.533092121384403
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 71.43985193537073,
-    "phrases" : [ "Young Adult Books for the Feminist Reader" ],
-    "documents" : [ 3, 4 ],
+    "score" : 50.60988919398635,
+    "phrases" : [ "Wet" ],
+    "documents" : [ 8, 25 ],
     "attributes" : {
-      "score" : 71.43985193537073
+      "score" : 50.60988919398635
     }
   }, {
     "id" : 20,
-    "size" : 10,
+    "size" : 2,
+    "score" : 69.96573828657822,
+    "phrases" : [ "Young Adult Books for the Feminist Reader" ],
+    "documents" : [ 3, 4 ],
+    "attributes" : {
+      "score" : 69.96573828657822
+    }
+  }, {
+    "id" : 21,
+    "size" : 17,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 1, 7, 23, 27, 28, 31, 39, 41, 43, 48 ],
+    "documents" : [ 1, 7, 11, 15, 17, 19, 21, 23, 27, 28, 31, 40, 41, 43, 46, 48, 49 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2474,
+  "processing-time-algorithm" : 2045,
   "documents" : [ {
     "id" : 0,
     "title" : "Hey ladies, I need perspective",
@@ -443,9 +452,9 @@
     "snippet" : "  What's IFF?  Look at those red cheeks! Must have been quite the day!  Looks like a young haley joel osment.   He is super cute!  What a cutie! Did he have fun?\n\nWhen I was a kid my dad used to make huge snowforts with us with slides on top and a dug-out interior so we could sleep in it. Playing in the snow is so much fun as a kid!  He looks identical to uh-huh from the little rascals movie.   So cute! He must have had a great time",
     "url" : "http://imgur.com/1N5vJdo"
   } ],
-  "processing-time-source" : 56,
+  "processing-time-source" : 93,
   "processing-result.title" : "twoxchromosomes3_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes3_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes3_reddit.xml"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1845,
+  "processing-time-total" : 1848,
   "clusters" : [ {
     "id" : 0,
     "size" : 13,
@@ -218,7 +218,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1698,
+  "processing-time-algorithm" : 1710,
   "documents" : [ {
     "id" : 0,
     "title" : "Can bytecode interpreters make use of SIMD instructions?",
@@ -2063,7 +2063,7 @@
     "snippet" : "Several years ago I completed my BS in CS from a US university and have been working in the software industry ever since. I've learned a lot in the past few years, but I'm not really passionate about the work I'm doing and I don't feel that my current role will allow me to develop the qualifications necessary to move into a research position. Programming has always been fun, but the topics I loved most in my undergrad studies were always from the more abstract side of CS--algorithms analysis, computation theory, etc. I've been thinking about getting into a master's program for the past couple years, actually, and I think it's time to actually do it.\n\nAll of the resources I've found for prospective master's students seems to be intended for people still in their undergrad. I don't have research experience from my undergrad (there was very little research done at all in the CS department at my school). I have not kept in touch with any of my old professors, and many of them have since retired from the faculty so I'm at a loss for who to ask for reference letters. \n\nSo I guess my biggest question is: as someone with just a BS and some professional experience, is grad school still an option since I didn't focus on it during my undergrad? How can I fill in some of the gaps in my experience (such as lack of research work) to help my applications? Are there any resources available for people in my position?\n\nMy biggest interests are digital art, robotics and distributed computing. Can anyone recommend some good universities with related programs? I'm willing to relocate anywhere in the world (and love exploring new places and cultures) as long as the program is taught in English (or if it would be realistic to take language courses concurrently with the CS courses if some parts of the program are taught in another language).\n\nAny information or advice is greatly appreciated!",
     "url" : "http://www.reddit.com/r/compsci/comments/1965gy/so_i_want_to_do_research/"
   } ],
-  "processing-time-source" : 147,
+  "processing-time-source" : 138,
   "processing-result.title" : "compsci1_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/compsci1_reddit.xml"

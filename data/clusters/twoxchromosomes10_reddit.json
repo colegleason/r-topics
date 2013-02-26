@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 2627,
+  "processing-time-total" : 2534,
   "clusters" : [ {
     "id" : 0,
-    "size" : 8,
-    "score" : 94.63513986084024,
-    "phrases" : [ "Birth Control" ],
-    "documents" : [ 3, 10, 20, 27, 32, 37, 43, 45 ],
+    "size" : 9,
+    "score" : 32.99575496715566,
+    "phrases" : [ "Worry" ],
+    "documents" : [ 7, 10, 18, 19, 23, 29, 39, 40, 43 ],
     "attributes" : {
-      "score" : 94.63513986084024
+      "score" : 32.99575496715566
     }
   }, {
     "id" : 1,
     "size" : 7,
-    "score" : 76.37206904890272,
-    "phrases" : [ "Hope I Helped" ],
-    "documents" : [ 4, 10, 24, 29, 37, 40, 48 ],
+    "score" : 77.81508316964589,
+    "phrases" : [ "Birth Control" ],
+    "documents" : [ 3, 10, 20, 27, 37, 43, 45 ],
     "attributes" : {
-      "score" : 76.37206904890272
+      "score" : 77.81508316964589
     }
   }, {
     "id" : 2,
     "size" : 7,
-    "score" : 50.44136210693624,
-    "phrases" : [ "Ones I Remember from being a Kid" ],
-    "documents" : [ 10, 13, 37, 40, 46, 47, 48 ],
+    "score" : 81.79357987396189,
+    "phrases" : [ "Hope I Helped" ],
+    "documents" : [ 4, 10, 24, 29, 37, 40, 48 ],
     "attributes" : {
-      "score" : 50.44136210693624
+      "score" : 81.79357987396189
     }
   }, {
     "id" : 3,
-    "size" : 6,
-    "score" : 63.4043797717575,
-    "phrases" : [ "Especially since my Mother" ],
-    "documents" : [ 1, 10, 11, 13, 46, 47 ],
+    "size" : 7,
+    "score" : 62.35546588237777,
+    "phrases" : [ "Ones I Remember from being a Kid" ],
+    "documents" : [ 10, 13, 37, 40, 46, 47, 48 ],
     "attributes" : {
-      "score" : 63.4043797717575
+      "score" : 62.35546588237777
     }
   }, {
     "id" : 4,
     "size" : 6,
-    "score" : 53.50421104365376,
-    "phrases" : [ "Wear Clothes" ],
-    "documents" : [ 1, 5, 9, 25, 39, 46 ],
+    "score" : 61.20364523800686,
+    "phrases" : [ "Especially since my Mother" ],
+    "documents" : [ 1, 10, 11, 13, 46, 47 ],
     "attributes" : {
-      "score" : 53.50421104365376
+      "score" : 61.20364523800686
     }
   }, {
     "id" : 5,
     "size" : 6,
-    "score" : 61.0433228840333,
-    "phrases" : [ "Wrong to Use that against Women" ],
-    "documents" : [ 1, 4, 9, 10, 45, 46 ],
+    "score" : 52.200734681558096,
+    "phrases" : [ "Game" ],
+    "documents" : [ 1, 12, 14, 31, 34, 47 ],
     "attributes" : {
-      "score" : 61.0433228840333
+      "score" : 52.200734681558096
     }
   }, {
     "id" : 6,
     "size" : 5,
-    "score" : 49.3726543953235,
-    "phrases" : [ "Cheating" ],
-    "documents" : [ 11, 38, 40, 42, 48 ],
+    "score" : 30.876397010582476,
+    "phrases" : [ "Beautiful" ],
+    "documents" : [ 8, 15, 21, 30, 34 ],
     "attributes" : {
-      "score" : 49.3726543953235
+      "score" : 30.876397010582476
     }
   }, {
     "id" : 7,
     "size" : 5,
-    "score" : 85.33565261643923,
-    "phrases" : [ "Idea of Gender" ],
-    "documents" : [ 1, 13, 20, 24, 46 ],
+    "score" : 53.009622744328624,
+    "phrases" : [ "Cheating" ],
+    "documents" : [ 11, 38, 40, 42, 48 ],
     "attributes" : {
-      "score" : 85.33565261643923
+      "score" : 53.009622744328624
     }
   }, {
     "id" : 8,
     "size" : 5,
-    "score" : 57.419878328408515,
-    "phrases" : [ "Public Schools" ],
-    "documents" : [ 1, 7, 20, 36, 46 ],
+    "score" : 81.55811470563053,
+    "phrases" : [ "Idea of Gender" ],
+    "documents" : [ 1, 13, 20, 24, 46 ],
     "attributes" : {
-      "score" : 57.419878328408515
+      "score" : 81.55811470563053
     }
   }, {
     "id" : 9,
-    "size" : 5,
-    "score" : 30.598102915461112,
-    "phrases" : [ "Sound like a really Nice Guy" ],
-    "documents" : [ 1, 36, 46, 47, 48 ],
+    "size" : 4,
+    "score" : 32.29366340462255,
+    "phrases" : [ "College is a Boyfriend who Stays" ],
+    "documents" : [ 34, 36, 42, 46 ],
     "attributes" : {
-      "score" : 30.598102915461112
+      "score" : 32.29366340462255
     }
   }, {
     "id" : 10,
     "size" : 4,
-    "score" : 61.39191232062006,
-    "phrases" : [ "College is a Boyfriend who Stays" ],
-    "documents" : [ 34, 36, 42, 46 ],
+    "score" : 53.51435345206895,
+    "phrases" : [ "Deal with Bullying" ],
+    "documents" : [ 4, 7, 46, 48 ],
     "attributes" : {
-      "score" : 61.39191232062006
+      "score" : 53.51435345206895
     }
   }, {
     "id" : 11,
-    "size" : 3,
-    "score" : 74.44521140440816,
-    "phrases" : [ "Attention from Boys" ],
-    "documents" : [ 1, 7, 46 ],
+    "size" : 4,
+    "score" : 36.77107440145027,
+    "phrases" : [ "Photos" ],
+    "documents" : [ 1, 4, 8, 9 ],
     "attributes" : {
-      "score" : 74.44521140440816
+      "score" : 36.77107440145027
     }
   }, {
     "id" : 12,
     "size" : 3,
-    "score" : 77.37301167096065,
+    "score" : 81.65342297525673,
     "phrases" : [ "Bad Cramps" ],
     "documents" : [ 10, 32, 44 ],
     "attributes" : {
-      "score" : 77.37301167096065
+      "score" : 81.65342297525673
     }
   }, {
     "id" : 13,
     "size" : 3,
-    "score" : 48.095892002325975,
+    "score" : 48.23863406360272,
     "phrases" : [ "Feminine" ],
     "documents" : [ 0, 6, 27 ],
     "attributes" : {
-      "score" : 48.095892002325975
+      "score" : 48.23863406360272
     }
   }, {
     "id" : 14,
     "size" : 3,
-    "score" : 51.07103829532122,
-    "phrases" : [ "Game to know that in most Places" ],
-    "documents" : [ 1, 31, 34 ],
+    "score" : 84.46958216358092,
+    "phrases" : [ "Look Pretty to the Boys" ],
+    "documents" : [ 1, 7, 46 ],
     "attributes" : {
-      "score" : 51.07103829532122
+      "score" : 84.46958216358092
     }
   }, {
     "id" : 15,
     "size" : 3,
-    "score" : 42.806421383340556,
-    "phrases" : [ "Morning after Pill" ],
-    "documents" : [ 10, 19, 20 ],
+    "score" : 31.073071969834977,
+    "phrases" : [ "Regular Sex" ],
+    "documents" : [ 18, 22, 46 ],
     "attributes" : {
-      "score" : 42.806421383340556
+      "score" : 31.073071969834977
     }
   }, {
     "id" : 16,
     "size" : 3,
-    "score" : 34.42654457814815,
-    "phrases" : [ "Skin" ],
-    "documents" : [ 5, 20, 30 ],
+    "score" : 37.79015376689469,
+    "phrases" : [ "Stay and Fight" ],
+    "documents" : [ 36, 46, 49 ],
     "attributes" : {
-      "score" : 34.42654457814815
+      "score" : 37.79015376689469
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 43.52755585428174,
-    "phrases" : [ "Happiest" ],
-    "documents" : [ 17, 34 ],
+    "score" : 45.16183295059036,
+    "phrases" : [ "Abortion" ],
+    "documents" : [ 37, 45 ],
     "attributes" : {
-      "score" : 43.52755585428174
+      "score" : 45.16183295059036
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 65.94026332804275,
-    "phrases" : [ "Legality of those Photos" ],
-    "documents" : [ 1, 4 ],
+    "score" : 24.950240348187965,
+    "phrases" : [ "Happiest" ],
+    "documents" : [ 17, 34 ],
     "attributes" : {
-      "score" : 65.94026332804275
+      "score" : 24.950240348187965
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 47.64246246755645,
+    "score" : 39.67198047979843,
     "phrases" : [ "Pads" ],
     "documents" : [ 5, 27 ],
     "attributes" : {
-      "score" : 47.64246246755645
+      "score" : 39.67198047979843
     }
   }, {
     "id" : 20,
-    "size" : 16,
+    "size" : 2,
+    "score" : 54.75389427660607,
+    "phrases" : [ "Sports Bras" ],
+    "documents" : [ 39, 46 ],
+    "attributes" : {
+      "score" : 54.75389427660607
+    }
+  }, {
+    "id" : 21,
+    "size" : 8,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 2, 8, 12, 14, 15, 16, 18, 21, 22, 23, 26, 28, 33, 35, 41, 49 ],
+    "documents" : [ 2, 16, 25, 26, 28, 33, 35, 41 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2567,
+  "processing-time-algorithm" : 2392,
   "documents" : [ {
     "id" : 0,
     "title" : "Where do you buy your feminine laptop cases from?",
@@ -440,9 +449,9 @@
     "snippet" : "An update to my [original post] (http://www.reddit.com/r/TwoXChromosomes/comments/17gazr/i_have_a_big_decision_to_make_by_may/).\n\nWe've been discussing this very seriously. He told me that he can't tell me whether I should stay or go, which is a valid point because in the end I know that it is my decision to make. He said though that if I decide to stay, he will \"wonder\" about the \"future\" with me because he wants \"marriage\" and a family. And, since he wants that in the near future, I would have to want the same thing. \n\nI took some time to think about it and, when I did, I saw myself marrying him and making little biracial babies. When I went back to discuss this with him, on Valentine's Day mind you, he completely changed his mind! I was so pissed. At first, he just stood quiet and didn't say anything. So I asked him what he thought about it and to say something. He said that he didn't know what to think, he's not sure and that it was a big decision to make. I flipped and told him that it it isn't fair to me to be with someone who \"isn't sure.\" You want me or not. Simple as that. We made up the next day. He said he was sorry and that he'll think about how he truly feels. I apologized for pressuring him to give me an answer when he wasn't ready. \n\nWe talked about it more yesterday and things just seem to be getting worse. We are on shaky ground. That's how bad it is. He said, \"I think I don't feel the same connection that we used to have.\" The tears just started pouring out of my eyes. He says he loves me, is still attracted to me and still has fun with me. He doesn't want to break up. I just sat there in silence. I couldn't believe it. He said that he doesn't know if it's something he's making up in his head (sabotaging himself) because he's afraid of commitment. I told him that I just got my answer right there. I couldn't be with someone who didn't see that same connection with me. All the other things just aren't enough. I felt terrible. I was trying to figure out where I went wrong and what I did to eff up so bad. All of a sudden, I saw my dreams of a County wedding (I'm not much of a princess wedding type. I get bad anxiety around a lot of people on top of that.) and biracial babies fade away. He cried a lot. And, he was adamant about not wanting to  break-up either. He said commitment scares him because people can get hurt. That it's better to leave early. He said he didn't leave me early because he loved me. I was the longest relationship he ever had (one year and two months). I told him I needed space to think about everything. \n\nI believe that he loves me. I love him too. A part of me wants to stay and fight for him. But, there's another part of me that asks why should I stay and fight for someone who doesn't want to fight for me? What if I stay and it works out? What if I stay and it doesn't? What if I leave? What will happen to me? I know that if I leave I will always wonder about him. I will always wonder about the man that I loved and left behind. It seriously kills me to think about leaving back home to Chicago and living the rest of my life without him. I don't even want to imagine about all the nights I'm sure I'll be crying myself to sleep. I really want to do the stupid thing and stay. Stay with the man who can't guarantee me that he won't run away tomorrow. I guess it's true that love makes people do stupid things. \n\nI was secretly crying at work all day trying to wrap my head around everything. Should I just go home and move on with my life?  I realize I'm not privy to the whole story, but from what you've written, it seems to me that your SO might love you but isn't in love with you. He wants to be with you because he cares for you and is comfortable in your relationship, but he \"doesn't know if he feels the same connection he once did\" and he's all of a sudden not sure about your future.\n\nI think you need to have a bigger talk with him and see if he's just scared of commitment or if he's scared of commitment with you. I asked him if he was just scared of being alone and if he's just gotten into \"the habit\" of being with someone. He said it wasn't that. It's the possible hurt that either one of us can cause that scares him. He hurt me already though. I don't even know what to think anymore. :(",
     "url" : "http://www.reddit.com/r/TwoXChromosomes/comments/18sdoj/update_i_have_a_big_decision_to_make_by_may/"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 142,
   "processing-result.title" : "twoxchromosomes10_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes10_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes10_reddit.xml"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1241,
+  "processing-time-total" : 1177,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1104,
+  "processing-time-algorithm" : 1097,
   "documents" : [ {
     "id" : 0,
     "title" : "Vote for Marshall and Lilly!",
@@ -436,7 +436,7 @@
     "snippet" : "  I like the blue french horn one as well, but I wish they were on a more delicate chain. The chains used as too bulky for the small charms.  You could always get a new chain? ",
     "url" : "http://www.etsy.com/listing/119100008/my-mothers-yellow-umbrella-charm?ref=sr_gallery_5&amp;ga_search_query=yellow+umbrella&amp;ga_view_type=gallery&amp;ga_ship_to=BE&amp;ga_search_type=handmade&amp;ga_facet=handmade%2Fjewelryyellow+umbrella"
   } ],
-  "processing-time-source" : 137,
+  "processing-time-source" : 80,
   "processing-result.title" : "himym7_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/himym7_reddit.xml"

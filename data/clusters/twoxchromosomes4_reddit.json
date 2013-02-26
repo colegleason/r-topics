@@ -1,197 +1,206 @@
 {
-  "processing-time-total" : 1750,
+  "processing-time-total" : 1544,
   "clusters" : [ {
     "id" : 0,
-    "size" : 11,
-    "score" : 37.025914195698675,
-    "phrases" : [ "Ask" ],
-    "documents" : [ 8, 9, 14, 21, 22, 24, 25, 29, 38, 42, 48 ],
+    "size" : 7,
+    "score" : 66.52923565278599,
+    "phrases" : [ "Hair" ],
+    "documents" : [ 9, 13, 20, 24, 25, 41, 44 ],
     "attributes" : {
-      "score" : 37.025914195698675
+      "score" : 66.52923565278599
     }
   }, {
     "id" : 1,
     "size" : 6,
-    "score" : 48.823698010971405,
-    "phrases" : [ "Feel Better" ],
-    "documents" : [ 9, 20, 21, 26, 38, 48 ],
+    "score" : 67.05033725598125,
+    "phrases" : [ "Baby" ],
+    "documents" : [ 2, 21, 28, 37, 42, 43 ],
     "attributes" : {
-      "score" : 48.823698010971405
+      "score" : 67.05033725598125
     }
   }, {
     "id" : 2,
     "size" : 6,
-    "score" : 74.59368414983301,
-    "phrases" : [ "Years Ago" ],
-    "documents" : [ 2, 3, 9, 21, 38, 46 ],
+    "score" : 53.38384995245121,
+    "phrases" : [ "Feel Better" ],
+    "documents" : [ 9, 20, 21, 26, 38, 48 ],
     "attributes" : {
-      "score" : 74.59368414983301
+      "score" : 53.38384995245121
     }
   }, {
     "id" : 3,
-    "size" : 5,
-    "score" : 56.29143482281131,
-    "phrases" : [ "Dress" ],
-    "documents" : [ 9, 21, 25, 32, 46 ],
+    "size" : 6,
+    "score" : 57.57310579062325,
+    "phrases" : [ "Sister" ],
+    "documents" : [ 3, 9, 18, 22, 28, 37 ],
     "attributes" : {
-      "score" : 56.29143482281131
+      "score" : 57.57310579062325
     }
   }, {
     "id" : 4,
-    "size" : 4,
-    "score" : 56.767523033410846,
-    "phrases" : [ "Dance" ],
-    "documents" : [ 5, 16, 29, 36 ],
+    "size" : 6,
+    "score" : 76.77946406995001,
+    "phrases" : [ "Years Ago" ],
+    "documents" : [ 2, 3, 9, 21, 38, 46 ],
     "attributes" : {
-      "score" : 56.767523033410846
+      "score" : 76.77946406995001
     }
   }, {
     "id" : 5,
-    "size" : 4,
-    "score" : 43.01586587841223,
-    "phrases" : [ "Realize" ],
-    "documents" : [ 4, 10, 21, 48 ],
+    "size" : 5,
+    "score" : 88.40683942096238,
+    "phrases" : [ "Perfect" ],
+    "documents" : [ 9, 21, 26, 46, 49 ],
     "attributes" : {
-      "score" : 43.01586587841223
+      "score" : 88.40683942096238
     }
   }, {
     "id" : 6,
-    "size" : 3,
-    "score" : 55.99402703346542,
-    "phrases" : [ "Art" ],
-    "documents" : [ 0, 9, 29 ],
+    "size" : 4,
+    "score" : 43.02279530414255,
+    "phrases" : [ "Cut" ],
+    "documents" : [ 21, 25, 33, 44 ],
     "attributes" : {
-      "score" : 55.99402703346542
+      "score" : 43.02279530414255
     }
   }, {
     "id" : 7,
-    "size" : 3,
-    "score" : 56.402324507717644,
-    "phrases" : [ "Point of View" ],
-    "documents" : [ 21, 33, 47 ],
+    "size" : 4,
+    "score" : 62.12242241094239,
+    "phrases" : [ "Dance" ],
+    "documents" : [ 5, 16, 29, 36 ],
     "attributes" : {
-      "score" : 56.402324507717644
+      "score" : 62.12242241094239
     }
   }, {
     "id" : 8,
-    "size" : 3,
-    "score" : 41.21147835855296,
-    "phrases" : [ "Tell my Family" ],
-    "documents" : [ 21, 22, 38 ],
+    "size" : 4,
+    "score" : 33.79433754943814,
+    "phrases" : [ "Telling Women" ],
+    "documents" : [ 21, 22, 33, 48 ],
     "attributes" : {
-      "score" : 41.21147835855296
+      "score" : 33.79433754943814
     }
   }, {
     "id" : 9,
-    "size" : 2,
-    "score" : 68.22597417509051,
-    "phrases" : [ "Argument" ],
-    "documents" : [ 27, 47 ],
+    "size" : 3,
+    "score" : 85.16463953228586,
+    "phrases" : [ "Art" ],
+    "documents" : [ 0, 9, 29 ],
     "attributes" : {
-      "score" : 68.22597417509051
+      "score" : 85.16463953228586
     }
   }, {
     "id" : 10,
-    "size" : 2,
-    "score" : 89.78251717643055,
-    "phrases" : [ "Baby Sister" ],
-    "documents" : [ 28, 37 ],
+    "size" : 3,
+    "score" : 39.20451940060258,
+    "phrases" : [ "Cousin" ],
+    "documents" : [ 8, 45, 47 ],
     "attributes" : {
-      "score" : 89.78251717643055
+      "score" : 39.20451940060258
     }
   }, {
     "id" : 11,
-    "size" : 2,
-    "score" : 86.80104253925488,
-    "phrases" : [ "Cake" ],
-    "documents" : [ 12, 43 ],
+    "size" : 3,
+    "score" : 63.3985442456322,
+    "phrases" : [ "Event" ],
+    "documents" : [ 1, 21, 32 ],
     "attributes" : {
-      "score" : 86.80104253925488
+      "score" : 63.3985442456322
     }
   }, {
     "id" : 12,
-    "size" : 2,
-    "score" : 79.43550191477192,
-    "phrases" : [ "Dad" ],
-    "documents" : [ 7, 40 ],
+    "size" : 3,
+    "score" : 37.699698594019665,
+    "phrases" : [ "Good Luck" ],
+    "documents" : [ 9, 20, 24 ],
     "attributes" : {
-      "score" : 79.43550191477192
+      "score" : 37.699698594019665
     }
   }, {
     "id" : 13,
-    "size" : 2,
-    "score" : 41.0908047982724,
-    "phrases" : [ "Grace" ],
-    "documents" : [ 1, 5 ],
+    "size" : 3,
+    "score" : 42.47437718030771,
+    "phrases" : [ "Periods" ],
+    "documents" : [ 2, 34, 42 ],
     "attributes" : {
-      "score" : 41.0908047982724
+      "score" : 42.47437718030771
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 69.6774431352965,
-    "phrases" : [ "Hair Removal" ],
-    "documents" : [ 9, 20 ],
+    "score" : 83.48609280206549,
+    "phrases" : [ "Cake" ],
+    "documents" : [ 12, 43 ],
     "attributes" : {
-      "score" : 69.6774431352965
+      "score" : 83.48609280206549
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 76.8719880942423,
-    "phrases" : [ "Orgasm" ],
-    "documents" : [ 30, 34 ],
+    "score" : 87.76196248894286,
+    "phrases" : [ "Dad" ],
+    "documents" : [ 7, 40 ],
     "attributes" : {
-      "score" : 76.8719880942423
+      "score" : 87.76196248894286
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 37.002842816157425,
-    "phrases" : [ "Sexual History" ],
-    "documents" : [ 21, 26 ],
+    "score" : 51.28180744726869,
+    "phrases" : [ "Drunk" ],
+    "documents" : [ 21, 44 ],
     "attributes" : {
-      "score" : 37.002842816157425
+      "score" : 51.28180744726869
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 55.42586761367168,
-    "phrases" : [ "Therapy" ],
-    "documents" : [ 29, 38 ],
+    "score" : 81.51525802821618,
+    "phrases" : [ "Orgasm" ],
+    "documents" : [ 30, 34 ],
     "attributes" : {
-      "score" : 55.42586761367168
+      "score" : 81.51525802821618
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 101.5474402418287,
-    "phrases" : [ "Vagina Monologues" ],
-    "documents" : [ 6, 35 ],
+    "score" : 66.716978874554,
+    "phrases" : [ "Perfect World" ],
+    "documents" : [ 9, 21 ],
     "attributes" : {
-      "score" : 101.5474402418287
+      "score" : 66.716978874554
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 83.42387897134469,
-    "phrases" : [ "Victim" ],
-    "documents" : [ 21, 31 ],
+    "score" : 97.0529055689319,
+    "phrases" : [ "Vagina Monologues" ],
+    "documents" : [ 6, 35 ],
     "attributes" : {
-      "score" : 83.42387897134469
+      "score" : 97.0529055689319
     }
   }, {
     "id" : 20,
-    "size" : 12,
+    "size" : 2,
+    "score" : 90.53941918038032,
+    "phrases" : [ "Victim" ],
+    "documents" : [ 21, 31 ],
+    "attributes" : {
+      "score" : 90.53941918038032
+    }
+  }, {
+    "id" : 21,
+    "size" : 10,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 11, 13, 15, 17, 18, 19, 23, 39, 41, 44, 45, 49 ],
+    "documents" : [ 4, 10, 11, 14, 15, 17, 19, 23, 27, 39 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1699,
+  "processing-time-algorithm" : 1481,
   "documents" : [ {
     "id" : 0,
     "title" : "(IFF) I work in an extremely male dominated field and take my job very seriously. Here's to all those  told me I couldn't do it and laughed when I walked on set!",
@@ -440,9 +449,9 @@
     "snippet" : " ",
     "url" : "http://www.youtube.com/watch?v=kY8WimVNHfw"
   } ],
-  "processing-time-source" : 51,
+  "processing-time-source" : 63,
   "processing-result.title" : "twoxchromosomes4_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/twoxchromosomes4_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/twoxchromosomes4_reddit.xml"
   }
 }
