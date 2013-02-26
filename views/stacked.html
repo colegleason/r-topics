@@ -17,11 +17,13 @@
 			<input type="submit" value="Load Graph"/>
 		  </form>
 		</div>
+		<h3 class="redditname"></h3>
+		<h4 class="topicname"></h4=>
       <script type="text/javascript">
 		function graph(id) {
 		var txtbox = document.getElementById(id);
 		var value = txtbox.value;
-		make_stream("/data/"+value+"_combined.json");
+		make_stream("/data/"+value+"_combined.json", value);
 		return false;
 		}
         </script>

@@ -7,7 +7,14 @@ def daterange(start_date, end_date):
     for n in range(int ((end_date - start_date).days)):
         yield start_date + timedelta(n)
 
-def get_popularity(day, documents, reddit_info):
+def get_popularity_all(documents, reddit_info):
+    total_popularity = 0
+    for doc in documents:
+        post = reddit_info[str(doc)]
+        total_popularity +=  post["upvotes"] + post["downvotes"] + post['num_comments']
+    return total_popularity
+                       
+def get_popularity_day(day, documents, reddit_info):
     popularity_for_day = 0
     for doc in documents:
         post = reddit_info[str(doc)]
@@ -30,24 +37,38 @@ if __name__ == "__main__":
     with open(reddit_file, "r") as f:
         reddit_info = json.loads(f.read())
 
-    earliest_post = min(reddit_info.iteritems(), key=lambda x: x[1]["created"])
-    latest_post = max(reddit_info.iteritems(), key=lambda x: x[1]["created"])
-    
-    start_date = date.fromtimestamp(earliest_post[1]["created"])
-    end_date = date.fromtimestamp(latest_post[1]["created"]) + timedelta(days=1)
-    combined_data = []
+    overall_activity = 0
+    for cluster in cluster_info:
+        cluster["total_activity"] = get_popularity_all(cluster["documents"], reddit_info)
+        overall_activity += cluster["total_activity"]
+        cluster["created"] = reddit_info[str(cluster["id"])]["created"]
 
     for cluster in cluster_info:
+        cluster["frac_activity"] = float(cluster["total_activity"])/overall_activity
+
+    if len(cluster_info) > 40:
+        pruned = sorted(cluster_info, key= lambda x: x["frac_activity"])[:40]
+    else:
+        pruned = cluster_info
+
+    earliest_post = min(pruned, key=lambda x: x["created"])
+    latest_post = max(pruned, key=lambda x: x["created"])
+    
+    start_date = date.fromtimestamp(earliest_post["created"])
+    end_date = date.fromtimestamp(latest_post["created"]) + timedelta(days=1)
+
+    for cluster in pruned:
         values = []
         for day in daterange(start_date, end_date):
             day_values = {}
             day_values["x"] = int(day.strftime("%s"))
-            day_values["y"] = get_popularity(day, cluster["documents"], reddit_info)
+            day_values["y"] = get_popularity_day(day, cluster["documents"], reddit_info)
             values.append(day_values)
         cluster["values"] = values
-        combined_data.append(cluster)
 
-    all_cluster_info["clusters"] = combined_data
+    all_cluster_info["clusters"] = pruned
+
+    print len(all_cluster_info["clusters"])
 
     with open(output_file, "w") as f:
         output = json.dumps(all_cluster_info)
