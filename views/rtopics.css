@@ -3,6 +3,11 @@ body {
 	color: #eeeeee;
 }
 
+h3,
+h4 {
+	display:inline;
+}
+
 .wrap {
 	margin: auto;
 	width: 960px;

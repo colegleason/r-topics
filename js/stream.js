@@ -2,12 +2,13 @@ var width = 1000;
 var height = 600;
 var padding = 40;
 var colors = d3.scale.category20b();
-var curr_color = 0;
 
 var x, y, xAxis, yAxis, svg, area, stack;
 
-function make_stream(jsonpath) {
+function make_stream(jsonpath, reddit_name) {
 	d3.json(jsonpath, function(json) {
+
+		console.log(json.clusters.length);
 
 		stack = d3.layout.stack()
 			.offset("expand")
@@ -31,6 +32,8 @@ function make_stream(jsonpath) {
 		
 		d3.select(".stream").remove() // remove the current graph if it exits
 
+		d3.select(".redditname").text("/r/" + reddit_name + " > ");
+
 		svg = d3.select("body").append("svg")
 			.attr("width", width)
 			.attr("height", height)
@@ -42,26 +45,31 @@ function make_stream(jsonpath) {
 			.attr("d", function(d) { return area(d.values);})
 			.attr("class",function(d) { return "layer" + d.id;})
 			.style("fill", function(d) { return d.color })
-			.on("click", function(d) { redraw([raw_layers[d.id]]);})
+			.on("click", function(d) { singleGraph(raw_layers[d.id]);})
+			.on("mouseover", function(d) { 
+				d3.select(".topicname")
+					.text(d.phrases[0])
+					.style("color", d.color); 
+			})
 			.append("title")
-			.text(function(d) { return d.phrases; });
+			.text(function(d) { return d.phrases });
 
 			draw_axes(svg);
 	})	
 }
 
-var redraw = function(new_layers) {
+function singleGraph(new_layer) {
 	stack.offset("zero");
-	new_layers = stack(new_layers);
+	new_layers = stack([new_layer]);
+	
 	set_scales(new_layers);
 
 	var nodes = d3.selectAll("path")
-		.data(new_layers);
+		.data(new_layers, function(d) { return d.id;});
 
 	nodes.transition()
 		.duration(2500)
-		.attr("d", function(d) { return area(d.values); })
-		.style("fill", function(d) { return d.color });
+		.attr("d", function(d) { return area(d.values); });
 	
 	nodes.exit()
 		.remove();
@@ -87,7 +95,7 @@ var set_scales = function(layers) {
 	
 	// a date formatter for the x axis in the graph
 	var formatDate = function(time) {
-		var spec = d3.time.format("%e %B %Y");
+		var spec = d3.time.format("%m/%d/%y");
 		return spec(new Date(time * 1000));
 	}
 	
@@ -111,4 +119,20 @@ var draw_axes = function(svg) {
 		.attr("class", "axis")
 		.attr("transform", "translate(" + padding + ",0)")
 		.call(yAxis);
+
+	svg.append("text")
+		.attr("class", "xlabel")
+		.attr("text-anchor", "end")
+		.attr("x", (width+padding)/2)
+		.attr("y", height)
+		.text("time (last month)");
+
+	svg.append("text")
+		.attr("class", "ylabel")
+		.attr("text-anchor", "end")
+		.attr("y", 6)
+		.attr("dy", ".75em")
+		.attr("transform", "rotate(-90)")
+		.text(stack.offset() == "zero" ? "activity" : "fraction of daily activity");
+
 }
