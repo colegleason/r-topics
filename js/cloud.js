@@ -5,18 +5,25 @@ var height = 600;
 
 function make_cloud(jsonpath) {
 	var initPhrases = new Array();
+	var initWeights = new Array();
 	var index = -1;
 
 	d3.json(jsonpath,function(json) {
 		json.clusters.forEach(function(cluster) {
+			index +=1;
 			cluster.phrases.forEach(function(phrase) {
-				index +=1;
 				initPhrases[index] = phrase;
+				//console.log('initWeights[index]');
+			})
+				cluster.total_activity.forEach(function(activity) {
+					initWeights[index] = activity;
 			})
 		})
+		index = -1;
 		d3.layout.cloud().size([width, height])
 			.words(initPhrases.map(function(d) {
-				return {text: d, size: 20};
+				index +=1;
+				return {text: d, size: initWeights[index]};
 			}))
 			.rotate(function() { return 0; })
 			.font("Impact")
