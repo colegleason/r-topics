@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1275,
+  "processing-time-total" : 1322,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1215,
+  "processing-time-algorithm" : 1260,
   "documents" : [ {
     "id" : 0,
     "title" : "Champaign IL State Rep. Adam Brown says, \"99% of my constituency, those who have contacted me, is against gay marriage\". Maybe he needs to hear from a more representative sample of his constituents: staterepbrown@gmail.com",
@@ -450,7 +450,7 @@
     "snippet" : "   Congrats to the people who made it. :) Thanks.   smoke weed You better give me some boy. u should use commas  Nothing brings me greater joy than watching a terrible game Nothing brings me greater joy than watching a terrible game Then step up and improve it.",
     "url" : "http://www.facebook.com/events/473422892706243"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 62,
   "processing-result.title" : "uiuc0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc0_reddit.xml"

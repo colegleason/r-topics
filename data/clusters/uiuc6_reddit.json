@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1413,
+  "processing-time-total" : 1493,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1352,
+  "processing-time-algorithm" : 1406,
   "documents" : [ {
     "id" : 0,
     "title" : "Posted asking for help with an exchange application. Got accepted today. Thanks r/UIUC !",
@@ -448,7 +448,7 @@
     "snippet" : "I was wondering if anyone leased with Shlens.  Any thoughts?  Thanks    I had a lease with them a few years back when the husband was still around. They're not bad, but we weren't the type of tenants who ever really asked for anything. The apartments are kind of lower-end, we couldn't run the microwave at the same time as the A/C or the breaker would flip. We also had a problem with running through light-bulbs very quickly --just a terrible electrical system. We got most of our security deposit back (they made us pay for cleaning the oven, which is understandable). I wouldn't be worried that the woman's running the business by herself now, the husband rarely did anything in the first place. Just out of curiosity, which building were you in?     Currently with her now. A semester into my lease and so far I have nothing to really complain about. If anything, we regret getting an apartment with a tv included in it. At this point, you can get a better tv for the same cost and it will be yours after the lease is up. The locations she offers are pretty hard to beat for the price. \n\nAs for the comment about the bike sticker thing, I haven't needed one at all. \n\nEdit:\n\nWas reading comments below, she is quite strict with no candles and no space heaters. So far, I haven't had any huge issues with the electrical system at all (The only thing being that the bathroom fan takes a few seconds to turn on sometimes.) Found it a little that she wanted the first month's rent a month after signing, then waited a few months to cash it, but if that's my biggest complaint... not bad at all. She charged you extra for the TV? For us, it was \"the rent is the same regardless, if there's a TV in the unit, then you get a TV.\"  Ended up with a unit with both a TV and ceiling fans.  No, she's not good. She takes forever to get anything done whether it be cashing in your rent checks, sending back your deposit, giving you a bike sticker to park your bike in the bike stands, fixing heat. My friend lived with her last year and went without heat for the whole winter and had exposed wires from his heater the whole time too. \nAvoid Shlens like the plague &gt; My friend lived with her last year and went without heat for the whole winter\n\nYeah, I'm calling bullshit.  She's really slow at fixing things. Obscenely slow. Something has been broke in my apartment from the previous tenant. When we were looking at the apartment the tenants reminded her then and she didn't do anything. My current roommate reminded her and nothing. What is \"something\"?  An aesthetic fix could be forgivable (scratched/chipped/etc furniture), but if its a non-essential appliance (like a dishwasher), this would be a dealbreaker to me.",
     "url" : "http://www.reddit.com/r/UIUC/comments/16yl00/shlens_good_landlord/"
   } ],
-  "processing-time-source" : 61,
+  "processing-time-source" : 87,
   "processing-result.title" : "uiuc6_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc6_reddit.xml"

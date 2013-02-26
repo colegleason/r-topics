@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1514,
+  "processing-time-total" : 1572,
   "clusters" : [ {
     "id" : 0,
     "size" : 5,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1452,
+  "processing-time-algorithm" : 1423,
   "documents" : [ {
     "id" : 0,
     "title" : "Illini deal fatal blow to #1 Indiana! 74-72",
@@ -442,7 +442,7 @@
     "snippet" : "For those who don't know, Chinese New Year is this Sunday, February 10th. Are there any student groups having get-togethers or parties?\n\nI'm an American-born Asian who was fortunate enough to have an early celebration with my family already, but it'd be nice to do something this weekend as well.  Yes at Grainger Library. See ya there! Yes at Grainger Library. See ya there!      ",
     "url" : "http://www.reddit.com/r/UIUC/comments/17wj8d/chinese_new_year_at_uiuc_sunday_210/"
   } ],
-  "processing-time-source" : 62,
+  "processing-time-source" : 149,
   "processing-result.title" : "uiuc3_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc3_reddit.xml"

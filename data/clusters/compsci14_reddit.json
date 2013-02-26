@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1855,
+  "processing-time-total" : 1847,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1790,
+  "processing-time-algorithm" : 1775,
   "documents" : [ {
     "id" : 0,
     "title" : "In dire need of help for a school project ",
@@ -448,7 +448,7 @@
     "snippet" : "For our final project in my upper-level data mining class, we must collect our own data and use the techniques we have learned to try and learn something from it.\n\nI want to do something involving Reddit, what are your thoughts?\n\nPossible idea:\nLook into how different keywords in a username and analyze how that corresponds to upvotes and downvotes in comments.   What sort of scale? What are you interested in? Presentations are due on the 31st.\n\nI really want to do something that could help make Reddit a better place. Honestly, everything we have been doing in that class has fascinated me.\n\nThe current 1st place idea would be to augment Reddit search by analyzing the comments to infer more about the subject matter of the link. Presentations are due on the 31st.\n\nI really want to do something that could help make Reddit a better place. Honestly, everything we have been doing in that class has fascinated me.\n\nThe current 1st place idea would be to augment Reddit search by analyzing the comments to infer more about the subject matter of the link. Presentations are due on the 31st.\n\nI really want to do something that could help make Reddit a better place. Honestly, everything we have been doing in that class has fascinated me.\n\nThe current 1st place idea would be to augment Reddit search by analyzing the comments to infer more about the subject matter of the link.  I wish my school had a data mining class. I find it interesting although I've never studied it in depth. What textbook do you use for the class if you don't mind me asking? Is it any good? Probably going to do some self studying once I graduate. We have a book that we don't really use much, but my instructor's handouts are amazing.\n\nHe also posts them all online! Here's a link:\n[Notes](http://users.csc.calpoly.edu/~dekhtyar/466-Spring2012/)\n\nIt has all of the in-class handouts as well as labs an projects.",
     "url" : "http://www.reddit.com/r/compsci/comments/tfyvb/data_miners_of_rcompsci_what_should_i_do_for_my/"
   } ],
-  "processing-time-source" : 65,
+  "processing-time-source" : 72,
   "processing-result.title" : "compsci14_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci14_reddit.xml"

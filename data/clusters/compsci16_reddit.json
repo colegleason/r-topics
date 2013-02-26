@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2116,
+  "processing-time-total" : 2233,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2046,
+  "processing-time-algorithm" : 2158,
   "documents" : [ {
     "id" : 0,
     "title" : "The Finest Machine (Kickstarter) -- \"I hope to explain, in one book, how quantum physics, materials science, and the theory of computation give rise to the modern microprocessor...\"",
@@ -449,7 +449,7 @@
     "snippet" : "I'm working on a project that requires me to interact with the wikipedia dump file (basically, to check wikipedia pages for certain words).\n\nNow, the problem is the following : the dump is gigantic (as one would expect), and I'm not sure how is it possible (and what would the best way be) to access it, if possible as a database, from a program.\n\nThe language I'm using is Java, and I'm looking for answers actively right now, but I hoped that I might find someone with first-hand experience here :)\n\nCheers\n\nedit : found wikixmlj ;; going to poke around with it, feedback would still be helpful  The dump file is in XML format, and you can use SAX parser to process the dump one wiki-article at a time. Each wiki article is inside a \"page\" tag. If you are just looking for words that exist on a wikipedia page, you can extract contents of just the \"text\" tag which exists inside a \"page\" tag. \n\nOnce you have the text for each article, you can do all string searches that you need.        ",
     "url" : "http://www.reddit.com/r/compsci/comments/rxw36/accessing_wikipedia_dumps_a_question/"
   } ],
-  "processing-time-source" : 70,
+  "processing-time-source" : 75,
   "processing-result.title" : "compsci16_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci16_reddit.xml"

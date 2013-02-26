@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1889,
+  "processing-time-total" : 2000,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1797,
+  "processing-time-algorithm" : 1929,
   "documents" : [ {
     "id" : 0,
     "title" : "\nInternally deterministic parallel algorithms can be fast [pdf]",
@@ -446,7 +446,7 @@
     "snippet" : "  Hey guys, the original post is a link to the AMA    ",
     "url" : "http://www.reddit.com/r/IAmA/comments/147gqm/we_are_the_computational_neuroscientists_behind/"
   } ],
-  "processing-time-source" : 92,
+  "processing-time-source" : 71,
   "processing-result.title" : "compsci3_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci3_reddit.xml"

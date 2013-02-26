@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1819,
+  "processing-time-total" : 1934,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1704,
+  "processing-time-algorithm" : 1850,
   "documents" : [ {
     "id" : 0,
     "title" : "Reminder: Don't vote up or respond to off-topic posts.",
@@ -446,7 +446,7 @@
     "snippet" : "Purely with relation to von Neumann based architectures.\n\nFor example why would there be differences in how friendly accumulator, stack and architectures based on register files were to caching. They're all retrieving instructions and data from memory, so I don't see the specifics have any bearing on how friendly each individual architecture is to caching?\n\nThank you!  Do you have a source for this? I agree with you, I can't see a reason. The memory hierarchy is relatively detached, and it essentially just puts data in your registers. Well, it's worth remembering that L1 cache is basically a single cycle still, pipelined, or a a few cycles if you have a hazard. You can ignore the growing divide between processor speed and memory if you can fit in a few dozen KB :-)  I see - thanks! This is really helpful. Do you have a source for this? I agree with you, I can't see a reason. The memory hierarchy is relatively detached, and it essentially just puts data in your registers.",
     "url" : "http://www.reddit.com/r/compsci/comments/zdy6e/what_makes_a_particular_architecture_friendly_to/"
   } ],
-  "processing-time-source" : 115,
+  "processing-time-source" : 84,
   "processing-result.title" : "compsci8_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci8_reddit.xml"

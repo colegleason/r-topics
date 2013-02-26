@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2347,
+  "processing-time-total" : 2574,
   "clusters" : [ {
     "id" : 0,
     "size" : 9,
@@ -173,7 +173,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2275,
+  "processing-time-algorithm" : 2499,
   "documents" : [ {
     "id" : 0,
     "title" : "What are some tips and/or tricks you wish you would have known going into a CS degree",
@@ -418,7 +418,7 @@
     "snippet" : "In formal languages if I have two regular expressions to define some languages, they are defined as R1 and R2.  If I want to find the intersection of the two I know one method would be:\n\n* Convert R1 and R2 into Finite Automata\n* Create the intersection FA of these two\n* Convert this new FA into a regular expression\n\nIs there an easier way to do this as if you have a complicated regular expressions initially then this process takes a long time and converting back to a regex can be quite complicated.     &gt; ... when constructing a regular expression defining the intersection of a fixed and an arbitrary number of regular expressions, an exponential and double exponential size increase, respectively, can not be avoided.\n  \nFrom abstract of http://tocl.acm.org/accepted/401neven.pdf .  \n  \n(For clarity, the exponent is in terms of the size of the expression, not just the number of intersecting expressions.)",
     "url" : "http://www.reddit.com/r/compsci/comments/v7ads/formal_languages_finding_the_intersection_of_two/"
   } ],
-  "processing-time-source" : 72,
+  "processing-time-source" : 75,
   "processing-result.title" : "compsci12_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci12_reddit.xml"

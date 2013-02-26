@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 937,
+  "processing-time-total" : 966,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 885,
+  "processing-time-algorithm" : 912,
   "documents" : [ {
     "id" : 0,
     "title" : "(Late) morning roundup - forgot my iPad edition",
@@ -438,7 +438,7 @@
     "title" : "Albany Park Cool - Frances Archer",
     "url" : "http://francesarcher.com/2012/02/albany-park-cool/"
   } ],
-  "processing-time-source" : 52,
+  "processing-time-source" : 54,
   "processing-result.title" : "greatnwside0_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/greatnwside0_reddit.xml"

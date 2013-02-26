@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2093,
+  "processing-time-total" : 2105,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -182,7 +182,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1999,
+  "processing-time-algorithm" : 2031,
   "documents" : [ {
     "id" : 0,
     "title" : "Succinct Data Structures - specifically graphs",
@@ -428,7 +428,7 @@
     "snippet" : " ",
     "url" : "http://www.cs.unc.edu/~fabian/papers/foniks-oak11.pdf"
   } ],
-  "processing-time-source" : 94,
+  "processing-time-source" : 74,
   "processing-result.title" : "compsci7_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci7_reddit.xml"

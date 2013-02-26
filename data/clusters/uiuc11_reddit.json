@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1356,
+  "processing-time-total" : 1372,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1298,
+  "processing-time-algorithm" : 1313,
   "documents" : [ {
     "id" : 0,
     "title" : "What to do when a teacher won't change your NR grade after several attempts at contact?",
@@ -452,7 +452,7 @@
     "snippet" : "For whatever reason, I'm able to click a button in Self-Service (registration and records and all that stuff) to change my TAM 212 discussion from 0 hours to 3 hours. What does that mean? Does that turn TAM in to a 6 hour class? I'm way confused.   That just means that it is either set-up wrong in Banner (the system that feeds Self-Service) or some students take the class for 0-3 credit hours. If you expect the class to be a 3-hr course, just have the credit hours at 3 and it will stay there.  Gotchya. It must be set up wrong in Banner because the lecture is showing as 3 hours. ",
     "url" : "http://www.reddit.com/r/UIUC/comments/159c5i/what_does_it_mean_that_im_able_to_change_a_classs/"
   } ],
-  "processing-time-source" : 58,
+  "processing-time-source" : 59,
   "processing-result.title" : "uiuc11_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc11_reddit.xml"

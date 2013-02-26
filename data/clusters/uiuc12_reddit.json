@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1349,
+  "processing-time-total" : 1378,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -191,7 +191,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1265,
+  "processing-time-algorithm" : 1315,
   "documents" : [ {
     "id" : 0,
     "title" : "r/UIUC Post Finals Meetup @ Murphy's 12/21/2012 at 9pm!",
@@ -442,7 +442,7 @@
     "snippet" : "I'm leaving either the evening of the 18th or early morning the 19th and have extra space in my car. If anyone needs a ride, and is willing to split gas PM me.",
     "url" : "http://www.reddit.com/r/UIUC/comments/14ycy8/does_anyone_need_a_ride_to_pittsburgh_or_nyc/"
   } ],
-  "processing-time-source" : 84,
+  "processing-time-source" : 63,
   "processing-result.title" : "uiuc12_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc12_reddit.xml"

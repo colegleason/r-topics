@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1542,
+  "processing-time-total" : 1564,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1453,
+  "processing-time-algorithm" : 1500,
   "documents" : [ {
     "id" : 0,
     "title" : "Question about Simulated Annealing for Discrete Constraint Satisfaction Problems",
@@ -448,7 +448,7 @@
     "snippet" : "Hi\nI've got AI- a modern approach but hate that it only has pseudo code. Was also surprised that khan academy doesnt have anything about AI.  I'm looking for a book that will take me through a bunch of topics with code samples ( c, lisp, python I'm fine with anything). \n\nThanks!!   What's wrong with pseudo code? I actually like it much more when books don't use any one language.\n\nAnyhow, if you want to read about lisp, Norvig also wrote: Paradigms of AI Programming: Case Studies in Common Lisp  http://www.freetechbooks.com/artificial-intelligence-f55.html The root website has a whole host of books on CS and math, in the CS category there were something like 22 books on AI alone.  \n\nCheck out a later post in this subreddit that has a link to the root. http://www.freetechbooks.com/artificial-intelligence-f55.html      ",
     "url" : "http://www.reddit.com/r/compsci/comments/1283y4/booksresources_with_code_samples_for_learning/"
   } ],
-  "processing-time-source" : 89,
+  "processing-time-source" : 64,
   "processing-result.title" : "compsci5_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci5_reddit.xml"

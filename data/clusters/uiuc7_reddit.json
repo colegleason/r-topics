@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1066,
+  "processing-time-total" : 999,
   "clusters" : [ {
     "id" : 0,
     "size" : 9,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 977,
+  "processing-time-algorithm" : 920,
   "documents" : [ {
     "id" : 0,
     "title" : "Grader for CS 473?",
@@ -449,7 +449,7 @@
     "snippet" : "   Using baseline admissions from this fall, that means a profit increase of $2,095,830, leaving total income from dorm rentals alone at $20,023,848.   Housing rates are locked in for returning residents though, right? ",
     "url" : "http://will.illinois.edu/news/spotstory/u-of-i-housing-student-fees-likely-going-up/"
   } ],
-  "processing-time-source" : 89,
+  "processing-time-source" : 79,
   "processing-result.title" : "uiuc7_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc7_reddit.xml"

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1677,
+  "processing-time-total" : 1785,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -272,7 +272,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1576,
+  "processing-time-algorithm" : 1686,
   "documents" : [ {
     "id" : 0,
     "title" : "Does anyone know if any buildings on campus are climbable?",
@@ -740,7 +740,7 @@
     "snippet" : "Has anyone here tried polyphasic sleep? I want to try it so I can have more time to work on my projects.  I've experienced several days of anphasic sleep... I'm a freshman playing around with that now.. Any advice on wake up tips? I sometimes sleep straight through both my alarm clock and my phones alarm   [deleted] [deleted] By veteran, do you mean you don't do it anymore? Would  you ever go back? Why? [deleted] [deleted] Tell me about your napping. I was on the Everyman-3 nap from August to October, and I was able to sleep on the Quad a lot. I'm going to get back into the Everyman next week, and I could use some advice on nap locations, pillows, headphones, etc.  ",
     "url" : "http://www.reddit.com/r/UIUC/comments/1337j9/polyphasic_sleep/"
   } ],
-  "processing-time-source" : 101,
+  "processing-time-source" : 99,
   "processing-result.title" : "uiuc17_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc17_reddit.xml"

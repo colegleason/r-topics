@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1456,
+  "processing-time-total" : 1580,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -173,7 +173,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1373,
+  "processing-time-algorithm" : 1521,
   "documents" : [ {
     "id" : 0,
     "title" : "Why not compile intermediate byte-code (say Java byte code) to native code as \"installation\"?",
@@ -414,7 +414,7 @@
     "snippet" : "  ",
     "url" : "http://ascr-discovery.science.doe.gov/exascale/exa_power1.shtml"
   } ],
-  "processing-time-source" : 83,
+  "processing-time-source" : 59,
   "processing-result.title" : "compsci4_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci4_reddit.xml"

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1165,
+  "processing-time-total" : 1244,
   "clusters" : [ {
     "id" : 0,
     "size" : 6,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1104,
+  "processing-time-algorithm" : 1143,
   "documents" : [ {
     "id" : 0,
     "title" : "Campus Bicycle Feedback Form",
@@ -448,7 +448,7 @@
     "snippet" : " ",
     "url" : "http://assets.sbnation.com/assets/1851131/airguitarbro.gif"
   } ],
-  "processing-time-source" : 61,
+  "processing-time-source" : 101,
   "processing-result.title" : "uiuc14_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc14_reddit.xml"

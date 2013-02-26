@@ -1,4 +1,4 @@
-var fill = d3.scale.category20();
+var fill = d3.scale.category20b();
 
 var width = 1000;
 var height = 600;
@@ -18,18 +18,16 @@ function make_cloud(jsonpath) {
 			.words(initPhrases.map(function(d) {
 				return {text: d, size: 20};
 			}))
-			.rotate(function() { return ~~(Math.random() * 2) * 90; })
+			.rotate(function() { return 0; })
 			.font("Impact")
 			.fontSize(function(d) { return d.size; })
-			.on("end", draw)
+			.on("end", draw_cloud)
 			.start();
 	})
 
 }
 
-function draw(words) {
-	d3.select("svg").remove() // remove the current graph if it exits
-
+function draw_cloud(words) {
     d3.select("body").append("svg")
         .attr("width", width)
         .attr("height", height)

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1556,
+  "processing-time-total" : 1429,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1496,
+  "processing-time-algorithm" : 1367,
   "documents" : [ {
     "id" : 0,
     "title" : "Obvious boil",
@@ -451,7 +451,7 @@
     "snippet" : "Hi! I lost my keys at around 10:24AM yesterday after getting off the bus at Goodwin and Nevada. The keychain is a picture of Fuji Mountain.. aqua blue. I was walking toward Lincoln Hall. I was wondering if anyone had seen it or have turned it in. Thank you so much everyone!     Did you have any luck calling either the bus terminal or garage? yah i called MTD yesterday to report it as soon as i found out. They took down my information in case they come across it. I also called the bus terminal this morning and went to UGL to see if someone turned it in. So far I have had no luck. I have no idea where I could possibly lost it now. I've looked for it everywhere. Lack of sleep during finals is making me crazy. I hope the good people of Reddit UIUC can help me out!   ",
     "url" : "http://www.reddit.com/r/UIUC/comments/14qc20/lost_keys/"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 62,
   "processing-result.title" : "uiuc13_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc13_reddit.xml"

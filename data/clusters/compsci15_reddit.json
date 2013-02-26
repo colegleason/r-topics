@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2075,
+  "processing-time-total" : 2201,
   "clusters" : [ {
     "id" : 0,
     "size" : 12,
@@ -164,7 +164,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2008,
+  "processing-time-algorithm" : 2131,
   "documents" : [ {
     "id" : 0,
     "title" : "graduate student webpage template",
@@ -413,7 +413,7 @@
     "snippet" : "Hey y'all! I've come to a fork in my career, and I'm looking for advice as to which major I should choose, and what opportunities are available to me once I do pick one. I'm currently in the enviable position of having been formally invited into the CS major at my university by a professor, and I have extensive programming experience, but I'm also very interested in doing Applied Mathematics, or a Math major.\n\nThe Question: If I DO end up picking Applied Math or Math, what are my chances of being able to continue in areas that are heavy in CS, like computational numerics or modelling? The requirements for Applied Math end with basic C programming or basic OOP, and that scares me into thinking I won't be able to continue with the level of programming I'd like. \n\nAlso, if I DO do CS, how hard would it be to say, continue into a Math MA? or Physics MA?\n\nThanks for listening!!!!\n\nEDIT: I forgot to specify, I only have enough time to do 1 major, no minor. Pressure from parents.     ",
     "url" : "http://www.reddit.com/r/compsci/comments/sm3z7/hey_rcompsci_ive_got_a_quick_question_about/"
   } ],
-  "processing-time-source" : 67,
+  "processing-time-source" : 70,
   "processing-result.title" : "compsci15_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci15_reddit.xml"

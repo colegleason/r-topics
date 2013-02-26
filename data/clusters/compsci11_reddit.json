@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 2451,
+  "processing-time-total" : 2730,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 2352,
+  "processing-time-algorithm" : 2625,
   "documents" : [ {
     "id" : 0,
     "title" : "Interesting blog post by a tenured computer science professor on why he is leaving academia for Google.",
@@ -445,7 +445,7 @@
     "title" : "Grilling Quantum Circuits",
     "url" : "http://rjlipton.wordpress.com/2012/07/08/grilling-quantum-circuits/"
   } ],
-  "processing-time-source" : 99,
+  "processing-time-source" : 105,
   "processing-result.title" : "compsci11_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/compsci11_reddit.xml"

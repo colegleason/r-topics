@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1212,
+  "processing-time-total" : 1298,
   "clusters" : [ {
     "id" : 0,
     "size" : 5,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1152,
+  "processing-time-algorithm" : 1173,
   "documents" : [ {
     "id" : 0,
     "title" : "Missing friend: Have you seen her?",
@@ -451,7 +451,7 @@
     "snippet" : "       Damn, that first picture would be such tight butthole if that person wasn't there. Anyone know photoshop? Damn, that first picture would be such tight butthole if that person wasn't there. Anyone know photoshop?",
     "url" : "http://imgur.com/a/ioOkt"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 125,
   "processing-result.title" : "uiuc4_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc4_reddit.xml"

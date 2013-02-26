@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1179,
+  "processing-time-total" : 1243,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1122,
+  "processing-time-algorithm" : 1149,
   "documents" : [ {
     "id" : 0,
     "title" : "Question for CS students",
@@ -452,7 +452,7 @@
     "snippet" : "I took math 447 (undergrad real analysis) last semester and it was pretty interesting so I thought about trying to take math 540 (graduate real analysis/measure theory) now during the spring. Would really appreciate comments on this course and how difficult it was compared to 400-level courses as say 447. Also, do I need a dedicated course in set theory and topology such as math 432 before taking math 540 or does math 447 suffice? Thanks\n\n  I'm a first year math phd student. I took 540 in the fall with Erdogan and it kicked my ass.  I don't know what you should expect with Li. But compared to my undergrad analysis (not at UIUC) it moved at a much quicker pace. However, I don't think you'll need courses in set theory or topology. It definitely couldn't hurt, but the information you need as far as sets, metrics, topologies, Borel sets, and so on are covered at an introductory level in 540, albeit at a fast pace. So, based on what you've said, and assuming Li teaches similarly to Erdogan, then I think you should be fine as long as you plan on dedicating a fair amount of time to studying and doing homework for this course.  Appreciate the reply. Did your undergrad analysis cover metric spaces and metric topologies? I'm a first year math phd student. I took 540 in the fall with Erdogan and it kicked my ass.  I don't know what you should expect with Li. But compared to my undergrad analysis (not at UIUC) it moved at a much quicker pace. However, I don't think you'll need courses in set theory or topology. It definitely couldn't hurt, but the information you need as far as sets, metrics, topologies, Borel sets, and so on are covered at an introductory level in 540, albeit at a fast pace. So, based on what you've said, and assuming Li teaches similarly to Erdogan, then I think you should be fine as long as you plan on dedicating a fair amount of time to studying and doing homework for this course.  How is Erdogan, generally speaking as a teacher? I'm taking 425 (honors advanced analysis) with him in the spring. How is Erdogan, generally speaking as a teacher? I'm taking 425 (honors advanced analysis) with him in the spring.  This question is actually for you? What was 447 like? I'm considering taking it for my math minor (If I want to get a phd in Econ, Real Analysis looks pretty good). Took it with Nikolaev. Not an easy class, but the exams were not that bad since you get to pick 5 out of 8 questions and 4 questions are proofs from a list that he gives beforehand. He also puts up all lecture notes online which is awesome. The textbook used was Elementary Analysis: The Theory of Calculus by Ross but lots of the proofs given in the book were not really as detailed as the ones given in the lecture notes, so I mostly used the book for exercises. Apparently real analysis is really important for grad school in economics so I would definitely take it.  This question is actually for you? What was 447 like? I'm considering taking it for my math minor (If I want to get a phd in Econ, Real Analysis looks pretty good). This question is actually for you? What was 447 like? I'm considering taking it for my math minor (If I want to get a phd in Econ, Real Analysis looks pretty good).  My understanding is that 500 level classes in math are significantly harder than 400 level classes. Take it only if you enjoy such stuff (which you \"should\" - this is a beautiful topic).",
     "url" : "http://www.reddit.com/r/UIUC/comments/162nvg/real_analysis/"
   } ],
-  "processing-time-source" : 57,
+  "processing-time-source" : 94,
   "processing-result.title" : "uiuc9_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc9_reddit.xml"

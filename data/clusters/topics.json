@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 165,
+  "processing-time-total" : 143,
   "clusters" : [ {
     "id" : 0,
     "size" : 2,
@@ -11,7 +11,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 105,
+  "processing-time-algorithm" : 109,
   "documents" : [ {
     "id" : 0,
     "title" : "Black Cats",
@@ -23,7 +23,7 @@
     "snippet" : "Examples; I enjoy examples, they help visual learners, right-minders understand what's going on.\n\nSo I give it a thumbs up.\n\nthis is the first one, so now go make your own. =] theres doesn't seem to be anything here",
     "url" : "http://www.reddit.com/r/Topics/comments/dtlgq/examples/"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 34,
   "processing-result.title" : "topics.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/topics.xml"

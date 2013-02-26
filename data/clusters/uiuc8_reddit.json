@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1439,
+  "processing-time-total" : 1531,
   "clusters" : [ {
     "id" : 0,
     "size" : 8,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1379,
+  "processing-time-algorithm" : 1439,
   "documents" : [ {
     "id" : 0,
     "title" : "How is Espresso Royale's ground coffee?",
@@ -450,7 +450,7 @@
     "snippet" : "I'm in a ~15 person class for 6 weeks, requiring upwards of $60 worth of textbooks. I emailed the TA asking if the books will be on reserve, to which they replied no. Is there any way to make a formal request to avoid unnecessary costs?  Have you tried searching the I-Share catalog to see if they are available through one of the partner libraries for checkout?  If so, you could always try to check them out that way.  Undergrads can't check things out for the same length of time as grad students or staff/faculty, so you might need to wait until you get the syllabus to see when you'll need each book during the semester.\n\nThis has worked for many of my wife's graduate level Education courses. This is fantastic advice; thank you. I've tried creating an VuFind account for the I-Share catalog, however, and I'm not sure how to tie the account to my U of I library account. Any tips? [The Login FAQ](http://www.carli.illinois.edu/mem-prod/I-Share/opac/vf-login-faq.html#difference)\n\nBe sure to fill in all of the information listed in the section below that about how to create an account. Thanks again for the advice. However, I'm still unable to figure out how to create an account after reading the FAQ because I don't have a borrower ID. I assumed the borrower ID was our UIN number, but it's seemingly not. Do you know how to figure out the borrower ID number? Thanks again for the advice. However, I'm still unable to figure out how to create an account after reading the FAQ because I don't have a borrower ID. I assumed the borrower ID was our UIN number, but it's seemingly not. Do you know how to figure out the borrower ID number? Did you use the UIN or the Library number on your I-Card?  I think the borrower ID is the Library number. Have you tried searching the I-Share catalog to see if they are available through one of the partner libraries for checkout?  If so, you could always try to check them out that way.  Undergrads can't check things out for the same length of time as grad students or staff/faculty, so you might need to wait until you get the syllabus to see when you'll need each book during the semester.\n\nThis has worked for many of my wife's graduate level Education courses.   Ask the instructor, see what they say. You could then try to find someone in the department to help you, but I'm not sure what kind of department employee would be looking out for this kind of thing. Your best bet is to convince the instructor. Thanks for the advice. I have no idea what the process of putting books in the UGL is like; would you think it would be bothersome/over-the-top for the instructor to put books in the UGL? ",
     "url" : "http://www.reddit.com/r/UIUC/comments/16ehyb/textbooks_on_reserve/"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 92,
   "processing-result.title" : "uiuc8_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc8_reddit.xml"

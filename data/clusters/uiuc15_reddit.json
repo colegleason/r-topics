@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1221,
+  "processing-time-total" : 1272,
   "clusters" : [ {
     "id" : 0,
     "size" : 9,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1161,
+  "processing-time-algorithm" : 1184,
   "documents" : [ {
     "id" : 0,
     "title" : "Altera Meat Boy HD--Final Project",
@@ -450,7 +450,7 @@
     "title" : "The Socialist Equality Party urges University of Illinois graduate assistants to reject the sellout agreement the Graduate Employees Organization has reached with UIUC administrators.",
     "url" : "https://www1.wsws.org/articles/2012/dec2012/uiuc-d04.shtml"
   } ],
-  "processing-time-source" : 60,
+  "processing-time-source" : 88,
   "processing-result.title" : "uiuc15_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc15_reddit.xml"

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1285,
+  "processing-time-total" : 1317,
   "clusters" : [ {
     "id" : 0,
     "size" : 7,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1224,
+  "processing-time-algorithm" : 1237,
   "documents" : [ {
     "id" : 0,
     "title" : "Lazering down the quad tonight",
@@ -452,7 +452,7 @@
     "snippet" : "After a few failed attempts at getting a part time job, I found [this](http://www.psychology.illinois.edu/news/subjects/). Lot of professors are looking for test subjects and it is pretty easy money. I found it helpful.  They do not like paying left-handed people the big bucks.  I applied for this, met all required fields, and was rejected in less time than it took me to fill out the application.  Did they give any reason? Nope, they said it would compromise the rest of the applicants if they said why I was denied.  They do not like paying left-handed people the big bucks.  They do not like paying left-handed people the big bucks.  o.O I saw that too. I wonder what they are going at. Probably since lefties are only ~10% of the population and wouldn't be an accurate representation (implying \nhandedness affects other areas of psychology)...Something like that. I'm a lefty and this makes me sad :( o.O I saw that too. I wonder what they are going at.    To anyone signing up for anything involving an electrode cap, reconsider it unless you REALLY need the money. They have to scrape your scalp wherever an electrode is going, which wasn't so bad the first day of testing, but they re-scrape each day you return for testing in the same spots. Ouch. Also they smear some sort of gel that increases the signal reading from the electrodes. It was nasty.  &gt;Also they smear some sort of gel that increases the signal reading from the electrodes. It was nasty.\n\nSupposedly it's just a water-soluble hair gel that \"is non-harmful and is essentially the same as any hair gel product you could buy at the supermarket\". [Signed up for one of those EEG studies yesterday... hopefully it's as nonthreatening as it sounds in the email.] To anyone signing up for anything involving an electrode cap, reconsider it unless you REALLY need the money. They have to scrape your scalp wherever an electrode is going, which wasn't so bad the first day of testing, but they re-scrape each day you return for testing in the same spots. Ouch. Also they smear some sort of gel that increases the signal reading from the electrodes. It was nasty.  The gel's not really that bad, just take a shower afterwards. I haven't done multiple EEG's in a row, but I did one and found it an interesting experience. Easy money.    are there any experiments where you take LSD? You could always experiment with LSD...  What the hell does \"based on performance\" mean? That seems kinda biasing your test(unless that's the point).  There are two things I can think of.  One is that the test is measuring your response to reward.  The last study I can think of with this in mind was conducted this summer, you were asked to choose between receiving two dollars today or five dollars six days from now, or 5 in 10 and 23 in 14, and so on.  That, or they are referring to if you are kept in the experiment for a longer period of time if you are discovered to be a part of a special subset or exhibit interesting behavior.   Considering how it involves \"making a series of fast-paced decisions\", my guess is that it could be the former... with some activity like that I could imagine experiencing more stress if I'm trying to perform well enough for a potential $30 bonus rather than only $5 or so.\n\nI actually scheduled a timeslot for that study yesterday, which will be in about a week. I suppose then I'll have a better idea of what's up with it. If you share what they do you might ruin the experiment for them! A lot of times it is essential that the test subjects don't know what they are being tested at. There are two things I can think of.  One is that the test is measuring your response to reward.  The last study I can think of with this in mind was conducted this summer, you were asked to choose between receiving two dollars today or five dollars six days from now, or 5 in 10 and 23 in 14, and so on.  That, or they are referring to if you are kept in the experiment for a longer period of time if you are discovered to be a part of a special subset or exhibit interesting behavior.   What the hell does \"based on performance\" mean? That seems kinda biasing your test(unless that's the point). ",
     "url" : "http://www.reddit.com/r/UIUC/comments/178c75/for_those_who_need_quick_cash_participate_in/"
   } ],
-  "processing-time-source" : 61,
+  "processing-time-source" : 80,
   "processing-result.title" : "uiuc5_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc5_reddit.xml"

@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1258,
+  "processing-time-total" : 1278,
   "clusters" : [ {
     "id" : 0,
     "size" : 10,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1200,
+  "processing-time-algorithm" : 1191,
   "documents" : [ {
     "id" : 0,
     "title" : "I need to play pool. Competitively, and soon.",
@@ -451,7 +451,7 @@
     "snippet" : "Anybody done this before? I'm doing awful in a class after the most stressful semester I've ever had, and I'd really like to be able to drop the class so that I have a \"W\" in my transcript instead of the current inevitable \"F.\" Anybody have experiences/suggestions?\n\nEdit: grammar     well shit. I'm gonna try anyway but I'm not gonna get my hopes up. Thanks for the input.    ",
     "url" : "http://www.reddit.com/r/UIUC/comments/13ubyb/whats_the_likelihood_that_my_late_dropclass/"
   } ],
-  "processing-time-source" : 58,
+  "processing-time-source" : 87,
   "processing-result.title" : "uiuc16_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc16_reddit.xml"

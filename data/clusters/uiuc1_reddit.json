@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1500,
+  "processing-time-total" : 2075,
   "clusters" : [ {
     "id" : 0,
     "size" : 11,
@@ -200,7 +200,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1437,
+  "processing-time-algorithm" : 1473,
   "documents" : [ {
     "id" : 0,
     "title" : "Found this in the laundromat on green and fifth",
@@ -451,7 +451,7 @@
     "snippet" : "John Brenkus, the host of the ESPN show Sports Science, is coming down to Champaign as the E-Week Keynote Speaker this Friday! He will be speaking at the Illini Union Ballroom at 8PM.\n\nIf you have a Facebook, you can check out the event here:\n\nhttps://www.facebook.com/events/274250009368747/\n\nAnyone and everyone is welcome! Space is limited so make sure you get there early. If you are on an E-Week team, you will get points for attending.  ",
     "url" : "http://www.reddit.com/r/UIUC/comments/18ik7t/espns_john_brenkus_host_of_sport_science_coming/"
   } ],
-  "processing-time-source" : 63,
+  "processing-time-source" : 602,
   "processing-result.title" : "uiuc1_reddit.xml",
   "XmlDocumentSource.xml" : {
     "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/uiuc1_reddit.xml"
