@@ -3,20 +3,16 @@ var height = 600;
 var padding = 40;
 var colors = d3.scale.category20b();
 
-var x, y, xAxis, yAxis, svg, area, stack;
+var x, y, xAxis, yAxis, svg, area, stack, raw_layers;
 
 function make_stream(jsonpath, reddit_name) {
 	d3.json(jsonpath, function(json) {
 
-		console.log(json.clusters.length);
-
 		stack = d3.layout.stack()
 			.offset("expand")
-			.values(function (layer) {
-				return layer.values;
-			});
+			.values(function(d) { return d.values; });
 
-		var raw_layers = json.clusters;
+		raw_layers = json.clusters;
 		var layers = stack(raw_layers);
 
 		layers.forEach(function(layer) {
@@ -30,8 +26,6 @@ function make_stream(jsonpath, reddit_name) {
 			.y0(function(d) { return y(d.y0); })
 			.y1(function(d) { return y(d.y0 + d.y); });
 		
-		d3.select(".stream").remove() // remove the current graph if it exits
-
 		d3.select(".redditname").text("/r/" + reddit_name + " > ");
 
 		svg = d3.select("body").append("svg")
@@ -39,28 +33,34 @@ function make_stream(jsonpath, reddit_name) {
 			.attr("height", height)
 			.attr("class", "stream");
 
-		svg.selectAll("path")
-			.data(layers)
-			.enter().append("path")
-			.attr("d", function(d) { return area(d.values);})
-			.attr("class",function(d) { return "layer" + d.id;})
-			.style("fill", function(d) { return d.color })
-			.on("click", function(d) { singleGraph(raw_layers[d.id]);})
-			.on("mouseover", function(d) { 
-				d3.select(".topicname")
-					.text(d.phrases[0])
-					.style("color", d.color); 
-			})
-			.append("title")
-			.text(function(d) { return d.phrases });
+		draw_layers(layers);
 
-			draw_axes(svg);
 	})	
 }
 
-function singleGraph(new_layer) {
+function draw_layers(layers) {
+	svg.selectAll(".layer")
+		.data(layers)
+		.enter().append("path")
+		.attr("d", function(d) { return area(d.values);})
+		.attr("class",function(d) { return "layer"})
+		.style("fill", function(d) { return d.color })
+		.on("click", function(d) { change_layers([layers[d.id]]);})
+		.on("mouseover", function(d) { 
+			d3.select(".topicname")
+				.text(d.phrases[0])
+				.style("color", d.color); 
+		})
+		.append("title")
+		.text(function(d) { return d.phrases });
+
+	draw_axes(svg);
+}
+
+function change_layers(new_layers) {
 	stack.offset("zero");
-	new_layers = stack([new_layer]);
+
+	new_layers = stack(new_layers);
 	
 	set_scales(new_layers);
 
@@ -78,7 +78,7 @@ function singleGraph(new_layer) {
 }
 
 
-var set_scales = function(layers) {
+function set_scales(layers) {
 	var min_x = d3.min(layers, function(layer) { return d3.min(layer.values, function(d) { return d.x;}) })
 	var max_x =  d3.max(layers, function(layer) { return d3.max(layer.values, function(d) { return d.x;}) });
 	

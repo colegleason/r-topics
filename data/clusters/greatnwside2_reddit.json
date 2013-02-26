@@ -1,5 +1,5 @@
 {
-  "processing-time-total" : 1459,
+  "processing-time-total" : 1561,
   "clusters" : [ {
     "id" : 0,
     "size" : 16,
@@ -335,7 +335,7 @@
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1370,
+  "processing-time-algorithm" : 1471,
   "documents" : [ {
     "id" : 0,
     "title" : "Jefferson Park Chamber of Commerce gets New Logo",
@@ -1055,9 +1055,9 @@
     "snippet" : "  so does that mean we are alright with that? Perhaps most attending were \"alright\" with that, but many would like to see more being done. A particular concern of several questioners was response times to reported crime &amp; what they thought was inept handling of calls by the 911 center. I called 911 last week for an incident on my block.  Response time was less than 4 minutes, four cars responding.  Not only appropriate response time for the call but even better than I expected.    so does that mean we are alright with that?  ",
     "url" : "http://www.dnainfo.com/chicago/20130207/portage-park/gang-crime-portage-park-not-on-rise-despite-shootings-cops-say"
   } ],
-  "processing-time-source" : 89,
+  "processing-time-source" : 90,
   "processing-result.title" : "greatnwside2_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/greatnwside2_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/greatnwside2_reddit.xml"
   }
 }

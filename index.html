@@ -3,16 +3,35 @@
     <head>
         <meta charset="utf-8">
         <title>Reddit Topics</title>
-		<link href="views/rtopics.css" rel="stylesheet" type="text/css">
+		<link href="/rtopics.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="/js/d3/d3.js"></script>
+        <script type="text/javascript" src="/js/d3-cloud/d3.layout.cloud.js"></script>
+		<script type="text/javascript" src="/js/stream.js"></script>
+		<script type="text/javascript" src="/js/cloud.js"></script>
     </head>
     <body>
 	  <div class="wrap">
 		<div id="header">
 		  <h1>/r/topics:</h1>
 		  <h2>visualizing subreddit topic trends</h2>
+		  <form onsubmit="return graph('reddit_box')">
+			<input type="text" name="subreddit" id="reddit_box" placeholder="subreddit name"/>
+			<input type="submit" value="Load Graph"/>
+		  </form>
 		</div>
-		  <a href="views/stacked.html">Stacked Graph</a>
-		  <a href="views/cloud.html">Word Cloud</a>
+		<h3 class="redditname"></h3>
+		<h4 class="topicname"></h4>
 	  </div>
+	  <script type="text/javascript">
+		function graph(id) {
+		d3.selectAll("svg").remove();
+
+		var txtbox = document.getElementById(id);
+		var value = txtbox.value;
+		make_stream("/data/combined/"+value+"_combined.json", value);
+		make_cloud("/data/combined/"+value+"_combined.json");
+		return false;
+		}
+      </script>
     </body>
 </html> 

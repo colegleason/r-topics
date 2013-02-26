@@ -1,206 +1,206 @@
 {
-  "processing-time-total" : 1400,
+  "processing-time-total" : 1056,
   "clusters" : [ {
     "id" : 0,
     "size" : 15,
-    "score" : 36.943609732522134,
+    "score" : 36.429114893613324,
     "phrases" : [ "FUCKING" ],
     "documents" : [ 1, 3, 4, 7, 15, 20, 25, 26, 33, 37, 38, 41, 42, 44, 45 ],
     "attributes" : {
-      "score" : 36.943609732522134
+      "score" : 36.429114893613324
     }
   }, {
     "id" : 1,
     "size" : 6,
-    "score" : 27.387814986743606,
-    "phrases" : [ "Weeks" ],
-    "documents" : [ 13, 16, 19, 20, 31, 47 ],
+    "score" : 26.280028323508652,
+    "phrases" : [ "Box" ],
+    "documents" : [ 0, 1, 3, 6, 28, 29 ],
     "attributes" : {
-      "score" : 27.387814986743606
+      "score" : 26.280028323508652
     }
   }, {
     "id" : 2,
-    "size" : 5,
-    "score" : 34.3506431095418,
-    "phrases" : [ "Horse" ],
-    "documents" : [ 4, 16, 21, 22, 41 ],
+    "size" : 6,
+    "score" : 27.102650412922948,
+    "phrases" : [ "Weeks" ],
+    "documents" : [ 13, 16, 19, 20, 31, 47 ],
     "attributes" : {
-      "score" : 34.3506431095418
+      "score" : 27.102650412922948
     }
   }, {
     "id" : 3,
-    "size" : 5,
-    "score" : 25.761346562687503,
-    "phrases" : [ "Self" ],
-    "documents" : [ 6, 7, 20, 25, 27 ],
+    "size" : 3,
+    "score" : 28.606961674625037,
+    "phrases" : [ "Government" ],
+    "documents" : [ 21, 27, 41 ],
     "attributes" : {
-      "score" : 25.761346562687503
+      "score" : 28.606961674625037
     }
   }, {
     "id" : 4,
-    "size" : 4,
-    "score" : 26.901920857464695,
-    "phrases" : [ "Money" ],
-    "documents" : [ 0, 2, 3, 42 ],
+    "size" : 3,
+    "score" : 39.94519407563174,
+    "phrases" : [ "Head" ],
+    "documents" : [ 37, 43, 46 ],
     "attributes" : {
-      "score" : 26.901920857464695
+      "score" : 39.94519407563174
     }
   }, {
     "id" : 5,
     "size" : 3,
-    "score" : 63.69717307695305,
-    "phrases" : [ "Exact same Problem" ],
-    "documents" : [ 11, 37, 47 ],
+    "score" : 43.909393475698984,
+    "phrases" : [ "Irish Problems" ],
+    "documents" : [ 1, 12, 47 ],
     "attributes" : {
-      "score" : 63.69717307695305
+      "score" : 43.909393475698984
     }
   }, {
     "id" : 6,
     "size" : 3,
-    "score" : 40.086590845954504,
-    "phrases" : [ "Irish Problems" ],
-    "documents" : [ 1, 12, 47 ],
+    "score" : 31.540473351163634,
+    "phrases" : [ "Mocks" ],
+    "documents" : [ 29, 32, 44 ],
     "attributes" : {
-      "score" : 40.086590845954504
+      "score" : 31.540473351163634
     }
   }, {
     "id" : 7,
     "size" : 3,
-    "score" : 37.93851003301951,
-    "phrases" : [ "Mocks" ],
-    "documents" : [ 29, 32, 44 ],
+    "score" : 46.085122252284506,
+    "phrases" : [ "Rain" ],
+    "documents" : [ 32, 33, 35 ],
     "attributes" : {
-      "score" : 37.93851003301951
+      "score" : 46.085122252284506
     }
   }, {
     "id" : 8,
     "size" : 3,
-    "score" : 46.33373007225178,
-    "phrases" : [ "Rain" ],
-    "documents" : [ 32, 33, 35 ],
+    "score" : 33.12464112893497,
+    "phrases" : [ "Swear" ],
+    "documents" : [ 5, 47, 49 ],
     "attributes" : {
-      "score" : 46.33373007225178
+      "score" : 33.12464112893497
     }
   }, {
     "id" : 9,
     "size" : 3,
-    "score" : 33.37484723350723,
-    "phrases" : [ "Swear" ],
-    "documents" : [ 5, 47, 49 ],
+    "score" : 22.173131977226184,
+    "phrases" : [ "Taken" ],
+    "documents" : [ 7, 8, 21 ],
     "attributes" : {
-      "score" : 33.37484723350723
+      "score" : 22.173131977226184
     }
   }, {
     "id" : 10,
     "size" : 3,
-    "score" : 23.041492105001137,
-    "phrases" : [ "Taken" ],
-    "documents" : [ 7, 8, 21 ],
+    "score" : 60.51065440393654,
+    "phrases" : [ "Tea" ],
+    "documents" : [ 10, 15, 48 ],
     "attributes" : {
-      "score" : 23.041492105001137
+      "score" : 60.51065440393654
     }
   }, {
     "id" : 11,
     "size" : 3,
-    "score" : 64.76950091320334,
-    "phrases" : [ "Tea" ],
-    "documents" : [ 10, 15, 48 ],
+    "score" : 25.40289363016129,
+    "phrases" : [ "Winning" ],
+    "documents" : [ 2, 5, 47 ],
     "attributes" : {
-      "score" : 64.76950091320334
+      "score" : 25.40289363016129
     }
   }, {
     "id" : 12,
     "size" : 2,
-    "score" : 32.64501974549905,
+    "score" : 37.55037305572251,
     "phrases" : [ "Bar" ],
     "documents" : [ 28, 36 ],
     "attributes" : {
-      "score" : 32.64501974549905
+      "score" : 37.55037305572251
     }
   }, {
     "id" : 13,
     "size" : 2,
-    "score" : 46.15713627956854,
-    "phrases" : [ "Cat" ],
-    "documents" : [ 18, 38 ],
+    "score" : 50.35904512550217,
+    "phrases" : [ "Eat a Tesco Burger" ],
+    "documents" : [ 41, 45 ],
     "attributes" : {
-      "score" : 46.15713627956854
+      "score" : 50.35904512550217
     }
   }, {
     "id" : 14,
     "size" : 2,
-    "score" : 46.92506206465068,
-    "phrases" : [ "Eat a Tesco Burger" ],
-    "documents" : [ 41, 45 ],
+    "score" : 68.1498616611524,
+    "phrases" : [ "Horse Meat" ],
+    "documents" : [ 21, 22 ],
     "attributes" : {
-      "score" : 46.92506206465068
+      "score" : 68.1498616611524
     }
   }, {
     "id" : 15,
     "size" : 2,
-    "score" : 54.0401445657542,
-    "phrases" : [ "Horse Meat" ],
-    "documents" : [ 21, 22 ],
+    "score" : 36.49948291149493,
+    "phrases" : [ "Mention" ],
+    "documents" : [ 4, 17 ],
     "attributes" : {
-      "score" : 54.0401445657542
+      "score" : 36.49948291149493
     }
   }, {
     "id" : 16,
     "size" : 2,
-    "score" : 58.484657021371945,
+    "score" : 58.732658205912,
     "phrases" : [ "New Job" ],
     "documents" : [ 21, 47 ],
     "attributes" : {
-      "score" : 58.484657021371945
+      "score" : 58.732658205912
     }
   }, {
     "id" : 17,
     "size" : 2,
-    "score" : 27.442917089108235,
-    "phrases" : [ "Reverend" ],
-    "documents" : [ 1, 15 ],
+    "score" : 25.184594876796417,
+    "phrases" : [ "Pint" ],
+    "documents" : [ 0, 37 ],
     "attributes" : {
-      "score" : 27.442917089108235
+      "score" : 25.184594876796417
     }
   }, {
     "id" : 18,
     "size" : 2,
-    "score" : 30.401131616397418,
-    "phrases" : [ "Section" ],
-    "documents" : [ 17, 21 ],
+    "score" : 38.13236617986567,
+    "phrases" : [ "Rugby" ],
+    "documents" : [ 33, 39 ],
     "attributes" : {
-      "score" : 30.401131616397418
+      "score" : 38.13236617986567
     }
   }, {
     "id" : 19,
     "size" : 2,
-    "score" : 27.08321519118319,
+    "score" : 40.28259474121199,
     "phrases" : [ "Sort" ],
     "documents" : [ 25, 34 ],
     "attributes" : {
-      "score" : 27.08321519118319
+      "score" : 40.28259474121199
     }
   }, {
     "id" : 20,
     "size" : 2,
-    "score" : 33.50762887335094,
+    "score" : 43.373849726726206,
     "phrases" : [ "Tweet" ],
     "documents" : [ 25, 43 ],
     "attributes" : {
-      "score" : 33.50762887335094
+      "score" : 43.373849726726206
     }
   }, {
     "id" : 21,
     "size" : 8,
     "score" : 0.0,
     "phrases" : [ "Other Topics" ],
-    "documents" : [ 9, 14, 23, 24, 30, 39, 40, 46 ],
+    "documents" : [ 9, 11, 14, 18, 23, 24, 30, 40 ],
     "attributes" : {
       "other-topics" : true,
       "score" : 0.0
     }
   } ],
-  "processing-time-algorithm" : 1352,
+  "processing-time-algorithm" : 1002,
   "documents" : [ {
     "id" : 0,
     "title" : "I had to take money from the Trócaire box this morning to make up my bus fare.",
@@ -452,9 +452,9 @@
     "snippet" : "This is an offense to my native vulture.   ",
     "url" : "http://www.reddit.com/r/irishproblems/comments/17dpvb/autocorrect_wont_suggest_swear_words/"
   } ],
-  "processing-time-source" : 48,
+  "processing-time-source" : 54,
   "processing-result.title" : "irishproblems0_reddit.xml",
   "XmlDocumentSource.xml" : {
-    "absolutePath" : "/home/ciara/Documents/programming/cs467/rtopics/r-topics/carrot2-cli-3.6.2/../data/irishproblems0_reddit.xml"
+    "absolutePath" : "/Users/cole/code/cs467/r-topics/carrot2-cli-3.6.2/../data/reddit_xml/irishproblems0_reddit.xml"
   }
 }
